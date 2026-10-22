@@ -1,0 +1,130 @@
+{
+  "datum": "2026-10-22",
+  "stand_uhrzeit": "17:45 Uhr",
+  "international": [
+    {
+      "headline": "Hormus: Sieben Tanker in einer Nacht getroffen",
+      "text": "Irans Staatsfernsehen meldet sieben in der Nacht beschädigte oder brennende Öltanker in der Straße von Hormus, getroffen von Angriffen oder Seeminen – womöglich so viele an einem Tag wie nie seit Kriegsbeginn am 28. Februar. Bestätigt ist das nicht; der Ölpreis stieg um über 2 %.",
+      "quellen": [
+        {
+          "name": "AP",
+          "url": "https://www.usnews.com/news/world/articles/2026-10-22/iran-says-7-tankers-on-fire-or-damaged-overnight-in-the-strait-of-hormuz-and-other-mideast-news"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing"
+        }
+      ]
+    },
+    {
+      "headline": "Raketen auf Kiew kurz nach Zusage zu Gesprächen",
+      "text": "Stunden nachdem Putin zugesagt hatte, die Verhandlungen mit den USA und der Ukraine nach dem 10. November wieder aufzunehmen, griff Russland Kiew mit 21 Raketen und rund 210 Drohnen an. Mindestens ein Mensch starb, mehr als 20 wurden verletzt.",
+      "quellen": [
+        {
+          "name": "AP",
+          "url": "https://www.wsls.com/business/2026/10/22/russia-pounds-ukraines-capital-kyiv-with-missiles-and-drones-hours-after-agreeing-to-peace-talks/"
+        },
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl"
+        }
+      ]
+    },
+    {
+      "headline": "USA und Israel planen offenbar neuen Angriff auf Iran",
+      "text": "Die USA und Israel bereiten laut einer eingeweihten Person einen möglichen Angriff auf Iran nach den US-Zwischenwahlen am 3. November vor. Israel habe schon Mitte Oktober zuschlagen wollen, Trump sei dagegen gewesen. Teheran sieht sich für Diplomatie wie Krieg gerüstet.",
+      "quellen": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war"
+        }
+      ]
+    },
+    {
+      "headline": "Sacharow-Preis geht an den Strafgerichtshof",
+      "text": "Das EU-Parlament verleiht seinen Menschenrechtspreis 2026 an den Internationalen Strafgerichtshof in Den Haag und dessen Mitarbeiter. Die Wahl gilt als Signal gegen die verschärften US-Sanktionen gegen das Gericht; als Favorit galt der tansanische Oppositionelle Tundu Lissu.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/ausland/sacharow-preis-internationaler-strafgerichtshof-100.html"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://de.euronews.com/2026/10/22/sacharow-preis-strafgerichtshof-eu-parlament"
+        }
+      ]
+    },
+    {
+      "headline": "Taiwan wappnet sich gegen Taifun Champi",
+      "text": "Taiwan hat vor Taifun Champi, einem der stärksten Stürme des Jahres, eine Landwarnung ausgegeben. In der Region fielen über 200 Flüge aus, ein großes US-japanisches Manöver wurde angepasst. Schulen und Büros bleiben am Freitag fast überall geschlossen.",
+      "quellen": [
+        {
+          "name": "Reuters",
+          "url": "https://www.usnews.com/news/world/articles/2026-10-22/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi"
+        },
+        {
+          "name": "Focus Taiwan (CNA)",
+          "url": "https://focustaiwan.tw/society/202610220022"
+        }
+      ]
+    }
+  ],
+  "national": [
+    {
+      "headline": "PHP-Lücke: Behörden nehmen Websites vom Netz",
+      "text": "Wegen zweier kritischer Schwachstellen in der Skriptsprache PHP, über die Angreifer Webserver übernehmen können, hat das BSI eine Cybersicherheitswarnung ausgegeben. Kommunen und Behörden schalteten ihre Seiten vorsorglich ab. Ein Sicherheitsupdate liegt seit Mittwoch vor.",
+      "quellen": [
+        {
+          "name": "Tagesspiegel (dpa)",
+          "url": "https://www.tagesspiegel.de/wirtschaft/dpa-sicherheitslucke-in-php-bundesamt-warnt--und-rat-im-zweifel-zum-trennen-der-server-vom-netz-16184490.html"
+        },
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/wissenschaft/gravierende-sicherheitsluecke-bedroht-weltweit-millionen-von-websites-ld.10040600"
+        }
+      ]
+    },
+    {
+      "headline": "Steuerschätzung: Mehr Geld, kaum Spielraum",
+      "text": "Bund, Länder und Kommunen können bis 2030 mit gut 43 Milliarden Euro mehr Steuern rechnen als im Mai erwartet, im Schnitt rund 11 Milliarden pro Jahr. Für 2026 sinkt die Prognose leicht. Finanzminister Klingbeil sieht für 2027 dennoch keine neuen Spielräume.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/steuer-steuern-steuerschaetzung-bund-kommunnen-einnahmen-100.html"
+        },
+        {
+          "name": "DIHK",
+          "url": "https://www.dihk.de/de/newsroom/steuerschaetzung-bietet-keinen-grund-zur-entwarnung-188936"
+        }
+      ]
+    },
+    {
+      "headline": "Söders Extremismusklausel stößt auf Widerstand",
+      "text": "Bayerns Ministerpräsident Söder will Länder mit AfD- oder Linken-geführter Regierung, konkret Sachsen-Anhalt und Berlin, vom Länderfinanzausgleich ausschließen. Bei der Ministerpräsidentenkonferenz, der Söder fernblieb, stieß das auf Zurückhaltung bis Ablehnung.",
+      "quellen": [
+        {
+          "name": "dpa-AFX",
+          "url": "https://www.finanzen.net/nachricht/aktien/soeders-vorschlag-zur-extremismusklausel-findet-wenig-anklang-16001051"
+        },
+        {
+          "name": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/soeder-laenderfinanzausgleich-extremismusklausel-ministerpraesidenten-10519154"
+        }
+      ]
+    },
+    {
+      "headline": "Mutmaßlicher Russland-Spion in Brandenburg gefasst",
+      "text": "Das BKA hat im Landkreis Oder-Spree einen 53-jährigen Ukrainer festgenommen. Er soll laut Bundesanwaltschaft seit spätestens Juli 2025 für einen russischen Dienst Infos zu Panzer- und Munitionsproduktion und zur NATO-Ostflanke gesammelt haben. Merz rechnet mit weiteren Fällen.",
+      "quellen": [
+        {
+          "name": "t-online",
+          "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101492990/festnahme-in-brandenburg-spion-wollte-wohl-ruestungsproduktion-ausspaehen.html"
+        },
+        {
+          "name": "dpa-AFX",
+          "url": "https://www.onvista.de/news/2026/10-22-roundup-2-ruestungsinfos-gesammelt-mutmasslicher-russland-spion-gefasst-0-10-26567337"
+        }
+      ]
+    }
+  ]
+}
