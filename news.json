@@ -1,66 +1,70 @@
 {
-  "datum": "2026-10-22",
-  "stand_uhrzeit": "17:45 Uhr",
+  "datum": "2026-10-23",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Hormus: Sieben Tanker in einer Nacht getroffen",
-      "text": "Irans Staatsfernsehen meldet sieben in der Nacht beschädigte oder brennende Öltanker in der Straße von Hormus, getroffen von Angriffen oder Seeminen – womöglich so viele an einem Tag wie nie seit Kriegsbeginn am 28. Februar. Bestätigt ist das nicht; der Ölpreis stieg um über 2 %.",
+      "headline": "Iran-Krieg: Trump droht mit weiteren Schlägen",
+      "text": "Nach iranischen Angaben über sieben in Hormus getroffene Tanker wirft Trump Teheran vor, vor den Zwischenwahlen den Ölpreis zu treiben; die USA könnten bald weiter gehen. Laut Berichten planen USA und Israel neue Angriffe nach der Wahl. Das US-Militär bestreitet Minentreffer.",
       "quellen": [
         {
-          "name": "AP",
-          "url": "https://www.usnews.com/news/world/articles/2026-10-22/iran-says-7-tankers-on-fire-or-damaged-overnight-in-the-strait-of-hormuz-and-other-mideast-news"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response"
         },
         {
-          "name": "CBS News",
-          "url": "https://cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing"
+          "name": "Gulf News",
+          "url": "https://gulfnews.com/world/mena/middle-east-war-saudi-airport-attack-kills-one-as-us-orders-embassy-departures-1.500719174"
         }
       ]
     },
     {
-      "headline": "Raketen auf Kiew kurz nach Zusage zu Gesprächen",
-      "text": "Stunden nachdem Putin zugesagt hatte, die Verhandlungen mit den USA und der Ukraine nach dem 10. November wieder aufzunehmen, griff Russland Kiew mit 21 Raketen und rund 210 Drohnen an. Mindestens ein Mensch starb, mehr als 20 wurden verletzt.",
-      "quellen": [
-        {
-          "name": "AP",
-          "url": "https://www.wsls.com/business/2026/10/22/russia-pounds-ukraines-capital-kyiv-with-missiles-and-drones-hours-after-agreeing-to-peace-talks/"
-        },
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl"
-        }
-      ]
-    },
-    {
-      "headline": "USA und Israel planen offenbar neuen Angriff auf Iran",
-      "text": "Die USA und Israel bereiten laut einer eingeweihten Person einen möglichen Angriff auf Iran nach den US-Zwischenwahlen am 3. November vor. Israel habe schon Mitte Oktober zuschlagen wollen, Trump sei dagegen gewesen. Teheran sieht sich für Diplomatie wie Krieg gerüstet.",
-      "quellen": [
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war"
-        }
-      ]
-    },
-    {
-      "headline": "Sacharow-Preis geht an den Strafgerichtshof",
-      "text": "Das EU-Parlament verleiht seinen Menschenrechtspreis 2026 an den Internationalen Strafgerichtshof in Den Haag und dessen Mitarbeiter. Die Wahl gilt als Signal gegen die verschärften US-Sanktionen gegen das Gericht; als Favorit galt der tansanische Oppositionelle Tundu Lissu.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/ausland/sacharow-preis-internationaler-strafgerichtshof-100.html"
-        },
-        {
-          "name": "Euronews",
-          "url": "https://de.euronews.com/2026/10/22/sacharow-preis-strafgerichtshof-eu-parlament"
-        }
-      ]
-    },
-    {
-      "headline": "Taiwan wappnet sich gegen Taifun Champi",
-      "text": "Taiwan hat vor Taifun Champi, einem der stärksten Stürme des Jahres, eine Landwarnung ausgegeben. In der Region fielen über 200 Flüge aus, ein großes US-japanisches Manöver wurde angepasst. Schulen und Büros bleiben am Freitag fast überall geschlossen.",
+      "headline": "Russland bombardiert Kiew trotz Gesprächssignal",
+      "text": "Russland feuerte mindestens 21 ballistische Raketen auf Kiew, drei laut Selenskyj mit Streumunition. Landesweit gab es laut Kiew 2 Tote und 34 Verletzte. Moskau meldet 630 ukrainische Drohnen. Putin will im November unter US-Vermittlung verhandeln, stellt aber harte Bedingungen.",
       "quellen": [
         {
           "name": "Reuters",
-          "url": "https://www.usnews.com/news/world/articles/2026-10-22/taiwan-issues-land-warning-ahead-of-arrival-of-powerful-typhoon-champi"
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/23/missiles-strike-ukraine-s-kyiv-reuters-witness-says"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/"
+        }
+      ]
+    },
+    {
+      "headline": "Huthi-Angriffe: Aramco räumt Zentrale in Saudi-Arabien",
+      "text": "Bei einem Angriff auf den Flughafen King Fahd in Dammam starben laut saudischen Behörden zwei Menschen, acht wurden verletzt. Aramco ließ laut AFP auch das Kernpersonal seiner Zentrale im Osten räumen. Die USA ziehen nicht benötigtes Botschaftspersonal aus Saudi-Arabien ab.",
+      "quellen": [
+        {
+          "name": "Gulf News",
+          "url": "https://gulfnews.com/world/mena/middle-east-war-saudi-airport-attack-kills-one-as-us-orders-embassy-departures-1.500719174"
+        },
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653"
+        }
+      ]
+    },
+    {
+      "headline": "Erdbeben der Stärke 7 erschüttert Tibet",
+      "text": "Ein Beben der Stärke 7,0 hat am Donnerstagabend die Region Nagqu im Norden Tibets getroffen, rund 400 Kilometer von Lhasa entfernt. Laut Xinhua starben mindestens 16 Menschen, nach ZDF-Angaben gibt es 54 Verletzte. Es ist das stärkste Beben in China seit Januar 2024.",
+      "quellen": [
+        {
+          "name": "Reuters",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/22/earthquake-of-magnitude-7-strikes-china-s-tibet"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Taifun Champi legt Taiwan lahm",
+      "text": "Vor Taifun Champi steht Taiwan still: Alle 262 Inlandsflüge und über 350 internationale Verbindungen fallen aus, Schulen, Büros und Börse sind geschlossen. Das Zentrum soll in der Nacht zu Samstag bis auf 80 km herankommen; die Folgen könnten zwei Tage anhalten.",
+      "quellen": [
+        {
+          "name": "Reuters",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/23/taiwan-shuts-down-ahead-of-weakening-typhoon-champi-hundreds-of-flights-cancelled"
         },
         {
           "name": "Focus Taiwan (CNA)",
@@ -71,44 +75,16 @@
   ],
   "national": [
     {
-      "headline": "PHP-Lücke: Behörden nehmen Websites vom Netz",
-      "text": "Wegen zweier kritischer Schwachstellen in der Skriptsprache PHP, über die Angreifer Webserver übernehmen können, hat das BSI eine Cybersicherheitswarnung ausgegeben. Kommunen und Behörden schalteten ihre Seiten vorsorglich ab. Ein Sicherheitsupdate liegt seit Mittwoch vor.",
-      "quellen": [
-        {
-          "name": "Tagesspiegel (dpa)",
-          "url": "https://www.tagesspiegel.de/wirtschaft/dpa-sicherheitslucke-in-php-bundesamt-warnt--und-rat-im-zweifel-zum-trennen-der-server-vom-netz-16184490.html"
-        },
-        {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/wissenschaft/gravierende-sicherheitsluecke-bedroht-weltweit-millionen-von-websites-ld.10040600"
-        }
-      ]
-    },
-    {
-      "headline": "Steuerschätzung: Mehr Geld, kaum Spielraum",
-      "text": "Bund, Länder und Kommunen können bis 2030 mit gut 43 Milliarden Euro mehr Steuern rechnen als im Mai erwartet, im Schnitt rund 11 Milliarden pro Jahr. Für 2026 sinkt die Prognose leicht. Finanzminister Klingbeil sieht für 2027 dennoch keine neuen Spielräume.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/steuer-steuern-steuerschaetzung-bund-kommunnen-einnahmen-100.html"
-        },
-        {
-          "name": "DIHK",
-          "url": "https://www.dihk.de/de/newsroom/steuerschaetzung-bietet-keinen-grund-zur-entwarnung-188936"
-        }
-      ]
-    },
-    {
-      "headline": "Söders Extremismusklausel stößt auf Widerstand",
-      "text": "Bayerns Ministerpräsident Söder will Länder mit AfD- oder Linken-geführter Regierung, konkret Sachsen-Anhalt und Berlin, vom Länderfinanzausgleich ausschließen. Bei der Ministerpräsidentenkonferenz, der Söder fernblieb, stieß das auf Zurückhaltung bis Ablehnung.",
+      "headline": "Länder drängen auf Strompreis- und Spritentlastung",
+      "text": "Die Ministerpräsidentenkonferenz fordert den Bund auf, die Stromsteuer rasch für alle aufs EU-Minimum zu senken und bald den zum 1. Januar geplanten Spritpreisdeckel vorzulegen. Merz will Spielräume nutzen, Finanzminister Klingbeil zweifelt an der Finanzierung.",
       "quellen": [
         {
           "name": "dpa-AFX",
-          "url": "https://www.finanzen.net/nachricht/aktien/soeders-vorschlag-zur-extremismusklausel-findet-wenig-anklang-16001051"
+          "url": "https://www.ariva.de/news/gesamt-roundup-laender-fordern-tempo-bei-stromsteuer-und-12178721"
         },
         {
-          "name": "Berliner Zeitung",
-          "url": "https://www.berliner-zeitung.de/article/soeder-laenderfinanzausgleich-extremismusklausel-ministerpraesidenten-10519154"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/stromsteuer-senkung-laender-mpk-100.html"
         }
       ]
     },
@@ -119,10 +95,30 @@
         {
           "name": "t-online",
           "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101492990/festnahme-in-brandenburg-spion-wollte-wohl-ruestungsproduktion-ausspaehen.html"
+        }
+      ]
+    },
+    {
+      "headline": "AfD-Leaks: Hunderttausende interne Mails ausgewertet",
+      "text": "ZDF frontal hat mit dem Netzwerk OCCRP über 420.000 nach einem Hack kursierende E-Mails aus AfD-Postfächern ausgewertet. Sie zeigen laut ZDF interne Beschimpfungen, Gewaltfantasien und ein Mitglied, das eine Hakenkreuzfahne angeboten haben soll. Ausschlüsse blieben oft aus.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/afd-leaks-hakenkreuz-partei-ausschluss-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Sachsen-Anhalt: CDU-Mann bricht mit Fraktionslinie",
+      "text": "Vor der geplanten Wahl von AfD-Kandidat Siegmund zum Regierungschef im Dezember will der CDU-Abgeordnete Heuer den Saal nicht verlassen, anders als es seine Fraktion für die ersten zwei Wahlgänge beschloss. Wie er abstimmt, lässt er offen; eine Koalition schließt er aus.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-siegmund-ministerpraesidentenwahl-heuer-cdu-afd-100.html"
         },
         {
-          "name": "dpa-AFX",
-          "url": "https://www.onvista.de/news/2026/10-22-roundup-2-ruestungsinfos-gesammelt-mutmasslicher-russland-spion-gefasst-0-10-26567337"
+          "name": "t-online",
+          "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101492180/landtag-sachsen-anhalt-abgeordneter-stellt-sich-gegen-cdu-plan.html"
         }
       ]
     }
