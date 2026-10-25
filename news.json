@@ -1,124 +1,116 @@
 {
-  "datum": "2026-10-23",
-  "stand_uhrzeit": "07:00 Uhr",
+  "datum": "2026-10-25",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "Iran-Krieg: Trump droht mit weiteren Schlägen",
-      "text": "Nach iranischen Angaben über sieben in Hormus getroffene Tanker wirft Trump Teheran vor, vor den Zwischenwahlen den Ölpreis zu treiben; die USA könnten bald weiter gehen. Laut Berichten planen USA und Israel neue Angriffe nach der Wahl. Das US-Militär bestreitet Minentreffer.",
+      "headline": "Iran-Krieg: USA drohen mit Angriffen schon am Wochenende",
+      "text": "US-Gesandter Barrack hält neue Schläge gegen Iran schon an diesem Wochenende für möglich; Trump lässt offen, ob entschieden ist. Teheran droht mit vielfacher Vergeltung. Laut Revolutionsgarden trafen zwei Supertanker Minen in Hormus. Brent stieg über 117 Dollar.",
+      "quellen": [
+        {
+          "name": "The Week",
+          "url": "https://www.theweek.in/news/middle-east/2026/10/25/us-warns-of-imminent-air-strikes-on-iran-as-middle-east-tensions-reach-boiling-point.html"
+        },
+        {
+          "name": "Gulf News",
+          "url": "https://gulfnews.com/world/mena/middle-east-war-houthi-missile-targets-riyadh-tankers-hit-mines-near-hormuz-1.500721804"
+        }
+      ]
+    },
+    {
+      "headline": "Brasilien wählt: Stichwahl Lula gegen Flávio Bolsonaro",
+      "text": "Brasilien entscheidet heute in der Stichwahl über das Präsidentenamt. Flávio Bolsonaro lag im ersten Durchgang mit 47 Prozent knapp vor Amtsinhaber Lula mit 45 Prozent. Letzte Umfragen sehen ein Kopf-an-Kopf-Rennen. Die Wahllokale schließen um 22 Uhr deutscher Zeit.",
+      "quellen": [
+        {
+          "name": "Rio Times",
+          "url": "https://www.riotimesonline.com/brazil-runoff-october-25-2026-flavio-bolsonaro-lula/"
+        }
+      ]
+    },
+    {
+      "headline": "Israel startet Großeinsatz im Westjordanland",
+      "text": "Nach dem Tod zweier Soldaten bei einem Angriff in Hebron ist Israels Armee an über 400 Orten im Einsatz und nahm 40 Palästinenser fest. Laut Stadtverwaltung mussten 200 bis 300 Familien ihre Häuser verlassen. Übergänge bleiben bis nach der Parlamentswahl am Dienstag zu.",
+      "quellen": [
+        {
+          "name": "AP",
+          "url": "https://www.news4jax.com/news/world/2026/10/25/days-before-israeli-election-military-conducts-massive-west-bank-operation/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank"
+        }
+      ]
+    },
+    {
+      "headline": "Frankreich: Fast 1.000 Festnahmen bei Massenprotesten",
+      "text": "Laut Innenministerium demonstrierten am Samstag 410.000 Menschen gegen Missstände an Schulen, hohe Lebenskosten und Macron, davon 110.000 in Paris. Bei Ausschreitungen nahm die Polizei fast 1.000 Menschen fest. Über 70.000 Einsatzkräfte waren im Dienst.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response"
+          "url": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert"
         },
         {
-          "name": "Gulf News",
-          "url": "https://gulfnews.com/world/mena/middle-east-war-saudi-airport-attack-kills-one-as-us-orders-embassy-departures-1.500719174"
+          "name": "France 24",
+          "url": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence"
         }
       ]
     },
     {
-      "headline": "Russland bombardiert Kiew trotz Gesprächssignal",
-      "text": "Russland feuerte mindestens 21 ballistische Raketen auf Kiew, drei laut Selenskyj mit Streumunition. Landesweit gab es laut Kiew 2 Tote und 34 Verletzte. Moskau meldet 630 ukrainische Drohnen. Putin will im November unter US-Vermittlung verhandeln, stellt aber harte Bedingungen.",
+      "headline": "Serbien wählt: Studierende fordern Vučić heraus",
+      "text": "Serbien wählt vorgezogen ein neues Parlament. Eine nach dem tödlichen Vordach-Einsturz von Novi Sad 2024 entstandene Studentenbewegung will Präsident Vučić abwählen. Umfragen sind uneinheitlich: Ipsos sieht seine SNS bei 47, die Studierenden bei 40 Prozent; andere sehen sie vorn.",
       "quellen": [
         {
           "name": "Reuters",
-          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/23/missiles-strike-ukraine-s-kyiv-reuters-witness-says"
-        },
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/"
-        }
-      ]
-    },
-    {
-      "headline": "Huthi-Angriffe: Aramco räumt Zentrale in Saudi-Arabien",
-      "text": "Bei einem Angriff auf den Flughafen King Fahd in Dammam starben laut saudischen Behörden zwei Menschen, acht wurden verletzt. Aramco ließ laut AFP auch das Kernpersonal seiner Zentrale im Osten räumen. Die USA ziehen nicht benötigtes Botschaftspersonal aus Saudi-Arabien ab.",
-      "quellen": [
-        {
-          "name": "Gulf News",
-          "url": "https://gulfnews.com/world/mena/middle-east-war-saudi-airport-attack-kills-one-as-us-orders-embassy-departures-1.500719174"
-        },
-        {
-          "name": "ABC News",
-          "url": "https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653"
-        }
-      ]
-    },
-    {
-      "headline": "Erdbeben der Stärke 7 erschüttert Tibet",
-      "text": "Ein Beben der Stärke 7,0 hat am Donnerstagabend die Region Nagqu im Norden Tibets getroffen, rund 400 Kilometer von Lhasa entfernt. Laut Xinhua starben mindestens 16 Menschen, nach ZDF-Angaben gibt es 54 Verletzte. Es ist das stärkste Beben in China seit Januar 2024.",
-      "quellen": [
-        {
-          "name": "Reuters",
-          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/22/earthquake-of-magnitude-7-strikes-china-s-tibet"
-        },
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Taifun Champi legt Taiwan lahm",
-      "text": "Vor Taifun Champi steht Taiwan still: Alle 262 Inlandsflüge und über 350 internationale Verbindungen fallen aus, Schulen, Büros und Börse sind geschlossen. Das Zentrum soll in der Nacht zu Samstag bis auf 80 km herankommen; die Folgen könnten zwei Tage anhalten.",
-      "quellen": [
-        {
-          "name": "Reuters",
-          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/23/taiwan-shuts-down-ahead-of-weakening-typhoon-champi-hundreds-of-flights-cancelled"
-        },
-        {
-          "name": "Focus Taiwan (CNA)",
-          "url": "https://focustaiwan.tw/society/202610220022"
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/25/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Länder drängen auf Strompreis- und Spritentlastung",
-      "text": "Die Ministerpräsidentenkonferenz fordert den Bund auf, die Stromsteuer rasch für alle aufs EU-Minimum zu senken und bald den zum 1. Januar geplanten Spritpreisdeckel vorzulegen. Merz will Spielräume nutzen, Finanzminister Klingbeil zweifelt an der Finanzierung.",
+      "headline": "Audi baut erstes Werk in den USA",
+      "text": "Audi investiert 4,2 Milliarden Dollar in ein Werk nahe Macon in Georgia. Dort sollen bis zu 200.000 SUVs im Jahr entstehen, laut Audi mit rund 4.500 Jobs; Produktionsstart Anfang der 2030er. Trump verkündete das bei einem Wahlkampfauftritt als Erfolg seiner Zollpolitik.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/audi-investition-usa-georgia-trump-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Orkantief Manja bringt Sturm nach Deutschland",
+      "text": "Nach Sturm Luise zieht Orkantief Manja über Deutschland. Der DWD warnt in weiten Teilen des Landes vor Sturmböen, auf Bergen bis 90 km/h; an der Nordsee sind Orkanböen möglich. Das BSH erwartet deutlich erhöhte Wasserstände; Helgoland-Schnellfähren fallen aus.",
       "quellen": [
         {
           "name": "dpa-AFX",
-          "url": "https://www.ariva.de/news/gesamt-roundup-laender-fordern-tempo-bei-stromsteuer-und-12178721"
-        },
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/stromsteuer-senkung-laender-mpk-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Mutmaßlicher Russland-Spion in Brandenburg gefasst",
-      "text": "Das BKA hat im Landkreis Oder-Spree einen 53-jährigen Ukrainer festgenommen. Er soll laut Bundesanwaltschaft seit spätestens Juli 2025 für einen russischen Dienst Infos zu Panzer- und Munitionsproduktion und zur NATO-Ostflanke gesammelt haben. Merz rechnet mit weiteren Fällen.",
-      "quellen": [
-        {
-          "name": "t-online",
-          "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101492990/festnahme-in-brandenburg-spion-wollte-wohl-ruestungsproduktion-ausspaehen.html"
-        }
-      ]
-    },
-    {
-      "headline": "AfD-Leaks: Hunderttausende interne Mails ausgewertet",
-      "text": "ZDF frontal hat mit dem Netzwerk OCCRP über 420.000 nach einem Hack kursierende E-Mails aus AfD-Postfächern ausgewertet. Sie zeigen laut ZDF interne Beschimpfungen, Gewaltfantasien und ein Mitglied, das eine Hakenkreuzfahne angeboten haben soll. Ausschlüsse blieben oft aus.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/afd-leaks-hakenkreuz-partei-ausschluss-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Sachsen-Anhalt: CDU-Mann bricht mit Fraktionslinie",
-      "text": "Vor der geplanten Wahl von AfD-Kandidat Siegmund zum Regierungschef im Dezember will der CDU-Abgeordnete Heuer den Saal nicht verlassen, anders als es seine Fraktion für die ersten zwei Wahlgänge beschloss. Wie er abstimmt, lässt er offen; eine Koalition schließt er aus.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-siegmund-ministerpraesidentenwahl-heuer-cdu-afd-100.html"
+          "url": "https://www.finanzen.at/nachrichten/aktien/stuermischer-sonntag-warnungen-fuer-teile-deutschlands-1036662521"
         },
         {
           "name": "t-online",
-          "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101492180/landtag-sachsen-anhalt-abgeordneter-stellt-sich-gegen-cdu-plan.html"
+          "url": "https://hamburg.t-online.de/region/hamburg/id_101496064/wetter-hamburg-dwd-warnt-vor-sturm-am-sonntag.html"
+        }
+      ]
+    },
+    {
+      "headline": "Kehlsteinhaus abgebrannt – Brandstiftung vermutet",
+      "text": "Das 1938 von den Nazis gebaute Kehlsteinhaus bei Berchtesgaden ist am Freitagabend weitgehend niedergebrannt. Ermittler gehen von Brandstiftung aus. Ein 33-jähriger Deutscher wurde gefasst und soll in die Psychiatrie. Innenminister Herrmann erwartet einen Wiederaufbau.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/panorama/obersalzberg-kehlsteinhaus-berchtesgaden-hitler-feuer-brandstiftung-100.html"
+        },
+        {
+          "name": "ORF",
+          "url": "https://orf.at/stories/3446050/"
+        }
+      ]
+    },
+    {
+      "headline": "Bundeswehr beteiligt sich an Ukraine-Manöver",
+      "text": "Deutschland nimmt im November an der ersten Übung der Koalition der Willigen teil, die einen möglichen Waffenstillstand in der Ukraine absichern soll. Laut Verteidigungsministerium schickt die Bundeswehr rund zehn Stabsoffiziere und bis zu zwei A400M-Tankflugzeuge.",
+      "quellen": [
+        {
+          "name": "dpa/t-online",
+          "url": "https://www.t-online.de/nachrichten/ausland/id_101496432/deutsche-stabsoffiziere-und-tankflugzeuge-fuer-ukraine-uebung.html"
         }
       ]
     }
