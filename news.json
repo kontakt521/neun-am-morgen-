@@ -1,116 +1,128 @@
 {
-  "datum": "2026-10-25",
+  "datum": "2026-10-26",
   "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "Iran-Krieg: USA drohen mit Angriffen schon am Wochenende",
-      "text": "US-Gesandter Barrack hält neue Schläge gegen Iran schon an diesem Wochenende für möglich; Trump lässt offen, ob entschieden ist. Teheran droht mit vielfacher Vergeltung. Laut Revolutionsgarden trafen zwei Supertanker Minen in Hormus. Brent stieg über 117 Dollar.",
+      "headline": "Brasilien: Lula gewinnt Stichwahl gegen Bolsonaro",
+      "text": "Präsident Lula hat die Stichwahl laut Wahlgericht mit rund 51,8 zu 48,2 Prozent gegen Flávio Bolsonaro gewonnen, Vorsprung gut 4,3 Millionen Stimmen. Es ist seine vierte Amtszeit. Bolsonaro hatte den ersten Durchgang knapp angeführt; Umfragen sahen ein Kopf-an-Kopf-Rennen.",
       "quellen": [
         {
-          "name": "The Week",
-          "url": "https://www.theweek.in/news/middle-east/2026/10/25/us-warns-of-imminent-air-strikes-on-iran-as-middle-east-tensions-reach-boiling-point.html"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election"
         },
         {
-          "name": "Gulf News",
-          "url": "https://gulfnews.com/world/mena/middle-east-war-houthi-missile-targets-riyadh-tankers-hit-mines-near-hormuz-1.500721804"
+          "name": "Depor",
+          "url": "https://depor.com/en/us-live/who-won-brazils-election-2026-flavio-bolsonaro-vs-lula-da-silva-live-results-and-runoff-updates-nnda-nnrt-noticia/"
         }
       ]
     },
     {
-      "headline": "Brasilien wählt: Stichwahl Lula gegen Flávio Bolsonaro",
-      "text": "Brasilien entscheidet heute in der Stichwahl über das Präsidentenamt. Flávio Bolsonaro lag im ersten Durchgang mit 47 Prozent knapp vor Amtsinhaber Lula mit 45 Prozent. Letzte Umfragen sehen ein Kopf-an-Kopf-Rennen. Die Wahllokale schließen um 22 Uhr deutscher Zeit.",
+      "headline": "Serbien: Vučić räumt Wahlniederlage gegen Studierende ein",
+      "text": "Die Studentenliste hat die vorgezogene Wahl laut Hochrechnungen von CeSID/Ipsos mit absoluter Mehrheit gewonnen, rund 140 von 250 Sitzen. Präsident Vučić räumte die Niederlage ein. Die Beteiligung war mit etwa 68 Prozent die höchste seit dem Zerfall Jugoslawiens.",
       "quellen": [
         {
-          "name": "Rio Times",
-          "url": "https://www.riotimesonline.com/brazil-runoff-october-25-2026-flavio-bolsonaro-lula/"
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/10/25/europe/serbian-strongman-vucic-concedes-defeat-to-student-led-movement-intl-latam"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/serbia-election-aleksandar-vucic-concedes-defeat/"
         }
       ]
     },
     {
-      "headline": "Israel startet Großeinsatz im Westjordanland",
-      "text": "Nach dem Tod zweier Soldaten bei einem Angriff in Hebron ist Israels Armee an über 400 Orten im Einsatz und nahm 40 Palästinenser fest. Laut Stadtverwaltung mussten 200 bis 300 Familien ihre Häuser verlassen. Übergänge bleiben bis nach der Parlamentswahl am Dienstag zu.",
+      "headline": "Iran: Trump sagt Angriff ab, Ölpreis gibt nach",
+      "text": "Trump erklärte am Sonntag, es werde an diesem Tag keinen US-Angriff auf Iran geben. Die Ölpreise gaben daraufhin nach: Brent fiel um rund 1,8 Prozent auf etwa 114 Dollar je Barrel. Eine Einigung mit Teheran hält Trump nach Berichten weiter für möglich.",
       "quellen": [
         {
-          "name": "AP",
-          "url": "https://www.news4jax.com/news/world/2026/10/25/days-before-israeli-election-military-conducts-massive-west-bank-operation/"
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/news/politics/26/10/62581355/trump-iran-strike-oil-prices"
+        },
+        {
+          "name": "QCIntel",
+          "url": "https://www.qcintel.com/article/oil-futures-crude-eases-as-trump-hints-iran-deal-still-possible-75938.html"
+        }
+      ]
+    },
+    {
+      "headline": "Israel: Westjordanland-Einsatz vor der Wahl am Dienstag",
+      "text": "Nach dem Tod zweier Soldaten in Hebron setzt Israels Armee ihren Großeinsatz fort; Übergänge nach Israel bleiben bis nach der Wahl am Dienstag geschlossen. Laut Stadtverwaltung sind über 2.200 Menschen vertrieben. Die Palästinensische Autonomiebehörde spricht von Kollektivstrafe.",
+      "quellen": [
+        {
+          "name": "ABC News (AU)",
+          "url": "https://www.abc.net.au/news/2026-10-25/israel-presses-ahead-with-west-bank-army-operation/107305944"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank"
+          "url": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues"
         }
       ]
     },
     {
-      "headline": "Frankreich: Fast 1.000 Festnahmen bei Massenprotesten",
-      "text": "Laut Innenministerium demonstrierten am Samstag 410.000 Menschen gegen Missstände an Schulen, hohe Lebenskosten und Macron, davon 110.000 in Paris. Bei Ausschreitungen nahm die Polizei fast 1.000 Menschen fest. Über 70.000 Einsatzkräfte waren im Dienst.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert"
-        },
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence"
-        }
-      ]
-    },
-    {
-      "headline": "Serbien wählt: Studierende fordern Vučić heraus",
-      "text": "Serbien wählt vorgezogen ein neues Parlament. Eine nach dem tödlichen Vordach-Einsturz von Novi Sad 2024 entstandene Studentenbewegung will Präsident Vučić abwählen. Umfragen sind uneinheitlich: Ipsos sieht seine SNS bei 47, die Studierenden bei 40 Prozent; andere sehen sie vorn.",
+      "headline": "Ukraine: Dreiertreffen mit USA und Russland im November",
+      "text": "Präsident Selenskyj kündigte laut Reuters für November ein Treffen von Kiew, Washington und Moskau an. Zuvor vereinbarten Russland und Ukraine eine Waffenruhe in der besetzten Stadt Oleschky. Russland meldet weiter ukrainische Angriffe auf Belgorod und Lipezk.",
       "quellen": [
         {
           "name": "Reuters",
-          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/25/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election"
+          "url": "https://tmgm.com/en/analysis/market-news/article/ukraines-president-zelenskyy-says-us-ukraine-russia-meeting-to-take-place-in-november-202610260009"
+        },
+        {
+          "name": "Moscow Times",
+          "url": "https://themoscowtimes.com/2026/10/25/ukrainian-attacks-kill-5-in-belgorod-and-lipetsk-hit-perm-industrial-plant-a94077"
         }
       ]
     }
   ],
   "national": [
     {
+      "headline": "Merz und Steinmeier brechen zu Asien-Reisen auf",
+      "text": "Bundeskanzler Merz und Bundespräsident Steinmeier starten mehrtägige Reisen nach Asien. Steinmeier besucht zum zweiten Mal als Staatsoberhaupt China. Laut Tagesüberblick von news.de und ZDF-Newsticker stehen die Reisen am Montag im Zentrum der Berichterstattung.",
+      "quellen": [
+        {
+          "name": "news.de",
+          "url": "https://www.news.de/panorama/860128417/26-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-26-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+        },
+        {
+          "name": "ZDFheute Newsticker",
+          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+        }
+      ]
+    },
+    {
       "headline": "Audi baut erstes Werk in den USA",
-      "text": "Audi investiert 4,2 Milliarden Dollar in ein Werk nahe Macon in Georgia. Dort sollen bis zu 200.000 SUVs im Jahr entstehen, laut Audi mit rund 4.500 Jobs; Produktionsstart Anfang der 2030er. Trump verkündete das bei einem Wahlkampfauftritt als Erfolg seiner Zollpolitik.",
+      "text": "Audi investiert 4,2 Milliarden Dollar in ein Werk nahe Macon in Georgia. Dort sollen bis zu 200.000 SUVs im Jahr entstehen, laut Audi mit rund 4.500 Jobs. Trump verkündete das bei einem gemeinsamen Auftritt als Erfolg seiner Zollpolitik.",
       "quellen": [
         {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/wirtschaft/unternehmen/audi-investition-usa-georgia-trump-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Orkantief Manja bringt Sturm nach Deutschland",
-      "text": "Nach Sturm Luise zieht Orkantief Manja über Deutschland. Der DWD warnt in weiten Teilen des Landes vor Sturmböen, auf Bergen bis 90 km/h; an der Nordsee sind Orkanböen möglich. Das BSH erwartet deutlich erhöhte Wasserstände; Helgoland-Schnellfähren fallen aus.",
-      "quellen": [
-        {
-          "name": "dpa-AFX",
-          "url": "https://www.finanzen.at/nachrichten/aktien/stuermischer-sonntag-warnungen-fuer-teile-deutschlands-1036662521"
         },
         {
-          "name": "t-online",
-          "url": "https://hamburg.t-online.de/region/hamburg/id_101496064/wetter-hamburg-dwd-warnt-vor-sturm-am-sonntag.html"
+          "name": "heute journal",
+          "url": "https://zdfheute.de/video/heute-journal/heute-journal-vom-25-oktober-2026-100.html"
         }
       ]
     },
     {
-      "headline": "Kehlsteinhaus abgebrannt – Brandstiftung vermutet",
-      "text": "Das 1938 von den Nazis gebaute Kehlsteinhaus bei Berchtesgaden ist am Freitagabend weitgehend niedergebrannt. Ermittler gehen von Brandstiftung aus. Ein 33-jähriger Deutscher wurde gefasst und soll in die Psychiatrie. Innenminister Herrmann erwartet einen Wiederaufbau.",
+      "headline": "Sturm Manja: Nordsee-Sturmfluten, ICE bleibt liegen",
+      "text": "Orkantief Manja schwächt sich im Binnenland ab, an der Nordsee drohten Sonntagabend und Montagfrüh zwei Sturmfluten. Laut Medienberichten wurden in Nastätten zwei Menschen schwer verletzt; bei Aachen blieb ein ICE mit 280 Fahrgästen liegen.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/panorama/obersalzberg-kehlsteinhaus-berchtesgaden-hitler-feuer-brandstiftung-100.html"
+          "name": "Yahoo Nachrichten",
+          "url": "https://de.nachrichten.yahoo.com/wetter-sonntag-sturm-manja-verliert-092446669.html"
         },
         {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3446050/"
+          "name": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/die-sturmnacht-ist-nicht-vorbei-bis-mitternacht-120-kmh-dann-steigt-an-der-nordsee-das-wasser-10529358"
         }
       ]
     },
     {
-      "headline": "Bundeswehr beteiligt sich an Ukraine-Manöver",
-      "text": "Deutschland nimmt im November an der ersten Übung der Koalition der Willigen teil, die einen möglichen Waffenstillstand in der Ukraine absichern soll. Laut Verteidigungsministerium schickt die Bundeswehr rund zehn Stabsoffiziere und bis zu zwei A400M-Tankflugzeuge.",
+      "headline": "Bauministerin und Justizministerin wollen Bauen vereinfachen",
+      "text": "Justizministerin Hubig und Bauministerin Hubertz (beide SPD) legen einen Gesetzentwurf für einfacheres Bauen vor: Wohnungen mit dünneren Decken und weniger Steckdosen sollen den Neubau wieder günstiger machen.",
       "quellen": [
         {
-          "name": "dpa/t-online",
-          "url": "https://www.t-online.de/nachrichten/ausland/id_101496432/deutsche-stabsoffiziere-und-tankflugzeuge-fuer-ukraine-uebung.html"
+          "name": "news.de",
+          "url": "https://www.news.de/panorama/860128417/26-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-26-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
         }
       ]
     }
