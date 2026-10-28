@@ -1,128 +1,100 @@
 {
-  "datum": "2026-10-26",
-  "stand_uhrzeit": "12:00 Uhr",
+  "datum": "2026-10-28",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Brasilien: Lula gewinnt Stichwahl gegen Bolsonaro",
-      "text": "Präsident Lula hat die Stichwahl laut Wahlgericht mit rund 51,8 zu 48,2 Prozent gegen Flávio Bolsonaro gewonnen, Vorsprung gut 4,3 Millionen Stimmen. Es ist seine vierte Amtszeit. Bolsonaro hatte den ersten Durchgang knapp angeführt; Umfragen sahen ein Kopf-an-Kopf-Rennen.",
+      "headline": "Zugunglück bei Toledo fordert 64 Tote",
+      "text": "Bei der Kollision zweier Hochgeschwindigkeitszüge in der Provinz Toledo starben laut Regionalregierung 64 Menschen, über 170 wurden verletzt. Laut Adif-Kreisen fuhr ein Renfe-Zug auf einen Iryo-Zug auf. Die Ursache ist unklar, die Regierung sprach von menschlichem Fehler.",
       "quellen": [
         {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election"
-        },
-        {
-          "name": "Depor",
-          "url": "https://depor.com/en/us-live/who-won-brazils-election-2026-flavio-bolsonaro-vs-lula-da-silva-live-results-and-runoff-updates-nnda-nnrt-noticia/"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/panorama/kollision-zuege-spanien-hochgeschwindigkeit-verletzte-tote-100.html"
         }
       ]
     },
     {
-      "headline": "Serbien: Vučić räumt Wahlniederlage gegen Studierende ein",
-      "text": "Die Studentenliste hat die vorgezogene Wahl laut Hochrechnungen von CeSID/Ipsos mit absoluter Mehrheit gewonnen, rund 140 von 250 Sitzen. Präsident Vučić räumte die Niederlage ein. Die Beteiligung war mit etwa 68 Prozent die höchste seit dem Zerfall Jugoslawiens.",
+      "headline": "Netanjahus Block führt bei Israel-Wahl, Mehrheit offen",
+      "text": "Nach Auszählung von rund zwei Dritteln liegt Netanjahus Block laut ZDFheute bei 54 der 120 Sitze vor Eisenkots Lager mit 48, die arabischen Parteien kommen auf 18. Eine Regierung benötigt 61 Mandate. Soldatenstimmen folgen ab Mittwoch.",
       "quellen": [
         {
-          "name": "CNN",
-          "url": "https://www.cnn.com/2026/10/25/europe/serbian-strongman-vucic-concedes-defeat-to-student-led-movement-intl-latam"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/ausland/israel-parlamentswahl-netanjahu-eisenkot-100.html"
         },
         {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/serbia-election-aleksandar-vucic-concedes-defeat/"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/ausland/israel-wahl-ausgang-koalition-100.html"
         }
       ]
     },
     {
-      "headline": "Iran: Trump sagt Angriff ab, Ölpreis gibt nach",
-      "text": "Trump erklärte am Sonntag, es werde an diesem Tag keinen US-Angriff auf Iran geben. Die Ölpreise gaben daraufhin nach: Brent fiel um rund 1,8 Prozent auf etwa 114 Dollar je Barrel. Eine Einigung mit Teheran hält Trump nach Berichten weiter für möglich.",
+      "headline": "Trump kündigt baldiges Treffen mit Putin und Selenskyj an",
+      "text": "Trump sagte am Mittwoch, es werde sehr bald ein Treffen mit Putin und Selenskyj geben. Der Kreml hatte direkte Gespräche russischer und ukrainischer Unterhändler in der ersten Hälfte des Novembers in Abu Dhabi angekündigt. Selenskyj bestätigte das.",
       "quellen": [
         {
-          "name": "Benzinga",
-          "url": "https://www.benzinga.com/news/politics/26/10/62581355/trump-iran-strike-oil-prices"
-        },
-        {
-          "name": "QCIntel",
-          "url": "https://www.qcintel.com/article/oil-futures-crude-eases-as-trump-hints-iran-deal-still-possible-75938.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/ausland/trump-treffen-selenskyj-putin-ukraine-krieg-russland-100.html"
         }
       ]
     },
     {
-      "headline": "Israel: Westjordanland-Einsatz vor der Wahl am Dienstag",
-      "text": "Nach dem Tod zweier Soldaten in Hebron setzt Israels Armee ihren Großeinsatz fort; Übergänge nach Israel bleiben bis nach der Wahl am Dienstag geschlossen. Laut Stadtverwaltung sind über 2.200 Menschen vertrieben. Die Palästinensische Autonomiebehörde spricht von Kollektivstrafe.",
+      "headline": "Ölpreis sinkt wegen Iran-Diplomatie",
+      "text": "Brent fiel am Dienstag um 1,7 Prozent auf 113,88 Dollar je Barrel, nachdem Vertreter Saudi-Arabiens, Pakistans und der Türkei nach Teheran gereist waren. Teheran signalisierte Offenheit, die Straße von Hormus zu öffnen, falls die US-Blockade endet.",
       "quellen": [
         {
-          "name": "ABC News (AU)",
-          "url": "https://www.abc.net.au/news/2026-10-25/israel-presses-ahead-with-west-bank-army-operation/107305944"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues"
+          "name": "Rigzone (Bloomberg)",
+          "url": "https://rigzone.com/news/wire/oil_slips_as_iran_diplomacy_picks_up-27-oct-2026-184947-article"
         }
       ]
     },
     {
-      "headline": "Ukraine: Dreiertreffen mit USA und Russland im November",
-      "text": "Präsident Selenskyj kündigte laut Reuters für November ein Treffen von Kiew, Washington und Moskau an. Zuvor vereinbarten Russland und Ukraine eine Waffenruhe in der besetzten Stadt Oleschky. Russland meldet weiter ukrainische Angriffe auf Belgorod und Lipezk.",
+      "headline": "Bolsonaro offenbar in den USA, Trump nennt Einreise in Ordnung",
+      "text": "Flávio Bolsonaro soll laut Medienberichten mit anonymen Quellen bereits in den USA sein. Washington will Visa für ihn und dessen Angehörige ausstellen. Lula kam in der Stichwahl auf 51,8 Prozent, Bolsonaro auf 48,2 Prozent. Eine rechtliche Anfechtung kündigte er an.",
       "quellen": [
         {
-          "name": "Reuters",
-          "url": "https://tmgm.com/en/analysis/market-news/article/ukraines-president-zelenskyy-says-us-ukraine-russia-meeting-to-take-place-in-november-202610260009"
-        },
-        {
-          "name": "Moscow Times",
-          "url": "https://themoscowtimes.com/2026/10/25/ukrainian-attacks-kill-5-in-belgorod-and-lipetsk-hit-perm-industrial-plant-a94077"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/ausland/brasilien-wahl-bolsonaro-ermittlungen-geldwaesche-ausreiseverbot-100.html"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Merz und Steinmeier brechen zu Asien-Reisen auf",
-      "text": "Bundeskanzler Merz und Bundespräsident Steinmeier starten mehrtägige Reisen nach Asien. Steinmeier besucht zum zweiten Mal als Staatsoberhaupt China. Laut Tagesüberblick von news.de und ZDF-Newsticker stehen die Reisen am Montag im Zentrum der Berichterstattung.",
-      "quellen": [
-        {
-          "name": "news.de",
-          "url": "https://www.news.de/panorama/860128417/26-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-26-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
-        },
-        {
-          "name": "ZDFheute Newsticker",
-          "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Audi baut erstes Werk in den USA",
-      "text": "Audi investiert 4,2 Milliarden Dollar in ein Werk nahe Macon in Georgia. Dort sollen bis zu 200.000 SUVs im Jahr entstehen, laut Audi mit rund 4.500 Jobs. Trump verkündete das bei einem gemeinsamen Auftritt als Erfolg seiner Zollpolitik.",
+      "headline": "Merz will geordnetes Verfahren für Steinmeier-Nachfolge",
+      "text": "Kanzler Merz beansprucht für die CDU als größte Fraktion das Vorschlagsrecht für einen Kandidaten. Zunächst tagt am 9. November das CDU-Präsidium. Die CSU hatte früh Ilse Aigner ins Gespräch gebracht, was in der CDU Verärgerung auslöste.",
       "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/audi-investition-usa-georgia-trump-100.html"
-        },
-        {
-          "name": "heute journal",
-          "url": "https://zdfheute.de/video/heute-journal/heute-journal-vom-25-oktober-2026-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/merz-nachfolge-bundespraesident-steinmeier-100.html"
         }
       ]
     },
     {
-      "headline": "Sturm Manja: Nordsee-Sturmfluten, ICE bleibt liegen",
-      "text": "Orkantief Manja schwächt sich im Binnenland ab, an der Nordsee drohten Sonntagabend und Montagfrüh zwei Sturmfluten. Laut Medienberichten wurden in Nastätten zwei Menschen schwer verletzt; bei Aachen blieb ein ICE mit 280 Fahrgästen liegen.",
+      "headline": "Berliner Sondierer planen Vergesellschaftung von Wohnungen",
+      "text": "Linke, Grüne und SPD wollen in Berlin Konzerne ab 10.000 Wohnungen vergesellschaften, rund 160.000 Wohnungen, die Entschädigung läge bei höchstens 16 Milliarden Euro. Der Konzern Vonovia hält das für verfassungswidrig, Merz für wirtschaftspolitisch schädlich.",
       "quellen": [
         {
-          "name": "Yahoo Nachrichten",
-          "url": "https://de.nachrichten.yahoo.com/wetter-sonntag-sturm-manja-verliert-092446669.html"
-        },
-        {
-          "name": "Berliner Zeitung",
-          "url": "https://www.berliner-zeitung.de/article/die-sturmnacht-ist-nicht-vorbei-bis-mitternacht-120-kmh-dann-steigt-an-der-nordsee-das-wasser-10529358"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/berlin-regierung-koalition-wohnungen-immobilienkonzerne-enteignen-vorteil-kritik-100.html"
         }
       ]
     },
     {
-      "headline": "Bauministerin und Justizministerin wollen Bauen vereinfachen",
-      "text": "Justizministerin Hubig und Bauministerin Hubertz (beide SPD) legen einen Gesetzentwurf für einfacheres Bauen vor: Wohnungen mit dünneren Decken und weniger Steckdosen sollen den Neubau wieder günstiger machen.",
+      "headline": "Hubig und Hubertz wollen günstigeres Bauen ermöglichen",
+      "text": "Die SPD-Ministerinnen wollen das Bauvertragsrecht ändern, damit leichter von Komfortstandards abgewichen werden kann. Die Baukosten könnten laut Justizministerium um 10 bis 15 Prozent sinken. Brandschutz und Statik bleiben unangetastet. Start frühestens Mitte 2027.",
       "quellen": [
         {
-          "name": "news.de",
-          "url": "https://www.news.de/panorama/860128417/26-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-26-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/guenstiger-wohnungsbau-gebaeudetyp-e-gesetzentwurf-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Sachsen-Anhalt ohne Regierung und Haushalt",
+      "text": "Nach der Landtagswahl im September, die die AfD mit 43,8 Prozent ohne absolute Mehrheit gewann, gibt es weder eine neue Regierung noch einen Landeshaushalt. Kommunen und Unternehmen warten auf Entscheidungen über Fördermittel.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-afd-regierung-haushalt-foerdermittel-soziales-kommunen-100.html"
         }
       ]
     }
