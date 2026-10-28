@@ -1,10 +1,10 @@
 {
   "datum": "2026-10-28",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
-      "headline": "Zugunglück bei Toledo fordert mindestens 64 Tote",
-      "text": "Beim Zusammenstoß zweier Hochgeschwindigkeitszüge in der Provinz Toledo starben laut Regionalregierung mindestens 64 Menschen, rund 80 wurden verletzt. Verkehrsminister Puente nannte einen Computerausfall und eine unerklärliche Entscheidung der Leitstelle zur Weiterfahrt.",
+      "headline": "Zwei Hochgeschwindigkeitszüge kollidieren bei Toledo, 68 Tote",
+      "text": "Bei Urda in der Provinz Toledo fuhr ein Renfe-Zug auf einen stehenden Iryo-Zug auf. Laut Regionalregierung starben mindestens 68 Menschen, rund 80 wurden verletzt. Minister Puente nannte die Entscheidung der Leitstelle zur Weiterfahrt trotz Signalausfalls unerklärlich.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -17,12 +17,12 @@
       ]
     },
     {
-      "headline": "Netanyahus Block liegt bei Israel-Wahl vorn, Mehrheit fehlt",
-      "text": "Nach Teilergebnissen kommt Netanyahus Block laut israelischen Medien auf 54 der 120 Sitze, Eisenkots Bündnis auf 49, arabische Parteien auf 17. Für eine Regierung sind 61 nötig. Noch ungezählte Stimmen, vor allem von Soldaten, fehlen, das Endergebnis wird bis Freitag erwartet.",
+      "headline": "Nach Israel-Wahl hat kein Lager eine Mehrheit",
+      "text": "Nach Teilergebnissen kommt Netanyahus Block auf 54 der 120 Sitze, Eisenkots Bündnis auf 49, arabische Parteien laut Prognosen auf 17. Für eine Mehrheit sind 61 nötig. Wegen ungezählter Briefwahlstimmen wird ein klares Endergebnis laut BBC erst in ein bis zwei Tagen erwartet.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections"
+          "url": "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu"
         },
         {
           "name": "BBC",
@@ -31,22 +31,18 @@
       ]
     },
     {
-      "headline": "Trump kündigt baldiges Treffen mit Putin und Selenskyj an",
-      "text": "Trump sagte am 28. Oktober, ein Treffen mit Putin und Selenskyj werde sehr bald angesetzt, ohne Datum oder Ort zu nennen. Fachgespräche der drei Seiten sind für die erste Novemberhälfte in Abu Dhabi geplant. Putin hält ein Treffen erst nach einem Friedensabkommen für möglich.",
+      "headline": "Trump kündigt Treffen von Selenskyj und Putin an",
+      "text": "Trump kündigte ein baldiges Treffen von Selenskyj und Putin an, ohne Termin oder Ort zu nennen. Laut Selenskyj finden vom 6. bis 10. November Fachgespräche der Ukraine, Russlands und der USA in Abu Dhabi statt. Putin hält ein Treffen erst nach einem Friedensabkommen für möglich.",
       "quellen": [
         {
           "name": "RFE/RL",
           "url": "https://www.rferl.org/a/trump-zelenskyy-putin-meeting-ukraine-peace-talks/33885793.html"
-        },
-        {
-          "name": "Meduza",
-          "url": "https://meduza.io/en/news/2026/10/28/trump-says-he-hopes-to-meet-with-putin-and-zelensky-very-soon"
         }
       ]
     },
     {
-      "headline": "Ölpreis fällt wegen Diplomatie im Iran-Krieg",
-      "text": "Brent schloss laut Rigzone knapp 2 Prozent im Minus unter 114 Dollar je Barrel, nachdem Vertreter Saudi-Arabiens, Pakistans und der Türkei nach Teheran gereist waren. Iran zeigte sich offen für eine Öffnung der Straße von Hormus gegen ein Ende der US-Blockade binnen sieben Tagen.",
+      "headline": "Ölpreis fällt wegen Iran-Diplomatie",
+      "text": "Brent schloss am Dienstag laut Rigzone 1,7 Prozent tiefer bei 113,88 Dollar, nachdem Vertreter Saudi-Arabiens, Pakistans und der Türkei in Teheran waren. Iran zeigte sich flexibel bei einem Vorschlag, Hormus gegen ein Ende der US-Blockade binnen sieben Tagen zu öffnen.",
       "quellen": [
         {
           "name": "Rigzone",
@@ -56,7 +52,7 @@
     },
     {
       "headline": "Flávio Bolsonaro nach Wahlniederlage in Miami gelandet",
-      "text": "Der unterlegene Kandidat Flávio Bolsonaro ist mit seiner Familie in Miami gelandet, zuvor reiste er über Argentinien nach Ecuador. Die USA erteilten Einreisevisa, obwohl er die Anordnung zur Abgabe seiner Pässe missachtete. Das Wahlergebnis erkannte er laut BBC nicht an.",
+      "text": "Der gegen Lula unterlegene Kandidat Flávio Bolsonaro ist nach einer Reise über Argentinien und Ecuador mit seiner Familie in Miami gelandet. Das Oberste Gericht hatte die Abgabe seiner Pässe angeordnet, die USA stellten Visa aus. Das Ergebnis erkennt er laut BBC nicht an.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -72,7 +68,7 @@
   "national": [
     {
       "headline": "Merz beansprucht Vorschlagsrecht für Steinmeier-Nachfolge",
-      "text": "Aus dem Umfeld von Kanzler Merz heißt es, die CDU beanspruche als größte Fraktion das Recht, einen Kandidaten zu benennen. Entschieden sei noch nichts. Zielpunkt ist die CDU-Präsidiumssitzung am 9. November. Die CSU setzt auf Ilse Aigner, im Gespräch ist auch Ines Claus.",
+      "text": "Aus Merz' Umfeld heißt es, die CDU habe als größte Kraft in der Bundesversammlung Anspruch auf einen Kandidaten. Entschieden sei noch nichts, Zielpunkt ist die CDU-Präsidiumssitzung am 9. November. Die CSU wirbt für Ilse Aigner, im Gespräch ist auch Ines Claus.",
       "quellen": [
         {
           "name": "ZDFheute",
@@ -85,12 +81,12 @@
       ]
     },
     {
-      "headline": "Elterngeld soll erstmals seit 2007 steigen",
-      "text": "Das Familienministerium plant erstmals seit 2007 höheres Elterngeld. Der Mindestsatz soll auf 330 statt 300 Euro, der Höchstsatz auf 1.900 statt 1.800 Euro steigen. Die Kürzung der Bezugsdauer auf zwölf Monate entfällt, beschlossen ist noch nichts.",
+      "headline": "Elterngeld bleibt bei 14 Monaten, Beträge sollen steigen",
+      "text": "Laut Plänen des Familienministeriums bleibt das Elterngeld weiter für höchstens 14 Monate, die vorgesehene Verkürzung auf zwölf Monate entfällt. Der Mindestbetrag steigt von 300 auf 330, der Höchstbetrag auf 1.900 statt 1.800 Euro. Der Starttermin ist offen.",
       "quellen": [
         {
-          "name": "FAZ",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/plaene-der-regierung-elterngeld-soll-steigen-bezugsdauer-soll-bei-14-monaten-bleiben-201629405.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/elterngeld-bezugsdauer-prien-100.html"
         },
         {
           "name": "Deutschlandfunk",
@@ -100,7 +96,7 @@
     },
     {
       "headline": "Berliner Sondierer planen Vergesellschaftung von Wohnungen",
-      "text": "In Berlin planen Linke, Grüne und SPD, die Bestände großer Konzerne ab 10.000 Wohnungen zu vergesellschaften. Es geht um 160.000 Wohnungen, die Entschädigung soll höchstens 16 Milliarden Euro betragen. Innenminister Dobrindt plant höhere Hürden, Kanzler Merz kritisiert die Pläne.",
+      "text": "In Berlin wollen Linke, Grüne und SPD Konzerne mit mehr als 10.000 Wohnungen vergesellschaften, betroffen wären 160.000 Wohnungen. Die Entschädigung soll höchstens 16 Milliarden Euro betragen. Dobrindt will höhere Hürden per Bundesgesetz, Merz hält die Pläne für schädlich.",
       "quellen": [
         {
           "name": "ZDFheute",
@@ -114,7 +110,7 @@
     },
     {
       "headline": "Kabinett weitet Sicherheitsprüfungen gegen Sabotage aus",
-      "text": "Das Kabinett hat beschlossen, die Sicherheitsprüfungen für Mitarbeiter in Betrieben der kritischen Infrastruktur auszuweiten, etwa bei Wasserwerken und Energieanlagen. Grund ist die wachsende Bedrohung durch Sabotageakte und Spionage, besonders aus Russland.",
+      "text": "Das Kabinett beschloss eine Verordnung für mehr Sicherheitsüberprüfungen bei Beschäftigten kritischer Infrastruktur, etwa beim Wiederanfahren des Stromnetzes und bei großen Wasserwerken. Grund ist die gestiegene Bedrohung durch Sabotage und Spionage, vor allem durch Russland.",
       "quellen": [
         {
           "name": "tagesschau",
