@@ -3,98 +3,126 @@
   "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Zugunglück bei Toledo fordert 64 Tote",
-      "text": "Bei der Kollision zweier Hochgeschwindigkeitszüge in der Provinz Toledo starben laut Regionalregierung 64 Menschen, über 170 wurden verletzt. Laut Adif-Kreisen fuhr ein Renfe-Zug auf einen Iryo-Zug auf. Die Ursache ist unklar, die Regierung sprach von menschlichem Fehler.",
+      "headline": "Zugunglück bei Toledo fordert mindestens 64 Tote",
+      "text": "Beim Zusammenstoß zweier Hochgeschwindigkeitszüge in der Provinz Toledo starben laut Regionalregierung mindestens 64 Menschen, rund 80 wurden verletzt. Verkehrsminister Puente nannte einen Computerausfall und eine unerklärliche Entscheidung der Leitstelle zur Weiterfahrt.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/panorama/kollision-zuege-spanien-hochgeschwindigkeit-verletzte-tote-100.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo"
         }
       ]
     },
     {
-      "headline": "Netanjahus Block führt bei Israel-Wahl, Mehrheit offen",
-      "text": "Nach Auszählung von rund zwei Dritteln liegt Netanjahus Block laut ZDFheute bei 54 der 120 Sitze vor Eisenkots Lager mit 48, die arabischen Parteien kommen auf 18. Eine Regierung benötigt 61 Mandate. Soldatenstimmen folgen ab Mittwoch.",
+      "headline": "Netanyahus Block liegt bei Israel-Wahl vorn, Mehrheit fehlt",
+      "text": "Nach Teilergebnissen kommt Netanyahus Block laut israelischen Medien auf 54 der 120 Sitze, Eisenkots Bündnis auf 49, arabische Parteien auf 17. Für eine Regierung sind 61 nötig. Noch ungezählte Stimmen, vor allem von Soldaten, fehlen, das Endergebnis wird bis Freitag erwartet.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/ausland/israel-parlamentswahl-netanjahu-eisenkot-100.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/ausland/israel-wahl-ausgang-koalition-100.html"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cjy561y4pl56o"
         }
       ]
     },
     {
       "headline": "Trump kündigt baldiges Treffen mit Putin und Selenskyj an",
-      "text": "Trump sagte am Mittwoch, es werde sehr bald ein Treffen mit Putin und Selenskyj geben. Der Kreml hatte direkte Gespräche russischer und ukrainischer Unterhändler in der ersten Hälfte des Novembers in Abu Dhabi angekündigt. Selenskyj bestätigte das.",
+      "text": "Trump sagte am 28. Oktober, ein Treffen mit Putin und Selenskyj werde sehr bald angesetzt, ohne Datum oder Ort zu nennen. Fachgespräche der drei Seiten sind für die erste Novemberhälfte in Abu Dhabi geplant. Putin hält ein Treffen erst nach einem Friedensabkommen für möglich.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/ausland/trump-treffen-selenskyj-putin-ukraine-krieg-russland-100.html"
+          "name": "RFE/RL",
+          "url": "https://www.rferl.org/a/trump-zelenskyy-putin-meeting-ukraine-peace-talks/33885793.html"
+        },
+        {
+          "name": "Meduza",
+          "url": "https://meduza.io/en/news/2026/10/28/trump-says-he-hopes-to-meet-with-putin-and-zelensky-very-soon"
         }
       ]
     },
     {
-      "headline": "Ölpreis sinkt wegen Iran-Diplomatie",
-      "text": "Brent fiel am Dienstag um 1,7 Prozent auf 113,88 Dollar je Barrel, nachdem Vertreter Saudi-Arabiens, Pakistans und der Türkei nach Teheran gereist waren. Teheran signalisierte Offenheit, die Straße von Hormus zu öffnen, falls die US-Blockade endet.",
+      "headline": "Ölpreis fällt wegen Diplomatie im Iran-Krieg",
+      "text": "Brent schloss laut Rigzone knapp 2 Prozent im Minus unter 114 Dollar je Barrel, nachdem Vertreter Saudi-Arabiens, Pakistans und der Türkei nach Teheran gereist waren. Iran zeigte sich offen für eine Öffnung der Straße von Hormus gegen ein Ende der US-Blockade binnen sieben Tagen.",
       "quellen": [
         {
-          "name": "Rigzone (Bloomberg)",
+          "name": "Rigzone",
           "url": "https://rigzone.com/news/wire/oil_slips_as_iran_diplomacy_picks_up-27-oct-2026-184947-article"
         }
       ]
     },
     {
-      "headline": "Bolsonaro offenbar in den USA, Trump nennt Einreise in Ordnung",
-      "text": "Flávio Bolsonaro soll laut Medienberichten mit anonymen Quellen bereits in den USA sein. Washington will Visa für ihn und dessen Angehörige ausstellen. Lula kam in der Stichwahl auf 51,8 Prozent, Bolsonaro auf 48,2 Prozent. Eine rechtliche Anfechtung kündigte er an.",
+      "headline": "Flávio Bolsonaro nach Wahlniederlage in Miami gelandet",
+      "text": "Der unterlegene Kandidat Flávio Bolsonaro ist mit seiner Familie in Miami gelandet, zuvor reiste er über Argentinien nach Ecuador. Die USA erteilten Einreisevisa, obwohl er die Anordnung zur Abgabe seiner Pässe missachtete. Das Wahlergebnis erkannte er laut BBC nicht an.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/ausland/brasilien-wahl-bolsonaro-ermittlungen-geldwaesche-ausreiseverbot-100.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cq62yg6rggj0o"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Merz will geordnetes Verfahren für Steinmeier-Nachfolge",
-      "text": "Kanzler Merz beansprucht für die CDU als größte Fraktion das Vorschlagsrecht für einen Kandidaten. Zunächst tagt am 9. November das CDU-Präsidium. Die CSU hatte früh Ilse Aigner ins Gespräch gebracht, was in der CDU Verärgerung auslöste.",
+      "headline": "Merz beansprucht Vorschlagsrecht für Steinmeier-Nachfolge",
+      "text": "Aus dem Umfeld von Kanzler Merz heißt es, die CDU beanspruche als größte Fraktion das Recht, einen Kandidaten zu benennen. Entschieden sei noch nichts. Zielpunkt ist die CDU-Präsidiumssitzung am 9. November. Die CSU setzt auf Ilse Aigner, im Gespräch ist auch Ines Claus.",
       "quellen": [
         {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/politik/deutschland/merz-nachfolge-bundespraesident-steinmeier-100.html"
+        },
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/nachfolge-steinmeier-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Elterngeld soll erstmals seit 2007 steigen",
+      "text": "Das Familienministerium plant erstmals seit 2007 höheres Elterngeld. Der Mindestsatz soll auf 330 statt 300 Euro, der Höchstsatz auf 1.900 statt 1.800 Euro steigen. Die Kürzung der Bezugsdauer auf zwölf Monate entfällt, beschlossen ist noch nichts.",
+      "quellen": [
+        {
+          "name": "FAZ",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/plaene-der-regierung-elterngeld-soll-steigen-bezugsdauer-soll-bei-14-monaten-bleiben-201629405.html"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/elterngeld-soll-erstmals-seit-einfuehrung-erhoeht-werden-102.html"
         }
       ]
     },
     {
       "headline": "Berliner Sondierer planen Vergesellschaftung von Wohnungen",
-      "text": "Linke, Grüne und SPD wollen in Berlin Konzerne ab 10.000 Wohnungen vergesellschaften, rund 160.000 Wohnungen, die Entschädigung läge bei höchstens 16 Milliarden Euro. Der Konzern Vonovia hält das für verfassungswidrig, Merz für wirtschaftspolitisch schädlich.",
+      "text": "In Berlin planen Linke, Grüne und SPD, die Bestände großer Konzerne ab 10.000 Wohnungen zu vergesellschaften. Es geht um 160.000 Wohnungen, die Entschädigung soll höchstens 16 Milliarden Euro betragen. Innenminister Dobrindt plant höhere Hürden, Kanzler Merz kritisiert die Pläne.",
       "quellen": [
         {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/politik/deutschland/berlin-regierung-koalition-wohnungen-immobilienkonzerne-enteignen-vorteil-kritik-100.html"
+        },
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/politik/deutschlands-innenminister-dobrindt-will-die-enteignungsplaene-des-linksbuendnisses-in-berlin-unbezahlbar-machen-ld.10044738"
         }
       ]
     },
     {
-      "headline": "Hubig und Hubertz wollen günstigeres Bauen ermöglichen",
-      "text": "Die SPD-Ministerinnen wollen das Bauvertragsrecht ändern, damit leichter von Komfortstandards abgewichen werden kann. Die Baukosten könnten laut Justizministerium um 10 bis 15 Prozent sinken. Brandschutz und Statik bleiben unangetastet. Start frühestens Mitte 2027.",
+      "headline": "Kabinett weitet Sicherheitsprüfungen gegen Sabotage aus",
+      "text": "Das Kabinett hat beschlossen, die Sicherheitsprüfungen für Mitarbeiter in Betrieben der kritischen Infrastruktur auszuweiten, etwa bei Wasserwerken und Energieanlagen. Grund ist die wachsende Bedrohung durch Sabotageakte und Spionage, besonders aus Russland.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/guenstiger-wohnungsbau-gebaeudetyp-e-gesetzentwurf-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Sachsen-Anhalt ohne Regierung und Haushalt",
-      "text": "Nach der Landtagswahl im September, die die AfD mit 43,8 Prozent ohne absolute Mehrheit gewann, gibt es weder eine neue Regierung noch einen Landeshaushalt. Kommunen und Unternehmen warten auf Entscheidungen über Fördermittel.",
-      "quellen": [
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/kritische-infrastruktur-sabotage-schutz-100.html"
+        },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-afd-regierung-haushalt-foerdermittel-soziales-kommunen-100.html"
+          "name": "FAZ",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-regierung-will-beschaeftigte-in-kritischer-infrastruktur-genauer-ueberpruefen-faz-110093143.html"
         }
       ]
     }
