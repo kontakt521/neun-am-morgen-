@@ -1,66 +1,74 @@
 {
-  "datum": "2026-10-28",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-10-29",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Zwei Hochgeschwindigkeitszüge kollidieren bei Toledo, 68 Tote",
-      "text": "Bei Urda in der Provinz Toledo fuhr ein Renfe-Zug auf einen stehenden Iryo-Zug auf. Laut Regionalregierung starben mindestens 68 Menschen, rund 80 wurden verletzt. Minister Puente nannte die Entscheidung der Leitstelle zur Weiterfahrt trotz Signalausfalls unerklärlich.",
+      "headline": "Zugunglück in Spanien fordert mindestens 68 Tote",
+      "text": "Bei Urda fuhr ein Renfe-Zug auf einen stehenden Iryo-Zug auf. Laut Regionalregierung starben mindestens 68 Menschen. Verkehrsminister Puente nannte die Anweisung der Leitstelle zur Weiterfahrt nach einem Computerausfall unerklärlich.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cmqxnl312v34o"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo"
         }
       ]
     },
     {
       "headline": "Nach Israel-Wahl hat kein Lager eine Mehrheit",
-      "text": "Nach Teilergebnissen kommt Netanyahus Block auf 54 der 120 Sitze, Eisenkots Bündnis auf 49, arabische Parteien laut Prognosen auf 17. Für eine Mehrheit sind 61 nötig. Wegen ungezählter Briefwahlstimmen wird ein klares Endergebnis laut BBC erst in ein bis zwei Tagen erwartet.",
+      "text": "Nach Auszählung von knapp 90 Prozent liegt Netanyahus Block bei 53 der 120 Sitze, Eisenkots Block bei 48. Arabische Parteien könnten laut Hochrechnungen 19 Sitze erreichen. Das Endergebnis wird frühestens am Donnerstagabend erwartet, Hunderttausende Sonderstimmen sind offen.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu"
+          "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cjy561y4pl56o"
+          "url": "https://www.bbc.com/news/articles/cmdx3knq1xexo"
         }
       ]
     },
     {
-      "headline": "Trump kündigt Treffen von Selenskyj und Putin an",
-      "text": "Trump kündigte ein baldiges Treffen von Selenskyj und Putin an, ohne Termin oder Ort zu nennen. Laut Selenskyj finden vom 6. bis 10. November Fachgespräche der Ukraine, Russlands und der USA in Abu Dhabi statt. Putin hält ein Treffen erst nach einem Friedensabkommen für möglich.",
+      "headline": "Ölpreis bleibt hoch, Märkte fürchten Eskalation um Iran",
+      "text": "Brent lag am Dienstag laut CBS News bei rund 113 Dollar, nachdem Vertreter Saudi-Arabiens, der Türkei und Pakistans mit Iran verhandelt hatten. Laut Analysten von Macquarie sind die Märkte vor den US-Zwischenwahlen am 3. November wegen Eskalationsrisiken angespannt.",
+      "quellen": [
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
+        },
+        {
+          "name": "Rigzone",
+          "url": "https://www.rigzone.com/news/energy_on_edge_ahead_of_usa_midterms-28-oct-2026-184950-article/"
+        }
+      ]
+    },
+    {
+      "headline": "Waffenruhe um Oleshky hält, Sorge vor Deportationen",
+      "text": "Die unter Beteiligung von Melania Trump vermittelte Waffenruhe um das russisch besetzte Oleshky gilt bis 1. November, Verstöße wurden laut ukrainischen und US-Vertretern nicht gemeldet. Ein Razom-Vertreter warnt vor Zwangsdeportation von fast 2.000 Zivilisten.",
       "quellen": [
         {
           "name": "RFE/RL",
-          "url": "https://www.rferl.org/a/trump-zelenskyy-putin-meeting-ukraine-peace-talks/33885793.html"
-        }
-      ]
-    },
-    {
-      "headline": "Ölpreis fällt wegen Iran-Diplomatie",
-      "text": "Brent schloss am Dienstag laut Rigzone 1,7 Prozent tiefer bei 113,88 Dollar, nachdem Vertreter Saudi-Arabiens, Pakistans und der Türkei in Teheran waren. Iran zeigte sich flexibel bei einem Vorschlag, Hormus gegen ein Ende der US-Blockade binnen sieben Tagen zu öffnen.",
-      "quellen": [
+          "url": "https://www.rferl.org/a/oleshky-ukraine-russia-melania-trump-ceasefire/33886379.html"
+        },
         {
-          "name": "Rigzone",
-          "url": "https://rigzone.com/news/wire/oil_slips_as_iran_diplomacy_picks_up-27-oct-2026-184947-article"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6lye1w9p2l8o"
         }
       ]
     },
     {
-      "headline": "Flávio Bolsonaro nach Wahlniederlage in Miami gelandet",
-      "text": "Der gegen Lula unterlegene Kandidat Flávio Bolsonaro ist nach einer Reise über Argentinien und Ecuador mit seiner Familie in Miami gelandet. Das Oberste Gericht hatte die Abgabe seiner Pässe angeordnet, die USA stellten Visa aus. Das Ergebnis erkennt er laut BBC nicht an.",
+      "headline": "Flávio Bolsonaro landet nach Wahlniederlage in Miami",
+      "text": "Der gegen Lula unterlegene Flávio Bolsonaro ist mit seiner Familie in Miami gelandet, nachdem das Oberste Gericht die Abgabe seiner Pässe angeordnet hatte. Er behauptet ohne Beleg Wahlbetrug, seine Partei erkennt Lulas Sieg an. Er will die Opposition aus den USA führen.",
       "quellen": [
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cq62yg6rggj0o"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
         }
       ]
     }
@@ -68,21 +76,35 @@
   "national": [
     {
       "headline": "Merz beansprucht Vorschlagsrecht für Steinmeier-Nachfolge",
-      "text": "Aus Merz' Umfeld heißt es, die CDU habe als größte Kraft in der Bundesversammlung Anspruch auf einen Kandidaten. Entschieden sei noch nichts, Zielpunkt ist die CDU-Präsidiumssitzung am 9. November. Die CSU wirbt für Ilse Aigner, im Gespräch ist auch Ines Claus.",
+      "text": "Aus dem Umfeld von Kanzler Merz heißt es, die CDU habe als größte Kraft in der Bundesversammlung Anspruch auf einen Kandidaten. Entschieden sei nichts. Die CSU wirbt für Ilse Aigner, genannt wird auch Ines Claus. Die Wahl findet am 30. Januar 2027 statt.",
       "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/merz-nachfolge-bundespraesident-steinmeier-100.html"
-        },
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/nachfolge-steinmeier-100.html"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/merz-nachfolge-bundespraesident-steinmeier-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Berliner Sondierer planen Vergesellschaftung von Wohnungen",
+      "text": "Linke, Grüne und SPD wollen in Berlin Konzerne mit mehr als 10.000 Wohnungen vergesellschaften, betroffen wären bis zu 160.000 Wohnungen. Die Entschädigung soll höchstens 16 Milliarden Euro betragen. Dobrindt will höhere Hürden per Bundesgesetz, Merz hält die Pläne für schädlich.",
+      "quellen": [
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/politik/deutschlands-innenminister-dobrindt-will-die-enteignungsplaene-des-linksbuendnisses-in-berlin-unbezahlbar-machen-ld.10044738"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/berlin-regierung-koalition-wohnungen-immobilienkonzerne-enteignen-vorteil-kritik-100.html"
         }
       ]
     },
     {
       "headline": "Elterngeld bleibt bei 14 Monaten, Beträge sollen steigen",
-      "text": "Laut Plänen des Familienministeriums bleibt das Elterngeld weiter für höchstens 14 Monate, die vorgesehene Verkürzung auf zwölf Monate entfällt. Der Mindestbetrag steigt von 300 auf 330, der Höchstbetrag auf 1.900 statt 1.800 Euro. Der Starttermin ist offen.",
+      "text": "Das Familienministerium plant, die Bezugsdauer bei höchstens 14 Monaten zu belassen, die Kürzung auf zwölf Monate entfällt. Der Mindestbetrag steigt auf 330 statt 300 Euro, der Höchstbetrag auf 1.900 statt 1.800 Euro. Der Starttermin ist offen.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -95,30 +117,12 @@
       ]
     },
     {
-      "headline": "Berliner Sondierer planen Vergesellschaftung von Wohnungen",
-      "text": "In Berlin wollen Linke, Grüne und SPD Konzerne mit mehr als 10.000 Wohnungen vergesellschaften, betroffen wären 160.000 Wohnungen. Die Entschädigung soll höchstens 16 Milliarden Euro betragen. Dobrindt will höhere Hürden per Bundesgesetz, Merz hält die Pläne für schädlich.",
+      "headline": "Linnemann schließt Kürzungen in der Pflege nicht aus",
+      "text": "Gesundheitsminister Linnemann schließt laut Handelsblatt Kürzungen bei Pflegeleistungen nicht aus und hält Einsparungen von rund zehn Prozent für nötig. Eine Kommission soll bis Ende Januar Vorschläge vorlegen. Die Ausgaben lagen zuletzt bei fast 74 Milliarden Euro.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/berlin-regierung-koalition-wohnungen-immobilienkonzerne-enteignen-vorteil-kritik-100.html"
-        },
-        {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/deutschlands-innenminister-dobrindt-will-die-enteignungsplaene-des-linksbuendnisses-in-berlin-unbezahlbar-machen-ld.10044738"
-        }
-      ]
-    },
-    {
-      "headline": "Kabinett weitet Sicherheitsprüfungen gegen Sabotage aus",
-      "text": "Das Kabinett beschloss eine Verordnung für mehr Sicherheitsüberprüfungen bei Beschäftigten kritischer Infrastruktur, etwa beim Wiederanfahren des Stromnetzes und bei großen Wasserwerken. Grund ist die gestiegene Bedrohung durch Sabotage und Spionage, vor allem durch Russland.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/kritische-infrastruktur-sabotage-schutz-100.html"
-        },
-        {
-          "name": "FAZ",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-regierung-will-beschaeftigte-in-kritischer-infrastruktur-genauer-ueberpruefen-faz-110093143.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/linnemann-haelt-leistungskuerzungen-bei-der-pflege-fuer-moeglich-100.html"
         }
       ]
     }
