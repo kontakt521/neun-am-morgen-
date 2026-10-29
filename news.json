@@ -1,24 +1,24 @@
 {
   "datum": "2026-10-29",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Zugunglück bei Urda fordert mindestens 69 Tote",
-      "text": "Bei Urda fuhr ein Renfe-Zug auf einen stehenden Iryo-Zug auf. Laut BBC starben mindestens 69 Menschen. Veröffentlichte Tonaufnahmen deuten darauf hin, dass die Leitstelle dem Renfe-Zug die Weiterfahrt erlaubte, obwohl der Iryo-Zug stand. Spanien trauert drei Tage.",
+      "headline": "Zugunglück bei Urda fordert mindestens 68 Tote",
+      "text": "Bei Urda fuhr am Mittwoch ein Renfe-Zug auf einen stehenden Iryo-Zug auf, mindestens 68 Menschen starben. Verkehrsminister Puente nennt die Weiterfahrtanweisung der Leitstelle unerklärlich. Spanien trauert drei Tage.",
       "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cmqxnl312v34o"
-        },
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/i-held-this-woman-in-my-arms-she-died-spain-mourns-train-crash-victims"
         }
       ]
     },
     {
-      "headline": "Nach Israel-Wahl hat kein Lager eine Mehrheit",
-      "text": "Nach Auszählung von fast 90 Prozent liegt Netanyahus Block bei 53 der 120 Sitze, Eisenkots Block bei 48, nötig wären 61. Likud wirft arabischen Parteien Wahldiebstahl vor, ohne Beweise vorzulegen. Das Endergebnis ist frühestens am Donnerstagabend möglich.",
+      "headline": "Israel-Wahl bringt keinem Lager eine Mehrheit",
+      "text": "Nach Teilergebnissen liegt Netanyahus Block bei 53 von 120 Sitzen, Eisenkots Block bei 48, nötig sind 61. Bis zu 480.000 Stimmen von Soldaten und Diplomaten sind noch auszuzählen. Likud wirft arabischen Parteien Wahldiebstahl vor. Herzog berät sich danach mit den Parteien.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -31,52 +31,48 @@
       ]
     },
     {
-      "headline": "Ölpreis bleibt hoch, Märkte fürchten Eskalation um Iran",
-      "text": "Brent lag am Dienstag laut CBS News bei rund 113 Dollar, nachdem Vertreter Saudi-Arabiens, der Türkei und Pakistans mit Iran verhandelt hatten. Laut Macquarie-Strategen sind die Märkte vor den US-Zwischenwahlen am 3. November wegen Eskalationsrisiken angespannt.",
-      "quellen": [
-        {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
-        },
-        {
-          "name": "Rigzone",
-          "url": "https://www.rigzone.com/news/energy_on_edge_ahead_of_usa_midterms-28-oct-2026-184950-article/"
-        }
-      ]
-    },
-    {
-      "headline": "Waffenruhe um Oleshky hält, Sorge vor Deportationen",
-      "text": "Die unter Beteiligung von Melania Trump vermittelte Waffenruhe um das russisch besetzte Oleshky gilt bis 1. November, Verstöße wurden laut ukrainischen und US-Vertretern nicht gemeldet. Razom warnt vor Zwangsdeportation von fast 2.000 Zivilisten.",
-      "quellen": [
-        {
-          "name": "RFE/RL",
-          "url": "https://www.rferl.org/a/oleshky-ukraine-russia-melania-trump-ceasefire/33886379.html"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6lye1w9p2l8o"
-        }
-      ]
-    },
-    {
-      "headline": "Flávio Bolsonaro landet nach Wahlniederlage in Miami",
-      "text": "Der gegen Lula unterlegene Flávio Bolsonaro ist mit seiner Familie in Miami gelandet, nachdem das Oberste Gericht die Abgabe seiner Pässe angeordnet hatte. Er behauptet ohne Beleg Wahlbetrug, seine Partei erkennt Lulas Sieg an. Er will die Opposition aus den USA führen.",
+      "headline": "Vance schreibt Irans Sicherheitschef, Trump warnt Golfstaaten",
+      "text": "Laut US-Medien schrieb Vance dem iranischen Sicherheitschef Rezaei, um Gespräche anzustoßen. Eine Antwort wird laut New York Times am Donnerstag erwartet. Laut Wall Street Journal soll Trump Golfstaaten auf eine kurze, intensive Militäraktion nach den Zwischenwahlen vorbereiten.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election"
+          "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare"
         },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
+        }
+      ]
+    },
+    {
+      "headline": "Russische Drohne tötet 14 Menschen am Bahnhof von Dnipro",
+      "text": "Eine russische Drohne traf am Donnerstag einen Bahnsteig im Hauptbahnhof von Dnipro, mindestens 14 Menschen starben, laut Gouverneur Hanzha wurden ebenso viele verletzt. Selenskyj fordert weitere Sanktionen gegen Russland. Russlands Militär äußerte sich zunächst nicht.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c9p8gdlz1p2ko"
+        }
+      ]
+    },
+    {
+      "headline": "Bolsonaro nennt sich nach Flucht in die USA Brasiliens Anführer",
+      "text": "Der Wahlverlierer Flávio Bolsonaro ist in Miami gelandet, nachdem er seine Pässe trotz Gerichtsanordnung nicht abgegeben hatte. In einem Brief behauptet er ohne Beleg Wahlbetrug und will die Opposition aus den USA führen. Seine Partei erkennt Lulas Sieg an.",
+      "quellen": [
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c3x2w4109pj8o"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Merz beansprucht Vorschlagsrecht für Steinmeier-Nachfolge",
-      "text": "Aus dem Umfeld von Kanzler Merz heißt es, die CDU habe als größte Kraft in der Bundesversammlung Anspruch auf einen Kandidaten. Entschieden sei nichts. Die CSU wirbt für Ilse Aigner, genannt wird auch Ines Claus. Die Wahl findet am 30. Januar 2027 statt.",
+      "headline": "Merz sieht Vorschlagsrecht für Steinmeier-Nachfolge bei der CDU",
+      "text": "Aus dem Umfeld von Kanzler Merz heißt es, das Vorschlagsrecht liege bei der CDU, der größten Partei in der Bundesversammlung. Entschieden sei noch nichts. Die CSU wirbt für Ilse Aigner. Gewählt wird am 30. Januar 2027, wichtiger Termin ist der 9. November.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -89,36 +85,22 @@
       ]
     },
     {
-      "headline": "Dobrindt will Vergesellschaftungen per Gesetz erschweren",
-      "text": "Innenminister Dobrindt will Vergesellschaftungen per Bundesgesetz erschweren. Entschädigung soll nur zum Verkehrswert und in Geld erfolgen. Berlins Sondierer planen höchstens 16 Milliarden Euro Entschädigung. Die Linke erwartet, dass das Bundesverfassungsgericht es kippt.",
+      "headline": "Linnemann schließt Kürzungen bei Pflegeleistungen nicht aus",
+      "text": "Gesundheitsminister Linnemann sagte dem Handelsblatt, die Pflegeversicherung müsse rund zehn Prozent einsparen, Leistungskürzungen könne er nicht ausschließen. Eine Kommission soll bis Ende Januar Vorschläge vorlegen. Die Ausgaben lagen zuletzt bei fast 74 Milliarden Euro.",
       "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/dobrindt-immobilien-wohnungen-enteignung-100.html"
-        },
-        {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/deutschlands-innenminister-dobrindt-will-die-enteignungsplaene-des-linksbuendnisses-in-berlin-unbezahlbar-machen-ld.10044738"
-        }
-      ]
-    },
-    {
-      "headline": "Linnemann schließt Kürzungen in der Pflege nicht aus",
-      "text": "Gesundheitsminister Linnemann schließt laut Handelsblatt Kürzungen bei Pflegeleistungen nicht aus und hält Einsparungen von rund zehn Prozent für nötig. Eine Kommission soll bis Ende Januar Vorschläge vorlegen. Die Ausgaben lagen zuletzt bei fast 74 Milliarden Euro.",
-      "quellen": [
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/linnemann-haelt-leistungskuerzungen-bei-der-pflege-fuer-moeglich-100.html"
-        },
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/linnemann-kuerzungen-pflegeleistungen-100.html"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/linnemann-haelt-leistungskuerzungen-bei-der-pflege-fuer-moeglich-100.html"
         }
       ]
     },
     {
       "headline": "Elterngeld bleibt bei 14 Monaten, Beträge sollen steigen",
-      "text": "Nach Plänen des Familienministeriums bleibt das Elterngeld bei bis zu 14 Monaten, wenn beide Elternteile mindestens vier Monate nehmen. Die Kürzung auf zwölf Monate entfällt. Der Mindestbetrag steigt auf 330, der Höchstbetrag auf 1.900 Euro. Der Starttermin ist offen.",
+      "text": "Nach einem Entwurf des Familienministeriums bleibt das Elterngeld bei bis zu 14 Monaten, wenn beide Elternteile mindestens vier Monate nehmen. Mindestbetrag 330 statt 300, Höchstbetrag 1.900 statt 1.800 Euro. Beschlossen ist nichts, die Regierung stimmt den Entwurf ab.",
       "quellen": [
         {
           "name": "Deutschlandfunk",
@@ -127,6 +109,16 @@
         {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/politik/deutschland/elterngeld-reform-geld-aufteilung-erhoehung-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Zwei Belarusen unter Sabotageverdacht bei Nürnberg in Haft",
+      "text": "Gegen zwei Belarusen, 39 und 50 Jahre alt, ermittelt die Münchner Generalstaatsanwaltschaft. Sie sollen bei Nürnberg gegen Bezahlung einen Brandanschlag auf Kritische Infrastruktur geplant haben, für eine fremde Regierung oder Vereinigung. Sie sitzen seit dem 7. Oktober in Haft.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html"
         }
       ]
     }
