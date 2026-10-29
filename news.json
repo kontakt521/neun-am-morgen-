@@ -1,10 +1,10 @@
 {
   "datum": "2026-10-29",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
       "headline": "Zugunglück bei Urda fordert mindestens 68 Tote",
-      "text": "Bei Urda fuhr am Mittwoch ein Renfe-Zug auf einen stehenden Iryo-Zug auf, mindestens 68 Menschen starben. Verkehrsminister Puente nennt die Weiterfahrtanweisung der Leitstelle unerklärlich. Spanien trauert drei Tage.",
+      "text": "Bei der Kollision zweier Hochgeschwindigkeitszüge nahe Urda starben am Mittwoch mindestens 68 Menschen. Verkehrsminister Puente nennt die Weiterfahrtanweisung der Leitstelle unerklärlich. Spanien trauert drei Tage, Gewerkschaften hatten für Donnerstag einen Streik geplant.",
       "quellen": [
         {
           "name": "The Guardian",
@@ -18,7 +18,7 @@
     },
     {
       "headline": "Israel-Wahl bringt keinem Lager eine Mehrheit",
-      "text": "Nach Teilergebnissen liegt Netanyahus Block bei 53 von 120 Sitzen, Eisenkots Block bei 48, nötig sind 61. Bis zu 480.000 Stimmen von Soldaten und Diplomaten sind noch auszuzählen. Likud wirft arabischen Parteien Wahldiebstahl vor. Herzog berät sich danach mit den Parteien.",
+      "text": "Bei 99 Prozent Auszählung liegt Netanyahus Block bei 53 von 120 Sitzen, Eisenkots Block bei 48, nötig sind 61. Bis zu 480.000 Stimmen von Soldaten und Diplomaten fehlen noch. Likud wirft arabischen Parteien Wahldiebstahl vor. Herzog berät nächste Woche mit den Parteien.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -32,7 +32,7 @@
     },
     {
       "headline": "Vance schreibt Irans Sicherheitschef, Trump warnt Golfstaaten",
-      "text": "Laut US-Medien schrieb Vance dem iranischen Sicherheitschef Rezaei, um Gespräche anzustoßen. Eine Antwort wird laut New York Times am Donnerstag erwartet. Laut Wall Street Journal soll Trump Golfstaaten auf eine kurze, intensive Militäraktion nach den Zwischenwahlen vorbereiten.",
+      "text": "Laut US-Medien schrieb Vance dem iranischen Sicherheitschef Rezaei, um Gespräche anzustoßen. Laut New York Times wird am Donnerstag eine Antwort erwartet. Laut Wall Street Journal bereitet Trump Golfstaaten auf eine kurze, intensive Militäraktion nach den Zwischenwahlen vor.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "headline": "Bolsonaro nennt sich nach Flucht in die USA Brasiliens Anführer",
+      "headline": "Bolsonaro nennt sich nach US-Flucht Anführer Brasiliens",
       "text": "Der Wahlverlierer Flávio Bolsonaro ist in Miami gelandet, nachdem er seine Pässe trotz Gerichtsanordnung nicht abgegeben hatte. In einem Brief behauptet er ohne Beleg Wahlbetrug und will die Opposition aus den USA führen. Seine Partei erkennt Lulas Sieg an.",
       "quellen": [
         {
@@ -71,8 +71,8 @@
   ],
   "national": [
     {
-      "headline": "Merz sieht Vorschlagsrecht für Steinmeier-Nachfolge bei der CDU",
-      "text": "Aus dem Umfeld von Kanzler Merz heißt es, das Vorschlagsrecht liege bei der CDU, der größten Partei in der Bundesversammlung. Entschieden sei noch nichts. Die CSU wirbt für Ilse Aigner. Gewählt wird am 30. Januar 2027, wichtiger Termin ist der 9. November.",
+      "headline": "Vorschlagsrecht für Steinmeier-Nachfolge liegt bei der CDU",
+      "text": "Aus dem Umfeld von Kanzler Merz heißt es, das Vorschlagsrecht liege bei der CDU, der größten Partei in der Bundesversammlung. Entschieden sei noch nichts. Die CSU wirbt für Ilse Aigner. Gewählt wird am 30. Januar 2027, das CDU-Präsidium tagt am 9. November.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -100,7 +100,7 @@
     },
     {
       "headline": "Elterngeld bleibt bei 14 Monaten, Beträge sollen steigen",
-      "text": "Nach einem Entwurf des Familienministeriums bleibt das Elterngeld bei bis zu 14 Monaten, wenn beide Elternteile mindestens vier Monate nehmen. Mindestbetrag 330 statt 300, Höchstbetrag 1.900 statt 1.800 Euro. Beschlossen ist nichts, die Regierung stimmt den Entwurf ab.",
+      "text": "Der Entwurf des Familienministeriums behält die Bezugsdauer von bis zu 14 Monaten bei, wenn beide Elternteile mindestens vier Monate nehmen. Der Mindestsatz soll 330 statt 300 Euro betragen, der Höchstsatz 1.900 statt 1.800. Beschlossen ist nichts, die Regierung stimmt ab.",
       "quellen": [
         {
           "name": "Deutschlandfunk",
