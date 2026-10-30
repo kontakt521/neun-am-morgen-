@@ -1,112 +1,128 @@
 {
   "datum": "2026-10-30",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Zugunglück bei Urda überschattet Spaniens Wahlkampf",
-      "text": "Beim Zugunglück bei Urda starben mindestens 69 Menschen, Spanien hält drei Tage Trauer. Verkehrsminister Puente nennt einen Computerfehler mit menschlichem Versagen als wahrscheinliche Ursache. Die Parlamentswahl in einem Monat steht im Schatten der Katastrophe.",
-      "quellen": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/ckn9rq8204l0o"
-        }
-      ]
-    },
-    {
-      "headline": "Israels Blöcke verfehlen Mehrheit, Streit um Wahlvorwürfe",
-      "text": "Nach Auszählung aller Stimmen hat Netanyahus Block 53, Eisenkots Block 48 von 120 Sitzen, die arabischen Listen 19. Likud wirft diesen ohne Beleg Wahldiebstahl vor, der Shin Bet prüft Hinweise auf ausländische Einflussnahme. Eisenkot traf Bennett zu Regierungsgesprächen.",
+      "headline": "USA prüfen neue Iran-Angriffe, Vance bietet Gespräche an",
+      "text": "Der Chef des US-Regionalkommandos Centcom hat Trump laut Wall Street Journal Optionen für neue Angriffe auf Iran vorgelegt. Vizepräsident Vance bot in einem Brief direkte Gespräche an, Vermittler aus Katar sind wieder in Teheran. Teheran nennt sieben Bedingungen.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete"
+          "url": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer"
         },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran"
+        }
+      ]
+    },
+    {
+      "headline": "Patt in Israel, Streit um Vorwürfe gegen arabische Parteien",
+      "text": "Nach dem Endergebnis kommt Netanyahus Block auf 53, Eisenkots Block auf 48 von 120 Sitzen, die arabischen Listen auf 19. Likud wirft diesen vor, die Wahl zu stehlen, der Shin Bet prüft mögliche illegale Gelder aus Katar und der Türkei. Katar weist das zurück.",
+      "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/ckdd8qdl9e0eo"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs"
         }
       ]
     },
     {
-      "headline": "Lagarde tritt im Februar 2027 als EZB-Chefin zurück",
-      "text": "EZB-Präsidentin Christine Lagarde gibt ihr Amt am 7. Februar 2027 auf, vor Ende ihrer Amtszeit im Oktober 2027. Laut einer Quelle mit direkter Kenntnis will sie sich zu politischen Fragen äußern können. Ratspräsident Costa kündigte an, die Nachfolgersuche beginne sofort.",
+      "headline": "Binance meldet Diebstahl von 6,3 Milliarden Dollar",
+      "text": "Binance beziffert den Schaden auf rund 6,3 Milliarden Dollar, etwa 3 Milliarden sind eingefroren. Ein- und Auszahlungen ruhen, die Börse will alle Verluste decken. TRM Labs und Chainalysis nennen Nordkoreas Gruppe TraderTraitor als Täter, Binance selbst nennt keinen.",
       "quellen": [
         {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/business/2026/1029/1597194-christine-lagarde/"
-        }
-      ]
-    },
-    {
-      "headline": "Hackerangriff auf Binance, Nordkorea im Verdacht",
-      "text": "Binance verlor laut Analysefirmen TRM und Chainalysis über 6 Milliarden Dollar, verantwortlich sei Nordkoreas Hackereinheit TraderTraitor. Binance bestätigte den Diebstahl nicht ausdrücklich, sperrte Ein- und Auszahlungen und will Verluste ersetzen. Bitcoin verlor über 3 Prozent.",
-      "quellen": [
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know"
+        },
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue"
         }
       ]
     },
     {
-      "headline": "Russische Drohne tötet 14 Menschen am Bahnhof von Dnipro",
-      "text": "Eine russische Drohne traf am Donnerstag einen Bahnsteig im Hauptbahnhof von Dnipro, mindestens 14 Menschen starben, ebenso viele wurden verletzt. Selenskyj fordert Sanktionen, EU-Ratspräsident Costa nennt den Angriff grausam. Russlands Militär äußerte sich zunächst nicht.",
+      "headline": "Spaniens Verkehrsminister lehnt nach Zugunglück Rücktritt ab",
+      "text": "Nach dem Zusammenstoß zweier Hochgeschwindigkeitszüge bei Urda mit mindestens 69 Toten lehnt Verkehrsminister Puente einen Rücktritt ab. Ministerpräsident Sánchez sagt, das Vertrauen in den Hochgeschwindigkeitsverkehr sei zerbrochen. Das Land hält drei Tage Trauer.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c9p8gdlz1p2ko"
+          "url": "https://www.bbc.com/news/articles/c6zxj2e5qlxxo"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/30/ukraine-war-briefing-russian-drone-attack-dnipro-rail-platform"
+          "url": "https://www.theguardian.com/world/2026/oct/30/spain-trust-high-speed-rail-broken-after-second-deadly-crash-this-year-says-pedro-sanchez"
+        }
+      ]
+    },
+    {
+      "headline": "Trump holt abgesagte Kundgebungen vor Midterms zurück",
+      "text": "Weniger als vier Tage vor der US-Zwischenwahl setzt Trump die abgesagten Auftritte in Kansas und Iowa laut einer Quelle aus seinem Umfeld wieder an, beide am Sonntag, mit mehr Telefonkundgebungen. In Kansas führt der Demokrat Hamilton laut Emerson-Umfrage mit 49 zu 45 Prozent.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loan"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Steinmeier-Nachfolge wird zur Machtfrage für die Union",
-      "text": "In der Union wächst der Streit um die Nachfolge von Bundespräsident Steinmeier. CSU-Chef Söder wirbt für Ilse Aigner, in der CDU werden auch Ines Claus und weitere Frauen genannt. Das CDU-Präsidium will am 9. November die Kandidatenfrage besprechen, gewählt wird am 30. Januar.",
+      "headline": "Gen-Z-Proteste am Samstag in über 30 Städten",
+      "text": "Für Samstag sind in über 30 Städten Demonstrationen von Gen Z regelt geplant, rund 160.000 Interessierte wollen teilnehmen. Gewaltbereite Demonstranten aus dem Ausland sollen notfalls an der Grenze zurückgewiesen werden. Eine Forscherin kritisiert die Gewaltwarnungen.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-kandidatensuche-union-100.html"
+          "url": "https://www.tagesschau.de/inland/gesellschaft/genz-proteste-polizei-gewalttaeter-100.html"
         },
         {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/nachfolge-in-schloss-bellevue-in-der-bundespraesidentenfrage-spielt-die-zeit-gegen-merz-ld.10044790"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/gen-z-regelt-proteste-protestforscherin-moma-100.html"
         }
       ]
     },
     {
-      "headline": "Spiegel-Bericht über Eralp belastet Berliner Regierungsbildung",
-      "text": "Der Spiegel veröffentlichte interne Kommentare von Eralp (Linke), die ihr Team versehentlich sandte. Sie fürchte Risiken für sich selbst und ihre Familie, falls sie sich zu einem Hamas-Sympathisanten äußere. Die CDU fordert von Grünen und SPD die Verhandlungen abzusagen.",
+      "headline": "Eralp-Kommentare belasten Berliner Regierungsbildung",
+      "text": "Nach dem Spiegel-Bericht über versehentlich übermittelte interne Kommentare der Linken-Spitzenkandidatin Eralp verlangt Unionsfraktionschef Frei von SPD und Grünen eine Absage an Koalitionsverhandlungen. Die Linke entscheidet am Samstag auf einem Parteitag über deren Aufnahme.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/eralp-berlin-linke-interview-folgen-100.html"
         }
       ]
     },
     {
-      "headline": "Deutsche Wirtschaft legt im dritten Quartal um 0,2 Prozent zu",
-      "text": "Die Wirtschaftsleistung stieg im dritten Quartal gegenüber dem Vorquartal um 0,2 Prozent, meldete das Statistische Bundesamt in erster Schätzung. Volkswirte hatten überwiegend mit Stagnation gerechnet. Die Investitionen gingen zurück, die Exporte schwächten sich ab.",
+      "headline": "Teuerung in Deutschland sinkt auf 2,8 Prozent",
+      "text": "Die Verbraucherpreise lagen im Oktober laut erster Schätzung des Statistischen Bundesamts 2,8 Prozent über dem Vorjahresmonat, im September waren es 3,3 Prozent. Experten hatten 3,0 Prozent erwartet. Fallende Spritpreise bremsen die Teuerung, Ökonomen warnen vor Entwarnung.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/entwicklung-bip-deutschland-sommer-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/inflationsrate-deutschland-oktober-100.html"
         }
       ]
     },
     {
-      "headline": "Linnemann schließt Kürzungen bei Pflegeleistungen nicht aus",
-      "text": "Linnemann kann Kürzungen in der Pflege nicht ausschließen, wegen eines strukturellen Finanzierungsproblems der Pflegeversicherung. Patientenschützer warnen vor Einschnitten bei der häuslichen Pflege. Eine Regierungskommission soll spätestens Ende Januar Reformvorschläge machen.",
+      "headline": "Merkel wirbt für eine Frau als Steinmeier-Nachfolgerin",
+      "text": "Für die Nachfolge von Bundespräsident Steinmeier kommt nach Ansicht von Altkanzlerin Merkel nur eine Frau infrage, Namen nennt sie nicht. Die Bundesversammlung entscheidet am 30. Januar. CSU-Chef Söder wirbt für Ilse Aigner, laut NZZ ist die Frage zur Machtfrage geworden.",
       "quellen": [
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/linnemann-haelt-leistungskuerzungen-bei-der-pflege-fuer-moeglich-100.html"
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/deutschland/angela-merkel-wirbt-fuer-weibliches-staatsoberhaupt-a-d99ca43c-2b94-4a8c-81e2-0213f1433bba"
+        },
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/politik/nachfolge-in-schloss-bellevue-in-der-bundespraesidentenfrage-spielt-die-zeit-gegen-merz-ld.10044790"
         }
       ]
     }
