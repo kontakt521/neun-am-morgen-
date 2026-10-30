@@ -1,24 +1,24 @@
 {
   "datum": "2026-10-30",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "Spanien trauert nach Zugunglück bei Urda um 69 Tote",
-      "text": "Beim Zusammenstoß zweier Hochgeschwindigkeitszüge bei Urda starben mindestens 69 Menschen, Spanien hält drei Tage nationale Trauer. Veröffentlichte Tonaufnahmen deuten darauf hin, dass der Renfe-Zug weiterfahren durfte, obwohl ein anderer Zug stand.",
+      "headline": "Zugunglück bei Urda überschattet Spaniens Wahlkampf",
+      "text": "Beim Zugunglück bei Urda starben mindestens 69 Menschen, Spanien hält drei Tage Trauer. Verkehrsminister Puente nennt einen Computerfehler mit menschlichem Versagen als wahrscheinliche Ursache. Die Parlamentswahl in einem Monat steht im Schatten der Katastrophe.",
       "quellen": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash"
+          "url": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cmqxnl312v34o"
+          "url": "https://www.bbc.com/news/articles/ckn9rq8204l0o"
         }
       ]
     },
     {
       "headline": "Israels Blöcke verfehlen Mehrheit, Streit um Wahlvorwürfe",
-      "text": "Nach Auszählung aller Stimmen hat Netanyahus Block 53, Eisenkots Block 48 von 120 Sitzen, die arabischen Listen 19. Likud wirft ihnen ohne Beleg Wahldiebstahl vor, der Shin Bet prüft Hinweise auf ausländische Einflussnahme. Eisenkot traf Bennett zu Regierungsgesprächen.",
+      "text": "Nach Auszählung aller Stimmen hat Netanyahus Block 53, Eisenkots Block 48 von 120 Sitzen, die arabischen Listen 19. Likud wirft diesen ohne Beleg Wahldiebstahl vor, der Shin Bet prüft Hinweise auf ausländische Einflussnahme. Eisenkot traf Bennett zu Regierungsgesprächen.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -41,22 +41,18 @@
       ]
     },
     {
-      "headline": "Vance schreibt Irans Sicherheitschef, Trump warnt Golfstaaten",
-      "text": "Vance schrieb laut US-Medien dem iranischen Sicherheitschef Rezaei, die Antwort sollte laut New York Times am Donnerstag kommen. Iran zögert laut Guardian bei Atomzusagen. Trump rät Golfstaaten laut Wall Street Journal zur Vorbereitung auf eine kurze Militärkampagne.",
+      "headline": "Hackerangriff auf Binance, Nordkorea im Verdacht",
+      "text": "Binance verlor laut Analysefirmen TRM und Chainalysis über 6 Milliarden Dollar, verantwortlich sei Nordkoreas Hackereinheit TraderTraitor. Binance bestätigte den Diebstahl nicht ausdrücklich, sperrte Ein- und Auszahlungen und will Verluste ersetzen. Bitcoin verlor über 3 Prozent.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare"
-        },
-        {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran"
+          "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
         }
       ]
     },
     {
       "headline": "Russische Drohne tötet 14 Menschen am Bahnhof von Dnipro",
-      "text": "Eine russische Drohne traf am Donnerstag einen Bahnsteig im Hauptbahnhof von Dnipro, mindestens 14 Menschen starben, mindestens 14 wurden verletzt. Selenskyj fordert weitere Sanktionen, Europas Politiker reagierten empört. Russlands Militär äußerte sich zunächst nicht.",
+      "text": "Eine russische Drohne traf am Donnerstag einen Bahnsteig im Hauptbahnhof von Dnipro, mindestens 14 Menschen starben, ebenso viele wurden verletzt. Selenskyj fordert Sanktionen, EU-Ratspräsident Costa nennt den Angriff grausam. Russlands Militär äußerte sich zunächst nicht.",
       "quellen": [
         {
           "name": "BBC",
@@ -72,7 +68,7 @@
   "national": [
     {
       "headline": "Steinmeier-Nachfolge wird zur Machtfrage für die Union",
-      "text": "In der Union wächst der Streit um die Nachfolge von Bundespräsident Steinmeier. Die CSU wirbt für Ilse Aigner, in der CDU werden auch Ines Claus und weitere Frauen genannt. Das CDU-Präsidium will am 9. November einen Vorschlag besprechen, gewählt wird am 30. Januar.",
+      "text": "In der Union wächst der Streit um die Nachfolge von Bundespräsident Steinmeier. CSU-Chef Söder wirbt für Ilse Aigner, in der CDU werden auch Ines Claus und weitere Frauen genannt. Das CDU-Präsidium will am 9. November die Kandidatenfrage besprechen, gewählt wird am 30. Januar.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -85,36 +81,32 @@
       ]
     },
     {
-      "headline": "Linnemann schließt Kürzungen bei Pflegeleistungen nicht aus",
-      "text": "Gesundheitsminister Linnemann sagte dem Handelsblatt, die Pflegeversicherung müsse rund zehn Prozent einsparen, Kürzungen könne er nicht ausschließen. Patientenschützer warnen vor Einschnitten bei der häuslichen Pflege. Eine Kommission soll bis Ende Januar Vorschläge machen.",
+      "headline": "Spiegel-Bericht über Eralp belastet Berliner Regierungsbildung",
+      "text": "Der Spiegel veröffentlichte interne Kommentare von Eralp (Linke), die ihr Team versehentlich sandte. Sie fürchte Risiken für sich selbst und ihre Familie, falls sie sich zu einem Hamas-Sympathisanten äußere. Die CDU fordert von Grünen und SPD die Verhandlungen abzusagen.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/linnemann-kuerzungen-pflegeleistungen-100.html"
-        },
+          "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Deutsche Wirtschaft legt im dritten Quartal um 0,2 Prozent zu",
+      "text": "Die Wirtschaftsleistung stieg im dritten Quartal gegenüber dem Vorquartal um 0,2 Prozent, meldete das Statistische Bundesamt in erster Schätzung. Volkswirte hatten überwiegend mit Stagnation gerechnet. Die Investitionen gingen zurück, die Exporte schwächten sich ab.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/entwicklung-bip-deutschland-sommer-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Linnemann schließt Kürzungen bei Pflegeleistungen nicht aus",
+      "text": "Linnemann kann Kürzungen in der Pflege nicht ausschließen, wegen eines strukturellen Finanzierungsproblems der Pflegeversicherung. Patientenschützer warnen vor Einschnitten bei der häuslichen Pflege. Eine Regierungskommission soll spätestens Ende Januar Reformvorschläge machen.",
+      "quellen": [
         {
           "name": "Deutschlandfunk",
           "url": "https://www.deutschlandfunk.de/linnemann-haelt-leistungskuerzungen-bei-der-pflege-fuer-moeglich-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Koalition debattiert über eine Steuer auf KI-Umsätze",
-      "text": "Die Koalition debattiert über eine Steuer auf KI-Umsätze. Familienministerin Prien ist dafür, Digitalminister Wildberger warb zunächst dafür und will nun erst Wachstum abwarten. Wirtschaftsministerin Reiche will die KI zuerst einführen. Konkrete Pläne fehlen.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Geleakte Mails werfen Fragen zu AfD-Politiker Frohnmaier auf",
-      "text": "Laut ZDF frontal zeigen geleakte AfD-Mails, dass Frohnmaiers Büro 2018 eingestufte Dokumente an ein privates Konto weiterleitete. Eine Weitergabe an Syrien geht daraus nicht hervor. Frohnmaier bestreitet, für fremde Staaten Informationen beschafft zu haben.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/afd-leak-mails-frohnmaier-syrien-russland-100.html"
         }
       ]
     }
