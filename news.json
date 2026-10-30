@@ -1,82 +1,82 @@
 {
-  "datum": "2026-10-29",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-10-30",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Zugunglück bei Urda fordert mindestens 68 Tote",
-      "text": "Bei der Kollision zweier Hochgeschwindigkeitszüge nahe Urda starben am Mittwoch mindestens 68 Menschen. Verkehrsminister Puente nennt die Weiterfahrtanweisung der Leitstelle unerklärlich. Spanien trauert drei Tage, Gewerkschaften hatten für Donnerstag einen Streik geplant.",
+      "headline": "Spanien trauert nach Zugunglück bei Urda um 69 Tote",
+      "text": "Beim Zusammenstoß zweier Hochgeschwindigkeitszüge bei Urda starben mindestens 69 Menschen, Spanien hält drei Tage nationale Trauer. Veröffentlichte Tonaufnahmen deuten darauf hin, dass der Renfe-Zug weiterfahren durfte, obwohl ein anderer Zug stand.",
       "quellen": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo"
+          "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/i-held-this-woman-in-my-arms-she-died-spain-mourns-train-crash-victims"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cmqxnl312v34o"
         }
       ]
     },
     {
-      "headline": "Israel-Wahl bringt keinem Lager eine Mehrheit",
-      "text": "Bei 99 Prozent Auszählung liegt Netanyahus Block bei 53 von 120 Sitzen, Eisenkots Block bei 48, nötig sind 61. Bis zu 480.000 Stimmen von Soldaten und Diplomaten fehlen noch. Likud wirft arabischen Parteien Wahldiebstahl vor. Herzog berät nächste Woche mit den Parteien.",
+      "headline": "Israels Blöcke verfehlen Mehrheit, Streit um Wahlvorwürfe",
+      "text": "Nach Auszählung aller Stimmen hat Netanyahus Block 53, Eisenkots Block 48 von 120 Sitzen, die arabischen Listen 19. Likud wirft ihnen ohne Beleg Wahldiebstahl vor, der Shin Bet prüft Hinweise auf ausländische Einflussnahme. Eisenkot traf Bennett zu Regierungsgesprächen.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted"
+          "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cmdx3knq1xexo"
+          "url": "https://www.bbc.com/news/articles/ckdd8qdl9e0eo"
+        }
+      ]
+    },
+    {
+      "headline": "Lagarde tritt im Februar 2027 als EZB-Chefin zurück",
+      "text": "EZB-Präsidentin Christine Lagarde gibt ihr Amt am 7. Februar 2027 auf, vor Ende ihrer Amtszeit im Oktober 2027. Laut einer Quelle mit direkter Kenntnis will sie sich zu politischen Fragen äußern können. Ratspräsident Costa kündigte an, die Nachfolgersuche beginne sofort.",
+      "quellen": [
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/business/2026/1029/1597194-christine-lagarde/"
         }
       ]
     },
     {
       "headline": "Vance schreibt Irans Sicherheitschef, Trump warnt Golfstaaten",
-      "text": "Laut US-Medien schrieb Vance dem iranischen Sicherheitschef Rezaei, um Gespräche anzustoßen. Laut New York Times wird am Donnerstag eine Antwort erwartet. Laut Wall Street Journal bereitet Trump Golfstaaten auf eine kurze, intensive Militäraktion nach den Zwischenwahlen vor.",
+      "text": "Vance schrieb laut US-Medien dem iranischen Sicherheitschef Rezaei, die Antwort sollte laut New York Times am Donnerstag kommen. Iran zögert laut Guardian bei Atomzusagen. Trump rät Golfstaaten laut Wall Street Journal zur Vorbereitung auf eine kurze Militärkampagne.",
       "quellen": [
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare"
         },
         {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran"
         }
       ]
     },
     {
       "headline": "Russische Drohne tötet 14 Menschen am Bahnhof von Dnipro",
-      "text": "Eine russische Drohne traf am Donnerstag einen Bahnsteig im Hauptbahnhof von Dnipro, mindestens 14 Menschen starben, laut Gouverneur Hanzha wurden ebenso viele verletzt. Selenskyj fordert weitere Sanktionen gegen Russland. Russlands Militär äußerte sich zunächst nicht.",
+      "text": "Eine russische Drohne traf am Donnerstag einen Bahnsteig im Hauptbahnhof von Dnipro, mindestens 14 Menschen starben, mindestens 14 wurden verletzt. Selenskyj fordert weitere Sanktionen, Europas Politiker reagierten empört. Russlands Militär äußerte sich zunächst nicht.",
       "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/c9p8gdlz1p2ko"
-        }
-      ]
-    },
-    {
-      "headline": "Bolsonaro nennt sich nach US-Flucht Anführer Brasiliens",
-      "text": "Der Wahlverlierer Flávio Bolsonaro ist in Miami gelandet, nachdem er seine Pässe trotz Gerichtsanordnung nicht abgegeben hatte. In einem Brief behauptet er ohne Beleg Wahlbetrug und will die Opposition aus den USA führen. Seine Partei erkennt Lulas Sieg an.",
-      "quellen": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c3x2w4109pj8o"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/30/ukraine-war-briefing-russian-drone-attack-dnipro-rail-platform"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Vorschlagsrecht für Steinmeier-Nachfolge liegt bei der CDU",
-      "text": "Aus dem Umfeld von Kanzler Merz heißt es, das Vorschlagsrecht liege bei der CDU, der größten Partei in der Bundesversammlung. Entschieden sei noch nichts. Die CSU wirbt für Ilse Aigner. Gewählt wird am 30. Januar 2027, das CDU-Präsidium tagt am 9. November.",
+      "headline": "Steinmeier-Nachfolge wird zur Machtfrage für die Union",
+      "text": "In der Union wächst der Streit um die Nachfolge von Bundespräsident Steinmeier. Die CSU wirbt für Ilse Aigner, in der CDU werden auch Ines Claus und weitere Frauen genannt. Das CDU-Präsidium will am 9. November einen Vorschlag besprechen, gewählt wird am 30. Januar.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/nachfolge-steinmeier-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-kandidatensuche-union-100.html"
         },
         {
           "name": "NZZ",
@@ -86,7 +86,7 @@
     },
     {
       "headline": "Linnemann schließt Kürzungen bei Pflegeleistungen nicht aus",
-      "text": "Gesundheitsminister Linnemann sagte dem Handelsblatt, die Pflegeversicherung müsse rund zehn Prozent einsparen, Leistungskürzungen könne er nicht ausschließen. Eine Kommission soll bis Ende Januar Vorschläge vorlegen. Die Ausgaben lagen zuletzt bei fast 74 Milliarden Euro.",
+      "text": "Gesundheitsminister Linnemann sagte dem Handelsblatt, die Pflegeversicherung müsse rund zehn Prozent einsparen, Kürzungen könne er nicht ausschließen. Patientenschützer warnen vor Einschnitten bei der häuslichen Pflege. Eine Kommission soll bis Ende Januar Vorschläge machen.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -99,26 +99,22 @@
       ]
     },
     {
-      "headline": "Elterngeld bleibt bei 14 Monaten, Beträge sollen steigen",
-      "text": "Der Entwurf des Familienministeriums behält die Bezugsdauer von bis zu 14 Monaten bei, wenn beide Elternteile mindestens vier Monate nehmen. Der Mindestsatz soll 330 statt 300 Euro betragen, der Höchstsatz 1.900 statt 1.800. Beschlossen ist nichts, die Regierung stimmt ab.",
+      "headline": "Koalition debattiert über eine Steuer auf KI-Umsätze",
+      "text": "Die Koalition debattiert über eine Steuer auf KI-Umsätze. Familienministerin Prien ist dafür, Digitalminister Wildberger warb zunächst dafür und will nun erst Wachstum abwarten. Wirtschaftsministerin Reiche will die KI zuerst einführen. Konkrete Pläne fehlen.",
       "quellen": [
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/elterngeld-soll-erstmals-seit-einfuehrung-erhoeht-werden-102.html"
-        },
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/elterngeld-reform-geld-aufteilung-erhoehung-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html"
         }
       ]
     },
     {
-      "headline": "Zwei Belarusen unter Sabotageverdacht bei Nürnberg in Haft",
-      "text": "Gegen zwei Belarusen, 39 und 50 Jahre alt, ermittelt die Münchner Generalstaatsanwaltschaft. Sie sollen bei Nürnberg gegen Bezahlung einen Brandanschlag auf Kritische Infrastruktur geplant haben, für eine fremde Regierung oder Vereinigung. Sie sitzen seit dem 7. Oktober in Haft.",
+      "headline": "Geleakte Mails werfen Fragen zu AfD-Politiker Frohnmaier auf",
+      "text": "Laut ZDF frontal zeigen geleakte AfD-Mails, dass Frohnmaiers Büro 2018 eingestufte Dokumente an ein privates Konto weiterleitete. Eine Weitergabe an Syrien geht daraus nicht hervor. Frohnmaier bestreitet, für fremde Staaten Informationen beschafft zu haben.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/afd-leak-mails-frohnmaier-syrien-russland-100.html"
         }
       ]
     }
