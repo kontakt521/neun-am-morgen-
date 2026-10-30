@@ -1,10 +1,10 @@
 {
   "datum": "2026-10-30",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
       "headline": "USA prüfen neue Iran-Angriffe, Vance bietet Gespräche an",
-      "text": "Der Chef des US-Regionalkommandos Centcom hat Trump laut Wall Street Journal Optionen für neue Angriffe auf Iran vorgelegt. Vizepräsident Vance bot in einem Brief direkte Gespräche an, Vermittler aus Katar sind wieder in Teheran. Teheran nennt sieben Bedingungen.",
+      "text": "Centcom-Chef Cooper hat Trump laut Wall Street Journal Optionen für neue Angriffe auf Iran vorgelegt. Vizepräsident Vance bot in einem Brief direkte Gespräche an, Vermittler aus Katar sind wieder in Teheran. Parlamentspräsident Ghalibaf nennt sieben Bedingungen.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -32,7 +32,7 @@
     },
     {
       "headline": "Binance meldet Diebstahl von 6,3 Milliarden Dollar",
-      "text": "Binance beziffert den Schaden auf rund 6,3 Milliarden Dollar, etwa 3 Milliarden sind eingefroren. Ein- und Auszahlungen ruhen, die Börse will alle Verluste decken. TRM Labs und Chainalysis nennen Nordkoreas Gruppe TraderTraitor als Täter, Binance selbst nennt keinen.",
+      "text": "Binance beziffert den Schaden auf rund 6,3 Milliarden Dollar, etwa 3 Milliarden sind eingefroren. Abhebungen ruhen, sollen aber binnen 45 Stunden wieder starten. TRM Labs und Chainalysis machen Nordkoreas Gruppe TraderTraitor verantwortlich, Binance benennt niemanden.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -60,7 +60,7 @@
     },
     {
       "headline": "Trump holt abgesagte Kundgebungen vor Midterms zurück",
-      "text": "Weniger als vier Tage vor der US-Zwischenwahl setzt Trump die abgesagten Auftritte in Kansas und Iowa laut einer Quelle aus seinem Umfeld wieder an, beide am Sonntag, mit mehr Telefonkundgebungen. In Kansas führt der Demokrat Hamilton laut Emerson-Umfrage mit 49 zu 45 Prozent.",
+      "text": "Weniger als vier Tage vor der US-Zwischenwahl setzt Trump die abgesagten Auftritte in Kansas und Iowa laut einer Quelle seines Umfelds wieder an, beide am Sonntag, mit mehr virtuellen Kundgebungen. In Kansas führt der Demokrat Hamilton laut Emerson-Umfrage mit 49 zu 45 Prozent.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -90,7 +90,7 @@
     },
     {
       "headline": "Eralp-Kommentare belasten Berliner Regierungsbildung",
-      "text": "Nach dem Spiegel-Bericht über versehentlich übermittelte interne Kommentare der Linken-Spitzenkandidatin Eralp verlangt Unionsfraktionschef Frei von SPD und Grünen eine Absage an Koalitionsverhandlungen. Die Linke entscheidet am Samstag auf einem Parteitag über deren Aufnahme.",
+      "text": "Nach dem Spiegel-Bericht über versehentlich übermittelte Kommentare der Linken-Spitzenkandidatin Eralp fordert die CDU von SPD und Grünen eine Absage an Koalitionsverhandlungen. Über 100 Linken-Politiker stellen sich hinter Eralp, am Samstag tagt der Berliner Linken-Parteitag.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -104,7 +104,7 @@
     },
     {
       "headline": "Teuerung in Deutschland sinkt auf 2,8 Prozent",
-      "text": "Die Verbraucherpreise lagen im Oktober laut erster Schätzung des Statistischen Bundesamts 2,8 Prozent über dem Vorjahresmonat, im September waren es 3,3 Prozent. Experten hatten 3,0 Prozent erwartet. Fallende Spritpreise bremsen die Teuerung, Ökonomen warnen vor Entwarnung.",
+      "text": "Die Verbraucherpreise lagen im Oktober laut erster Schätzung des Statistischen Bundesamts 2,8 Prozent über dem Vorjahresmonat, im September 3,3 Prozent. Erwartet waren 3,0 Prozent. Der Tankrabatt dämpft die Spritpreise, Commerzbank-Chefvolkswirt Krämer sieht keine Entwarnung.",
       "quellen": [
         {
           "name": "tagesschau",
