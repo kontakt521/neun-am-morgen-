@@ -1,82 +1,82 @@
 {
-  "datum": "2026-10-30",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-10-31",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "USA prüfen neue Iran-Angriffe, Vance bietet Gespräche an",
-      "text": "Centcom-Chef Cooper hat Trump laut Wall Street Journal Optionen für neue Angriffe auf Iran vorgelegt. Vizepräsident Vance bot in einem Brief direkte Gespräche an, Vermittler aus Katar sind wieder in Teheran. Parlamentspräsident Ghalibaf nennt sieben Bedingungen.",
+      "headline": "Katar vermittelt in Teheran, Tanker brennen in Hormus",
+      "text": "Katarische Vermittler sind in Teheran, um die Waffenruhe mit den USA neu zu beleben, laut Al-Jazeera-Quellen ist binnen einer Woche ein Treffen in Doha oder Istanbul möglich. Die Revolutionsgarden melden vier gestoppte Tanker, Oman rettete 25 Seeleute von einem brennenden Schiff.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer"
+          "url": "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us"
         },
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz"
         }
       ]
     },
     {
-      "headline": "Patt in Israel, Streit um Vorwürfe gegen arabische Parteien",
-      "text": "Nach dem Endergebnis kommt Netanyahus Block auf 53, Eisenkots Block auf 48 von 120 Sitzen, die arabischen Listen auf 19. Likud wirft diesen vor, die Wahl zu stehlen, der Shin Bet prüft mögliche illegale Gelder aus Katar und der Türkei. Katar weist das zurück.",
+      "headline": "Israel nach der Wahl ohne klare Regierungsmehrheit",
+      "text": "Laut Endergebnis kommt Netanyahus Block auf 53, Eisenkots Block auf 48 der 120 Sitze, arabisch geführte Parteien erreichen mit 19 ein Rekordergebnis. Netanyahu spricht von gestohlener Wahl, die Behörden sehen keine Betrugsbelege. Präsident Herzog will die Parteien anhören.",
       "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/ckdd8qdl9e0eo"
-        },
         {
           "name": "NPR",
           "url": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties"
         }
       ]
     },
     {
       "headline": "Binance meldet Diebstahl von 6,3 Milliarden Dollar",
-      "text": "Binance beziffert den Schaden auf rund 6,3 Milliarden Dollar, etwa 3 Milliarden sind eingefroren. Abhebungen ruhen, sollen aber binnen 45 Stunden wieder starten. TRM Labs und Chainalysis machen Nordkoreas Gruppe TraderTraitor verantwortlich, Binance benennt niemanden.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know"
-        },
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue"
-        }
-      ]
-    },
-    {
-      "headline": "Spaniens Verkehrsminister lehnt nach Zugunglück Rücktritt ab",
-      "text": "Nach dem Zusammenstoß zweier Hochgeschwindigkeitszüge bei Urda mit mindestens 69 Toten lehnt Verkehrsminister Puente einen Rücktritt ab. Ministerpräsident Sánchez sagt, das Vertrauen in den Hochgeschwindigkeitsverkehr sei zerbrochen. Das Land hält drei Tage Trauer.",
+      "text": "Binance beziffert den Schaden auf rund 6,3 Milliarden Dollar, etwa 3 Milliarden sind eingefroren. Die Firma will alle Verluste ersetzen. TRM Labs und Chainalysis machen Nordkoreas Gruppe TraderTraitor verantwortlich, Binance nennt keinen Täter. Abhebungen ruhen vorerst.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6zxj2e5qlxxo"
+          "url": "https://www.bbc.com/news/articles/cwe8lp7zy07zo"
         },
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/30/spain-trust-high-speed-rail-broken-after-second-deadly-crash-this-year-says-pedro-sanchez"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
         }
       ]
     },
     {
-      "headline": "Trump holt abgesagte Kundgebungen vor Midterms zurück",
-      "text": "Weniger als vier Tage vor der US-Zwischenwahl setzt Trump die abgesagten Auftritte in Kansas und Iowa laut einer Quelle seines Umfelds wieder an, beide am Sonntag, mit mehr virtuellen Kundgebungen. In Kansas führt der Demokrat Hamilton laut Emerson-Umfrage mit 49 zu 45 Prozent.",
+      "headline": "USA genehmigen Verkauf von 500 Patriot-Raketen an Ukraine",
+      "text": "Das US-Außenministerium billigte den Verkauf von 500 Patriot-Raketen vom Typ PAC-3 für etwa 2,1 Milliarden Dollar an die Ukraine. Zahlen sollen Kanada, Deutschland und Norwegen sowie die Ukraine mit EU-Kredit. Selenskyj begrüßt das, warnt aber vor Lieferung erst in Jahren.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c3vgxznlx7jzo"
         },
         {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years"
+        }
+      ]
+    },
+    {
+      "headline": "Ermittlungen zu Scheinkandidat vor US-Zwischenwahl in Alaska",
+      "text": "Vor der US-Zwischenwahl am Dienstag setzt Trump neben Auftritten vor Ort auf 19 virtuelle Kundgebungen. In Alaska bestätigte der Bundesstaatsanwalt Ermittlungen wegen eines mutmaßlichen Scheinkandidaten gleichen Namens, die Demokratin Peltola weist jedes Wissen zurück.",
+      "quellen": [
+        {
           "name": "NPR",
-          "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loan"
+          "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Gen-Z-Proteste am Samstag in über 30 Städten",
-      "text": "Für Samstag sind in über 30 Städten Demonstrationen von Gen Z regelt geplant, rund 160.000 Interessierte wollen teilnehmen. Gewaltbereite Demonstranten aus dem Ausland sollen notfalls an der Grenze zurückgewiesen werden. Eine Forscherin kritisiert die Gewaltwarnungen.",
+      "headline": "Gen-Z-Proteste am Samstag in 32 Städten",
+      "text": "Gen Z regelt hat für diesen Samstag Proteste in 32 Städten angekündigt, rund 160.000 Interessierte wollen teilnehmen. Gewaltbereite Personen aus dem Ausland sollen notfalls an der Grenze abgewiesen werden. Eine Protestforscherin kritisiert die Gewaltwarnungen.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -90,15 +90,29 @@
     },
     {
       "headline": "Eralp-Kommentare belasten Berliner Regierungsbildung",
-      "text": "Nach dem Spiegel-Bericht über versehentlich übermittelte Kommentare der Linken-Spitzenkandidatin Eralp fordert die CDU von SPD und Grünen eine Absage an Koalitionsverhandlungen. Über 100 Linken-Politiker stellen sich hinter Eralp, am Samstag tagt der Berliner Linken-Parteitag.",
+      "text": "Der Spiegel veröffentlichte versehentlich übermittelte Kommentare der Linken-Spitzenkandidatin Eralp zu ihrer Sorge, einen Hamas-Sympathisanten zu nennen. Die CDU fordert von SPD und Grünen eine Absage an Koalitionsverhandlungen, über 100 Linken-Politiker stützen sie.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/eralp-berlin-linke-interview-folgen-100.html"
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/politik/ich-habe-angst-vor-diesen-leuten-eine-kommunikationspanne-enthuellt-elif-eralps-angst-vor-unterstuetzern-der-hamas-ld.10048020"
+        }
+      ]
+    },
+    {
+      "headline": "Merkel wirbt für eine Frau als Steinmeier-Nachfolgerin",
+      "text": "Altkanzlerin Merkel wünscht sich eine Frau im Amt des Bundespräsidenten und nennt keinen Namen. Die Bundesversammlung entscheidet am 30. Januar. CSU-Chef Söder setzt seit Monaten auf Ilse Aigner, laut NZZ ist die Nachfolge für Kanzler Merz zur Machtfrage geworden.",
+      "quellen": [
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/deutschland/angela-merkel-wirbt-fuer-weibliches-staatsoberhaupt-a-d99ca43c-2b94-4a8c-81e2-0213f1433bba"
+        },
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/politik/nachfolge-in-schloss-bellevue-in-der-bundespraesidentenfrage-spielt-die-zeit-gegen-merz-ld.10044790"
         }
       ]
     },
@@ -109,20 +123,6 @@
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/wirtschaft/verbraucher/inflationsrate-deutschland-oktober-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Merkel wirbt für eine Frau als Steinmeier-Nachfolgerin",
-      "text": "Für die Nachfolge von Bundespräsident Steinmeier kommt nach Ansicht von Altkanzlerin Merkel nur eine Frau infrage, Namen nennt sie nicht. Die Bundesversammlung entscheidet am 30. Januar. CSU-Chef Söder wirbt für Ilse Aigner, laut NZZ ist die Frage zur Machtfrage geworden.",
-      "quellen": [
-        {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/deutschland/angela-merkel-wirbt-fuer-weibliches-staatsoberhaupt-a-d99ca43c-2b94-4a8c-81e2-0213f1433bba"
-        },
-        {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/nachfolge-in-schloss-bellevue-in-der-bundespraesidentenfrage-spielt-die-zeit-gegen-merz-ld.10044790"
         }
       ]
     }
