@@ -1,10 +1,10 @@
 {
   "datum": "2026-10-31",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
       "headline": "Iran nennt US-Brief positiv, Delegation reist nach Doha",
-      "text": "Außenminister Araghchi nennt einen Brief von US-Vizepräsident Vance einen positiven Schritt, sieht aber keinen Anlass für Treffen mit den USA. Eine Delegation ist in Doha. Teheran knüpft die Öffnung der Straße von Hormus an Sanktionsaufhebung und freigegebene Gelder.",
+      "text": "Außenminister Araghchi nennt einen Brief von US-Vizepräsident Vance einen positiven Schritt, sieht aber keinen Anlass für Treffen mit den USA. Eine Delegation ist in Doha. Teheran fordert zur Öffnung der Straße von Hormus ein Ende der Sanktionen und freigegebene Gelder.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -55,46 +55,46 @@
       ]
     },
     {
-      "headline": "Ermittlungen zu Scheinkandidat vor US-Zwischenwahl in Alaska",
-      "text": "Vor der US-Zwischenwahl in der kommenden Woche bestätigte der oberste Bundesankläger in Alaska Ermittlungen zu einem mutmaßlichen Scheinkandidaten, der wie der republikanische Senator Dan Sullivan heißt. Die Demokratin Peltola bestreitet jede Kenntnis davon.",
+      "headline": "Hunderttausende protestieren in Frankreich, Krawalle am Abend",
+      "text": "In Frankreich gingen laut Innenministerium 320.000 Menschen gegen hohe Lebenshaltungskosten auf die Straße, davon 70.000 in Paris. Am Abend setzte die Polizei in mehreren Städten Tränengas ein. Auch in Portugal und anderen europäischen Ländern wurde demonstriert.",
       "quellen": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan"
+          "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/31/alaskas-two-dan-sullivans-how-common-is-ballot-stacking-does-it-work"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Gen-Z-Proteste verlaufen weitgehend friedlich",
-      "text": "Die Jugendproteste von Gen Z regelt blieben weitgehend friedlich, nur in Köln und Hamburg stießen Teilnehmer mit der Polizei zusammen. In Berlin kamen laut Polizei bis zu 5000, in Frankfurt etwa 8000 Menschen. Die SPD fordert einen Bildungsgipfel.",
+      "headline": "Gen-Z-Proteste enden vielerorts mit Ausschreitungen",
+      "text": "Junge Menschen demonstrierten in über 30 Städten meist friedlich für bessere Bildung und ein bezahlbares Leben. Am Abend kam es in Köln, Hamburg, Frankfurt und Stuttgart zu Ausschreitungen. Die Initiative nennt mehr als 100.000 Teilnehmer.",
       "quellen": [
         {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/international/jugendproteste-in-europa-berliner-geschaefte-schuetzen-sich-gen-z-regelt-erwartet-rund-160-000-teilnehmer-ld.10050272"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/gen-z-proteste-deutschland-liveblog-100.html"
         },
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/genz-proteste-polizei-gewalttaeter-100.html"
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/politik/gen-z-proteste-erreichen-deutschland-die-jugend-ist-wuetend-auf-friedrich-merz-ld.10050289"
         }
       ]
     },
     {
       "headline": "Berliner Linke stimmt für Koalitionsverhandlungen",
-      "text": "Die Berliner Linke hat sich auf einem Parteitag mit klarer Mehrheit für Verhandlungen über eine Koalition mit SPD und Grünen ausgesprochen. Sie sollen am Montag beginnen. Eralp könnte Regierende Bürgermeisterin werden. Die Linksjugend Solid lehnte das Bündnis ab.",
+      "text": "Die Berliner Linke hat auf einem Parteitag mit breiter Mehrheit dafür ausgesprochen, mit SPD und Grünen zu verhandeln. Sie sollen am Montag beginnen. Fraktionschefin Eralp könnte Regierende Bürgermeisterin werden. Die SPD-Mitglieder müssen einer Koalition noch zustimmen.",
       "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/berlin-linke-gruene-spd-koalitionsverhandlungen-wahl-100.html"
-        },
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/berlin-linke-gruene-spd-koalitionsverhandlungen-wahl-100.html"
         }
       ]
     },
