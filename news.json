@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-31",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
       "headline": "Katar vermittelt in Teheran, Tanker brennen in Hormus",
@@ -32,7 +32,7 @@
     },
     {
       "headline": "Binance meldet Diebstahl von 6,3 Milliarden Dollar",
-      "text": "Binance beziffert den Schaden auf rund 6,3 Milliarden Dollar, etwa 3 Milliarden sind eingefroren. Die Firma will alle Verluste ersetzen. TRM Labs und Chainalysis machen Nordkoreas Gruppe TraderTraitor verantwortlich, Binance nennt keinen Täter. Abhebungen ruhen vorerst.",
+      "text": "Binance beziffert den Schaden auf rund 6,3 Milliarden Dollar, etwa 3 Milliarden sind eingefroren. Die Börse will alle Verluste ersetzen. TRM Labs und Chainalysis halten Nordkoreas Gruppe TraderTraitor für den wahrscheinlichen Täter, Binance bestätigt das nicht.",
       "quellen": [
         {
           "name": "BBC",
@@ -60,7 +60,7 @@
     },
     {
       "headline": "Ermittlungen zu Scheinkandidat vor US-Zwischenwahl in Alaska",
-      "text": "Vor der US-Zwischenwahl am Dienstag setzt Trump neben Auftritten vor Ort auf 19 virtuelle Kundgebungen. In Alaska bestätigte der Bundesstaatsanwalt Ermittlungen wegen eines mutmaßlichen Scheinkandidaten gleichen Namens, die Demokratin Peltola weist jedes Wissen zurück.",
+      "text": "Vor der US-Zwischenwahl am Dienstag setzt Trump auch auf 19 virtuelle Kundgebungen. In Alaska bestätigte der oberste Bundesankläger Ermittlungen wegen eines mutmaßlichen Scheinkandidaten mit dem Namen des Amtsinhabers, die Demokratin Peltola bestreitet jede Kenntnis.",
       "quellen": [
         {
           "name": "NPR",
