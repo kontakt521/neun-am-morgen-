@@ -1,62 +1,58 @@
 {
-  "datum": "2026-10-31",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-01",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Iran nennt US-Brief positiv, Delegation reist nach Doha",
-      "text": "Außenminister Araghchi nennt einen Brief von US-Vizepräsident Vance einen positiven Schritt, sieht aber keinen Anlass für Treffen mit den USA. Eine Delegation ist in Doha. Teheran fordert zur Öffnung der Straße von Hormus ein Ende der Sanktionen und freigegebene Gelder.",
+      "headline": "Irans Oberster Führer droht bei Angriff mit Vergeltung",
+      "text": "Irans Oberster Führer Mojtaba Khamenei verlangt von den Streitkräften im Fall eines erneuten Angriffs eine sofortige Antwort ohne geografische Grenze. Vermittler aus Katar führten Gespräche in Teheran. Nach Berichten bereiten die USA und Israel neue Schläge vor.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks"
+          "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace"
         }
       ]
     },
     {
-      "headline": "Israel nach der Wahl ohne klare Regierungsmehrheit",
-      "text": "Laut Endergebnis kommt Netanyahus Block auf 53 Sitze, das Bündnis um Eisenkot auf 48, arabisch geführte Parteien erreichen mit 19 ein Rekordergebnis. Für eine Mehrheit sind 61 der 120 Sitze nötig. Präsident Herzog will in den nächsten Tagen alle Parteien anhören.",
+      "headline": "Israel nach der Wahl vor schwieriger Regierungsbildung",
+      "text": "Laut Endergebnis kommt Netanyahus Block auf 53 der 120 Sitze, für eine Mehrheit sind 61 nötig. Eisenkot käme mit den arabischen Parteien (19 Sitze) auf eine Mehrheit, will sich aber nicht auf sie stützen. Präsident Herzog berät in den nächsten Tagen mit allen Parteien.",
       "quellen": [
         {
           "name": "NPR",
           "url": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot"
         }
       ]
     },
     {
-      "headline": "Binance meldet Diebstahl von 6,3 Milliarden Dollar",
-      "text": "Binance beziffert den Schaden auf rund 6,3 Milliarden Dollar, etwa 3 Milliarden sind gesichert. Die Börse will alle Verluste ersetzen. TRM Labs und Chainalysis halten Nordkoreas Einheit TraderTraitor für den wahrscheinlichen Täter, Binance bestätigte das bislang nicht.",
+      "headline": "FBI macht Nordkorea für Binance-Diebstahl verantwortlich",
+      "text": "Die US-Behörde FBI führt den Diebstahl von 6,3 Milliarden Dollar bei der Kryptobörse Binance auf die nordkoreanische Gruppe TraderTraitor zurück. Binance hat nach eigenen Angaben 90 Prozent der Verluste ersetzt und will Abhebungen am Sonntag wieder zulassen.",
       "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist"
+        },
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cwe8lp7zy07zo"
-        },
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
         }
       ]
     },
     {
-      "headline": "USA genehmigen Verkauf von 500 Patriot-Raketen an Ukraine",
-      "text": "Das US-Außenministerium billigte den Verkauf von 500 Patriot-Raketen vom Typ PAC-3 für etwa 2,1 Milliarden Dollar an die Ukraine. Zahlen sollen Kanada, Deutschland und Norwegen sowie die Ukraine mit EU-Kredit. Selenskyj begrüßt das, warnt aber vor Lieferung erst in Jahren.",
+      "headline": "Verfassungsgericht stürzt Polen in Machtkampf",
+      "text": "Nach der Suspendierung des Verfassungsgerichts-Vorsitzenden Bogdan Swieczkowski verschärft sich der Streit in Polen. Präsident Nawrocki berief Krisengespräche ein, Premier Tusk verteidigt den Schritt. Die EU-Kommission drängt Nawrocki, die nominierten Richter zu akzeptieren.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c3vgxznlx7jzo"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
         },
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff"
         }
       ]
     },
     {
-      "headline": "Hunderttausende protestieren in Frankreich, Krawalle am Abend",
-      "text": "In Frankreich gingen laut Innenministerium 320.000 Menschen gegen hohe Lebenshaltungskosten auf die Straße, davon 70.000 in Paris. Am Abend setzte die Polizei in mehreren Städten Tränengas ein. Auch in Portugal und anderen europäischen Ländern wurde demonstriert.",
+      "headline": "Frankreich erlebt dritte Protestwelle mit Ausschreitungen",
+      "text": "Laut Innenministerium demonstrierten in Frankreich 320.000 Menschen gegen hohe Lebenshaltungskosten, 70.000 davon in Paris. Am Abend setzte die Polizei in mehreren Städten Tränengas ein, es gab 565 Festnahmen. Für den 5. November rufen Gewerkschaften erneut zur Demonstration auf.",
       "quellen": [
         {
           "name": "The Guardian",
@@ -71,50 +67,36 @@
   ],
   "national": [
     {
-      "headline": "Gen-Z-Proteste enden vielerorts mit Ausschreitungen",
-      "text": "Junge Menschen demonstrierten in über 30 Städten meist friedlich für bessere Bildung und ein bezahlbares Leben. Am Abend kam es in Köln, Hamburg, Frankfurt und Stuttgart zu Ausschreitungen. Die Initiative nennt mehr als 100.000 Teilnehmer.",
+      "headline": "Gen-Z-Proteste enden in Frankfurt mit Plünderungen",
+      "text": "Laut Veranstalter Gen Z regelt kamen über 100.000 Menschen zu Kundgebungen, die in 34 Städten geplant waren. Das lag unter den Erwartungen der Organisatoren. In Frankfurt kam es laut NZZ zu Plünderungen. Am 20. November will die Initiative wieder demonstrieren.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/gen-z-proteste-deutschland-liveblog-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html"
         },
         {
           "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/gen-z-proteste-erreichen-deutschland-die-jugend-ist-wuetend-auf-friedrich-merz-ld.10050289"
+          "url": "https://www.nzz.ch/deutschland/politik/jugendproteste-eskalieren-in-frankfurt-am-main-kommt-es-zu-pluenderungen-ld.10050714"
         }
       ]
     },
     {
-      "headline": "Berliner Linke stimmt für Koalitionsverhandlungen",
-      "text": "Die Berliner Linke hat auf einem Parteitag mit breiter Mehrheit dafür ausgesprochen, mit SPD und Grünen zu verhandeln. Sie sollen am Montag beginnen. Fraktionschefin Eralp könnte Regierende Bürgermeisterin werden. Die SPD-Mitglieder müssen einer Koalition noch zustimmen.",
+      "headline": "Berliner Linke gibt Weg für Koalitionsgespräche frei",
+      "text": "Ein Parteitag der Berliner Linken stimmte mit breiter Mehrheit für Gespräche über eine Koalition mit Grünen und SPD. Diese sollen am Montag beginnen. Fraktionschefin Eralp will Regierende Bürgermeisterin werden. Die SPD-Mitglieder müssen einer Koalition noch zustimmen.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/berlin-linke-gruene-spd-koalitionsverhandlungen-wahl-100.html"
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen-a-ce69c976-ef3d-4ee7-8568-8b36fb089720"
         }
       ]
     },
     {
-      "headline": "Merz zieht Bilanz seiner Asienreise",
-      "text": "Kanzler Merz warb in Singapur, Tokio und Seoul für ein Netzwerk mittelgroßer Partner gegenüber China und den USA. Mit Südkorea vereinbarte er mehr Zusammenarbeit bei der Verteidigung. Japaner und Südkoreaner sorgen sich wegen des europäischen Industrial Accelerator Act.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/ausland/asien/merz-asienreise-abschluss-100.html"
-        },
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/merz-asien-reise-fazit-suedkorea-japan-singapur-fazit-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Merkel wirbt für eine Frau als Steinmeier-Nachfolgerin",
-      "text": "Altkanzlerin Merkel wünscht sich eine Frau als Bundespräsidentin und nennt keinen Namen. Die Bundesversammlung entscheidet am 30. Januar. Laut NZZ sprechen sich Sachsens Regierungschef Kretschmer und SPD-Fraktionschef Miersch für Ilse Aigner aus, Merz gerät stärker unter Druck.",
+      "headline": "Merkel wünscht sich eine Frau als Bundespräsidentin",
+      "text": "Altkanzlerin Merkel hält nur eine Frau als Steinmeier-Nachfolgerin für denkbar und nennt keinen Namen. Die Bundesversammlung entscheidet am 30. Januar. Laut NZZ befürwortet SPD-Fraktionschef Miersch die CSU-Politikerin Ilse Aigner, die CDU wolle am 9. November entscheiden.",
       "quellen": [
         {
           "name": "Spiegel",
@@ -123,6 +105,16 @@
         {
           "name": "NZZ",
           "url": "https://www.nzz.ch/deutschland/politik/nachfolge-in-schloss-bellevue-in-der-bundespraesidentenfrage-spielt-die-zeit-gegen-merz-ld.10044790"
+        }
+      ]
+    },
+    {
+      "headline": "Bahn setzt Expertenkommission für Fahrplan ein",
+      "text": "Eine neue Expertenkommission namens Robuster Fahrplan soll am Dienstag starten, um die Bahn pünktlicher zu machen. Eine Idee sind weniger Züge auf überlasteten Strecken. Die Allianz pro Schiene lehnt das ab. Vorschläge soll es erst im neuen Jahr geben.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-puenktlichkeit-expertenkommission-100.html"
         }
       ]
     }
