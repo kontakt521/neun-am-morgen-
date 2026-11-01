@@ -1,20 +1,20 @@
 {
   "datum": "2026-11-01",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Irans Oberster Führer verlangt Antwort ohne Grenzen",
-      "text": "Irans Oberster Führer Mojtaba Khamenei verlangt laut seinem Büro von den Streitkräften im Fall eines neuen Angriffs eine sofortige Antwort ohne geografische Beschränkung. Katars Diplomaten führten in Teheran Gespräche. Nach Berichten bereiten die USA und Israel neue Schläge vor.",
+      "headline": "Iran und USA sondieren Einigung trotz Kriegsdrohungen",
+      "text": "Nach Gesprächen unter Vermittlung Katars hat Iran laut Außenminister Araghchi die Frist für die Umsetzung seines Vorschlags zur teilweisen Öffnung der Straße von Hormus von sieben auf zwei Tage verkürzt. Trump nannte die Gespräche in Ordnung, Iran aber nicht verlässlich.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace"
+          "url": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war"
         }
       ]
     },
     {
       "headline": "Israel nach der Wahl ohne klare Regierungsmehrheit",
-      "text": "Laut Endergebnis kommt Netanyahus Block auf 53 der 120 Sitze, nötig sind 61. Eisenkots Bündnis hat 48 Sitze und käme nur mit den arabischen Parteien (19 Sitze) auf eine Mehrheit, was es bisher ausschließt. Präsident Herzog berät in den nächsten Tagen mit allen Parteien.",
+      "text": "Netanyahus Block erhielt laut Endergebnis 53 der 120 Knesset-Sitze, nötig sind 61. Eisenkots Bündnis hat 48 und käme nur mit den arabischen Parteien (19 Sitze) auf eine Mehrheit, was seine Verbündeten im Wahlkampf ausschlossen. Herzog berät in den nächsten Tagen mit den Parteien.",
       "quellen": [
         {
           "name": "NPR",
@@ -24,11 +24,11 @@
     },
     {
       "headline": "FBI macht Nordkorea für Binance-Diebstahl verantwortlich",
-      "text": "Die US-Behörde FBI führt den Diebstahl von 6,3 Milliarden Dollar bei der Kryptobörse Binance auf die nordkoreanische Gruppe TraderTraitor zurück. Binance hat nach eigenen Angaben 90 Prozent des Verlusts ersetzt und will Abhebungen am Sonntag wieder zulassen.",
+      "text": "Das FBI führt den Diebstahl von rund 6,3 Milliarden Dollar bei der Kryptobörse Binance auf die nordkoreanische Gruppe TraderTraitor zurück. Binance gibt an, etwa 95 Prozent der betroffenen Werte ersetzt zu haben, und öffnet Abhebungen schrittweise wieder.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist"
+          "url": "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist"
         },
         {
           "name": "BBC",
@@ -37,44 +37,44 @@
       ]
     },
     {
-      "headline": "Streit um Polens Verfassungsgericht verschärft sich",
-      "text": "Nach der Suspendierung des Gerichtsvorsitzenden verteidigt Premier Tusk den Umbau des Verfassungsgerichts. Präsident Nawrocki führte Gespräche mit Parteien ohne erkennbaren Durchbruch. Die EU-Kommission drängt ihn, die nominierten Richter zu akzeptieren.",
+      "headline": "Jugendproteste in Europa enden in Gewalt",
+      "text": "Nach Jugendprotesten gab es in Frankreich laut Innenminister Nuñez außergewöhnliche Gewalt, über 770 Festnahmen. In Paris wird wegen versuchten Mordes an Sicherheitskräften ermittelt. In Portugal räumte die Polizei Camps, in Albanien und der Schweiz flogen Steine.",
       "quellen": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
+          "url": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police"
         }
       ]
     },
     {
-      "headline": "Letzter Wahlkampfendspurt vor den US-Zwischenwahlen",
-      "text": "Zwei Tage vor den US-Zwischenwahlen führen die Demokraten laut RealClearPolling mit 51,5 zu 43,1 Prozent. Über den Senat entscheiden einzelne knappe Rennen. Trump tritt am Sonntag in Iowa und Kansas auf. Über 51 Millionen Amerikaner haben laut Berichten schon gewählt.",
+      "headline": "Senat dürfte bei US-Zwischenwahlen lange offen bleiben",
+      "text": "Die Auszählung der US-Zwischenwahlen beginnt am Dienstagabend und kann Tage oder Wochen dauern. Das Repräsentantenhaus dürfte früher feststehen, im Senat sind sieben Staaten besonders umkämpft. In Alaska kann sie wegen Rangfolgewahl Wochen dauern.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Gen-Z-Proteste enden in Frankfurt mit Plünderungen",
-      "text": "Laut den Veranstaltern von Gen Z regelt kamen mehr als 100.000 Menschen zu den für 34 Städte geplanten Kundgebungen, weniger als erwartet. Am Abend plünderten Randalierer in Frankfurt Geschäfte, auch in Köln gab es Krawalle. Die Organisatoren distanzieren sich von der Gewalt.",
+      "headline": "Plünderungen in Frankfurt nach Jugendprotesten",
+      "text": "Nach den Gen-Z-Protesten mit laut Veranstaltern etwa 100.000 Teilnehmern kam es in Frankfurt zu Plünderungen, über 100 Polizisten wurden verletzt, 54 Menschen festgenommen. Dobrindt sieht linke Gruppen und Randalierer aus dem migrantischen Milieu als Verantwortliche.",
       "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html"
-        },
         {
           "name": "NZZ",
           "url": "https://www.nzz.ch/deutschland/politik/jugendproteste-eskalieren-in-frankfurt-am-main-kommt-es-zu-pluenderungen-ld.10050714"
+        },
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich-a-e9fbaa52-8df6-4f0c-b4b6-89ea4f0a6cb1"
         }
       ]
     },
     {
-      "headline": "Berliner Linke gibt Weg für Koalitionsgespräche frei",
-      "text": "Der Parteitag der Berliner Linken billigte mit breiter Mehrheit Verhandlungen über eine Koalition mit Grünen und SPD, die am Montag beginnen sollen. Fraktionschefin Elif Eralp will Regierende Bürgermeisterin werden. Die SPD-Mitglieder müssen einer Koalition noch zustimmen.",
+      "headline": "Berliner Linke stimmt für Koalitionsverhandlungen",
+      "text": "Die Berliner Linke stimmte mehrheitlich für Verhandlungen über eine Koalition mit Grünen und SPD, die am Montag beginnen sollen. Eralp will Regierende Bürgermeisterin werden. Umstritten gilt vor allem die geplante Vergesellschaftung von etwa 160.000 Wohnungen.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -87,22 +87,18 @@
       ]
     },
     {
-      "headline": "Merkel wünscht sich eine Frau als Bundespräsidentin",
-      "text": "Altkanzlerin Merkel hält für die Steinmeier-Nachfolge nur eine Frau für denkbar und nennt keinen Namen. Die Bundesversammlung entscheidet am 30. Januar. Laut NZZ spricht sich SPD-Fraktionschef Miersch für Ilse Aigner aus, in der CDU soll am 9. November eine Entscheidung fallen.",
+      "headline": "Gasspeicher verfehlen gesetzliche Vorgabe zum Stichtag",
+      "text": "Die Gasspeicher waren zum 1. November erst zu etwa 61,2 Prozent voll, vorgesehen sind durchschnittlich 70 Prozent. Laut Wirtschaftsministerium und Bundesnetzagentur bleibt die Winterversorgung gesichert. Grünen-Politiker Kellner wirft Ministerin Reiche mangelnde Vorsorge vor.",
       "quellen": [
         {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/deutschland/angela-merkel-wirbt-fuer-weibliches-staatsoberhaupt-a-d99ca43c-2b94-4a8c-81e2-0213f1433bba"
-        },
-        {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/nachfolge-in-schloss-bellevue-in-der-bundespraesidentenfrage-spielt-die-zeit-gegen-merz-ld.10044790"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-vorgaben-ziel-verfehlt-100.html"
         }
       ]
     },
     {
-      "headline": "Bahn setzt Expertenkommission für Fahrplan ein",
-      "text": "Eine Expertenkommission namens Robuster Fahrplan soll am Dienstag ihre Arbeit aufnehmen, damit die Bahn pünktlicher wird. Eine Idee sind weniger Züge auf überlasteten Strecken, was der Verband Allianz pro Schiene ablehnt. Vorschläge soll es im neuen Jahr geben.",
+      "headline": "Bahn beruft Expertenkommission für pünktlichere Züge",
+      "text": "Das Gremium Robuster Fahrplan der Bahn soll am Dienstag seine Arbeit aufnehmen und Wege zu mehr Pünktlichkeit suchen. Eine Idee sind weniger Züge auf überlasteten Strecken, was der Verband Allianz pro Schiene kritisiert. Vorschläge erwartet die Bahn im neuen Jahr.",
       "quellen": [
         {
           "name": "tagesschau",
