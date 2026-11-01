@@ -1,9 +1,9 @@
 {
   "datum": "2026-11-01",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
-      "headline": "Iran und USA sondieren Einigung trotz Kriegsdrohungen",
+      "headline": "Iran und USA verhandeln weiter trotz Kriegsdrohungen",
       "text": "Nach Gesprächen unter Vermittlung Katars hat Iran laut Außenminister Araghchi die Frist für die Umsetzung seines Vorschlags zur teilweisen Öffnung der Straße von Hormus von sieben auf zwei Tage verkürzt. Trump nannte die Gespräche in Ordnung, Iran aber nicht verlässlich.",
       "quellen": [
         {
@@ -14,11 +14,15 @@
     },
     {
       "headline": "Israel nach der Wahl ohne klare Regierungsmehrheit",
-      "text": "Netanyahus Block erhielt laut Endergebnis 53 der 120 Knesset-Sitze, nötig sind 61. Eisenkots Bündnis hat 48 und käme nur mit den arabischen Parteien (19 Sitze) auf eine Mehrheit, was seine Verbündeten im Wahlkampf ausschlossen. Herzog berät in den nächsten Tagen mit den Parteien.",
+      "text": "Netanyahus Block erhielt laut Endergebnis 53 der 120 Knesset-Sitze, nötig sind 61. Die Opposition um Eisenkot hat 48 und käme nur mit den arabischen Parteien (19 Sitze) auf eine Mehrheit, was ihre Verbündeten ausschlossen. Herzog beauftragt bis 11. November einen Kandidaten.",
       "quellen": [
         {
           "name": "NPR",
           "url": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it"
         }
       ]
     },
@@ -38,7 +42,7 @@
     },
     {
       "headline": "Jugendproteste in Europa enden in Gewalt",
-      "text": "Nach Jugendprotesten gab es in Frankreich laut Innenminister Nuñez außergewöhnliche Gewalt, über 770 Festnahmen. In Paris wird wegen versuchten Mordes an Sicherheitskräften ermittelt. In Portugal räumte die Polizei Camps, in Albanien und der Schweiz flogen Steine.",
+      "text": "Nach Jugendprotesten gab es in Frankreich laut Innenminister Nuñez außergewöhnliche Gewalt, über 770 Festnahmen. In Paris wird wegen versuchten Mordes an Einsatzkräften ermittelt. In Portugal räumte die Polizei Camps, in Albanien und der Schweiz flogen Steine.",
       "quellen": [
         {
           "name": "The Guardian",
@@ -48,7 +52,7 @@
     },
     {
       "headline": "Senat dürfte bei US-Zwischenwahlen lange offen bleiben",
-      "text": "Die Auszählung der US-Zwischenwahlen beginnt am Dienstagabend und kann Tage oder Wochen dauern. Das Repräsentantenhaus dürfte früher feststehen, im Senat sind sieben Staaten besonders umkämpft. In Alaska kann sie wegen Rangfolgewahl Wochen dauern.",
+      "text": "Die Auszählung der US-Zwischenwahlen beginnt am Dienstagabend und kann Tage oder Wochen dauern. Das Repräsentantenhaus dürfte früher feststehen, im Senat sind sieben Staaten besonders umkämpft, und zwei Staaten nutzen eine Rangfolgewahl, die die Zählung verlängern kann.",
       "quellen": [
         {
           "name": "NPR",
@@ -60,26 +64,22 @@
   "national": [
     {
       "headline": "Plünderungen in Frankfurt nach Jugendprotesten",
-      "text": "Nach den Gen-Z-Protesten mit laut Veranstaltern etwa 100.000 Teilnehmern kam es in Frankfurt zu Plünderungen, über 100 Polizisten wurden verletzt, 54 Menschen festgenommen. Dobrindt sieht linke Gruppen und Randalierer aus dem migrantischen Milieu als Verantwortliche.",
+      "text": "Nach den weitgehend friedlichen Protesten der Initiative Gen Z regelt kam es in Frankfurt zu Plünderungen. Laut Polizei wurden fünf Geschäfte geplündert, 100 Polizisten verletzt und 54 Menschen festgenommen. Bei den meisten Randalierern erkennt sie kein politisches Motiv.",
       "quellen": [
         {
           "name": "NZZ",
           "url": "https://www.nzz.ch/deutschland/politik/jugendproteste-eskalieren-in-frankfurt-am-main-kommt-es-zu-pluenderungen-ld.10050714"
         },
         {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/deutschland/dobrindt-macht-linke-gruppen-und-chaoten-aus-dem-migrantischen-milieu-fuer-randale-verantwortlich-a-e9fbaa52-8df6-4f0c-b4b6-89ea4f0a6cb1"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/regional/hessen/krawalle-frankfurt-polizei-bilanz-100.html"
         }
       ]
     },
     {
       "headline": "Berliner Linke stimmt für Koalitionsverhandlungen",
-      "text": "Die Berliner Linke stimmte mehrheitlich für Verhandlungen über eine Koalition mit Grünen und SPD, die am Montag beginnen sollen. Eralp will Regierende Bürgermeisterin werden. Umstritten gilt vor allem die geplante Vergesellschaftung von etwa 160.000 Wohnungen.",
+      "text": "Auf einem Parteitag stimmte die Berliner Linke mit großer Mehrheit für Koalitionsgespräche mit SPD und Grünen, die am Montag beginnen können. Eralp will Regierende Bürgermeisterin werden. Am umstrittensten dürfte die Vergesellschaftung von etwa 160.000 Wohnungen sein.",
       "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html"
-        },
         {
           "name": "Spiegel",
           "url": "https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen-a-ce69c976-ef3d-4ee7-8568-8b36fb089720"
