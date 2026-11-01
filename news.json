@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-01",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "Irans Oberster Führer droht bei Angriff mit Vergeltung",
-      "text": "Irans Oberster Führer Mojtaba Khamenei verlangt von den Streitkräften im Fall eines erneuten Angriffs eine sofortige Antwort ohne geografische Grenze. Vermittler aus Katar führten Gespräche in Teheran. Nach Berichten bereiten die USA und Israel neue Schläge vor.",
+      "headline": "Irans Oberster Führer verlangt Antwort ohne Grenzen",
+      "text": "Irans Oberster Führer Mojtaba Khamenei verlangt laut seinem Büro von den Streitkräften im Fall eines neuen Angriffs eine sofortige Antwort ohne geografische Beschränkung. Katars Diplomaten führten in Teheran Gespräche. Nach Berichten bereiten die USA und Israel neue Schläge vor.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -13,8 +13,8 @@
       ]
     },
     {
-      "headline": "Israel nach der Wahl vor schwieriger Regierungsbildung",
-      "text": "Laut Endergebnis kommt Netanyahus Block auf 53 der 120 Sitze, für eine Mehrheit sind 61 nötig. Eisenkot käme mit den arabischen Parteien (19 Sitze) auf eine Mehrheit, will sich aber nicht auf sie stützen. Präsident Herzog berät in den nächsten Tagen mit allen Parteien.",
+      "headline": "Israel nach der Wahl ohne klare Regierungsmehrheit",
+      "text": "Laut Endergebnis kommt Netanyahus Block auf 53 der 120 Sitze, nötig sind 61. Eisenkots Bündnis hat 48 Sitze und käme nur mit den arabischen Parteien (19 Sitze) auf eine Mehrheit, was es bisher ausschließt. Präsident Herzog berät in den nächsten Tagen mit allen Parteien.",
       "quellen": [
         {
           "name": "NPR",
@@ -24,7 +24,7 @@
     },
     {
       "headline": "FBI macht Nordkorea für Binance-Diebstahl verantwortlich",
-      "text": "Die US-Behörde FBI führt den Diebstahl von 6,3 Milliarden Dollar bei der Kryptobörse Binance auf die nordkoreanische Gruppe TraderTraitor zurück. Binance hat nach eigenen Angaben 90 Prozent der Verluste ersetzt und will Abhebungen am Sonntag wieder zulassen.",
+      "text": "Die US-Behörde FBI führt den Diebstahl von 6,3 Milliarden Dollar bei der Kryptobörse Binance auf die nordkoreanische Gruppe TraderTraitor zurück. Binance hat nach eigenen Angaben 90 Prozent des Verlusts ersetzt und will Abhebungen am Sonntag wieder zulassen.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -37,30 +37,22 @@
       ]
     },
     {
-      "headline": "Verfassungsgericht stürzt Polen in Machtkampf",
-      "text": "Nach der Suspendierung des Verfassungsgerichts-Vorsitzenden Bogdan Swieczkowski verschärft sich der Streit in Polen. Präsident Nawrocki berief Krisengespräche ein, Premier Tusk verteidigt den Schritt. Die EU-Kommission drängt Nawrocki, die nominierten Richter zu akzeptieren.",
+      "headline": "Streit um Polens Verfassungsgericht verschärft sich",
+      "text": "Nach der Suspendierung des Gerichtsvorsitzenden verteidigt Premier Tusk den Umbau des Verfassungsgerichts. Präsident Nawrocki führte Gespräche mit Parteien ohne erkennbaren Durchbruch. Die EU-Kommission drängt ihn, die nominierten Richter zu akzeptieren.",
       "quellen": [
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff"
         }
       ]
     },
     {
-      "headline": "Frankreich erlebt dritte Protestwelle mit Ausschreitungen",
-      "text": "Laut Innenministerium demonstrierten in Frankreich 320.000 Menschen gegen hohe Lebenshaltungskosten, 70.000 davon in Paris. Am Abend setzte die Polizei in mehreren Städten Tränengas ein, es gab 565 Festnahmen. Für den 5. November rufen Gewerkschaften erneut zur Demonstration auf.",
+      "headline": "Letzter Wahlkampfendspurt vor den US-Zwischenwahlen",
+      "text": "Zwei Tage vor den US-Zwischenwahlen führen die Demokraten laut RealClearPolling mit 51,5 zu 43,1 Prozent. Über den Senat entscheiden einzelne knappe Rennen. Trump tritt am Sonntag in Iowa und Kansas auf. Über 51 Millionen Amerikaner haben laut Berichten schon gewählt.",
       "quellen": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
-        },
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail"
         }
       ]
     }
@@ -68,7 +60,7 @@
   "national": [
     {
       "headline": "Gen-Z-Proteste enden in Frankfurt mit Plünderungen",
-      "text": "Laut Veranstalter Gen Z regelt kamen über 100.000 Menschen zu Kundgebungen, die in 34 Städten geplant waren. Das lag unter den Erwartungen der Organisatoren. In Frankfurt kam es laut NZZ zu Plünderungen. Am 20. November will die Initiative wieder demonstrieren.",
+      "text": "Laut den Veranstaltern von Gen Z regelt kamen mehr als 100.000 Menschen zu den für 34 Städte geplanten Kundgebungen, weniger als erwartet. Am Abend plünderten Randalierer in Frankfurt Geschäfte, auch in Köln gab es Krawalle. Die Organisatoren distanzieren sich von der Gewalt.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -82,7 +74,7 @@
     },
     {
       "headline": "Berliner Linke gibt Weg für Koalitionsgespräche frei",
-      "text": "Ein Parteitag der Berliner Linken stimmte mit breiter Mehrheit für Gespräche über eine Koalition mit Grünen und SPD. Diese sollen am Montag beginnen. Fraktionschefin Eralp will Regierende Bürgermeisterin werden. Die SPD-Mitglieder müssen einer Koalition noch zustimmen.",
+      "text": "Der Parteitag der Berliner Linken billigte mit breiter Mehrheit Verhandlungen über eine Koalition mit Grünen und SPD, die am Montag beginnen sollen. Fraktionschefin Elif Eralp will Regierende Bürgermeisterin werden. Die SPD-Mitglieder müssen einer Koalition noch zustimmen.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -96,7 +88,7 @@
     },
     {
       "headline": "Merkel wünscht sich eine Frau als Bundespräsidentin",
-      "text": "Altkanzlerin Merkel hält nur eine Frau als Steinmeier-Nachfolgerin für denkbar und nennt keinen Namen. Die Bundesversammlung entscheidet am 30. Januar. Laut NZZ befürwortet SPD-Fraktionschef Miersch die CSU-Politikerin Ilse Aigner, die CDU wolle am 9. November entscheiden.",
+      "text": "Altkanzlerin Merkel hält für die Steinmeier-Nachfolge nur eine Frau für denkbar und nennt keinen Namen. Die Bundesversammlung entscheidet am 30. Januar. Laut NZZ spricht sich SPD-Fraktionschef Miersch für Ilse Aigner aus, in der CDU soll am 9. November eine Entscheidung fallen.",
       "quellen": [
         {
           "name": "Spiegel",
@@ -110,7 +102,7 @@
     },
     {
       "headline": "Bahn setzt Expertenkommission für Fahrplan ein",
-      "text": "Eine neue Expertenkommission namens Robuster Fahrplan soll am Dienstag starten, um die Bahn pünktlicher zu machen. Eine Idee sind weniger Züge auf überlasteten Strecken. Die Allianz pro Schiene lehnt das ab. Vorschläge soll es erst im neuen Jahr geben.",
+      "text": "Eine Expertenkommission namens Robuster Fahrplan soll am Dienstag ihre Arbeit aufnehmen, damit die Bahn pünktlicher wird. Eine Idee sind weniger Züge auf überlasteten Strecken, was der Verband Allianz pro Schiene ablehnt. Vorschläge soll es im neuen Jahr geben.",
       "quellen": [
         {
           "name": "tagesschau",
