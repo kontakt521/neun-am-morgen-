@@ -1,11 +1,15 @@
 {
   "datum": "2026-11-02",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "Iran und USA verhandeln weiter trotz Eskalationsdrohungen",
-      "text": "Nach Gesprächen unter Vermittlung Katars hat Iran laut Außenminister Araghchi die Frist für die Umsetzung seines Vorschlags zur teilweisen Öffnung der Straße von Hormus von sieben auf zwei Tage verkürzt. Trump nannte die Gespräche in Ordnung, Iran aber nicht verlässlich.",
+      "headline": "Iran und USA ringen um Öffnung der Straße von Hormus",
+      "text": "Bei den von Katar vermittelten Gesprächen in Doha bietet Iran laut Außenminister Araghchi an, die Straße von Hormus zwei statt sieben Tage nach einem US-Schritt gegen die Blockade zu öffnen. Trump nennt die Gespräche in Ordnung, Iran aber nicht verlässlich.",
       "quellen": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz"
+        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war"
@@ -14,17 +18,21 @@
     },
     {
       "headline": "Israels Wahlbehörde hält an Wahlergebnis fest",
-      "text": "Netanyahus Likud behauptet ohne Belege, arabische Parteien hätten die Wahl mit Geld aus Katar gestohlen, Katar weist das zurück. Wahlausschuss-Chef Sohlberg erklärte, das Ergebnis gelte auch bei bestätigtem Verdacht. Netanyahus Block hat 53 Sitze, die Opposition 48.",
+      "text": "Wahlausschuss-Chef Sohlberg erklärte, das Ergebnis gelte auch bei bestätigtem Verdacht. Netanyahus Likud behauptet ohne Belege, arabische Parteien hätten die Wahl mit Geld aus Katar gestohlen, Katar weist das zurück. Netanyahus Block hat 53 Sitze, die Opposition 48.",
       "quellen": [
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen"
         }
       ]
     },
     {
-      "headline": "Waffenruhe in Cherson endet, Russland greift Stromnetz an",
-      "text": "Die sechstägige Waffenruhe im Gebiet Cherson ist am Sonntagabend ohne gemeldete Verstöße ausgelaufen. Laut einem ukrainischen Vertreter lehnte Russland eine Verlängerung ab. Nach Angaben von Präsident Selenskyj ließen russische Angriffe Hunderttausende Haushalte ohne Strom.",
+      "headline": "Waffenruhe in Cherson läuft ohne Verlängerung aus",
+      "text": "Die sechstägige Waffenruhe um Oleschky ist am Sonntagabend ohne gemeldete Verstöße ausgelaufen. Laut einem ukrainischen Vertreter soll Russland eine Verlängerung abgelehnt haben. Nach Angaben Selenskyjs ließen russische Angriffe Hunderttausende Haushalte ohne Strom.",
       "quellen": [
         {
           "name": "BBC",
@@ -38,7 +46,7 @@
     },
     {
       "headline": "Jugendproteste in Europa enden vielerorts in Gewalt",
-      "text": "In Frankreich ermittelt die Justiz wegen versuchten Mordes nach Brandsätzen auf Polizisten. Innenminister Nuñez sprach von außergewöhnlicher Gewalt, über 770 Menschen wurden festgenommen. In Portugal räumte die Polizei Protestcamps, in Zürich und Basel kam es zu Ausschreitungen.",
+      "text": "In Frankreich ermittelt die Justiz wegen versuchten Mordes nach Brandsätzen auf Polizisten, über 770 Menschen wurden festgenommen. Innenminister Nuñez sprach von außergewöhnlicher Gewalt. In Lissabon wurde ein Protestcamp geräumt, in Zürich und Basel kam es zu Gewalt.",
       "quellen": [
         {
           "name": "BBC",
@@ -52,11 +60,15 @@
     },
     {
       "headline": "Auszählung der US-Zwischenwahlen kann lange dauern",
-      "text": "Die Stimmenauszählung beginnt am Dienstagabend und kann Tage oder Wochen dauern. Über das Repräsentantenhaus dürfte früher Klarheit herrschen, im Senat sind sieben Staaten besonders umkämpft und zwei nutzen ein Rangfolgewahlsystem, das die Zählung verlängern kann.",
+      "text": "Die Auszählung beginnt Dienstagabend und kann Tage oder Wochen dauern. Das Repräsentantenhaus dürfte früher feststehen, im Senat sind sieben Staaten umkämpft. Ein Harvard-Modell sieht die Chancen der Demokraten bei 96 Prozent im Repräsentantenhaus und 76 Prozent im Senat.",
       "quellen": [
         {
           "name": "NPR",
           "url": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro"
         }
       ]
     }
@@ -64,21 +76,21 @@
   "national": [
     {
       "headline": "Ausschreitungen nach Gen-Z-Protesten in mehreren Städten",
-      "text": "Nach weitgehend friedlichen Demonstrationen von Gen Z regelt kam es in Frankfurt, Köln und Hamburg zu Ausschreitungen. In Frankfurt nahm die Polizei 54 Verdächtige fest, 13 bis 29 Jahre alt. Über hundert Polizisten wurden verletzt. Dobrindt fordert harte Strafen.",
+      "text": "Nach überwiegend friedlichen Demonstrationen von Gen Z regelt kam es in Frankfurt, Köln und Hamburg zu Gewalt. In Frankfurt nahm die Polizei 54 Verdächtige fest, 13- bis 29-Jährige. Dobrindt fordert harte Strafen, Pistorius zweifelt an dessen Täterbeschreibung.",
       "quellen": [
-        {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/deutscher-innenminister-dobrindt-macht-linksextreme-und-migranten-fuer-eskalation-bei-jugendprotesten-verantwortlich-ld.10050922"
-        },
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html"
+        },
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/politik/deutscher-innenminister-dobrindt-macht-linksextreme-und-migranten-fuer-eskalation-bei-jugendprotesten-verantwortlich-ld.10050922"
         }
       ]
     },
     {
       "headline": "BSI warnt Politiker vor Spähsoftware auf iPhones",
-      "text": "Nach einem Hinweis von Apple hat das BSI Politiker gewarnt, dass ihre iPhones möglicherweise mit Spähsoftware kompromittiert wurden. Digitalminister Wildberger bestätigte die Warnung, nannte aber keine Details. Wer dahintersteckt, ist bislang nicht bekannt.",
+      "text": "Nach einem Hinweis von Apple hat das BSI Politiker gewarnt, ihre iPhones könnten mit Spähsoftware kompromittiert worden sein. Digitalminister Wildberger bestätigte das, nannte aber keine Details. Wer dahintersteckt, ist bislang nicht bekannt.",
       "quellen": [
         {
           "name": "Spiegel",
@@ -88,17 +100,21 @@
     },
     {
       "headline": "Linke, Grüne und SPD verhandeln über Koalition in Berlin",
-      "text": "Rund sechs Wochen nach der Abgeordnetenhauswahl starten am Montag die Koalitionsverhandlungen. Grundlage ist ein Sondierungspapier, das die Vergesellschaftung von Wohnungen großer Immobilienkonzerne vorsieht. Ein Vertrag bis Dezember ist möglich, aber nicht sicher.",
+      "text": "Sechs Wochen nach der Abgeordnetenhauswahl starten die Koalitionsverhandlungen. Grundlage ist ein Sondierungspapier, das die Vergesellschaftung von Wohnungen großer Immobilienkonzerne vorsieht. Ein Vertrag bis Dezember ist möglich, in der SPD wächst die Kritik.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/rot-gruen-rote-koalitionsverhandlungen-beginnen-in-berlin-100.html"
         }
       ]
     },
     {
       "headline": "Digitalgipfel in Berlin dreht sich um Künstliche Intelligenz",
-      "text": "Die Bundesregierung lädt in Berlin zu einem zweitägigen Digitalgipfel. Dabei geht es darum, wie Deutschland und Europa bei KI mitreden können. Laut dem Thinktank Agora fließen rund 800 Millionen Euro des Bundes in KI, die Abhängigkeit von den USA sei gestiegen.",
+      "text": "Beim zweitägigen Digitalgipfel in Berlin geht es darum, wie Deutschland und Europa bei KI mitreden können. Laut dem Thinktank Agora fließen rund 800 Millionen Euro des Bundes in KI, die Abhängigkeit von den USA sei gestiegen. Minister Wildberger sieht Aufholbedarf.",
       "quellen": [
         {
           "name": "tagesschau",
