@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-02",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
       "headline": "Katar vermittelt im Streit um die Straße von Hormus",
-      "text": "Die indirekten Gespräche in Doha gingen am Sonntag in den dritten Tag. Katar verhandelt laut Guardian über die Freigabe von mehr als 6 Milliarden Dollar iranischer Gelder. China kündigte den Besuch seines Nahost-Sondergesandten in Iran, Oman und Saudi-Arabien an.",
+      "text": "Die indirekten Gespräche in Doha gingen am Sonntag in den dritten Tag. Katar will laut Guardian über 6 Milliarden Dollar iranischer Gelder freigeben lassen. Iran stimmte zu, den Ablauf von sieben auf zwei Tage zu kürzen. Chinas Gesandter reist nach Iran, Oman und Saudi-Arabien.",
       "quellen": [
         {
           "name": "The Guardian",
@@ -18,7 +18,7 @@
     },
     {
       "headline": "Arabische Parteien wollen Eisenkot gegen Netanyahu helfen",
-      "text": "Die arabischen Parteien, die mit 19 Sitzen so viele wie nie zuvor gewannen, wollen laut Medienberichten mit Eisenkots Block zusammenarbeiten, um Netanyahu abzulösen, aber nicht zwingend eine Regierung bilden. Das Ergebnis soll am Mittwoch beglaubigt werden.",
+      "text": "Israels arabische Parteien, die mit 19 Sitzen ein Rekordergebnis erzielten, wollen laut Medienberichten mit Eisenkots Block zusammenarbeiten, um Netanyahu abzulösen, aber nicht unbedingt eine Regierung bilden. Das Ergebnis wird am Mittwoch beglaubigt.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -28,7 +28,7 @@
     },
     {
       "headline": "Waffenruhe in Oleschky endet, Energieangriffe gehen weiter",
-      "text": "Die Waffenruhe in Oleschky ist am Sonntagabend ausgelaufen. Laut russischen Staatsmedien setzten ukrainische Drohnen eine Raffinerie im Gebiet Nischni Nowgorod in Brand. Laut Selenskyj ließen russische Angriffe in vier Regionen Hunderttausende Haushalte ohne Strom.",
+      "text": "Die Waffenruhe in Oleschky endete am Sonntagabend. Laut russischen Staatsmedien setzten ukrainische Drohnen die Raffinerie Kstowo im Gebiet Nischni Nowgorod in Brand. Laut Selenskyj ließen russische Angriffe in vier Regionen Hunderttausende Haushalte ohne Strom.",
       "quellen": [
         {
           "name": "The Guardian",
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "headline": "Mutmaßliche Cyberangriffe legen Kühlregale in Europa lahm",
+      "headline": "Mutmaßliche Cyberangriffe überhitzen Kühlgeräte in Supermärkten",
       "text": "Supermärkte in mindestens sieben europäischen Ländern meldeten bis zu 50 Grad in Kühlgeräten, mehrere Ketten bestätigten Hackerangriffe. EU-Kommissar Hansen spricht von einem gezielten Versuch, die Lebensmittelversorgung zu stören. Niemand bekannte sich bislang dazu.",
       "quellen": [
         {
@@ -72,7 +72,7 @@
   "national": [
     {
       "headline": "Merz will nach Krawallen hart gegen Gewalttäter vorgehen",
-      "text": "Nach Ausschreitungen bei Gen-Z-Protesten kündigt Kanzler Merz hartes Vorgehen an, zeigt aber Verständnis für Anliegen junger Demonstranten. Pistorius geht auf Distanz zu Dobrindts Aussage über migrantische Täter. In Frankfurt wurden laut Polizei über hundert Beamte verletzt.",
+      "text": "Nach Ausschreitungen bei den Jugendprotesten kündigt Kanzler Merz hartes Vorgehen an, zeigt aber Verständnis für Anliegen junger Demonstranten. Pistorius hält die Zuschreibung an migrantische Gruppen für falsch. In Frankfurt wurden laut Polizei über hundert Beamte verletzt.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -100,7 +100,7 @@
     },
     {
       "headline": "Erster Entwurf für Spritpreisdeckel liegt vor",
-      "text": "Laut Entwurf des Wirtschaftsministeriums soll die Regierung im äußersten Notfall einen Höchstpreis festlegen können, wenn Benzin und Diesel drei Wochen in Folge mehr als fünf Prozentpunkte stärker steigen als im EU-Schnitt. Der Höchstpreis wäre auf drei Monate befristet.",
+      "text": "Laut Entwurf des Wirtschaftsministeriums soll die Regierung im äußersten Notfall einen Höchstpreis festlegen können. Er gälte, wenn Benzin und Diesel drei Wochen in Folge mehr als fünf Prozentpunkte stärker steigen als im EU-Schnitt, und wäre auf drei Monate befristet.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -110,7 +110,7 @@
     },
     {
       "headline": "Linke, SPD und Grüne verhandeln über Koalition in Berlin",
-      "text": "Die Gespräche führen Spitzenvertreter der drei Parteien in einer Arbeitsgruppe, hinzu kommen etwa ein Dutzend Fachgruppen. Bis Dezember könnte ein Koalitionsvertrag stehen. Bei Linke und SPD entscheiden die Mitglieder, bei den Grünen hat ein Parteitag das letzte Wort.",
+      "text": "Spitzenvertreter der drei Parteien verhandeln in einer Arbeitsgruppe, dazu kommen etwa ein Dutzend Fachgruppen. Bis Dezember könnte der Koalitionsvertrag fertig sein. Bei Linke und SPD stimmen am Ende die Mitglieder ab, bei den Grünen hat ein Parteitag das letzte Wort.",
       "quellen": [
         {
           "name": "Deutschlandfunk",
