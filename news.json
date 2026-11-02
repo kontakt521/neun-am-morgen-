@@ -1,9 +1,9 @@
 {
-  "datum": "2026-11-01",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-02",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Iran und USA verhandeln weiter trotz Kriegsdrohungen",
+      "headline": "Iran und USA verhandeln weiter trotz Eskalationsdrohungen",
       "text": "Nach Gesprächen unter Vermittlung Katars hat Iran laut Außenminister Araghchi die Frist für die Umsetzung seines Vorschlags zur teilweisen Öffnung der Straße von Hormus von sieben auf zwei Tage verkürzt. Trump nannte die Gespräche in Ordnung, Iran aber nicht verlässlich.",
       "quellen": [
         {
@@ -13,37 +13,37 @@
       ]
     },
     {
-      "headline": "Israel nach der Wahl ohne klare Regierungsmehrheit",
-      "text": "Netanyahus Block erhielt laut Endergebnis 53 der 120 Knesset-Sitze, nötig sind 61. Die Opposition um Eisenkot hat 48 und käme nur mit den arabischen Parteien (19 Sitze) auf eine Mehrheit, was ihre Verbündeten ausschlossen. Herzog beauftragt bis 11. November einen Kandidaten.",
+      "headline": "Israels Wahlbehörde hält an Wahlergebnis fest",
+      "text": "Netanyahus Likud behauptet ohne Belege, arabische Parteien hätten die Wahl mit Geld aus Katar gestohlen, Katar weist das zurück. Wahlausschuss-Chef Sohlberg erklärte, das Ergebnis gelte auch bei bestätigtem Verdacht. Netanyahus Block hat 53 Sitze, die Opposition 48.",
       "quellen": [
         {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs"
-        },
-        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it"
+          "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen"
         }
       ]
     },
     {
-      "headline": "FBI macht Nordkorea für Binance-Diebstahl verantwortlich",
-      "text": "Das FBI führt den Diebstahl von rund 6,3 Milliarden Dollar bei der Kryptobörse Binance auf die nordkoreanische Gruppe TraderTraitor zurück. Binance gibt an, etwa 95 Prozent der betroffenen Werte ersetzt zu haben, und öffnet Abhebungen schrittweise wieder.",
+      "headline": "Waffenruhe in Cherson endet, Russland greift Stromnetz an",
+      "text": "Die sechstägige Waffenruhe im Gebiet Cherson ist am Sonntagabend ohne gemeldete Verstöße ausgelaufen. Laut einem ukrainischen Vertreter lehnte Russland eine Verlängerung ab. Nach Angaben von Präsident Selenskyj ließen russische Angriffe Hunderttausende Haushalte ohne Strom.",
       "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist"
-        },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cwe8lp7zy07zo"
+          "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends"
         }
       ]
     },
     {
-      "headline": "Jugendproteste in Europa enden in Gewalt",
-      "text": "Nach Jugendprotesten gab es in Frankreich laut Innenminister Nuñez außergewöhnliche Gewalt, über 770 Festnahmen. In Paris wird wegen versuchten Mordes an Einsatzkräften ermittelt. In Portugal räumte die Polizei Camps, in Albanien und der Schweiz flogen Steine.",
+      "headline": "Jugendproteste in Europa enden vielerorts in Gewalt",
+      "text": "In Frankreich ermittelt die Justiz wegen versuchten Mordes nach Brandsätzen auf Polizisten. Innenminister Nuñez sprach von außergewöhnlicher Gewalt, über 770 Menschen wurden festgenommen. In Portugal räumte die Polizei Protestcamps, in Zürich und Basel kam es zu Ausschreitungen.",
       "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o"
+        },
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police"
@@ -51,8 +51,8 @@
       ]
     },
     {
-      "headline": "Senat dürfte bei US-Zwischenwahlen lange offen bleiben",
-      "text": "Die Auszählung der US-Zwischenwahlen beginnt am Dienstagabend und kann Tage oder Wochen dauern. Das Repräsentantenhaus dürfte früher feststehen, im Senat sind sieben Staaten besonders umkämpft, und zwei Staaten nutzen eine Rangfolgewahl, die die Zählung verlängern kann.",
+      "headline": "Auszählung der US-Zwischenwahlen kann lange dauern",
+      "text": "Die Stimmenauszählung beginnt am Dienstagabend und kann Tage oder Wochen dauern. Über das Repräsentantenhaus dürfte früher Klarheit herrschen, im Senat sind sieben Staaten besonders umkämpft und zwei nutzen ein Rangfolgewahlsystem, das die Zählung verlängern kann.",
       "quellen": [
         {
           "name": "NPR",
@@ -63,46 +63,46 @@
   ],
   "national": [
     {
-      "headline": "Plünderungen in Frankfurt nach Jugendprotesten",
-      "text": "Nach den weitgehend friedlichen Protesten von Gen Z regelt kam es in Frankfurt zu Plünderungen. Laut Polizei wurden fünf Geschäfte geplündert, 100 Polizisten verletzt und 54 Menschen festgenommen. Bei den meisten Randalierern erkennt sie kein politisches Motiv.",
+      "headline": "Ausschreitungen nach Gen-Z-Protesten in mehreren Städten",
+      "text": "Nach weitgehend friedlichen Demonstrationen von Gen Z regelt kam es in Frankfurt, Köln und Hamburg zu Ausschreitungen. In Frankfurt wurden 54 Verdächtige zwischen 13 und 29 Jahre alt festgenommen, über hundert Polizisten verletzt. Dobrindt fordert harte Strafen.",
       "quellen": [
         {
           "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/jugendproteste-eskalieren-in-frankfurt-am-main-kommt-es-zu-pluenderungen-ld.10050714"
+          "url": "https://www.nzz.ch/deutschland/politik/deutscher-innenminister-dobrindt-macht-linksextreme-und-migranten-fuer-eskalation-bei-jugendprotesten-verantwortlich-ld.10050922"
         },
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/regional/hessen/krawalle-frankfurt-polizei-bilanz-100.html"
+          "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html"
         }
       ]
     },
     {
-      "headline": "Berliner Linke stimmt für Koalitionsverhandlungen",
-      "text": "Auf einem Parteitag stimmte die Berliner Linke mit großer Mehrheit für Koalitionsgespräche mit SPD und Grünen, die am Montag beginnen können. Eralp will Regierende Bürgermeisterin werden. Am umstrittensten dürfte die Vergesellschaftung von etwa 160.000 Wohnungen sein.",
+      "headline": "BSI warnt Politiker vor Spähsoftware auf iPhones",
+      "text": "Nach einem Hinweis von Apple hat das BSI Politiker gewarnt, dass ihre iPhones möglicherweise mit Spähsoftware kompromittiert wurden. Digitalminister Wildberger bestätigte die Warnung, nannte aber keine Details. Wer dahintersteckt, ist bislang nicht bekannt.",
       "quellen": [
         {
           "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen-a-ce69c976-ef3d-4ee7-8568-8b36fb089720"
+          "url": "https://www.spiegel.de/politik/deutschland/bsi-warnt-moegliche-spaehsoftware-auf-iphones-von-politikern-a-8b9e2ad3-485c-489a-b94c-1131753b777b"
         }
       ]
     },
     {
-      "headline": "Gasspeicher verfehlen gesetzliche Vorgabe zum Stichtag",
-      "text": "Die Gasspeicher waren zum 1. November erst zu etwa 61,2 Prozent voll, vorgesehen sind durchschnittlich 70 Prozent. Laut Wirtschaftsministerium und Bundesnetzagentur bleibt die Winterversorgung gesichert. Grünen-Politiker Kellner wirft Ministerin Reiche mangelnde Vorsorge vor.",
+      "headline": "Linke, Grüne und SPD verhandeln über Koalition in Berlin",
+      "text": "Rund sechs Wochen nach der Abgeordnetenhauswahl starten am Montag die Koalitionsverhandlungen. Grundlage ist ein Sondierungspapier, das die Vergesellschaftung von Wohnungen großer Immobilienkonzerne vorsieht. Ein Vertrag bis Dezember ist möglich, aber nicht sicher.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-vorgaben-ziel-verfehlt-100.html"
+          "url": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html"
         }
       ]
     },
     {
-      "headline": "Bahn beruft Expertenkommission für pünktlichere Züge",
-      "text": "Das Gremium Robuster Fahrplan der Bahn soll am Dienstag seine Arbeit aufnehmen und Wege zu mehr Pünktlichkeit suchen. Eine Idee sind weniger Züge auf überlasteten Strecken, was der Verband Allianz pro Schiene kritisiert. Vorschläge erwartet die Bahn im neuen Jahr.",
+      "headline": "Digitalgipfel in Berlin dreht sich um Künstliche Intelligenz",
+      "text": "Die Bundesregierung lädt in Berlin zu einem zweitägigen Digitalgipfel. Dabei geht es darum, wie Deutschland und Europa bei KI mitreden können. Laut dem Thinktank Agora fließen rund 800 Millionen Euro des Bundes in KI, die Abhängigkeit von den USA sei gestiegen.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-puenktlichkeit-expertenkommission-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/digitalgipfel-bundesregierung-100.html"
         }
       ]
     }
