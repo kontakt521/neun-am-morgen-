@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-02",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Iran und USA ringen um Öffnung der Straße von Hormus",
-      "text": "Bei den von Katar vermittelten Gesprächen in Doha bietet Iran laut Außenminister Araghchi an, die Straße von Hormus zwei statt sieben Tage nach einem US-Schritt gegen die Blockade zu öffnen. Trump nennt die Gespräche in Ordnung, Iran aber nicht verlässlich.",
+      "headline": "Katar vermittelt im Streit um die Straße von Hormus",
+      "text": "Die indirekten Gespräche in Doha gingen am Sonntag in den dritten Tag. Katar verhandelt laut Guardian über die Freigabe von mehr als 6 Milliarden Dollar iranischer Gelder. China kündigte den Besuch seines Nahost-Sondergesandten in Iran, Oman und Saudi-Arabien an.",
       "quellen": [
         {
           "name": "The Guardian",
@@ -12,75 +12,71 @@
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war"
+          "url": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings"
         }
       ]
     },
     {
-      "headline": "Israels Wahlbehörde hält an Wahlergebnis fest",
-      "text": "Wahlausschuss-Chef Sohlberg erklärte, das Ergebnis gelte auch bei bestätigtem Verdacht. Netanyahus Likud behauptet ohne Belege, arabische Parteien hätten die Wahl mit Geld aus Katar gestohlen, Katar weist das zurück. Netanyahus Block hat 53 Sitze, die Opposition 48.",
+      "headline": "Arabische Parteien wollen Eisenkot gegen Netanyahu helfen",
+      "text": "Die arabischen Parteien, die mit 19 Sitzen so viele wie nie zuvor gewannen, wollen laut Medienberichten mit Eisenkots Block zusammenarbeiten, um Netanyahu abzulösen, aber nicht zwingend eine Regierung bilden. Das Ergebnis soll am Mittwoch beglaubigt werden.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen"
+          "url": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks"
         }
       ]
     },
     {
-      "headline": "Waffenruhe in Cherson läuft ohne Verlängerung aus",
-      "text": "Die sechstägige Waffenruhe um Oleschky ist am Sonntagabend ohne gemeldete Verstöße ausgelaufen. Laut einem ukrainischen Vertreter soll Russland eine Verlängerung abgelehnt haben. Nach Angaben Selenskyjs ließen russische Angriffe Hunderttausende Haushalte ohne Strom.",
+      "headline": "Waffenruhe in Oleschky endet, Energieangriffe gehen weiter",
+      "text": "Die Waffenruhe in Oleschky ist am Sonntagabend ausgelaufen. Laut russischen Staatsmedien setzten ukrainische Drohnen eine Raffinerie im Gebiet Nischni Nowgorod in Brand. Laut Selenskyj ließen russische Angriffe in vier Regionen Hunderttausende Haushalte ohne Strom.",
       "quellen": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil"
+        },
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends"
         }
       ]
     },
     {
-      "headline": "Jugendproteste in Europa enden vielerorts in Gewalt",
-      "text": "In Frankreich ermittelt die Justiz wegen versuchten Mordes nach Brandsätzen auf Polizisten, über 770 Menschen wurden festgenommen. Innenminister Nuñez sprach von außergewöhnlicher Gewalt. In Lissabon wurde ein Protestcamp geräumt, in Zürich und Basel kam es zu Gewalt.",
+      "headline": "Letzter Wahlkampfspurt vor den US-Zwischenwahlen",
+      "text": "Trump warb am Wochenende bei Kundgebungen in Florida, Iowa und Kansas um Wähler. Ein Harvard-Modell sieht die Chancen der Demokraten bei 96 Prozent im Repräsentantenhaus und 76 Prozent im Senat. Die Auszählung beginnt Dienstagabend und kann laut NPR Tage oder Wochen dauern.",
       "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police"
-        }
-      ]
-    },
-    {
-      "headline": "Auszählung der US-Zwischenwahlen kann lange dauern",
-      "text": "Die Auszählung beginnt Dienstagabend und kann Tage oder Wochen dauern. Das Repräsentantenhaus dürfte früher feststehen, im Senat sind sieben Staaten umkämpft. Ein Harvard-Modell sieht die Chancen der Demokraten bei 96 Prozent im Repräsentantenhaus und 76 Prozent im Senat.",
-      "quellen": [
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night"
-        },
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night"
+        }
+      ]
+    },
+    {
+      "headline": "Mutmaßliche Cyberangriffe legen Kühlregale in Europa lahm",
+      "text": "Supermärkte in mindestens sieben europäischen Ländern meldeten bis zu 50 Grad in Kühlgeräten, mehrere Ketten bestätigten Hackerangriffe. EU-Kommissar Hansen spricht von einem gezielten Versuch, die Lebensmittelversorgung zu stören. Niemand bekannte sich bislang dazu.",
+      "quellen": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Ausschreitungen nach Gen-Z-Protesten in mehreren Städten",
-      "text": "Nach überwiegend friedlichen Demonstrationen von Gen Z regelt kam es in Frankfurt, Köln und Hamburg zu Gewalt. In Frankfurt nahm die Polizei 54 Verdächtige fest, 13- bis 29-Jährige. Dobrindt fordert harte Strafen, Pistorius zweifelt an dessen Täterbeschreibung.",
+      "headline": "Merz will nach Krawallen hart gegen Gewalttäter vorgehen",
+      "text": "Nach Ausschreitungen bei Gen-Z-Protesten kündigt Kanzler Merz hartes Vorgehen an, zeigt aber Verständnis für Anliegen junger Demonstranten. Pistorius geht auf Distanz zu Dobrindts Aussage über migrantische Täter. In Frankfurt wurden laut Polizei über hundert Beamte verletzt.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html"
+          "url": "https://www.tagesschau.de/inland/jugendproteste-gewalt-merz-100.html"
         },
         {
           "name": "NZZ",
@@ -89,36 +85,36 @@
       ]
     },
     {
-      "headline": "BSI warnt Politiker vor Spähsoftware auf iPhones",
-      "text": "Nach einem Hinweis von Apple hat das BSI Politiker gewarnt, ihre iPhones könnten mit Spähsoftware kompromittiert worden sein. Digitalminister Wildberger bestätigte das, nannte aber keine Details. Wer dahintersteckt, ist bislang nicht bekannt.",
+      "headline": "Mögliche Spyware auf Handys von Regierung und Abgeordneten",
+      "text": "Laut einem BSI-Schreiben erhielten betroffene iPhones ab dem 29. Oktober eine Bedrohungswarnung von Apple. Digitalminister Wildberger bestätigt Berichte über einen möglichen Hackerangriff mit Spyware. Wer betroffen ist und wer dahintersteckt, ist unbekannt.",
       "quellen": [
         {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/deutschland/bsi-warnt-moegliche-spaehsoftware-auf-iphones-von-politikern-a-8b9e2ad3-485c-489a-b94c-1131753b777b"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/hackerangriff-regierung-wildberger-100.html"
         }
       ]
     },
     {
-      "headline": "Linke, Grüne und SPD verhandeln über Koalition in Berlin",
-      "text": "Sechs Wochen nach der Abgeordnetenhauswahl starten die Koalitionsverhandlungen. Grundlage ist ein Sondierungspapier, das die Vergesellschaftung von Wohnungen großer Immobilienkonzerne vorsieht. Ein Vertrag bis Dezember ist möglich, in der SPD wächst die Kritik.",
+      "headline": "Erster Entwurf für Spritpreisdeckel liegt vor",
+      "text": "Laut Entwurf des Wirtschaftsministeriums soll die Regierung im äußersten Notfall einen Höchstpreis festlegen können, wenn Benzin und Diesel drei Wochen in Folge mehr als fünf Prozentpunkte stärker steigen als im EU-Schnitt. Der Höchstpreis wäre auf drei Monate befristet.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html"
-        },
+          "url": "https://www.tagesschau.de/inland/innenpolitik/reiche-spritpreisdeckel-entwurf-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Linke, SPD und Grüne verhandeln über Koalition in Berlin",
+      "text": "Die Gespräche führen Spitzenvertreter der drei Parteien in einer Arbeitsgruppe, hinzu kommen etwa ein Dutzend Fachgruppen. Bis Dezember könnte ein Koalitionsvertrag stehen. Bei Linke und SPD entscheiden die Mitglieder, bei den Grünen hat ein Parteitag das letzte Wort.",
+      "quellen": [
         {
           "name": "Deutschlandfunk",
           "url": "https://www.deutschlandfunk.de/rot-gruen-rote-koalitionsverhandlungen-beginnen-in-berlin-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Digitalgipfel in Berlin dreht sich um Künstliche Intelligenz",
-      "text": "Beim zweitägigen Digitalgipfel in Berlin geht es darum, wie Deutschland und Europa bei KI mitreden können. Laut dem Thinktank Agora fließen rund 800 Millionen Euro des Bundes in KI, die Abhängigkeit von den USA sei gestiegen. Minister Wildberger sieht Aufholbedarf.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/digitalgipfel-bundesregierung-100.html"
         }
       ]
     }
