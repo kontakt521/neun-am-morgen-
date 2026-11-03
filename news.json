@@ -1,120 +1,116 @@
 {
-  "datum": "2026-11-02",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-03",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Katar vermittelt im Streit um die Straße von Hormus",
-      "text": "Die indirekten Gespräche in Doha gingen am Sonntag in den dritten Tag. Katar will laut Guardian über 6 Milliarden Dollar iranischer Gelder freigeben lassen. Iran stimmte zu, den Ablauf von sieben auf zwei Tage zu kürzen. Chinas Gesandter reist nach Iran, Oman und Saudi-Arabien.",
-      "quellen": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings"
-        }
-      ]
-    },
-    {
-      "headline": "Arabische Parteien wollen Eisenkot gegen Netanyahu helfen",
-      "text": "Israels arabische Parteien, die mit 19 Sitzen ein Rekordergebnis erzielten, wollen laut Medienberichten mit Eisenkots Block zusammenarbeiten, um Netanyahu abzulösen, aber nicht unbedingt eine Regierung bilden. Das Ergebnis wird am Mittwoch beglaubigt.",
+      "headline": "Mutmaßliche US-Angriffe nahe der Straße von Hormus",
+      "text": "Auf der iranischen Insel Qeshm waren am Montagabend Explosionen zu hören. Laut US-Medien und US-Beamten führte das US-Militär defensive Angriffe gegen Flugabwehrraketen aus. Vizepräsident Vance sieht Chancen auf eine Verhandlungslösung, Trump verneinte Angriffe nach der Wahl.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks"
+          "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz"
         }
       ]
     },
     {
-      "headline": "Waffenruhe in Oleschky endet, Energieangriffe gehen weiter",
-      "text": "Die Waffenruhe in Oleschky endete am Sonntagabend. Laut russischen Staatsmedien setzten ukrainische Drohnen die Raffinerie Kstowo im Gebiet Nischni Nowgorod in Brand. Laut Selenskyj ließen russische Angriffe in vier Regionen Hunderttausende Haushalte ohne Strom.",
+      "headline": "US-Zwischenwahlen mit Republikanern unter Druck",
+      "text": "In den USA wird am Dienstag der Kongress gewählt. Laut Reuters/Ipsos billigen nur 32 Prozent der Befragten Trumps Amtsführung, 46 Prozent würden Demokraten wählen, 38 Prozent Republikaner. Erste Ergebnisse aus Indiana und Kentucky erwartet NPR ab 18 Uhr Ostküstenzeit.",
       "quellen": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo"
-        }
-      ]
-    },
-    {
-      "headline": "Letzter Wahlkampfspurt vor den US-Zwischenwahlen",
-      "text": "Trump warb am Wochenende bei Kundgebungen in Florida, Iowa und Kansas um Wähler. Ein Harvard-Modell sieht die Chancen der Demokraten bei 96 Prozent im Repräsentantenhaus und 76 Prozent im Senat. Die Auszählung beginnt Dienstagabend und kann laut NPR Tage oder Wochen dauern.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll"
         },
         {
           "name": "NPR",
-          "url": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night"
+          "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night"
         }
       ]
     },
     {
-      "headline": "Mutmaßliche Cyberangriffe überhitzen Kühlgeräte in Supermärkten",
-      "text": "Supermärkte in mindestens sieben europäischen Ländern meldeten bis zu 50 Grad in Kühlgeräten, mehrere Ketten bestätigten Hackerangriffe. EU-Kommissar Hansen spricht von einem gezielten Versuch, die Lebensmittelversorgung zu stören. Niemand bekannte sich bislang dazu.",
+      "headline": "Russischer Luftangriff trifft Hilfszentrum in Saporischschja",
+      "text": "Russische Bomben trafen am Montag eine als Hilfszentrum genutzte Schule und einen Schutzraum im Dorf Komyschuwacha. Es gab mindestens 24 bis 26 Tote, je nach Quelle. Witkoff kündigte Gespräche von Russland und Ukraine am 10. und 11. November in Abu Dhabi an.",
       "quellen": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+          "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks"
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-war-latest-russian-bomb-strikes-kill-24-at-humanitarian-aid-center-in-zaporizhzhia-oblast/"
+        }
+      ]
+    },
+    {
+      "headline": "Arabische Parteien als Königsmacher in Israel",
+      "text": "Netanyahus Block verlor die Mehrheit und hat noch 53 von 120 Sitzen, Eisenkots Block 48. Arabische Parteien kommen auf rekordhohe 19. Joint-List-Chef Jabareen erwägt, einen Eisenkot-Block von außen zu stützen. Präsident Herzog will frühestens ab Mittwoch Parteichefs anhören.",
+      "quellen": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen"
+        }
+      ]
+    },
+    {
+      "headline": "Kühlgeräte in Supermärkten in sieben Ländern manipuliert",
+      "text": "In Supermärkten in sieben europäischen Ländern liefen Kühlgeräte mutmaßlich nach Hackerangriffen heiß, teils auf 50 Grad. Die EU verurteilte einen gezielten Versuch, die Versorgung zu stören. Niemand bekannte sich dazu, ein Experte hält Staaten oder Einzeltäter für denkbar.",
+      "quellen": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Merz will nach Krawallen hart gegen Gewalttäter vorgehen",
-      "text": "Nach Ausschreitungen bei den Jugendprotesten kündigt Kanzler Merz hartes Vorgehen an, zeigt aber Verständnis für Anliegen junger Demonstranten. Pistorius hält die Zuschreibung an migrantische Gruppen für falsch. In Frankfurt wurden laut Polizei über hundert Beamte verletzt.",
+      "headline": "Merz kündigt nach Krawallen bei Jugendprotesten Härte an",
+      "text": "Nach Ausschreitungen am Rand der Jugendproteste kündigt Kanzler Merz Härte gegen Gewalttäter an und zeigt Verständnis für Anliegen junger Demonstranten. Pistorius stellt den Begriff migrantische Gruppen infrage. In Frankfurt wurden mehr als 100 Polizisten verletzt.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/jugendproteste-gewalt-merz-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/merz-gen-z-protest-reaktion-krawall-gewalt-ausschreitungen-100.html"
         },
         {
           "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/deutscher-innenminister-dobrindt-macht-linksextreme-und-migranten-fuer-eskalation-bei-jugendprotesten-verantwortlich-ld.10050922"
+          "url": "https://www.nzz.ch/international/jugendproteste-in-europa-pluenderungen-in-frankfurt-brennende-barrikaden-in-zuerich-und-basel-320-000-teilnehmer-in-frankreich-ld.10050272"
         }
       ]
     },
     {
-      "headline": "Mögliche Spyware auf Handys von Regierung und Abgeordneten",
-      "text": "Laut einem BSI-Schreiben erhielten betroffene iPhones ab dem 29. Oktober eine Bedrohungswarnung von Apple. Digitalminister Wildberger bestätigt Berichte über einen möglichen Hackerangriff mit Spyware. Wer betroffen ist und wer dahintersteckt, ist unbekannt.",
+      "headline": "IG Metall weitet Warnstreiks in der Metallindustrie aus",
+      "text": "Die IG Metall weitet ihre Warnstreiks aus, nachdem die Friedenspflicht endete. Sie verlangt fünf Prozent mehr bei zwölf Monaten Laufzeit und Jobsicherung. Die Arbeitgeber boten eine Einmalzahlung und ab Juli 2028 plus 1,3 Prozent. Betroffen sind rund 3,7 Millionen Beschäftigte.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html"
         },
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/hackerangriff-regierung-wildberger-100.html"
+          "url": "https://www.zdfheute.de/wirtschaft/ig-metall-warnstreiks-elektro-industrie-100.html"
         }
       ]
     },
     {
-      "headline": "Erster Entwurf für Spritpreisdeckel liegt vor",
-      "text": "Laut Entwurf des Wirtschaftsministeriums soll die Regierung im äußersten Notfall einen Höchstpreis festlegen können. Er gälte, wenn Benzin und Diesel drei Wochen in Folge mehr als fünf Prozentpunkte stärker steigen als im EU-Schnitt, und wäre auf drei Monate befristet.",
+      "headline": "Berliner Koalitionsgespräche stoßen in der SPD auf Widerstand",
+      "text": "In Berlin begannen die Koalitionsverhandlungen von Linke, Grünen und SPD. Ein offener Brief von SPD-Mitgliedern zweifelt an der Regierungsfähigkeit der Berliner Linken. Laut SRF haben ihn weit über tausend Menschen unterschrieben, darunter Pistorius, Lauterbach und Giffey.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/reiche-spritpreisdeckel-entwurf-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/spd-rot-gruen-rot-linke-berlin-100.html"
+        },
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/international/regierungsbildung-in-berlin-die-spd-die-linke-und-der-kampf-um-macht-und-moral-in-berlin"
         }
       ]
     },
     {
-      "headline": "Linke, SPD und Grüne verhandeln über Koalition in Berlin",
-      "text": "Spitzenvertreter der drei Parteien verhandeln in einer Arbeitsgruppe, dazu kommen etwa ein Dutzend Fachgruppen. Bis Dezember könnte der Koalitionsvertrag fertig sein. Bei Linke und SPD stimmen am Ende die Mitglieder ab, bei den Grünen hat ein Parteitag das letzte Wort.",
+      "headline": "Hubig legt Entwurf für härteres Sexualstrafrecht vor",
+      "text": "Hubig will verbale und gestische sexuelle Belästigung strafbar machen, mit bis zu einem Jahr Haft oder Geldstrafe. Gruppenvergewaltigungen sollen mindestens fünf Jahre Haft bringen, Vergewaltigungen erst nach 20 Jahren verjähren. Die Länder können sich bis 30. November äußern.",
       "quellen": [
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/rot-gruen-rote-koalitionsverhandlungen-beginnen-in-berlin-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/hubig-sexualstrafrecht-102.html"
         }
       ]
     }
