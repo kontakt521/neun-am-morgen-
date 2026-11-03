@@ -1,70 +1,78 @@
 {
   "datum": "2026-11-03",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Mutmaßliche US-Angriffe nahe der Straße von Hormus",
-      "text": "Auf der iranischen Insel Qeshm waren am späten Montag Explosionen zu hören. US-Medien melden unter Berufung auf US-Beamte defensive Angriffe des US-Militärs. Trump verneinte auf Nachfrage Schläge nach der Wahl, Vance äußerte sich zuversichtlich über die Gespräche.",
+      "headline": "US-Zwischenwahlen entscheiden über Mehrheit im Kongress",
+      "text": "Heute wählen die USA einen neuen Kongress. Zur Wahl stehen alle 435 Sitze im Repräsentantenhaus und 35 der 100 Senatssitze, die Demokraten hoffen auf beide Kammern. Erste Wahllokale schließen um 18 Uhr Ostküstenzeit. Wer die Mehrheit hat, kann Tage unklar bleiben.",
+      "quellen": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results"
+        }
+      ]
+    },
+    {
+      "headline": "USA greifen iranische Insel Qeshm begrenzt an",
+      "text": "Das US-Militär führte am Montag laut drei US-Beamten begrenzte, defensive Angriffe auf iranische Ziele bei Qeshm aus. Auslöser war laut einem hohen Beamten der Beschuss eines US-Flugzeugs durch die Revolutionsgarden. Iran behält sich das Recht auf Selbstverteidigung vor.",
       "quellen": [
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/u-s-strikes-iran-targets/"
         }
       ]
     },
     {
-      "headline": "US-Zwischenwahlen mit Republikanern unter Druck",
-      "text": "In den USA wird heute der Kongress gewählt. Laut Reuters/Ipsos billigen nur 32 Prozent der Befragten Trumps Amtsführung, 46 Prozent würden Demokraten wählen, 38 Prozent Republikaner. Erste Ergebnisse aus Indiana und Kentucky werden ab 18 Uhr Ostküstenzeit erwartet.",
+      "headline": "Russland greift Ukraine an, Verletzte in Charkiw",
+      "text": "Russland griff die Ukraine laut der Luftwaffe mit 289 Drohnen und 59 Marschflugkörpern an. Bei einem Schlag auf eine medizinische Einrichtung in Charkiw zählte die Staatsanwaltschaft 73 Verletzte, die Militärverwaltung 25. In Saporischschja starben laut Behörden 29 Menschen.",
       "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll"
-        },
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night"
-        }
-      ]
-    },
-    {
-      "headline": "Russischer Luftangriff trifft Hilfszentrum in Saporischschja",
-      "text": "Russische Bomben trafen am Montag eine als Hilfszentrum genutzte Schule und einen Schutzraum im Dorf Komyschuwacha. Nach ukrainischen Angaben starben mindestens 24 bis 26 Menschen. Witkoff kündigte Gespräche von Russland und Ukraine am 10. und 11. November in Abu Dhabi an.",
-      "quellen": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha"
-        },
         {
           "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukraine-war-latest-russian-bomb-strikes-kill-24-at-humanitarian-aid-center-in-zaporizhzhia-oblast/"
+          "url": "https://kyivindependent.com/russian-missile-attack-hits-kharkiv-medical-facility-62-casualties-reported/"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/03/russia-pounds-ukraine-with-289-drones-and-17-ballistic-missiles-in-overnight-strikes-zelen"
         }
       ]
     },
     {
-      "headline": "Arabische Parteien als Königsmacher in Israel",
-      "text": "Netanyahus Block verlor die Mehrheit und hat noch 53 von 120 Sitzen, Eisenkots Block 48. Arabische Parteien kommen auf rekordhohe 19. Joint-List-Chef Jabareen erwägt, eine Regierung Eisenkots von außen zu stützen. Präsident Herzog will frühestens ab Mittwoch Parteichefs anhören.",
+      "headline": "Israels Opposition einigt sich auf Eisenkot als Kandidaten",
+      "text": "Die fünf Oppositionsparteien in Israel wollen Präsident Herzog empfehlen, Gadi Eisenkot den ersten Regierungsauftrag zu geben. Sie streben rasch eine Notstandsregierung an. Ohne die arabischen Parteien fehlt dem Block die Mehrheit, Liberman lehnt eine Koalition mit ihnen ab.",
       "quellen": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen"
+          "name": "The Jerusalem Post",
+          "url": "https://www.jpost.com/israel-election-2026/article-913678"
         }
       ]
     },
     {
-      "headline": "Kühlgeräte in Supermärkten in sieben Ländern manipuliert",
-      "text": "In Supermärkten in sieben europäischen Ländern liefen Kühlgeräte mutmaßlich nach Hackerangriffen heiß, teils auf 50 Grad. Die EU verurteilte einen gezielten Versuch, die Versorgung zu stören. Niemand bekannte sich dazu, ein Experte hält Staaten oder Einzeltäter für denkbar.",
+      "headline": "Hacker stören Kühlanlagen von Supermärkten in Europa",
+      "text": "Hacker haben mutmaßlich die Kühlsysteme von Supermärkten in mehreren Ländern manipuliert. Laut BleepingComputer sind mehr als 115 Filialen in sechs Ländern betroffen. EU-Agrarkommissar Hansen spricht von einem gezielten Störversuch. Wer dahintersteckt, ist unklar.",
       "quellen": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why"
+          "name": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Merz kündigt nach Krawallen bei Jugendprotesten Härte an",
-      "text": "Nach den Krawallen am Wochenende kündigt Kanzler Merz ein hartes Vorgehen gegen Gewalttäter an und zeigt Verständnis für Anliegen junger Demonstranten. Pistorius hinterfragt den Begriff migrantische Gruppen. In Frankfurt wurden mehr als 100 Polizisten verletzt.",
+      "headline": "Merz kündigt nach Gen-Z-Krawallen Härte an",
+      "text": "Merz kündigt nach den Gen-Z-Krawallen laut Redemanuskript Härte gegen Gewalttäter an. In Frankfurt wurden mehr als 100 Polizisten verletzt. Pistorius widerspricht Dobrindts Wort von migrantischen Chaoten. Laut NZZ erwog Frankfurt am Sonntag ein Verbot der nächsten Demo.",
       "quellen": [
         {
           "name": "ZDFheute",
@@ -77,8 +85,8 @@
       ]
     },
     {
-      "headline": "IG Metall weitet Warnstreiks in der Metallindustrie aus",
-      "text": "Die IG Metall weitet ihre Warnstreiks aus, nachdem die Friedenspflicht endete. Sie fordert fünf Prozent mehr bei zwölf Monaten Laufzeit und Jobsicherung. Die Arbeitgeber boten eine Einmalzahlung und ab Juli 2028 plus 1,3 Prozent. Betroffen sind etwa 3,7 Millionen Beschäftigte.",
+      "headline": "IG Metall startet Warnstreiks in der Metallindustrie",
+      "text": "Die IG Metall hat in der Metall- und Elektrobranche Warnstreiks gestartet, am Montag sollten sie ausgeweitet werden. Die Gewerkschaft verlangt fünf Prozent mehr bei zwölf Monaten Laufzeit. Die Arbeitgeber bieten eine Einmalzahlung und ab Juli 2028 eine Erhöhung um 1,3 Prozent.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -91,26 +99,26 @@
       ]
     },
     {
-      "headline": "Berliner Koalitionsgespräche stoßen in der SPD auf Widerstand",
-      "text": "In Berlin begannen die Koalitionsverhandlungen von Linken, Grünen und SPD. Ein offener Brief von SPD-Mitgliedern zweifelt an der Regierungsfähigkeit der Berliner Linken. Laut SRF unterschrieben ihn weit über tausend Menschen, laut tagesschau auch Pistorius, Lauterbach und Giffey.",
+      "headline": "Merz will eine Frau als Steinmeier-Nachfolgerin",
+      "text": "Kanzler Merz will laut mehreren Nachrichtenagenturen eine Frau als Nachfolgerin von Bundespräsident Steinmeier vorschlagen, und zwar aus der politischen Mitte. Namen nannte er laut Bericht nicht. Die Bundesversammlung entscheidet am 30. Januar.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/spd-rot-gruen-rot-linke-berlin-100.html"
-        },
-        {
-          "name": "SRF",
-          "url": "https://www.srf.ch/news/international/regierungsbildung-in-berlin-die-spd-die-linke-und-der-kampf-um-macht-und-moral-in-berlin"
+          "url": "https://www.tagesschau.de/inland/merz-nachfolge-steinmeier-100.html"
         }
       ]
     },
     {
-      "headline": "Hubig legt Entwurf für härteres Sexualstrafrecht vor",
-      "text": "Hubig will verbale und gestische sexuelle Belästigung strafbar machen, mit bis zu einem Jahr Haft oder Geldstrafe. Gruppenvergewaltigungen sollen mindestens fünf Jahre Haft bringen, Vergewaltigungen erst nach 20 Jahren verjähren. Die Länder können sich bis 30. November äußern.",
+      "headline": "Berliner Koalitionsgespräche stoßen in der SPD auf Widerstand",
+      "text": "In Berlin begannen die Koalitionsverhandlungen von Linken, Grünen und SPD. Ein offener Brief von SPD-Mitgliedern bezweifelt die Regierungsfähigkeit der Berliner Linken. Laut SRF unterschrieben weit über tausend Menschen, laut tagesschau auch Pistorius, Lauterbach und Giffey.",
       "quellen": [
         {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/international/regierungsbildung-in-berlin-die-spd-die-linke-und-der-kampf-um-macht-und-moral-in-berlin"
+        },
+        {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/hubig-sexualstrafrecht-102.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/spd-rot-gruen-rot-linke-berlin-100.html"
         }
       ]
     }
