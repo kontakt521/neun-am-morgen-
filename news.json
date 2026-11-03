@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-03",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
       "headline": "Mutmaßliche US-Angriffe nahe der Straße von Hormus",
-      "text": "Auf der iranischen Insel Qeshm waren am Montagabend Explosionen zu hören. Laut US-Medien und US-Beamten führte das US-Militär defensive Angriffe gegen Flugabwehrraketen aus. Vizepräsident Vance sieht Chancen auf eine Verhandlungslösung, Trump verneinte Angriffe nach der Wahl.",
+      "text": "Auf der iranischen Insel Qeshm waren am späten Montag Explosionen zu hören. US-Medien melden unter Berufung auf US-Beamte defensive Angriffe des US-Militärs. Trump verneinte auf Nachfrage Schläge nach der Wahl, Vance äußerte sich zuversichtlich über die Gespräche.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -14,7 +14,7 @@
     },
     {
       "headline": "US-Zwischenwahlen mit Republikanern unter Druck",
-      "text": "In den USA wird am Dienstag der Kongress gewählt. Laut Reuters/Ipsos billigen nur 32 Prozent der Befragten Trumps Amtsführung, 46 Prozent würden Demokraten wählen, 38 Prozent Republikaner. Erste Ergebnisse aus Indiana und Kentucky erwartet NPR ab 18 Uhr Ostküstenzeit.",
+      "text": "In den USA wird heute der Kongress gewählt. Laut Reuters/Ipsos billigen nur 32 Prozent der Befragten Trumps Amtsführung, 46 Prozent würden Demokraten wählen, 38 Prozent Republikaner. Erste Ergebnisse aus Indiana und Kentucky werden ab 18 Uhr Ostküstenzeit erwartet.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -28,7 +28,7 @@
     },
     {
       "headline": "Russischer Luftangriff trifft Hilfszentrum in Saporischschja",
-      "text": "Russische Bomben trafen am Montag eine als Hilfszentrum genutzte Schule und einen Schutzraum im Dorf Komyschuwacha. Es gab mindestens 24 bis 26 Tote, je nach Quelle. Witkoff kündigte Gespräche von Russland und Ukraine am 10. und 11. November in Abu Dhabi an.",
+      "text": "Russische Bomben trafen am Montag eine als Hilfszentrum genutzte Schule und einen Schutzraum im Dorf Komyschuwacha. Nach ukrainischen Angaben starben mindestens 24 bis 26 Menschen. Witkoff kündigte Gespräche von Russland und Ukraine am 10. und 11. November in Abu Dhabi an.",
       "quellen": [
         {
           "name": "The Guardian",
@@ -42,7 +42,7 @@
     },
     {
       "headline": "Arabische Parteien als Königsmacher in Israel",
-      "text": "Netanyahus Block verlor die Mehrheit und hat noch 53 von 120 Sitzen, Eisenkots Block 48. Arabische Parteien kommen auf rekordhohe 19. Joint-List-Chef Jabareen erwägt, einen Eisenkot-Block von außen zu stützen. Präsident Herzog will frühestens ab Mittwoch Parteichefs anhören.",
+      "text": "Netanyahus Block verlor die Mehrheit und hat noch 53 von 120 Sitzen, Eisenkots Block 48. Arabische Parteien kommen auf rekordhohe 19. Joint-List-Chef Jabareen erwägt, eine Regierung Eisenkots von außen zu stützen. Präsident Herzog will frühestens ab Mittwoch Parteichefs anhören.",
       "quellen": [
         {
           "name": "The Guardian",
@@ -64,7 +64,7 @@
   "national": [
     {
       "headline": "Merz kündigt nach Krawallen bei Jugendprotesten Härte an",
-      "text": "Nach Ausschreitungen am Rand der Jugendproteste kündigt Kanzler Merz Härte gegen Gewalttäter an und zeigt Verständnis für Anliegen junger Demonstranten. Pistorius stellt den Begriff migrantische Gruppen infrage. In Frankfurt wurden mehr als 100 Polizisten verletzt.",
+      "text": "Nach den Krawallen am Wochenende kündigt Kanzler Merz ein hartes Vorgehen gegen Gewalttäter an und zeigt Verständnis für Anliegen junger Demonstranten. Pistorius hinterfragt den Begriff migrantische Gruppen. In Frankfurt wurden mehr als 100 Polizisten verletzt.",
       "quellen": [
         {
           "name": "ZDFheute",
@@ -78,7 +78,7 @@
     },
     {
       "headline": "IG Metall weitet Warnstreiks in der Metallindustrie aus",
-      "text": "Die IG Metall weitet ihre Warnstreiks aus, nachdem die Friedenspflicht endete. Sie verlangt fünf Prozent mehr bei zwölf Monaten Laufzeit und Jobsicherung. Die Arbeitgeber boten eine Einmalzahlung und ab Juli 2028 plus 1,3 Prozent. Betroffen sind rund 3,7 Millionen Beschäftigte.",
+      "text": "Die IG Metall weitet ihre Warnstreiks aus, nachdem die Friedenspflicht endete. Sie fordert fünf Prozent mehr bei zwölf Monaten Laufzeit und Jobsicherung. Die Arbeitgeber boten eine Einmalzahlung und ab Juli 2028 plus 1,3 Prozent. Betroffen sind etwa 3,7 Millionen Beschäftigte.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -92,7 +92,7 @@
     },
     {
       "headline": "Berliner Koalitionsgespräche stoßen in der SPD auf Widerstand",
-      "text": "In Berlin begannen die Koalitionsverhandlungen von Linke, Grünen und SPD. Ein offener Brief von SPD-Mitgliedern zweifelt an der Regierungsfähigkeit der Berliner Linken. Laut SRF haben ihn weit über tausend Menschen unterschrieben, darunter Pistorius, Lauterbach und Giffey.",
+      "text": "In Berlin begannen die Koalitionsverhandlungen von Linken, Grünen und SPD. Ein offener Brief von SPD-Mitgliedern zweifelt an der Regierungsfähigkeit der Berliner Linken. Laut SRF unterschrieben ihn weit über tausend Menschen, laut tagesschau auch Pistorius, Lauterbach und Giffey.",
       "quellen": [
         {
           "name": "tagesschau",
