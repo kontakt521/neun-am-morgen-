@@ -1,24 +1,24 @@
 {
   "datum": "2026-11-03",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
       "headline": "US-Zwischenwahlen entscheiden über Mehrheit im Kongress",
-      "text": "Heute wählen die USA einen neuen Kongress. Zur Wahl stehen alle 435 Sitze im Repräsentantenhaus und 35 der 100 Senatssitze, die Demokraten hoffen auf beide Kammern. Erste Wahllokale schließen um 18 Uhr Ostküstenzeit. Wer die Mehrheit hat, kann Tage unklar bleiben.",
+      "text": "Heute wählen die USA einen neuen Kongress. Zur Wahl stehen alle 435 Sitze im Repräsentantenhaus und 35 der 100 Senatssitze. Die Demokraten wollen beide Kammern von Trumps Republikanern übernehmen. Erste Wahllokale schließen um 18 Uhr Ostküstenzeit, das Ergebnis kann Tage dauern.",
       "quellen": [
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night"
-        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night"
         }
       ]
     },
     {
-      "headline": "USA greifen iranische Insel Qeshm begrenzt an",
-      "text": "Das US-Militär führte am Montag laut drei US-Beamten begrenzte, defensive Angriffe auf iranische Ziele bei Qeshm aus. Auslöser war laut einem hohen Beamten der Beschuss eines US-Flugzeugs durch die Revolutionsgarden. Iran behält sich das Recht auf Selbstverteidigung vor.",
+      "headline": "USA greifen iranische Ziele bei Qeshm begrenzt an",
+      "text": "Das US-Militär führte am Montag laut drei US-Beamten begrenzte, defensive Angriffe auf iranische Ziele aus. Laut einem hohen Beamten galten sie der Insel Qeshm, nachdem die Revolutionsgarden auf ein US-Flugzeug geschossen hatten. Iran behält sich Selbstverteidigung vor.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -31,8 +31,8 @@
       ]
     },
     {
-      "headline": "Russland greift Ukraine an, Verletzte in Charkiw",
-      "text": "Russland griff die Ukraine laut der Luftwaffe mit 289 Drohnen und 59 Marschflugkörpern an. Bei einem Schlag auf eine medizinische Einrichtung in Charkiw zählte die Staatsanwaltschaft 73 Verletzte, die Militärverwaltung 25. In Saporischschja starben laut Behörden 29 Menschen.",
+      "headline": "Russland greift Ukraine massiv an, Dutzende Tote",
+      "text": "Russland griff die Ukraine laut der Luftwaffe mit 289 Drohnen, 59 Marschflugkörpern und Ballistikraketen an. In Saporischschja starben laut Behörden 29 Menschen. Bei einem Schlag auf eine Klinik in Charkiw nannte die Staatsanwaltschaft 73 Verletzte, die Militärverwaltung 25.",
       "quellen": [
         {
           "name": "Kyiv Independent",
@@ -46,8 +46,12 @@
     },
     {
       "headline": "Israels Opposition einigt sich auf Eisenkot als Kandidaten",
-      "text": "Die fünf Oppositionsparteien in Israel wollen Präsident Herzog empfehlen, Gadi Eisenkot den ersten Regierungsauftrag zu geben. Sie streben rasch eine Notstandsregierung an. Ohne die arabischen Parteien fehlt dem Block die Mehrheit, Liberman lehnt eine Koalition mit ihnen ab.",
+      "text": "Die fünf Oppositionsparteien in Israel wollen Präsident Herzog empfehlen, Gadi Eisenkot den ersten Regierungsauftrag zu geben, und streben eine Notstandsregierung an. Der Block hat 48 Sitze, 61 sind für eine Mehrheit nötig. Liberman lehnt ein Bündnis mit arabischen Parteien ab.",
       "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu"
+        },
         {
           "name": "The Jerusalem Post",
           "url": "https://www.jpost.com/israel-election-2026/article-913678"
@@ -56,69 +60,65 @@
     },
     {
       "headline": "Hacker stören Kühlanlagen von Supermärkten in Europa",
-      "text": "Hacker haben mutmaßlich die Kühlsysteme von Supermärkten in mehreren Ländern manipuliert. Laut BleepingComputer sind mehr als 115 Filialen in sechs Ländern betroffen. EU-Agrarkommissar Hansen spricht von einem gezielten Störversuch. Wer dahintersteckt, ist unklar.",
+      "text": "Hacker haben laut BleepingComputer per Fernzugriff Temperatureinstellungen von Kühl- und Gefrieranlagen verändert. Betroffen sind mehr als 115 Filialen in Belgien, den Niederlanden, Schweden, Luxemburg, Irland und Estland. Ob die Angriffe koordiniert waren, ist unklar.",
       "quellen": [
         {
           "name": "BleepingComputer",
           "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Merz kündigt nach Gen-Z-Krawallen Härte an",
-      "text": "Merz kündigt nach den Gen-Z-Krawallen laut Redemanuskript Härte gegen Gewalttäter an. In Frankfurt wurden mehr als 100 Polizisten verletzt. Pistorius widerspricht Dobrindts Wort von migrantischen Chaoten. Laut NZZ erwog Frankfurt am Sonntag ein Verbot der nächsten Demo.",
+      "headline": "Merz kündigt nach Krawallen Härte gegen Gewalttäter an",
+      "text": "Merz kündigt nach den Gen-Z-Krawallen laut Redemanuskript hartes Vorgehen an, zeigt aber Verständnis für Anliegen der Jugend. In Frankfurt wurden mehr als 100 Polizisten verletzt. Innenminister Dobrindt weist Kritik an seiner Wortwahl zurück, Pistorius widerspricht ihm.",
       "quellen": [
         {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/politik/deutschland/merz-gen-z-protest-reaktion-krawall-gewalt-ausschreitungen-100.html"
         },
         {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/international/jugendproteste-in-europa-pluenderungen-in-frankfurt-brennende-barrikaden-in-zuerich-und-basel-320-000-teilnehmer-in-frankreich-ld.10050272"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-genz-proteste-100.html"
         }
       ]
     },
     {
-      "headline": "IG Metall startet Warnstreiks in der Metallindustrie",
-      "text": "Die IG Metall hat in der Metall- und Elektrobranche Warnstreiks gestartet, am Montag sollten sie ausgeweitet werden. Die Gewerkschaft verlangt fünf Prozent mehr bei zwölf Monaten Laufzeit. Die Arbeitgeber bieten eine Einmalzahlung und ab Juli 2028 eine Erhöhung um 1,3 Prozent.",
+      "headline": "Merz sagt Selenskyj in Berlin Winterhilfe zu",
+      "text": "Beim Besuch von Selenskyj in Berlin sagte Merz laut NZZ 200 Millionen Euro Winterhilfe für Kraftwerke und zivile Infrastruktur zu. Er verlangt, dass Europa bei Friedensgesprächen mit am Tisch sitzt. Die USA vermitteln am 10. und 11. November in Abu Dhabi.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html"
+          "url": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-ukrainehilfe-100.html"
         },
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/der-deutsche-kanzler-merz-sichert-der-ukraine-weitere-hilfe-zu-europa-will-bei-der-friedensloesung-mitreden-ld.10052944"
+        }
+      ]
+    },
+    {
+      "headline": "Renten steigen 2027 voraussichtlich um 4,1 Prozent",
+      "text": "Zum 1. Juli 2027 steigen die Renten voraussichtlich um 4,1 Prozent. Davon geht laut ZDF aus Regierungskreisen das Arbeitsministerium aus, genaue Daten liegen im März vor. Bei 1.000 Euro Monatsrente wären das 41 Euro mehr. Der Beitragssatz soll 2027 bei 18,6 Prozent bleiben.",
+      "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/wirtschaft/ig-metall-warnstreiks-elektro-industrie-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/rente-anstieg-rentenbericht-100.html"
         }
       ]
     },
     {
-      "headline": "Merz will eine Frau als Steinmeier-Nachfolgerin",
-      "text": "Kanzler Merz will laut mehreren Nachrichtenagenturen eine Frau als Nachfolgerin von Bundespräsident Steinmeier vorschlagen, und zwar aus der politischen Mitte. Namen nannte er laut Bericht nicht. Die Bundesversammlung entscheidet am 30. Januar.",
+      "headline": "Schaeffler streicht 3.460 Stellen und schließt Standorte",
+      "text": "Schaeffler streicht insgesamt 3.460 Stellen, davon 2.660 in Deutschland. Vier deutsche Standorte schließen, nämlich Dortmund, Morbach, Schwalbach und eine Berliner Niederlassung. Die IG Metall übt scharfe Kritik. Ab 2030 soll das Programm jährlich 300 Millionen Euro sparen.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/merz-nachfolge-steinmeier-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Berliner Koalitionsgespräche stoßen in der SPD auf Widerstand",
-      "text": "In Berlin begannen die Koalitionsverhandlungen von Linken, Grünen und SPD. Ein offener Brief von SPD-Mitgliedern bezweifelt die Regierungsfähigkeit der Berliner Linken. Laut SRF unterschrieben weit über tausend Menschen, laut tagesschau auch Pistorius, Lauterbach und Giffey.",
-      "quellen": [
-        {
-          "name": "SRF",
-          "url": "https://www.srf.ch/news/international/regierungsbildung-in-berlin-die-spd-die-linke-und-der-kampf-um-macht-und-moral-in-berlin"
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/schaeffler-154.html"
         },
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/spd-rot-gruen-rot-linke-berlin-100.html"
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/wirtschaft/automobilzulieferer-schaeffler-baut-tausende-weitere-jobs-ab-viele-davon-in-deutschland-ld.10052678"
         }
       ]
     }
