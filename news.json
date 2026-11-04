@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-04",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
       "headline": "Demokraten gewinnen Senat und Repräsentantenhaus",
@@ -76,7 +76,7 @@
   "national": [
     {
       "headline": "Poseck nennt Verbot weiterer Gen-Z-Demos als Option",
-      "text": "Nach Krawallen bei den Gen-Z-Protesten am vergangenen Wochenende, vor allem in Frankfurt, nennt Hessens Innenminister Poseck (CDU) ein Verbot weiterer Demonstrationen als Option. Rechtlich wäre das denkbar, müsste aber gut begründet sein und bliebe letztes Mittel.",
+      "text": "Nach Krawallen bei den Gen-Z-Protesten am vergangenen Wochenende, vor allem in Frankfurt, nennt Hessens Innenminister Poseck (CDU) ein Verbot weiterer Demonstrationen als Option. Juristisch wäre das möglich, bräuchte aber eine gute Begründung und bliebe letztes Mittel.",
       "quellen": [
         {
           "name": "tagesschau",
