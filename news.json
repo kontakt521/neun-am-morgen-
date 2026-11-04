@@ -1,56 +1,52 @@
 {
-  "datum": "2026-11-03",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-04",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "US-Zwischenwahlen entscheiden über Mehrheit im Kongress",
-      "text": "Heute wählen die USA einen neuen Kongress. Zur Wahl stehen alle 435 Sitze im Repräsentantenhaus und 35 der 100 Senatssitze. Die Demokraten wollen beide Kammern von Trumps Republikanern übernehmen. Erste Wahllokale schließen um 18 Uhr Ostküstenzeit, das Ergebnis kann Tage dauern.",
+      "headline": "Demokraten erobern Senat und Repräsentantenhaus",
+      "text": "Die Demokraten gewinnen laut AP den Senat und laut CBS News das Repräsentantenhaus. Im Senat kommen sie auf mindestens 51 Sitze, auch in Texas und Kansas. Damit endet die republikanische Kontrolle über Senat, Repräsentantenhaus und Präsidentenamt.",
       "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results"
-        },
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night"
-        }
-      ]
-    },
-    {
-      "headline": "USA greifen iranische Ziele bei Qeshm begrenzt an",
-      "text": "Das US-Militär führte am Montag laut drei US-Beamten begrenzte, defensive Angriffe auf iranische Ziele aus. Laut einem hohen Beamten galten sie der Insel Qeshm, nachdem die Revolutionsgarden auf ein US-Flugzeug geschossen hatten. Iran behält sich Selbstverteidigung vor.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz"
-        },
         {
           "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/u-s-strikes-iran-targets/"
+          "url": "https://www.cbsnews.com/news/democrats-win-house-majority/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"
         }
       ]
     },
     {
-      "headline": "Russland greift Ukraine massiv an, Dutzende Tote",
-      "text": "Russland griff die Ukraine laut der Luftwaffe mit 289 Drohnen, 59 Marschflugkörpern und Ballistikraketen an. In Saporischschja starben laut Behörden 29 Menschen. Bei einem Schlag auf eine Klinik in Charkiw nannte die Staatsanwaltschaft 73 Verletzte, die Militärverwaltung 25.",
+      "headline": "USA und Iran verhandeln nach neuen Angriffen weiter",
+      "text": "Die USA griffen laut US-Beamten begrenzt und defensiv iranische Ziele nahe der Straße von Hormus an, nach einem mutmaßlichen iranischen Angriff auf ein US-Flugzeug. Iran nennt die US-Antwort nicht überzeugend. Katar vermittelt weiter und sieht Hoffnung auf ein Zwischenabkommen.",
       "quellen": [
         {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russian-missile-attack-hits-kharkiv-medical-facility-62-casualties-reported/"
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/"
         },
         {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/03/russia-pounds-ukraine-with-289-drones-and-17-ballistic-missiles-in-overnight-strikes-zelen"
+          "url": "https://www.euronews.com/2026/11/03/qatar-sees-hope-for-us-iran-deal-despite-fresh-us-strikes-as-mediators-exchange-proposals-"
         }
       ]
     },
     {
-      "headline": "Israels Opposition einigt sich auf Eisenkot als Kandidaten",
-      "text": "Die fünf Oppositionsparteien in Israel wollen Präsident Herzog empfehlen, Gadi Eisenkot den ersten Regierungsauftrag zu geben, und streben eine Notstandsregierung an. Der Block hat 48 Sitze, 61 sind für eine Mehrheit nötig. Liberman lehnt ein Bündnis mit arabischen Parteien ab.",
+      "headline": "Russland greift Ukraines Energieanlagen massiv an",
+      "text": "Russland hat laut ukrainischen Angaben mit 289 Drohnen, 59 Marschflugkörpern und 17 ballistischen Raketen Energieanlagen in zehn Regionen angegriffen. Nach Angaben von Energieminister Schmyhal zielten drei Drohnen auf ein Umspannwerk des Atomkraftwerks Chmelnyzkyj.",
+      "quellen": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russia-unleashes-biggest-mass-attack-on-ukraines-energy-this-year-2/"
+        }
+      ]
+    },
+    {
+      "headline": "Israels Opposition strebt Notstandsregierung ohne Mehrheit an",
+      "text": "Bei der Wahl vom 27. Oktober kam Netanjahus Lager auf 53 Sitze, Eisenkots Opposition auf 48, die arabischen Listen auf 19. Die Opposition will laut Erklärung rasch eine Notstandsregierung bilden, nötig sind 61 Sitze. Das Ergebnis soll am Mittwoch bestätigt werden.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu"
+          "url": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance"
         },
         {
           "name": "The Jerusalem Post",
@@ -59,20 +55,24 @@
       ]
     },
     {
-      "headline": "Hacker stören Kühlanlagen von Supermärkten in Europa",
-      "text": "Hacker haben laut BleepingComputer per Fernzugriff Temperatureinstellungen von Kühl- und Gefrieranlagen verändert. Betroffen sind mehr als 115 Filialen in Belgien, den Niederlanden, Schweden, Luxemburg, Irland und Estland. Ob die Angriffe koordiniert waren, ist unklar.",
+      "headline": "Hacker stören Supermarkt-Kühlanlagen in mindestens 11 Ländern",
+      "text": "Hacker haben die Temperaturen von Kühlanlagen in Supermärkten in mindestens 11 europäischen Ländern erhöht, auch in Deutschland, Rumänien und Großbritannien. Die EU spricht von keinen Einzelfällen. Rumäniens Cyberchef vermutet keinen staatlichen Täter. Niemand bekannte sich dazu.",
       "quellen": [
         {
-          "name": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/03/italy-holds-emergency-talks-as-supermarket-fridge-attacks-spread-across-europe"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Merz kündigt nach Krawallen Härte gegen Gewalttäter an",
-      "text": "Merz kündigt nach den Gen-Z-Krawallen laut Redemanuskript hartes Vorgehen an, zeigt aber Verständnis für Anliegen der Jugend. In Frankfurt wurden mehr als 100 Polizisten verletzt. Innenminister Dobrindt weist Kritik an seiner Wortwahl zurück, Pistorius widerspricht ihm.",
+      "headline": "Merz kündigt nach Gen-Z-Krawallen hartes Vorgehen an",
+      "text": "Merz kündigt laut Redemanuskript Härte gegen Gewalttäter an und zeigt Verständnis für Anliegen der Jugend. Innenminister Dobrindt verteidigt seine Wortwahl, Verteidigungsminister Pistorius widerspricht ihm. Die Linke fordert dazu eine Parlamentsdebatte am Freitag.",
       "quellen": [
         {
           "name": "ZDFheute",
@@ -100,25 +100,29 @@
     },
     {
       "headline": "Renten steigen 2027 voraussichtlich um 4,1 Prozent",
-      "text": "Zum 1. Juli 2027 steigen die Renten voraussichtlich um 4,1 Prozent. Davon geht laut ZDF aus Regierungskreisen das Arbeitsministerium aus, genaue Daten liegen im März vor. Bei 1.000 Euro Monatsrente wären das 41 Euro mehr. Der Beitragssatz soll 2027 bei 18,6 Prozent bleiben.",
+      "text": "Zum 1. Juli 2027 steigen die Renten voraussichtlich um 4,1 Prozent. Das Arbeitsministerium geht laut ZDF aus Regierungskreisen davon aus, genaue Daten liegen im März vor. Bei 1.000 Euro Monatsrente wären das 41 Euro mehr. Der Beitragssatz bleibt 2027 bei 18,6 Prozent.",
       "quellen": [
         {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/politik/deutschland/rente-anstieg-rentenbericht-100.html"
+        },
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html"
         }
       ]
     },
     {
       "headline": "Schaeffler streicht 3.460 Stellen und schließt Standorte",
-      "text": "Schaeffler streicht insgesamt 3.460 Stellen, davon 2.660 in Deutschland. Vier deutsche Standorte schließen, nämlich Dortmund, Morbach, Schwalbach und eine Berliner Niederlassung. Die IG Metall übt scharfe Kritik. Ab 2030 soll das Programm jährlich 300 Millionen Euro sparen.",
+      "text": "Schaeffler plant europaweit den Abbau von 3.460 Stellen, in Deutschland sind es 2.660. Schließen sollen die Standorte Dortmund, Morbach, Schwalbach und Berlin. Die IG Metall kritisiert den Abbau scharf. Ab 2030 will der Konzern jährlich etwa 300 Millionen Euro einsparen.",
       "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/schaeffler-154.html"
-        },
         {
           "name": "NZZ",
           "url": "https://www.nzz.ch/wirtschaft/automobilzulieferer-schaeffler-baut-tausende-weitere-jobs-ab-viele-davon-in-deutschland-ld.10052678"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/schaeffler-stellenabbau-standortschliessung-autozulieferer-100.html"
         }
       ]
     }
