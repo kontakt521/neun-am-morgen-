@@ -1,24 +1,24 @@
 {
   "datum": "2026-11-04",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
       "headline": "Demokraten gewinnen Senat und Repräsentantenhaus",
-      "text": "Die Demokraten haben bei den US-Zwischenwahlen laut Al Jazeera 53 Senatssitze gewonnen und liegen in drei weiteren vorn. Nach Angaben von CBS News erobern sie auch das Repräsentantenhaus. Trump gratulierte und verwies auf sein Vetorecht.",
+      "text": "Die Demokraten haben bei den US-Zwischenwahlen laut Al Jazeera 54 Senatssitze gewonnen und liegen in zwei weiteren vorn. Laut AP erobern sie auch das Repräsentantenhaus. Trump räumte den besseren Wahlkampf der Demokraten ein und verwies auf sein Vetorecht.",
       "quellen": [
-        {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/democrats-win-house-majority/"
-        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cmr4y92rgd9po"
         }
       ]
     },
     {
-      "headline": "Iran hält US-Antwort zu Hormus für nicht überzeugend",
-      "text": "Iran nennt die US-Antwort auf seinen Sieben-Punkte-Plan zur Öffnung der Straße von Hormus nicht überzeugend. Zuvor griffen US-Streitkräfte laut US-Beamten begrenzt und defensiv iranische Ziele an. Trump hält eine Einigung weiter für möglich.",
+      "headline": "Iran knüpft Öffnung von Hormus an seinen Siebenpunkteplan",
+      "text": "Iran will die Straße von Hormus nur öffnen, wenn die USA seinen Siebenpunkteplan erfüllen. Ein Sicherheitsvertreter nennt die US-Antwort nicht überzeugend. Die USA griffen laut US-Beamten begrenzt iranische Ziele an. Katar erwartet laut Reuters binnen 36 Stunden Rückmeldungen.",
       "quellen": [
         {
           "name": "CBS News",
@@ -26,41 +26,41 @@
         },
         {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/03/us-strikes-irans-qeshm-island-ahead-of-midterm-elections"
+          "url": "https://www.euronews.com/2026/11/04/iranian-mp-tells-euronews-tehrans-missiles-will-strike-europe-if-us-uses-its-bases-there"
         }
       ]
     },
     {
-      "headline": "Russland greift Ukraine nach Waffenruhe schwer an",
-      "text": "Bei einem russischen Angriff auf ein früheres Schulgebäude im Dorf Komyshuvakha starben laut Selenskyj 33 Menschen, mehr als 50 könnten verschüttet sein. Am 3. November traf Russland nach ukrainischen Angaben Energieanlagen in zehn Regionen.",
+      "headline": "Russischer Angriff auf Komyshuvakha fordert 40 Tote",
+      "text": "Beim russischen Luftangriff auf das Dorf Komyshuvakha starben laut Behörden 40 Menschen, über 30 könnten laut Selenskyj noch verschüttet sein. Getroffen wurde eine Schule mit Hilfsgüterverteilung. Am 10. und 11. November verhandeln USA, Russland und Ukraine in Abu Dhabi.",
       "quellen": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/death-toll-from-russian-attack-on-komyshuvakha-rises-to-37-as-search-operation-enters-3rd-day/"
+        },
         {
           "name": "Euronews",
           "url": "https://www.euronews.com/2026/11/04/more-than-50-trapped-under-rubble-after-russian-strike-on-school-turned-aid-centre-zelensk"
-        },
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russia-unleashes-biggest-mass-attack-on-ukraines-energy-this-year-2/"
         }
       ]
     },
     {
-      "headline": "Israels Opposition einigt sich auf Eisenkot als Kandidaten",
-      "text": "Die Oppositionsparteien wollen Präsident Herzog Gadi Eisenkot für den ersten Regierungsauftrag empfehlen und eine Notstandsregierung bilden. Netanjahus Lager kam auf 53 Sitze, die Opposition auf 48, arabische Listen auf 19. Nötig sind 61.",
+      "headline": "Israels Wahlausschuss weist Betrugsvorwürfe zurück",
+      "text": "Israels Wahlausschuss hat das Ergebnis der Wahl vom 27. Oktober bestätigt und keine Hinweise auf Betrug gefunden. Präsident Herzog begann Beratungen mit den Parteien. Netanjahus Block kam auf 53 Sitze, Eisenkots Block auf 48, arabische Listen auf 19. Nötig sind 61.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6z98z5z91ppo"
         },
         {
-          "name": "The Jerusalem Post",
-          "url": "https://www.jpost.com/israel-election-2026/article-913678"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims"
         }
       ]
     },
     {
-      "headline": "Hackerangriffe auf Supermarkt-Kühlanlagen weiten sich aus",
-      "text": "Hacker haben die Kühlanlagen von Supermärkten in mindestens 11 europäischen Ländern erhitzt, auch in Deutschland und Italien. Die EU nennt die Angriffe keine Einzelfälle. Rumäniens Cyberchef vermutet keinen staatlichen Täter, niemand bekannte sich.",
+      "headline": "Hacker greifen Kühlanlagen in Supermärkten und Blutlagern an",
+      "text": "Hacker erhöhten die Temperatur von Kühlanlagen in Supermärkten in mindestens 11 europäischen Ländern, auch in Deutschland. Die EU nennt die Angriffe nicht isoliert. Ein Angriff auf drei Plasmalager des Blutspendedienstes EFS in Frankreich scheiterte. Niemand bekannte sich.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -68,37 +68,33 @@
         },
         {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/04/supermarket-cyberattacks-in-europe-hit-italys-coop-stores-in-catania-and-palermo"
+          "url": "https://www.euronews.com/2026/11/04/cyberattack-hits-french-blood-banks-but-no-samples-compromised-officials-say"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Merz kündigt nach Gen-Z-Krawallen Härte an",
-      "text": "Merz kündigt laut Redemanuskript hartes Vorgehen gegen Gewalttäter an und zeigt Verständnis für Anliegen der Jugend. Innenminister Dobrindt verteidigt seine Wortwahl, Verteidigungsminister Pistorius widerspricht. Die Linke beantragt für Freitag eine Aktuelle Stunde.",
+      "headline": "Poseck nennt Verbot weiterer Gen-Z-Demos als Option",
+      "text": "Nach Krawallen bei den Gen-Z-Protesten am vergangenen Wochenende, vor allem in Frankfurt, nennt Hessens Innenminister Poseck (CDU) ein Verbot weiterer Demonstrationen als Option. Rechtlich wäre das denkbar, müsste aber gut begründet sein und bliebe letztes Mittel.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/merz-gen-z-protest-reaktion-krawall-gewalt-ausschreitungen-100.html"
-        },
-        {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-genz-proteste-100.html"
+          "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-verbot-100.html"
         }
       ]
     },
     {
-      "headline": "Merz sagt Selenskyj in Berlin Winterhilfe zu",
-      "text": "Merz sagte Selenskyj in Berlin laut NZZ 200 Millionen Euro Winterhilfe für Kraftwerke und zivile Infrastruktur zu. Er verlangt, dass Europa bei Friedensgesprächen mit am Tisch sitzt. Die USA, Russland und die Ukraine verhandeln am 10. und 11. November in Abu Dhabi.",
+      "headline": "Inflation im Euroraum erreicht im Oktober 4,0 Prozent",
+      "text": "Die Verbraucherpreise im Euroraum lagen im Oktober laut Eurostat 4,0 Prozent über dem Vorjahr, im September waren es 3,8 Prozent. Das ist der höchste Wert seit September 2023. Haupttreiber ist Energie, die sich um 20,8 Prozent verteuerte.",
       "quellen": [
         {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/der-deutsche-kanzler-merz-sichert-der-ukraine-weitere-hilfe-zu-europa-will-bei-der-friedensloesung-mitreden-ld.10052944"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html"
         },
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-ukrainehilfe-100.html"
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/hohe-energiepreise-inflation-im-euroraum-steigt-auf-vier-prozent-a-6aa49e04-4639-4134-acf6-08d84917b500"
         }
       ]
     },
@@ -107,22 +103,26 @@
       "text": "Der Nettogewinn von BMW lag im dritten Quartal bei 1,45 Milliarden Euro, damit knapp 15 Prozent unter dem Vorjahr. Treiber ist vor allem der Absatzeinbruch in China. Für die Marge im Autogeschäft erwartet BMW 2026 minus 0,5 bis plus 0,5 Prozent.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html"
-        },
-        {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/wirtschaft/unternehmen/bmw-gewinn-einbruch-china-100.html"
+        },
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-macht-15-prozent-weniger-gewinn-es-duerfte-noch-schlimmer-werden-a-c122d2d7-a0c6-48a1-97ca-043d5fef46cd"
         }
       ]
     },
     {
-      "headline": "Renten steigen 2027 voraussichtlich um 4,1 Prozent",
-      "text": "Die Renten steigen am 1. Juli 2027 voraussichtlich um 4,1 Prozent. Das Arbeitsministerium geht laut ZDF aus Regierungskreisen davon aus, genaue Daten liegen im März vor. Bei 1.000 Euro Rente wären das 41 Euro mehr. Der Beitragssatz bleibt 2027 bei 18,6 Prozent.",
+      "headline": "Autor und Illustrator Janosch mit 95 Jahren gestorben",
+      "text": "Janosch, der Schöpfer der Tigerente und Autor von Oh wie schön ist Panama, ist gestorben. Er starb am Dienstag auf Teneriffa, teilte sein Verleger Bernhard Feil der dpa mit. Seine Bücher erschienen in rund 40 Sprachen mit einer Gesamtauflage in Millionenhöhe.",
       "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/rente-anstieg-rentenbericht-100.html"
+          "url": "https://www.zdfheute.de/panorama/janosch-schriftsteller-kuenstler-tot-100.html"
+        },
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/feuilleton/der-deutsche-schriftsteller-und-kuenstler-janosch-ist-tot-ld.10053994"
         }
       ]
     }
