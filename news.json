@@ -1,29 +1,25 @@
 {
   "datum": "2026-11-05",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
-      "headline": "Demokraten gewinnen beide Kammern des Kongresses",
-      "text": "Die Demokraten übernehmen im kommenden Jahr beide Kammern des Kongresses und wollen unter anderem Korruption untersuchen. Gesetze können sie beschließen, Trump kann aber sein Veto einlegen. Die Senatsergebnisse aus Alaska und Mississippi stehen noch aus.",
+      "headline": "Zwei Senatsrennen nach US-Wahl noch offen",
+      "text": "Die Demokraten haben beide Kammern des Kongresses gewonnen, zwei Senatsrennen sind noch offen. In Mississippi führt Colom laut BBC knapp vor Hyde-Smith, in Alaska liegt Peltola laut AP 637 Stimmen vor Sullivan. Das Ergebnis aus Alaska soll am 18. November vorliegen.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cq1kdgnn2xdeo"
+          "url": "https://www.bbc.com/news/articles/c6n9rwxlx992o"
         },
         {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-r"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska"
         }
       ]
     },
     {
       "headline": "Iran meldet brennende Tanker in der Straße von Hormus",
-      "text": "Laut den iranischen Revolutionsgarden brannten nach Minentreffern Tanker in der Straße von Hormus. BBC Verify fand für vier zerstörte Tanker keine Belege. Trump räumte ein, die Wahlniederlage liege teils am Krieg, bereut ihn aber nicht.",
+      "text": "Laut Irans Revolutionsgarden gerieten in der Straße von Hormus zwei Tanker und ein Schlepper in Brand, ein weiterer traf eine Mine. Eine britische Militärbehörde meldet im Golf einen von zwei Geschossen getroffenen Tanker. Oman verhandelt mit Iran über gemeinsame Kontrolle.",
       "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6d934npl9y8o"
-        },
         {
           "name": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
@@ -31,56 +27,52 @@
       ]
     },
     {
-      "headline": "Angriff auf Komyshuvakha fordert mindestens 43 Tote",
-      "text": "Nach dem russischen Luftangriff auf Komyshuvakha im Gebiet Saporischschja wurden laut Behörden 43 Tote geborgen, 33 Menschen gelten als vermisst. Eine Vermisste wurde lebend gefunden. Getroffen wurde unter anderem eine Schule, in der Hilfsgüter verteilt wurden.",
-      "quellen": [
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/42-bodies-recovered-from-rubble-after-russian-strike-on-komyshuvakha-as-search-continues-police-say/"
-        },
-        {
-          "name": "Ukrinform",
-          "url": "https://www.ukrinform.net/rubric-ato/4181787-death-toll-from-russian-airstrike-on-komyshuvakha-rises-to-43-zelensky.html"
-        }
-      ]
-    },
-    {
-      "headline": "Eisenkot dürfte in Israel 67 Stimmen erhalten",
-      "text": "Bei den Beratungen mit Präsident Herzog empfahlen Ra'am und die Partei Demokraten Eisenkot, die Joint List will es am Abend tun. Damit dürfte er auf 67 von 120 Stimmen kommen. Otzma Jehudit empfahl Netanjahu, die Partei UTJ nannte keinen Kandidaten.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government"
-        },
-        {
-          "name": "The Jerusalem Post",
-          "url": "https://www.jpost.com/israel-election-2026/article-913890"
-        }
-      ]
-    },
-    {
-      "headline": "Bombendrohungen stören erneut Flüge in Europa",
-      "text": "Mutmaßliche Scheindrohungen haben in Europa erneut Flüge gestört, laut BBC mindestens 21. Eine Maschine von Aer Lingus aus Dublin wurde nach Frankreich umgeleitet und von Militärflugzeugen begleitet. In mehreren Fällen fanden Prüfer nichts.",
+      "headline": "Melania Trump empfängt russische und ukrainische Delegationen",
+      "text": "Melania Trump hat im Weißen Haus Delegationen aus Russland und der Ukraine empfangen und eine dauerhaftere Waffenruhe gefordert. Anlass war die sechstägige Feuerpause um Oleschky im Gebiet Cherson, die Hunderten Bewohnern die Flucht ermöglichte. Ihre Rolle bleibt vage.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/live/cwjdmnrg94ezt"
+          "url": "https://www.bbc.com/news/articles/c9p8g085mz07o"
+        }
+      ]
+    },
+    {
+      "headline": "Eisenkot kann in Israel mit 67 Empfehlungen rechnen",
+      "text": "Nach Ra'am und den Demokraten will auch die Joint List Eisenkot für die Regierungsbildung in Israel empfehlen. Damit käme er auf 67 der 120 Abgeordneten. Otzma Jehudit empfahl Netanjahu, die Partei UTJ nannte keinen Kandidaten. Präsident Herzog entscheidet in einigen Tagen.",
+      "quellen": [
+        {
+          "name": "The Jerusalem Post",
+          "url": "https://www.jpost.com/israel-election-2026/article-913890"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france"
+          "url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government"
+        }
+      ]
+    },
+    {
+      "headline": "Paraguays Präsident Peña tritt nach Bankenpleite zurück",
+      "text": "Paraguays Präsident Santiago Peña ist nach dem Zusammenbruch der Digitalbank Ueno zurückgetreten. Das Abgeordnetenhaus hatte ein Amtsenthebungsverfahren befürwortet, Demonstranten forderten den Rücktritt. Peña weist Verfehlungen zurück. Vizepräsident Alliana soll übernehmen.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6p9g39vln3yo"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Aiwanger starb laut Obduktion ohne Fremdverschulden",
-      "text": "Der bayerische Wirtschaftsminister Hubert Aiwanger starb laut vorläufigem Obduktionsergebnis ohne Fremdverschulden, teilte die Generalstaatsanwaltschaft Berlin mit. Weitere Untersuchungen stehen aus. Die Freien Wähler brauchen einen neuen Vorsitzenden.",
+      "headline": "Freie Wähler beraten nach Aiwangers Tod über ihre Zukunft",
+      "text": "Die Freien Wähler wollen bis zum Wochenende klären, wie es nach Hubert Aiwangers Tod weitergeht. Der Parteitag am 14. November soll laut einem Vizechef verschoben werden. Die Obduktion ergab vorläufig kein Fremdverschulden. Söder will die gemeinsame Politik fortsetzen.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html"
+          "url": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html"
         },
         {
           "name": "SRF",
@@ -89,36 +81,32 @@
       ]
     },
     {
-      "headline": "Unterstützung für Aigner als Bundespräsidentin wächst",
-      "text": "Für die Steinmeier-Nachfolge sprechen sich immer mehr CDU-Politiker für die CSU-Politikerin Ilse Aigner aus, darunter Unionsfraktionschef Frei und mehrere ostdeutsche Regierungschefs. Merz hat noch keine Kandidatin genannt. Am Montag tagen die CDU-Gremien.",
+      "headline": "Rückhalt für Aigner als Bundespräsidentin wächst",
+      "text": "Immer mehr Politiker unterstützen Ilse Aigner (CSU) als mögliche Nachfolgerin von Bundespräsident Steinmeier, darunter die CDU-Ministerpräsidenten Kretschmer, Schulze und Voigt sowie SPD-Politiker. Merz hat sich nicht festgelegt, die CDU-Führung berät am Montag.",
       "quellen": [
         {
-          "name": "FAZ",
-          "url": "https://www.faz.net/aktuell/politik/inland/der-cdu-fanklub-fuer-ilse-aigner-waechst-201654247.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html"
         }
       ]
     },
     {
-      "headline": "Linnemann will Pflegereform nachbessern",
-      "text": "Gesundheitsminister Linnemann kündigte bei der ersten Beratung im Bundestag Korrekturen an der Pflegereform an, vor allem bei der Verhinderungspflege. Ohne das Gesetz fehlten 2027 knapp acht Milliarden Euro. Patientenschützer kritisieren den Entwurf als Mogelpackung.",
+      "headline": "Linnemann kündigt Korrekturen an der Pflegereform an",
+      "text": "Gesundheitsminister Linnemann verteidigte die Pflegereform bei der ersten Beratung im Bundestag und kündigte Nachbesserungen an. Ohne das Gesetz drohe laut ihm im nächsten Jahr ein Defizit von etwa acht Milliarden Euro. Patientenschützer nennen den Entwurf eine Mogelpackung.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-pflegeversicherung-linnemann-100.html"
-        },
-        {
-          "name": "FAZ",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/carsten-linnemann-schwaecht-pflegereform-weiter-ab-201655253.html"
         }
       ]
     },
     {
-      "headline": "Bund übernimmt die Hälfte von KNDS",
-      "text": "Die Bundesregierung hat sich laut ARD-Hauptstadtstudio grundsätzlich mit den Eigentümerfamilien auf einen Einstieg bei KNDS mit 50 Prozent geeinigt. Der Kaufpreis soll unter den bewilligten 7,2 Milliarden Euro liegen. Das Wirtschaftsministerium bestätigte die Einigung noch nicht.",
+      "headline": "Bundestag beschließt ersten Teil der Führerscheinreform",
+      "text": "Der Bundestag hat den ersten Teil der Führerscheinreform beschlossen. Vorgesehen sind ein Ende der Präsenzpflicht in der Theorie und begleitetes Üben mit Laien. Minister Bilger erwartet bis zu tausend Euro Ersparnis, Fahrlehrerverbände zweifeln. Der Bundesrat muss zustimmen.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/fahrschule-fuehrerschein-guenstiger-gesetz-faq-100.html"
         }
       ]
     }
