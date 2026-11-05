@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-05",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
       "headline": "Demokraten erobern Senat und Repräsentantenhaus",
-      "text": "Die Demokraten haben bei den US-Zwischenwahlen laut Euronews den Senat und das Repräsentantenhaus gewonnen. Trump erklärte sich bereit, das Ergebnis zu akzeptieren, und drohte mit seinem Veto gegen Gesetze der Demokraten. Sie übernehmen die Macht im Kongress erst im Januar.",
+      "text": "Die Demokraten haben bei den US-Zwischenwahlen laut Euronews beide Kammern des Kongresses gewonnen. Trump erklärte sich bereit, das Ergebnis zu akzeptieren, und drohte mit seinem Veto gegen Gesetze der Demokraten. Sie übernehmen die Macht im Kongress erst im Januar.",
       "quellen": [
         {
           "name": "Euronews",
@@ -18,7 +18,7 @@
     },
     {
       "headline": "Iran nennt US-Antwort zu Hormus nicht überzeugend",
-      "text": "Ein hochrangiger iranischer Vertreter nannte die US-Antwort laut CBS News nicht überzeugend. Iran will die Straße von Hormus nur öffnen, wenn seine Forderungen erfüllt werden. Die USA griffen laut US-Beamten begrenzt Ziele nahe der Meerenge an. Trump hält einen Deal für möglich.",
+      "text": "Ein hochrangiger Iraner nannte die US-Antwort laut CBS News nicht überzeugend. Hormus öffne sich nur, wenn Teherans Forderungen erfüllt würden. Laut US-Beamten griffen die USA begrenzt Ziele nahe der Meerenge an. Trump hält einen Deal weiterhin für möglich.",
       "quellen": [
         {
           "name": "CBS News",
@@ -28,7 +28,7 @@
     },
     {
       "headline": "Angriff auf Komyshuvakha fordert 40 Tote",
-      "text": "Beim russischen Luftangriff auf das Dorf Komyshuvakha starben laut Präsident Selenskyj 40 Menschen, über 30 könnten noch verschüttet sein. Getroffen wurde eine Schule mit Hilfsgüterverteilung. Am 10. und 11. November verhandeln Delegationen beider Länder in Abu Dhabi.",
+      "text": "Beim russischen Luftangriff auf Komyshuvakha starben laut Selenskyj 40 Menschen, über 30 könnten noch verschüttet sein. Getroffen wurden eine Schule mit Hilfsgüterverteilung und laut Kiew ein Schutzraum. Laut Witkoff verhandeln am 10. und 11. November Delegationen in Abu Dhabi.",
       "quellen": [
         {
           "name": "Kyiv Independent",
@@ -42,7 +42,7 @@
     },
     {
       "headline": "Herzog beginnt Beratungen zur Regierungsbildung in Israel",
-      "text": "Israels Präsident Herzog erkannte das Wahlergebnis an und begann Beratungen zur Regierungsbildung. Die Wahlkommission fand nach eigenen Angaben keine Hinweise auf Unregelmäßigkeiten. Netanjahus Block kam auf 53 Sitze, Eisenkots auf 48, arabische Listen auf 19. Nötig sind 61.",
+      "text": "Israels Präsident Herzog hat das Wahlergebnis anerkannt und Beratungen mit den Parteien über die Regierungsbildung begonnen. Netanjahus Block kam auf 53 Sitze, Eisenkots auf 48, arabische Listen auf 19. Nötig sind 61. Die arabische Ra'am will laut Al Jazeera Eisenkot empfehlen.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -64,7 +64,7 @@
   "national": [
     {
       "headline": "Bayerns Wirtschaftsminister Aiwanger ist tot",
-      "text": "Hubert Aiwanger, Bayerns Wirtschaftsminister und Vize-Ministerpräsident, starb mit 55 Jahren. Er wurde in einem Berliner Hotel tot aufgefunden. Die Polizei leitete ein Todesermittlungsverfahren ein, um ein mögliches Fremdverschulden auszuschließen. Die Umstände sind unklar.",
+      "text": "Hubert Aiwanger, bayerischer Vize-Ministerpräsident und Wirtschaftsminister, starb mit 55 Jahren. Er wurde am Mittwoch in einem Berliner Hotel tot entdeckt. Die Polizei leitete ein Todesermittlungsverfahren ein, um ein mögliches Fremdverschulden auszuschließen.",
       "quellen": [
         {
           "name": "NZZ",
@@ -77,8 +77,18 @@
       ]
     },
     {
+      "headline": "Unterstützung für Aigner als Präsidentschaftskandidatin wächst",
+      "text": "Die Union will kommende Woche über ihren Kandidaten für die Nachfolge von Bundespräsident Steinmeier entscheiden. Immer mehr Politiker auch aus CDU und SPD unterstützen Ilse Aigner (CSU). Merz wünscht sich eine Frau, hat sich aber nicht festgelegt. Gewählt wird am 30. Januar.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html"
+        }
+      ]
+    },
+    {
       "headline": "Bundestag debattiert über Krawalle nach Gen-Z-Protesten",
-      "text": "Die Gewalt bei den Gen-Z-Protesten wurde in einer Aktuellen Stunde des Bundestags weitgehend einhellig verurteilt, über Ursachen und Wortwahl gab es Streit. Dobrindt blieb dabei, unter den Randalierern seien auch Linksorientierte und Menschen mit Migrationshintergrund gewesen.",
+      "text": "Die Gewalt bei den Gen-Z-Protesten wurde in einer Aktuellen Stunde des Bundestags weitgehend einhellig verurteilt, über Ursachen und Wortwahl gab es Streit. Dobrindt blieb dabei, unter den Chaoten seien auch Linksorientierte und Menschen mit Migrationshintergrund gewesen.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -87,16 +97,6 @@
         {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/politik/deutschland/ausschreitungen-gen-z-migranten-jugendprotest-bundestag-debatte-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "BMW verdient weniger und senkt erneut die Prognose",
-      "text": "Der Nettogewinn von BMW sank im dritten Quartal um knapp 15 Prozent auf 1,45 Milliarden Euro. Hauptgrund ist die Absatzkrise in China. Die Marge im Autogeschäft soll 2026 bei minus 0,5 bis plus 0,5 Prozent liegen. Es ist die zweite Gewinnwarnung binnen fünf Monaten.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html"
         }
       ]
     },
