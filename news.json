@@ -1,128 +1,112 @@
 {
-  "datum": "2026-11-04",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-05",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Demokraten gewinnen Senat und Repräsentantenhaus",
-      "text": "Die Demokraten haben bei den US-Zwischenwahlen laut Al Jazeera 54 Senatssitze gewonnen und liegen in zwei weiteren vorn. Laut AP erobern sie auch das Repräsentantenhaus. Trump räumte den besseren Wahlkampf der Demokraten ein und verwies auf sein Vetorecht.",
+      "headline": "Demokraten erobern Senat und Repräsentantenhaus",
+      "text": "Die Demokraten haben bei den US-Zwischenwahlen laut Euronews den Senat und das Repräsentantenhaus gewonnen. Trump erklärte sich bereit, das Ergebnis zu akzeptieren, und drohte mit seinem Veto gegen Gesetze der Demokraten. Sie übernehmen die Macht im Kongress erst im Januar.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean"
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/04/democrats-set-to-seize-control-of-congress-after-long-night-for-republican-party"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cmr4y92rgd9po"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises"
         }
       ]
     },
     {
-      "headline": "Iran knüpft Öffnung von Hormus an seinen Siebenpunkteplan",
-      "text": "Iran will die Straße von Hormus nur öffnen, wenn die USA seinen Siebenpunkteplan erfüllen. Ein Sicherheitsvertreter nennt die US-Antwort nicht überzeugend. Die USA griffen laut US-Beamten begrenzt iranische Ziele an. Katar erwartet laut Reuters binnen 36 Stunden Rückmeldungen.",
+      "headline": "Iran nennt US-Antwort zu Hormus nicht überzeugend",
+      "text": "Ein hochrangiger iranischer Vertreter nannte die US-Antwort laut CBS News nicht überzeugend. Iran will die Straße von Hormus nur öffnen, wenn seine Forderungen erfüllt werden. Die USA griffen laut US-Beamten begrenzt Ziele nahe der Meerenge an. Trump hält einen Deal für möglich.",
       "quellen": [
         {
           "name": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/"
-        },
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/04/iranian-mp-tells-euronews-tehrans-missiles-will-strike-europe-if-us-uses-its-bases-there"
         }
       ]
     },
     {
-      "headline": "Russischer Angriff auf Komyshuvakha fordert 40 Tote",
-      "text": "Beim russischen Luftangriff auf das Dorf Komyshuvakha starben laut Behörden 40 Menschen, über 30 könnten laut Selenskyj noch verschüttet sein. Getroffen wurde eine Schule mit Hilfsgüterverteilung. Am 10. und 11. November verhandeln USA, Russland und Ukraine in Abu Dhabi.",
+      "headline": "Angriff auf Komyshuvakha fordert 40 Tote",
+      "text": "Beim russischen Luftangriff auf das Dorf Komyshuvakha starben laut Präsident Selenskyj 40 Menschen, über 30 könnten noch verschüttet sein. Getroffen wurde eine Schule mit Hilfsgüterverteilung. Am 10. und 11. November verhandeln Delegationen beider Länder in Abu Dhabi.",
       "quellen": [
         {
           "name": "Kyiv Independent",
           "url": "https://kyivindependent.com/death-toll-from-russian-attack-on-komyshuvakha-rises-to-37-as-search-operation-enters-3rd-day/"
         },
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/04/more-than-50-trapped-under-rubble-after-russian-strike-on-school-turned-aid-centre-zelensk"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people"
         }
       ]
     },
     {
-      "headline": "Israels Wahlausschuss weist Betrugsvorwürfe zurück",
-      "text": "Israels Wahlausschuss hat das Ergebnis der Wahl vom 27. Oktober bestätigt und keine Hinweise auf Betrug gefunden. Präsident Herzog begann Beratungen mit den Parteien. Netanjahus Block kam auf 53 Sitze, Eisenkots Block auf 48, arabische Listen auf 19. Nötig sind 61.",
+      "headline": "Herzog beginnt Beratungen zur Regierungsbildung in Israel",
+      "text": "Israels Präsident Herzog erkannte das Wahlergebnis an und begann Beratungen zur Regierungsbildung. Die Wahlkommission fand nach eigenen Angaben keine Hinweise auf Unregelmäßigkeiten. Netanjahus Block kam auf 53 Sitze, Eisenkots auf 48, arabische Listen auf 19. Nötig sind 61.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6z98z5z91ppo"
-        },
-        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims"
+          "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government"
         }
       ]
     },
     {
-      "headline": "Hacker greifen Kühlanlagen in Supermärkten und Blutlagern an",
-      "text": "Hacker erhöhten die Temperatur von Kühlanlagen in Supermärkten in mindestens 11 europäischen Ländern, auch in Deutschland. Die EU nennt die Angriffe nicht isoliert. Ein Angriff auf drei Plasmalager des Blutspendedienstes EFS in Frankreich scheiterte. Niemand bekannte sich.",
+      "headline": "WHO unterstützt Studien zu zwei Ebola-Impfstoffen",
+      "text": "Die WHO unterstützt Studien mit zwei Impfstoffkandidaten gegen das Bundibugyo-Virus, für das kein Impfstoff zugelassen ist. Der Ausbruch begann im Mai in der DR Kongo und hat laut Daten vom 31. Oktober über 10.000 Menschen infiziert. Mehr als 5.300 starben.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks"
-        },
-        {
           "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/04/cyberattack-hits-french-blood-banks-but-no-samples-compromised-officials-say"
+          "url": "https://www.euronews.com/2026/11/04/who-backs-trials-for-two-new-vaccines-against-ebola-outbreak"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Poseck nennt Verbot weiterer Gen-Z-Demos als Option",
-      "text": "Nach Krawallen bei den Gen-Z-Protesten am vergangenen Wochenende, vor allem in Frankfurt, nennt Hessens Innenminister Poseck (CDU) ein Verbot weiterer Demonstrationen als Option. Juristisch wäre das möglich, bräuchte aber eine gute Begründung und bliebe letztes Mittel.",
+      "headline": "Bayerns Wirtschaftsminister Aiwanger ist tot",
+      "text": "Hubert Aiwanger, Bayerns Wirtschaftsminister und Vize-Ministerpräsident, starb mit 55 Jahren. Er wurde in einem Berliner Hotel tot aufgefunden. Die Polizei leitete ein Todesermittlungsverfahren ein, um ein mögliches Fremdverschulden auszuschließen. Die Umstände sind unklar.",
       "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-verbot-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Inflation im Euroraum erreicht im Oktober 4,0 Prozent",
-      "text": "Die Verbraucherpreise im Euroraum lagen im Oktober laut Eurostat 4,0 Prozent über dem Vorjahr, im September waren es 3,8 Prozent. Das ist der höchste Wert seit September 2023. Haupttreiber ist Energie, die sich um 20,8 Prozent verteuerte.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html"
-        },
-        {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/hohe-energiepreise-inflation-im-euroraum-steigt-auf-vier-prozent-a-6aa49e04-4639-4134-acf6-08d84917b500"
-        }
-      ]
-    },
-    {
-      "headline": "BMW verdient weniger und senkt die Prognose",
-      "text": "Der Nettogewinn von BMW lag im dritten Quartal bei 1,45 Milliarden Euro, damit knapp 15 Prozent unter dem Vorjahr. Treiber ist vor allem der Absatzeinbruch in China. Für die Marge im Autogeschäft erwartet BMW 2026 minus 0,5 bis plus 0,5 Prozent.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/bmw-gewinn-einbruch-china-100.html"
-        },
-        {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-macht-15-prozent-weniger-gewinn-es-duerfte-noch-schlimmer-werden-a-c122d2d7-a0c6-48a1-97ca-043d5fef46cd"
-        }
-      ]
-    },
-    {
-      "headline": "Autor und Illustrator Janosch mit 95 Jahren gestorben",
-      "text": "Janosch, der Schöpfer der Tigerente und Autor von Oh wie schön ist Panama, ist gestorben. Er starb am Dienstag auf Teneriffa, teilte sein Verleger Bernhard Feil der dpa mit. Seine Bücher erschienen in rund 40 Sprachen mit einer Gesamtauflage in Millionenhöhe.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/panorama/janosch-schriftsteller-kuenstler-tot-100.html"
-        },
         {
           "name": "NZZ",
-          "url": "https://www.nzz.ch/feuilleton/der-deutsche-schriftsteller-und-kuenstler-janosch-ist-tot-ld.10053994"
+          "url": "https://www.nzz.ch/international/bayerns-wirtschaftsminister-aiwanger-tot-in-berliner-hotel-gefunden-ld.10054634"
+        },
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/international/chef-der-freien-waehler-bayerischer-wirtschaftsminister-hubert-aiwanger-ist-tot"
+        }
+      ]
+    },
+    {
+      "headline": "Bundestag debattiert über Krawalle nach Gen-Z-Protesten",
+      "text": "Die Gewalt bei den Gen-Z-Protesten wurde in einer Aktuellen Stunde des Bundestags weitgehend einhellig verurteilt, über Ursachen und Wortwahl gab es Streit. Dobrindt blieb dabei, unter den Randalierern seien auch Linksorientierte und Menschen mit Migrationshintergrund gewesen.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/ausschreitungen-gen-z-migranten-jugendprotest-bundestag-debatte-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "BMW verdient weniger und senkt erneut die Prognose",
+      "text": "Der Nettogewinn von BMW sank im dritten Quartal um knapp 15 Prozent auf 1,45 Milliarden Euro. Hauptgrund ist die Absatzkrise in China. Die Marge im Autogeschäft soll 2026 bei minus 0,5 bis plus 0,5 Prozent liegen. Es ist die zweite Gewinnwarnung binnen fünf Monaten.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Merz will Stromsteuer senken, Finanzierung bleibt offen",
+      "text": "Kanzler Merz will die Stromsteuer für alle auf das europäische Mindestmaß senken. Das kostet nach seinen Worten rund fünf Milliarden Euro pro Jahr. Finanzminister Klingbeil sieht für den Haushalt 2027 keine neuen Spielräume. Die Bereinigungssitzung dazu ist am 12. November.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-bundesregierung-entlastung-100.html"
         }
       ]
     }
