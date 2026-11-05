@@ -1,112 +1,124 @@
 {
   "datum": "2026-11-05",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Demokraten erobern Senat und Repräsentantenhaus",
-      "text": "Die Demokraten haben bei den US-Zwischenwahlen laut Euronews beide Kammern des Kongresses gewonnen. Trump erklärte sich bereit, das Ergebnis zu akzeptieren, und drohte mit seinem Veto gegen Gesetze der Demokraten. Sie übernehmen die Macht im Kongress erst im Januar.",
+      "headline": "Demokraten gewinnen beide Kammern des Kongresses",
+      "text": "Die Demokraten übernehmen im kommenden Jahr beide Kammern des Kongresses und wollen unter anderem Korruption untersuchen. Gesetze können sie beschließen, Trump kann aber sein Veto einlegen. Die Senatsergebnisse aus Alaska und Mississippi stehen noch aus.",
       "quellen": [
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/04/democrats-set-to-seize-control-of-congress-after-long-night-for-republican-party"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cq1kdgnn2xdeo"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-r"
         }
       ]
     },
     {
-      "headline": "Iran nennt US-Antwort zu Hormus nicht überzeugend",
-      "text": "Ein hochrangiger Iraner nannte die US-Antwort laut CBS News nicht überzeugend. Hormus öffne sich nur, wenn Teherans Forderungen erfüllt würden. Laut US-Beamten griffen die USA begrenzt Ziele nahe der Meerenge an. Trump hält einen Deal weiterhin für möglich.",
+      "headline": "Iran meldet brennende Tanker in der Straße von Hormus",
+      "text": "Laut den iranischen Revolutionsgarden brannten nach Minentreffern Tanker in der Straße von Hormus. BBC Verify fand für vier zerstörte Tanker keine Belege. Trump räumte ein, die Wahlniederlage liege teils am Krieg, bereut ihn aber nicht.",
       "quellen": [
         {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6d934npl9y8o"
+        },
+        {
           "name": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/"
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
         }
       ]
     },
     {
-      "headline": "Angriff auf Komyshuvakha fordert 40 Tote",
-      "text": "Beim russischen Luftangriff auf Komyshuvakha starben laut Selenskyj 40 Menschen, über 30 könnten noch verschüttet sein. Getroffen wurden eine Schule mit Hilfsgüterverteilung und laut Kiew ein Schutzraum. Laut Witkoff verhandeln am 10. und 11. November Delegationen in Abu Dhabi.",
+      "headline": "Angriff auf Komyshuvakha fordert mindestens 43 Tote",
+      "text": "Nach dem russischen Luftangriff auf Komyshuvakha im Gebiet Saporischschja wurden laut Behörden 43 Tote geborgen, 33 Menschen gelten als vermisst. Eine Vermisste wurde lebend gefunden. Getroffen wurde unter anderem eine Schule, in der Hilfsgüter verteilt wurden.",
       "quellen": [
         {
           "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/death-toll-from-russian-attack-on-komyshuvakha-rises-to-37-as-search-operation-enters-3rd-day/"
+          "url": "https://kyivindependent.com/42-bodies-recovered-from-rubble-after-russian-strike-on-komyshuvakha-as-search-continues-police-say/"
+        },
+        {
+          "name": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-ato/4181787-death-toll-from-russian-airstrike-on-komyshuvakha-rises-to-43-zelensky.html"
+        }
+      ]
+    },
+    {
+      "headline": "Eisenkot dürfte in Israel 67 Stimmen erhalten",
+      "text": "Bei den Beratungen mit Präsident Herzog empfahlen Ra'am und die Partei Demokraten Eisenkot, die Joint List will es am Abend tun. Damit dürfte er auf 67 von 120 Stimmen kommen. Otzma Jehudit empfahl Netanjahu, die Partei UTJ nannte keinen Kandidaten.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "url": "https://www.jpost.com/israel-election-2026/article-913890"
+        }
+      ]
+    },
+    {
+      "headline": "Bombendrohungen stören erneut Flüge in Europa",
+      "text": "Mutmaßliche Scheindrohungen haben in Europa erneut Flüge gestört, laut BBC mindestens 21. Eine Maschine von Aer Lingus aus Dublin wurde nach Frankreich umgeleitet und von Militärflugzeugen begleitet. In mehreren Fällen fanden Prüfer nichts.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/live/cwjdmnrg94ezt"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people"
-        }
-      ]
-    },
-    {
-      "headline": "Herzog beginnt Beratungen zur Regierungsbildung in Israel",
-      "text": "Israels Präsident Herzog hat das Wahlergebnis anerkannt und Beratungen mit den Parteien über die Regierungsbildung begonnen. Netanjahus Block kam auf 53 Sitze, Eisenkots auf 48, arabische Listen auf 19. Nötig sind 61. Die arabische Ra'am will laut Al Jazeera Eisenkot empfehlen.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government"
-        }
-      ]
-    },
-    {
-      "headline": "WHO unterstützt Studien zu zwei Ebola-Impfstoffen",
-      "text": "Die WHO unterstützt Studien mit zwei Impfstoffkandidaten gegen das Bundibugyo-Virus, für das kein Impfstoff zugelassen ist. Der Ausbruch begann im Mai in der DR Kongo und hat laut Daten vom 31. Oktober über 10.000 Menschen infiziert. Mehr als 5.300 starben.",
-      "quellen": [
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/04/who-backs-trials-for-two-new-vaccines-against-ebola-outbreak"
+          "url": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Bayerns Wirtschaftsminister Aiwanger ist tot",
-      "text": "Hubert Aiwanger, bayerischer Vize-Ministerpräsident und Wirtschaftsminister, starb mit 55 Jahren. Er wurde am Mittwoch in einem Berliner Hotel tot entdeckt. Die Polizei leitete ein Todesermittlungsverfahren ein, um ein mögliches Fremdverschulden auszuschließen.",
+      "headline": "Aiwanger starb laut Obduktion ohne Fremdverschulden",
+      "text": "Der bayerische Wirtschaftsminister Hubert Aiwanger starb laut vorläufigem Obduktionsergebnis ohne Fremdverschulden, teilte die Generalstaatsanwaltschaft Berlin mit. Weitere Untersuchungen stehen aus. Die Freien Wähler brauchen einen neuen Vorsitzenden.",
       "quellen": [
         {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/international/bayerns-wirtschaftsminister-aiwanger-tot-in-berliner-hotel-gefunden-ld.10054634"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html"
         },
         {
           "name": "SRF",
-          "url": "https://www.srf.ch/news/international/chef-der-freien-waehler-bayerischer-wirtschaftsminister-hubert-aiwanger-ist-tot"
+          "url": "https://www.srf.ch/news/international/vize-regierungschef-bayerns-nach-aiwangers-tod-kein-hinweis-auf-fremdverschulden"
         }
       ]
     },
     {
-      "headline": "Unterstützung für Aigner als Präsidentschaftskandidatin wächst",
-      "text": "Die Union will kommende Woche über ihren Kandidaten für die Nachfolge von Bundespräsident Steinmeier entscheiden. Immer mehr Politiker auch aus CDU und SPD unterstützen Ilse Aigner (CSU). Merz wünscht sich eine Frau, hat sich aber nicht festgelegt. Gewählt wird am 30. Januar.",
+      "headline": "Unterstützung für Aigner als Bundespräsidentin wächst",
+      "text": "Für die Steinmeier-Nachfolge sprechen sich immer mehr CDU-Politiker für die CSU-Politikerin Ilse Aigner aus, darunter Unionsfraktionschef Frei und mehrere ostdeutsche Regierungschefs. Merz hat noch keine Kandidatin genannt. Am Montag tagen die CDU-Gremien.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html"
+          "name": "FAZ",
+          "url": "https://www.faz.net/aktuell/politik/inland/der-cdu-fanklub-fuer-ilse-aigner-waechst-201654247.html"
         }
       ]
     },
     {
-      "headline": "Bundestag debattiert über Krawalle nach Gen-Z-Protesten",
-      "text": "Die Gewalt bei den Gen-Z-Protesten wurde in einer Aktuellen Stunde des Bundestags weitgehend einhellig verurteilt, über Ursachen und Wortwahl gab es Streit. Dobrindt blieb dabei, unter den Chaoten seien auch Linksorientierte und Menschen mit Migrationshintergrund gewesen.",
+      "headline": "Linnemann will Pflegereform nachbessern",
+      "text": "Gesundheitsminister Linnemann kündigte bei der ersten Beratung im Bundestag Korrekturen an der Pflegereform an, vor allem bei der Verhinderungspflege. Ohne das Gesetz fehlten 2027 knapp acht Milliarden Euro. Patientenschützer kritisieren den Entwurf als Mogelpackung.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-pflegeversicherung-linnemann-100.html"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/ausschreitungen-gen-z-migranten-jugendprotest-bundestag-debatte-100.html"
+          "name": "FAZ",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/carsten-linnemann-schwaecht-pflegereform-weiter-ab-201655253.html"
         }
       ]
     },
     {
-      "headline": "Merz will Stromsteuer senken, Finanzierung bleibt offen",
-      "text": "Kanzler Merz will die Stromsteuer für alle auf das europäische Mindestmaß senken. Das kostet nach seinen Worten rund fünf Milliarden Euro pro Jahr. Finanzminister Klingbeil sieht für den Haushalt 2027 keine neuen Spielräume. Die Bereinigungssitzung dazu ist am 12. November.",
+      "headline": "Bund übernimmt die Hälfte von KNDS",
+      "text": "Die Bundesregierung hat sich laut ARD-Hauptstadtstudio grundsätzlich mit den Eigentümerfamilien auf einen Einstieg bei KNDS mit 50 Prozent geeinigt. Der Kaufpreis soll unter den bewilligten 7,2 Milliarden Euro liegen. Das Wirtschaftsministerium bestätigte die Einigung noch nicht.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-bundesregierung-entlastung-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html"
         }
       ]
     }
