@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-06",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
       "headline": "Vance macht Iran-Krieg für Wahlniederlage verantwortlich",
@@ -18,21 +18,21 @@
     },
     {
       "headline": "Iran knüpft Gespräche mit den USA an sieben Bedingungen",
-      "text": "Irans Sicherheitschef Rezaei erklärte nach einem Treffen mit Putin, Teheran öffne die Straße von Hormus nicht und verhandele erst, wenn die USA sieben Bedingungen erfüllen. Laut iranischen Behörden werden weiter Schiffe angegriffen, der Ölpreis sank nach der US-Wahl deutlich.",
+      "text": "Irans Sicherheitschef Rezaei erklärte nach einem Treffen mit Putin, Teheran öffne die Straße von Hormus nicht und verhandele erst, wenn die USA sieben Bedingungen erfüllen. Laut den Revolutionsgarden liefen zwei Tanker auf Minen, der Ölpreis sank nach der US-Wahl stark.",
       "quellen": [
-        {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
-        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
         }
       ]
     },
     {
       "headline": "Trump kündigt nach Treffen mit Putin-Gesandtem Abkommen an",
-      "text": "Trump kündigte nach dem Treffen mit Putins Gesandtem Dmitrijew ein Abkommen zum Ukraine-Krieg an, nannte aber keine Einzelheiten. Gespräche der USA, Russlands und der Ukraine sind für den 10. und 11. November in Abu Dhabi geplant. Zuvor empfing Melania Trump beide Delegationen.",
+      "text": "Trump kündigte nach einem Treffen mit Putins Gesandtem Dmitrijew ein großes Abkommen an, das über die Ukraine hinausgehen soll, und nannte keine Einzelheiten zum Gespräch. Verhandlungen der USA, Russlands und der Ukraine sind für den 10. und 11. November in Abu Dhabi angekündigt.",
       "quellen": [
         {
           "name": "Kyiv Independent",
@@ -90,7 +90,7 @@
     },
     {
       "headline": "CDU berät am Montag über Aigner als Bundespräsidentin",
-      "text": "Für Ilse Aigner (CSU) als Nachfolgerin von Bundespräsident Steinmeier sprechen sich zunehmend auch CDU-Politiker aus, darunter Unionsfraktionschef Frei und Manuel Hagel. Merz hat sich nicht festgelegt. Das CDU-Präsidium berät am Montag, die Bundesversammlung wählt am 30. Januar.",
+      "text": "Für Ilse Aigner (CSU) als Bundespräsidentin sprechen sich zunehmend CDU-Politiker aus, etwa Manuel Hagel. Fraktionschef Frei nennt sie eine hervorragende Personalie, Merz will eine Frau, legte sich nicht fest. Die CDU berät am Montag, die Bundesversammlung wählt am 30. Januar.",
       "quellen": [
         {
           "name": "tagesschau",
