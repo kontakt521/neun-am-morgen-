@@ -1,24 +1,34 @@
 {
   "datum": "2026-11-06",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
-      "headline": "Trump zwischen Veto und Zusammenarbeit mit Demokraten",
-      "text": "Nach der Wahl zeigt sich Trump zur Zusammenarbeit mit den Demokraten bereit, behält aber sein Vetorecht. Sie haben mindestens 253 der 435 Sitze im Repräsentantenhaus und mindestens 54 im Senat. Massie will Anfang nächster Woche ein Amtsenthebungsverfahren gegen Hegseth anstoßen.",
+      "headline": "Trump macht Stephen Miller zum neuen Stabschef",
+      "text": "Präsident Trump ernennt seinen Berater Stephen Miller, den Architekten der harten Einwanderungspolitik, zum Stabschef im Weißen Haus. Er löst Susie Wiles ab, die laut CBS nach den Wahlverlusten ihren Rücktritt einreichte. Miller beginnt am Montag.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/6/veto-or-deals-can-trump-find-a-way-to-work-with-democrats"
+          "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqg7xxg4jdv5o"
+          "url": "https://www.bbc.com/news/articles/cm9qzz5x9g5yo"
         }
       ]
     },
     {
-      "headline": "Iran meldet Minentreffer bei zwei weiteren Tankern",
-      "text": "Laut den Revolutionsgarden liefen zwei weitere Öltanker bei Hormus auf Minen, bislang unbestätigt. Ein iranischer Abgeordneter sagte, Schiffe aus Indien, China, Irak und Katar seien von den Beschränkungen ausgenommen. Der Ölpreis fiel nach der US-Wahl stark.",
+      "headline": "Trump kündigt nach Treffen mit Putin-Gesandtem Abkommen an",
+      "text": "Trump traf am 5. November den russischen Gesandten Kirill Dmitriev und kündigte ein großes Abkommen an, das mehr als die Ukraine betreffe, womöglich ganz Europa. Zum Inhalt der Gespräche äußerte er sich nicht. Am 10. und 11. November sind Gespräche in Abu Dhabi geplant.",
+      "quellen": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/trump-meets-russian-envoy-in-washington-ahead-of-ukraine-peace-talks-claims-big-beautiful-agreement-coming/"
+        }
+      ]
+    },
+    {
+      "headline": "Iran meldet Minentreffer, USA erwägen neue Angriffe",
+      "text": "Laut den Revolutionsgarden liefen zwei weitere Tanker in und nahe der Straße von Hormus auf Minen, bestätigt ist das nicht. Laut Axios bereitet das US-Zentralkommando neue Einsätze vor. Teheran bot den USA über Katar einen Vorschlag an, verknüpft mit sieben Forderungen.",
       "quellen": [
         {
           "name": "CBS News",
@@ -26,24 +36,18 @@
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions"
-        }
-      ]
-    },
-    {
-      "headline": "Russischer Angriff auf Komyschuwacha fordert 53 Tote",
-      "text": "Nach dem russischen Luftangriff vom 2. November auf das Dorf Komyschuwacha in Saporischschja stieg die Zahl der Toten laut Gouverneur Semikin auf 53. Zunächst traf es eine Schule mit Hilfsgüter-Ausgabe, laut Selenskyj danach einen Schutzraum. Die Suche geht weiter.",
-      "quellen": [
-        {
-          "name": "Kyiv Independent",
-          "url": "https://www.kyivindependent.com/death-toll-from-russian-strike-on-komyshuvakha-rises-to-53-as-search-operation-enters-5th-day/"
+          "url": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know"
         }
       ]
     },
     {
       "headline": "Neue Bombendrohungen gegen Airlines und Medien in Europa",
-      "text": "Zum dritten Mal in dieser Woche gab es Bombendrohungen gegen europäische Airlines, etwa für Flüge von und nach Lissabon, Rom, Prag und Sofia. Drei Flugzeuge begleiteten ungarische Kampfjets, Sprengstoff fand sich bisher nicht. Auch der Sender RTÉ wurde geräumt.",
+      "text": "Zum dritten Mal in dieser Woche gab es Drohungen gegen europäische Airlines. Ungarische Kampfjets begleiteten drei Flugzeuge, Sprengstoff fand sich bislang nicht. Auch Sender wie RTÉ wurden bedroht und geräumt. Irland hält eine koordinierte Kampagne für wahrscheinlich.",
       "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic"
+        },
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cq62yy064vjpo"
@@ -51,8 +55,8 @@
       ]
     },
     {
-      "headline": "KI-Aktien erholen sich nach Kurssturz an der US-Börse",
-      "text": "Nach einem Ausverkauf über Billionen Dollar legten KI- und Technologiewerte am Freitag wieder zu. Der Nasdaq Composite eröffnete 1,23 Prozent höher, nachdem er 5,5 Prozent verloren hatte. Anleger fürchteten unter anderem, der Wahlsieg der Demokraten bremse die KI-Entwicklung.",
+      "headline": "KI-Aktien erholen sich nach Kurssturz teilweise",
+      "text": "Nach dem Ausverkauf vom Donnerstag mit Billionen Dollar Wertverlust legten KI-Werte am Freitag wieder zu. Der Nasdaq Composite stieg um 1,4 Prozent, nach 5,5 Prozent Minus. Anleger fürchteten auch, der Wahlsieg der Demokraten bremse die KI-Entwicklung.",
       "quellen": [
         {
           "name": "BBC",
@@ -63,8 +67,8 @@
   ],
   "national": [
     {
-      "headline": "Union will Aigner als Bundespräsidentin nominieren",
-      "text": "Laut ARD-Hauptstadtstudio will die Union Ilse Aigner (CSU) als nächste Bundespräsidentin vorschlagen, verkündet werden soll das am Montag. Merz hat sich bisher nicht öffentlich dazu geäußert. Die Bundesversammlung wählt am 30. Januar. Aigner wäre die erste Frau im Amt.",
+      "headline": "Union einigt sich laut ARD auf Aigner als Bundespräsidentin",
+      "text": "Laut ARD-Hauptstadtstudio wollen CDU und CSU die Politikerin Ilse Aigner zur Bundespräsidentin nominieren, bekannt gegeben wird das am Montag. Merz ließ offen, ob er sie unterstützt. SPD-Chef Klingbeil sagte Unterstützung für diesen Fall zu. Gewählt wird am 30. Januar.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -77,8 +81,8 @@
       ]
     },
     {
-      "headline": "Aiwanger starb laut vorläufiger Obduktion ohne Fremdverschulden",
-      "text": "Bayerns Wirtschaftsminister und Freie-Wähler-Chef Hubert Aiwanger starb laut vorläufigem Obduktionsergebnis ohne Fremdverschulden, teilte die Berliner Staatsanwaltschaft mit. Am Mittwoch hatte man ihn in einem Berliner Hotel leblos entdeckt. Weitere Untersuchungen stehen aus.",
+      "headline": "Aiwanger starb laut Obduktion ohne Fremdverschulden",
+      "text": "Bayerns Wirtschaftsminister Hubert Aiwanger starb laut vorläufigem Obduktionsergebnis ohne Fremdverschulden, teilte die Berliner Staatsanwaltschaft mit. Weitere Untersuchungen stehen aus. Söder kündigte an, die Koalition fortzusetzen. Die Freien Wähler beraten bis zum Wochenende.",
       "quellen": [
         {
           "name": "ZDFheute",
@@ -91,22 +95,22 @@
       ]
     },
     {
-      "headline": "Deutsche Industrie produziert im September überraschend mehr",
-      "text": "Das verarbeitende Gewerbe steigerte im September die Produktion vorläufig um 0,7 Prozent zum Vormonat, erwartet war ein Minus von 0,1 Prozent. Die Autoindustrie legte um 17,1 Prozent zu. Im dritten Quartal produzierte das Produzierende Gewerbe 0,4 Prozent weniger als im zweiten.",
+      "headline": "Große Mehrheit zeigt Verständnis für Jugendproteste",
+      "text": "Laut ARD-DeutschlandTrend haben beinahe drei Viertel der Deutschen Verständnis für die Gen-Z-Proteste, 95 Prozent lehnen politische Gewalt gegen Menschen und Sachen ab. 82 Prozent sehen junge Menschen zu wenig beachtet. Am 20. November ist ein weiterer Protesttag angekündigt.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html"
+          "url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html"
         }
       ]
     },
     {
-      "headline": "Bund einigt sich grundsätzlich auf Einstieg bei KNDS",
-      "text": "Laut Regierungskreisen hat sich der Bund grundsätzlich mit den Eigentümerfamilien auf den Einstieg bei KNDS geeinigt. Er soll 50 Prozent halten, so viel wie Frankreich, und weniger zahlen als geplant. Im Juni waren für 40 Prozent 7,2 Milliarden Euro bewilligt worden.",
+      "headline": "Deutsche Industrie produziert im September überraschend mehr",
+      "text": "Das Verarbeitende Gewerbe steigerte die Produktion im September vorläufig um 0,7 Prozent zum Vormonat, Volkswirte hatten ein Minus von 0,1 Prozent erwartet. Die Autoindustrie legte um 17,1 Prozent zu. Der Zuwachs für August wurde von 2 auf 1 Prozent korrigiert.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html"
         }
       ]
     }
