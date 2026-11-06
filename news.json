@@ -1,86 +1,88 @@
 {
   "datum": "2026-11-06",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Vance macht Iran-Krieg für Wahlniederlage verantwortlich",
-      "text": "Nach dem Verlust beider Kongresskammern an die Demokraten nennt Vizepräsident JD Vance den Iran-Krieg als Grund der Niederlage. Präsident Trump räumt ein, der Krieg habe die Wahl weitgehend entschieden, und würde ihn erneut führen.",
+      "headline": "Trump zwischen Veto und Zusammenarbeit mit Demokraten",
+      "text": "Nach der Wahl zeigt sich Trump zur Zusammenarbeit mit den Demokraten bereit, behält aber sein Vetorecht. Sie haben mindestens 253 der 435 Sitze im Repräsentantenhaus und mindestens 54 im Senat. Massie will Anfang nächster Woche ein Amtsenthebungsverfahren gegen Hegseth anstoßen.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/crz98zqkz7z0o"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/veto-or-deals-can-trump-find-a-way-to-work-with-democrats"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/5/vance-eyes-2028-reset-as-republicans-mull-pivot-after-us-midterms-drubbing"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqg7xxg4jdv5o"
         }
       ]
     },
     {
-      "headline": "Iran knüpft Gespräche mit den USA an sieben Bedingungen",
-      "text": "Irans Sicherheitschef Rezaei erklärte nach einem Treffen mit Putin, Teheran öffne die Straße von Hormus nicht und verhandele erst, wenn die USA sieben Bedingungen erfüllen. Laut den Revolutionsgarden liefen zwei Tanker auf Minen, der Ölpreis sank nach der US-Wahl stark.",
+      "headline": "Iran meldet Minentreffer bei zwei weiteren Tankern",
+      "text": "Laut den Revolutionsgarden liefen zwei weitere Öltanker bei Hormus auf Minen, bislang unbestätigt. Ein iranischer Abgeordneter sagte, Schiffe aus Indien, China, Irak und Katar seien von den Beschränkungen ausgenommen. Der Ölpreis fiel nach der US-Wahl stark.",
       "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei"
-        },
         {
           "name": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions"
         }
       ]
     },
     {
-      "headline": "Trump kündigt nach Treffen mit Putin-Gesandtem Abkommen an",
-      "text": "Trump kündigte nach einem Treffen mit Putins Gesandtem Dmitrijew ein großes Abkommen an, das über die Ukraine hinausgehen soll, und nannte keine Einzelheiten zum Gespräch. Verhandlungen der USA, Russlands und der Ukraine sind für den 10. und 11. November in Abu Dhabi angekündigt.",
+      "headline": "Russischer Angriff auf Komyschuwacha fordert 53 Tote",
+      "text": "Nach dem russischen Luftangriff vom 2. November auf das Dorf Komyschuwacha in Saporischschja stieg die Zahl der Toten laut Gouverneur Semikin auf 53. Zunächst traf es eine Schule mit Hilfsgüter-Ausgabe, laut Selenskyj danach einen Schutzraum. Die Suche geht weiter.",
       "quellen": [
         {
           "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/trump-meets-russian-envoy-in-washington-ahead-of-ukraine-peace-talks-claims-big-beautiful-agreement-coming/"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c9p8g085mz07o"
+          "url": "https://www.kyivindependent.com/death-toll-from-russian-strike-on-komyshuvakha-rises-to-53-as-search-operation-enters-5th-day/"
         }
       ]
     },
     {
-      "headline": "Hunderttausende protestieren in Frankreich für höhere Löhne",
-      "text": "Laut Innenministerium gingen mehr als 600.000 Menschen auf die Straße, die Gewerkschaft CGT nennt 1,57 Millionen. Premier Lecornu lädt am Montag zu einer Sozialkonferenz, in Lyon brannte ein Auto, in Bordeaux setzte die Polizei Tränengas ein.",
+      "headline": "Neue Bombendrohungen gegen Airlines und Medien in Europa",
+      "text": "Zum dritten Mal in dieser Woche gab es Bombendrohungen gegen europäische Airlines, etwa für Flüge von und nach Lissabon, Rom, Prag und Sofia. Drei Flugzeuge begleiteten ungarische Kampfjets, Sprengstoff fand sich bisher nicht. Auch der Sender RTÉ wurde geräumt.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/ckx2qzv835pgo"
-        },
-        {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/france-union-workers-anti-government-protests/"
+          "url": "https://www.bbc.com/news/articles/cq62yy064vjpo"
         }
       ]
     },
     {
-      "headline": "Paraguays Kongress nimmt Peñas Rücktritt nicht an",
-      "text": "Paraguays Präsident Peña bot nach dem Zusammenbruch der Ueno Bank seinen Rücktritt an, der Kongress nahm ihn nicht an. Das Abgeordnetenhaus stimmte mit 78 zu 0 für ein Amtsenthebungsverfahren. Peña soll am Freitag vor dem Senat erscheinen.",
+      "headline": "KI-Aktien erholen sich nach Kurssturz an der US-Börse",
+      "text": "Nach einem Ausverkauf über Billionen Dollar legten KI- und Technologiewerte am Freitag wieder zu. Der Nasdaq Composite eröffnete 1,23 Prozent höher, nachdem er 5,5 Prozent verloren hatte. Anleger fürchteten unter anderem, der Wahlsieg der Demokraten bremse die KI-Entwicklung.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse"
-        },
-        {
-          "name": "Última Hora",
-          "url": "https://www.ultimahora.com/senado-continuara-el-juicio-politico-a-santiago-pena-al-no-prosperar-la-aceptacion-de-su-renuncia"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c35ynnpzdq51o"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Aiwanger starb laut vorläufiger Obduktion ohne Fremdverschulden",
-      "text": "Der Chef der Freien Wähler, Hubert Aiwanger, starb laut vorläufigem Obduktionsergebnis ohne Fremdverschulden, weitere Untersuchungen stehen aus. Partei und Fraktion beraten bis zum Wochenende über den weiteren Kurs. Der Bundesparteitag am 14. November wurde verschoben.",
+      "headline": "Union will Aigner als Bundespräsidentin nominieren",
+      "text": "Laut ARD-Hauptstadtstudio will die Union Ilse Aigner (CSU) als nächste Bundespräsidentin vorschlagen, verkündet werden soll das am Montag. Merz hat sich bisher nicht öffentlich dazu geäußert. Die Bundesversammlung wählt am 30. Januar. Aigner wäre die erste Frau im Amt.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/medienberichte-auch-cdu-fuer-ilse-aigner-102.html"
+        }
+      ]
+    },
+    {
+      "headline": "Aiwanger starb laut vorläufiger Obduktion ohne Fremdverschulden",
+      "text": "Bayerns Wirtschaftsminister und Freie-Wähler-Chef Hubert Aiwanger starb laut vorläufigem Obduktionsergebnis ohne Fremdverschulden, teilte die Berliner Staatsanwaltschaft mit. Am Mittwoch hatte man ihn in einem Berliner Hotel leblos entdeckt. Weitere Untersuchungen stehen aus.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/aiwanger-tod-obduktion-ermittlungen-100.html"
         },
         {
           "name": "SRF",
@@ -89,36 +91,22 @@
       ]
     },
     {
-      "headline": "CDU berät am Montag über Aigner als Bundespräsidentin",
-      "text": "Für Ilse Aigner (CSU) als Bundespräsidentin sprechen sich zunehmend CDU-Politiker aus, etwa Manuel Hagel. Fraktionschef Frei nennt sie eine hervorragende Personalie, Merz will eine Frau, legte sich nicht fest. Die CDU berät am Montag, die Bundesversammlung wählt am 30. Januar.",
+      "headline": "Deutsche Industrie produziert im September überraschend mehr",
+      "text": "Das verarbeitende Gewerbe steigerte im September die Produktion vorläufig um 0,7 Prozent zum Vormonat, erwartet war ein Minus von 0,1 Prozent. Die Autoindustrie legte um 17,1 Prozent zu. Im dritten Quartal produzierte das Produzierende Gewerbe 0,4 Prozent weniger als im zweiten.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html"
-        },
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/ilse-aigner-bundespraesidentenwahl-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html"
         }
       ]
     },
     {
-      "headline": "Bundesregierung einigt sich auf Einstieg bei KNDS",
-      "text": "Laut Regierungskreisen hat sich der Bund grundsätzlich mit den Eigentümerfamilien auf den Einstieg beim Panzerbauer geeinigt. Er soll 50 Prozent halten, so viel wie Frankreich, und zahlt weniger als zuvor geplant. Im Juni waren 7,2 Milliarden Euro für 40 Prozent bewilligt worden.",
+      "headline": "Bund einigt sich grundsätzlich auf Einstieg bei KNDS",
+      "text": "Laut Regierungskreisen hat sich der Bund grundsätzlich mit den Eigentümerfamilien auf den Einstieg bei KNDS geeinigt. Er soll 50 Prozent halten, so viel wie Frankreich, und weniger zahlen als geplant. Im Juni waren für 40 Prozent 7,2 Milliarden Euro bewilligt worden.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Freuding übernimmt im Februar die Spitze der Bundeswehr",
-      "text": "Christian Freuding wird im Februar als Generalinspekteur oberster Soldat der Bundeswehr. Der bisherige Heeresinspekteur folgt auf Carsten Breuer, der zum Chef des NATO-Militärausschusses gewählt wurde. Minister Pistorius würdigt Freudings Auswertung des Ukraine-Krieges.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/bundeswehr-general-christian-freuding-ranghoechster-soldat-100.html"
         }
       ]
     }
