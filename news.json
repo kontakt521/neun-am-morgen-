@@ -1,35 +1,43 @@
 {
-  "datum": "2026-11-05",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-06",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Zwei Senatsrennen nach US-Wahl noch offen",
-      "text": "Die Demokraten haben beide Kammern des Kongresses gewonnen, zwei Senatsrennen sind noch offen. In Mississippi führt Colom laut BBC knapp vor Hyde-Smith, in Alaska liegt Peltola laut AP 637 Stimmen vor Sullivan. Das Ergebnis aus Alaska soll am 18. November vorliegen.",
+      "headline": "Vance macht Iran-Krieg für Wahlniederlage verantwortlich",
+      "text": "Nach dem Verlust beider Kongresskammern an die Demokraten nennt Vizepräsident JD Vance den Iran-Krieg als Grund der Niederlage. Präsident Trump räumt ein, der Krieg habe die Wahl weitgehend entschieden, und würde ihn erneut führen.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6n9rwxlx992o"
+          "url": "https://www.bbc.com/news/articles/crz98zqkz7z0o"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska"
+          "url": "https://www.aljazeera.com/news/2026/11/5/vance-eyes-2028-reset-as-republicans-mull-pivot-after-us-midterms-drubbing"
         }
       ]
     },
     {
-      "headline": "Iran meldet brennende Tanker in der Straße von Hormus",
-      "text": "Laut Irans Revolutionsgarden gerieten in der Straße von Hormus zwei Tanker und ein Schlepper in Brand, ein weiterer traf eine Mine. Eine britische Militärbehörde meldet im Golf einen von zwei Geschossen getroffenen Tanker. Oman verhandelt mit Iran über gemeinsame Kontrolle.",
+      "headline": "Iran knüpft Gespräche mit den USA an sieben Bedingungen",
+      "text": "Irans Sicherheitschef Rezaei erklärte nach einem Treffen mit Putin, Teheran öffne die Straße von Hormus nicht und verhandele erst, wenn die USA sieben Bedingungen erfüllen. Laut iranischen Behörden werden weiter Schiffe angegriffen, der Ölpreis sank nach der US-Wahl deutlich.",
       "quellen": [
         {
           "name": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei"
         }
       ]
     },
     {
-      "headline": "Melania Trump empfängt russische und ukrainische Delegationen",
-      "text": "Melania Trump hat im Weißen Haus Delegationen aus Russland und der Ukraine empfangen und eine dauerhaftere Waffenruhe gefordert. Anlass war die sechstägige Feuerpause um Oleschky im Gebiet Cherson, die Hunderten Bewohnern die Flucht ermöglichte. Ihre Rolle bleibt vage.",
+      "headline": "Trump kündigt nach Treffen mit Putin-Gesandtem Abkommen an",
+      "text": "Trump kündigte nach dem Treffen mit Putins Gesandtem Dmitrijew ein Abkommen zum Ukraine-Krieg an, nannte aber keine Einzelheiten. Gespräche der USA, Russlands und der Ukraine sind für den 10. und 11. November in Abu Dhabi geplant. Zuvor empfing Melania Trump beide Delegationen.",
       "quellen": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/trump-meets-russian-envoy-in-washington-ahead-of-ukraine-peace-talks-claims-big-beautiful-agreement-coming/"
+        },
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/c9p8g085mz07o"
@@ -37,42 +45,42 @@
       ]
     },
     {
-      "headline": "Eisenkot kann in Israel mit 67 Empfehlungen rechnen",
-      "text": "Nach Ra'am und den Demokraten will auch die Joint List Eisenkot für die Regierungsbildung in Israel empfehlen. Damit käme er auf 67 der 120 Abgeordneten. Otzma Jehudit empfahl Netanjahu, die Partei UTJ nannte keinen Kandidaten. Präsident Herzog entscheidet in einigen Tagen.",
+      "headline": "Hunderttausende protestieren in Frankreich für höhere Löhne",
+      "text": "Laut Innenministerium gingen mehr als 600.000 Menschen auf die Straße, die Gewerkschaft CGT nennt 1,57 Millionen. Premier Lecornu lädt am Montag zu einer Sozialkonferenz, in Lyon brannte ein Auto, in Bordeaux setzte die Polizei Tränengas ein.",
       "quellen": [
         {
-          "name": "The Jerusalem Post",
-          "url": "https://www.jpost.com/israel-election-2026/article-913890"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/ckx2qzv835pgo"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government"
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/france-union-workers-anti-government-protests/"
         }
       ]
     },
     {
-      "headline": "Paraguays Präsident Peña tritt nach Bankenpleite zurück",
-      "text": "Paraguays Präsident Santiago Peña ist nach dem Zusammenbruch der Digitalbank Ueno zurückgetreten. Das Abgeordnetenhaus hatte ein Amtsenthebungsverfahren befürwortet, Demonstranten forderten den Rücktritt. Peña weist Verfehlungen zurück. Vizepräsident Alliana soll übernehmen.",
+      "headline": "Paraguays Kongress nimmt Peñas Rücktritt nicht an",
+      "text": "Paraguays Präsident Peña bot nach dem Zusammenbruch der Ueno Bank seinen Rücktritt an, der Kongress nahm ihn nicht an. Das Abgeordnetenhaus stimmte mit 78 zu 0 für ein Amtsenthebungsverfahren. Peña soll am Freitag vor dem Senat erscheinen.",
       "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6p9g39vln3yo"
-        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse"
+        },
+        {
+          "name": "Última Hora",
+          "url": "https://www.ultimahora.com/senado-continuara-el-juicio-politico-a-santiago-pena-al-no-prosperar-la-aceptacion-de-su-renuncia"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Freie Wähler beraten nach Aiwangers Tod über ihre Zukunft",
-      "text": "Die Freien Wähler wollen bis zum Wochenende klären, wie es nach Hubert Aiwangers Tod weitergeht. Der Parteitag am 14. November soll laut einem Vizechef verschoben werden. Die Obduktion ergab vorläufig kein Fremdverschulden. Söder will die gemeinsame Politik fortsetzen.",
+      "headline": "Aiwanger starb laut vorläufiger Obduktion ohne Fremdverschulden",
+      "text": "Der Chef der Freien Wähler, Hubert Aiwanger, starb laut vorläufigem Obduktionsergebnis ohne Fremdverschulden, weitere Untersuchungen stehen aus. Partei und Fraktion beraten bis zum Wochenende über den weiteren Kurs. Der Bundesparteitag am 14. November wurde verschoben.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html"
         },
         {
           "name": "SRF",
@@ -81,32 +89,36 @@
       ]
     },
     {
-      "headline": "Rückhalt für Aigner als Bundespräsidentin wächst",
-      "text": "Immer mehr Politiker unterstützen Ilse Aigner (CSU) als mögliche Nachfolgerin von Bundespräsident Steinmeier, darunter die CDU-Ministerpräsidenten Kretschmer, Schulze und Voigt sowie SPD-Politiker. Merz hat sich nicht festgelegt, die CDU-Führung berät am Montag.",
+      "headline": "CDU berät am Montag über Aigner als Bundespräsidentin",
+      "text": "Für Ilse Aigner (CSU) als Nachfolgerin von Bundespräsident Steinmeier sprechen sich zunehmend auch CDU-Politiker aus, darunter Unionsfraktionschef Frei und Manuel Hagel. Merz hat sich nicht festgelegt. Das CDU-Präsidium berät am Montag, die Bundesversammlung wählt am 30. Januar.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/ilse-aigner-bundespraesidentenwahl-100.html"
         }
       ]
     },
     {
-      "headline": "Linnemann kündigt Korrekturen an der Pflegereform an",
-      "text": "Gesundheitsminister Linnemann verteidigte die Pflegereform bei der ersten Beratung im Bundestag und kündigte Nachbesserungen an. Ohne das Gesetz drohe laut ihm im nächsten Jahr ein Defizit von etwa acht Milliarden Euro. Patientenschützer nennen den Entwurf eine Mogelpackung.",
+      "headline": "Bundesregierung einigt sich auf Einstieg bei KNDS",
+      "text": "Laut Regierungskreisen hat sich der Bund grundsätzlich mit den Eigentümerfamilien auf den Einstieg beim Panzerbauer geeinigt. Er soll 50 Prozent halten, so viel wie Frankreich, und zahlt weniger als zuvor geplant. Im Juni waren 7,2 Milliarden Euro für 40 Prozent bewilligt worden.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-pflegeversicherung-linnemann-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html"
         }
       ]
     },
     {
-      "headline": "Bundestag beschließt ersten Teil der Führerscheinreform",
-      "text": "Der Bundestag hat den ersten Teil der Führerscheinreform beschlossen. Vorgesehen sind ein Ende der Präsenzpflicht in der Theorie und begleitetes Üben mit Laien. Minister Bilger erwartet bis zu tausend Euro Ersparnis, Fahrlehrerverbände zweifeln. Der Bundesrat muss zustimmen.",
+      "headline": "Freuding übernimmt im Februar die Spitze der Bundeswehr",
+      "text": "Christian Freuding wird im Februar als Generalinspekteur oberster Soldat der Bundeswehr. Der bisherige Heeresinspekteur folgt auf Carsten Breuer, der zum Chef des NATO-Militärausschusses gewählt wurde. Minister Pistorius würdigt Freudings Auswertung des Ukraine-Krieges.",
       "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/fahrschule-fuehrerschein-guenstiger-gesetz-faq-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/bundeswehr-general-christian-freuding-ranghoechster-soldat-100.html"
         }
       ]
     }
