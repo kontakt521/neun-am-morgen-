@@ -1,14 +1,42 @@
 {
   "datum": "2026-11-07",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
+      "headline": "Sechs Tote bei Schüssen auf Marktplatz in Krakau",
+      "text": "Ein 24-jähriger Pole schoss am Samstag gegen 15 Uhr auf dem Hauptmarkt von Krakau aus einem Auto wahllos auf Menschen. Laut Polizei starben vier Frauen und zwei Männer, mindestens 15 Menschen wurden verletzt. Der Täter wurde festgenommen. Ein Motiv nannte die Polizei nicht.",
+      "quellen": [
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/world/2026/1107/1598368-poland-shooting/"
+        },
+        {
+          "name": "Notes from Poland",
+          "url": "https://notesfrompoland.com/2026/11/07/fatalities-reported-in-shooting-on-historical-market-square-in-krakow/"
+        }
+      ]
+    },
+    {
       "headline": "US-Angriffe auf Qeshm, Trump spricht von Fortschritten",
-      "text": "Trump bestätigte am Freitag US-Angriffe auf iranische Flugabwehr auf der Insel Qeshm und sprach von Fortschritten in den Gesprächen mit Teheran. Laut dem Staatsfernsehen schoss Irans Luftabwehr eine US-Drohne ab. Das US-Zentralkommando nannte die Lage relativ ruhig.",
+      "text": "Trump bestätigte am Freitag kleinere US-Angriffe auf iranische Flugabwehr auf Qeshm und sprach von großen Fortschritten in den Gesprächen mit Teheran. Laut dem Staatsfernsehen schoss Irans Luftabwehr eine US-Drohne ab. Katar wies Berichte über gescheiterte Gespräche zurück.",
       "quellen": [
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
+        }
+      ]
+    },
+    {
+      "headline": "Russland greift Kiew vor Gesprächen in Abu Dhabi an",
+      "text": "Russland hat Kiew in der Nacht zum Samstag mit ballistischen Raketen beschossen. Laut Behörden gab es mindestens sechs Verletzte, die Nordbrücke und ein Kindergarten wurden beschädigt. Selenskyj sprach von 36 Raketen. Gespräche in Abu Dhabi sollen in drei Tagen beginnen.",
+      "quellen": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents"
         }
       ]
     },
@@ -27,36 +55,8 @@
       ]
     },
     {
-      "headline": "Fünf Tote bei Schüssen auf Marktplatz in Krakau",
-      "text": "Ein Mann schoss am Samstag auf dem Hauptmarkt von Krakau aus einem Auto wahllos auf Menschen. Laut Polizei starben fünf Menschen, rund ein Dutzend wurde verletzt, darunter Polizisten. Der Schütze wurde angeschossen und ins Krankenhaus gebracht. Ein Motiv nannte die Polizei nicht.",
-      "quellen": [
-        {
-          "name": "Notes from Poland",
-          "url": "https://notesfrompoland.com/2026/11/07/fatalities-reported-in-shooting-on-historical-market-square-in-krakow/"
-        },
-        {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/world/2026/1107/1598368-poland-shooting/"
-        }
-      ]
-    },
-    {
-      "headline": "Russland greift Kiew vor Gesprächen in Abu Dhabi an",
-      "text": "Russland hat Kiew in der Nacht mit ballistischen Raketen beschossen. Laut Behörden gab es mindestens sechs Verletzte, die Nordbrücke und ein Kindergarten wurden beschädigt. Selenskyj sprach von 36 Raketen. Der Angriff erfolgte drei Tage vor Beginn von Gesprächen in Abu Dhabi.",
-      "quellen": [
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents"
-        }
-      ]
-    },
-    {
       "headline": "Neue Bombendrohungen gegen Flüge und Sender in Europa",
-      "text": "Am Freitag gab es erneut Bombendrohungen gegen Flüge in mehreren Ländern, drei Maschinen begleiteten ungarische Kampfjets. Auch RTÉ in Irland wurde geräumt. Sprengstoff fand sich nicht, die Urheber sind unklar. Irland spricht von einer wohl koordinierten Störkampagne.",
+      "text": "Am Freitag gab es erneut Bombendrohungen gegen Flüge in mehreren Ländern, drei Maschinen begleiteten ungarische Kampfjets. Auch RTÉ in Irland wurde geräumt. Sprengstoff fand sich nicht, die Urheber sind unklar. Irlands Regierung spricht von einer wohl koordinierten Störkampagne.",
       "quellen": [
         {
           "name": "BBC",
@@ -72,7 +72,7 @@
   "national": [
     {
       "headline": "Union will Ilse Aigner als Bundespräsidentin nominieren",
-      "text": "Die Union will laut ARD-Hauptstadtstudio Ilse Aigner für das höchste Staatsamt aufstellen. Bekannt gegeben wird das am Montag, formell entscheiden Präsidium und Vorstand der CDU. SPD-Chef Klingbeil kündigte Unterstützung an. Gewählt wird am 30. Januar.",
+      "text": "Laut ARD-Hauptstadtstudio will die Union Ilse Aigner ins Rennen ums Bundespräsidentenamt schicken. Verkündet wird das am Montag, formell entscheiden CDU-Präsidium und -Vorstand. SPD-Chef Klingbeil sicherte bei einem Unionsvorschlag Unterstützung zu. Gewählt wird am 30. Januar.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -85,8 +85,8 @@
       ]
     },
     {
-      "headline": "Aiwanger starb laut Obduktion ohne Fremdverschulden",
-      "text": "Nach dem vorläufigen Obduktionsergebnis starb Bayerns Wirtschaftsminister Hubert Aiwanger ohne Fremdverschulden, teilte die Berliner Staatsanwaltschaft mit. Weitere Untersuchungen stehen aus. Söder will die Koalition fortsetzen, die Freien Wähler beraten bis zum Wochenende.",
+      "headline": "Kein Hinweis auf Fremdverschulden bei Aiwangers Tod",
+      "text": "Nach dem vorläufigen Obduktionsergebnis starb Bayerns Wirtschaftsminister Aiwanger ohne Fremdverschulden, so die Berliner Staatsanwaltschaft. Weitere gerichtsmedizinische Untersuchungen stehen aus. Söder will die Koalition fortsetzen, die Freien Wähler beraten bis zum Wochenende.",
       "quellen": [
         {
           "name": "ZDFheute",
@@ -100,7 +100,7 @@
     },
     {
       "headline": "AfD-Landesverband fürchtet finanzielle Folgen des Datenlecks",
-      "text": "Laut NDR und WDR verlangt der AfD-Landesverband Mecklenburg-Vorpommern von der Bundespartei, ihn von Forderungen aus dem Datenleck freizustellen. Darüber soll am Samstag der Konvent beraten. Etwa 420.000 E-Mails wurden veröffentlicht, die AfD bestätigte Teile des Leaks.",
+      "text": "Laut NDR und WDR verlangt der AfD-Landesverband Mecklenburg-Vorpommern von der Bundespartei, ihn von Forderungen aus dem Datenleck freizustellen. Der Konvent berät am Samstag darüber. Etwa 420.000 E-Mails sind im Netz, die AfD bestätigte Teile des Leaks.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -110,7 +110,7 @@
     },
     {
       "headline": "Regierung sieht Eishockey-WM mit Russland als faktisch unmöglich",
-      "text": "Nach der CAS-Entscheidung zu Russland wollen Finnland, Schweden und weitere Verbände nicht gegen Russland spielen. Laut Regierungssprecher Kornelius macht eine russische Teilnahme die WM im Mai faktisch unmöglich. Skoda will sein Sponsoring bei russischer Teilnahme überdenken.",
+      "text": "Nach der CAS-Entscheidung zu Russland wollen Finnland, Schweden und weitere Verbände nicht gegen Russland spielen. Laut Regierungssprecher Kornelius macht eine russische Teilnahme das Turnier faktisch unmöglich. Hauptsponsor Skoda würde sein Engagement überdenken.",
       "quellen": [
         {
           "name": "ZDFheute",
