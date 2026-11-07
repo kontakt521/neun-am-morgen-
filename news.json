@@ -1,62 +1,70 @@
 {
   "datum": "2026-11-07",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "USA greifen erneut Ziele auf iranischer Insel Qeshm an",
-      "text": "Trump bestätigte am Freitag Angriffe auf iranische Flugabwehr auf Qeshm und sprach von großen Fortschritten in den Gesprächen mit Teheran. Laut den Revolutionsgarden liefen zwei Tanker auf Minen, bestätigt ist das nicht. Das US-Zentralkommando nannte die Lage relativ ruhig.",
+      "headline": "US-Angriffe auf Qeshm, Trump spricht von Fortschritten",
+      "text": "Trump bestätigte am Freitag US-Angriffe auf iranische Flugabwehr auf der Insel Qeshm und sprach von Fortschritten in den Gesprächen mit Teheran. Laut dem Staatsfernsehen schoss Irans Luftabwehr eine US-Drohne ab. Das US-Zentralkommando nannte die Lage relativ ruhig.",
       "quellen": [
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
-        },
-        {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
         }
       ]
     },
     {
       "headline": "Trump macht Stephen Miller zum Stabschef",
-      "text": "Trump hat seinen langjährigen Berater Stephen Miller zum Stabschef des Weißen Hauses befördert. Er ersetzt Susie Wiles, an der Trump zuletzt zunehmend zweifelte. Laut BBC könnte das ein Zeichen sein, dass Trump sich nach der Wahlniederlage auf einen politischen Kampf einstellt.",
+      "text": "Trump hat seinen Berater Stephen Miller zum Stabschef des Weißen Hauses ernannt. Er ersetzt Susie Wiles, die laut NPR weiter für Trump arbeiten soll, und übernimmt am Montag. Laut BBC könnte das ein Zeichen sein, dass Trump sich auf einen politischen Kampf einstellt.",
       "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/crp3gg2z171go"
-        }
-      ]
-    },
-    {
-      "headline": "Paraguays Präsident Peña abgesetzt und unter Hausarrest",
-      "text": "Paraguays Senat enthob Präsident Santiago Peña mit 44 von 45 Stimmen des Amtes, nachdem die Digitalbank Ueno zusammengebrochen war. Er steht unter Hausarrest, Vizepräsident Pedro Alliana wurde als Nachfolger vereidigt. Peña hat laut BBC jedes Fehlverhalten bestritten.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c68jzzvjgdy9o"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff"
         }
       ]
     },
     {
-      "headline": "Trump kündigt nach Treffen mit Dmitriev großes Abkommen an",
-      "text": "Trump traf am 5. November den russischen Gesandten Kirill Dmitriev und kündigte ein großes Abkommen an, das mehr als die Ukraine betreffe. Zum Gesprächsinhalt äußerte er sich nicht. Am 10. und 11. November sind Gespräche in Abu Dhabi geplant.",
+      "headline": "Fünf Tote bei Schüssen auf Marktplatz in Krakau",
+      "text": "Ein Mann schoss am Samstag auf dem Hauptmarkt von Krakau aus einem Auto wahllos auf Menschen. Laut Polizei starben fünf Menschen, rund ein Dutzend wurde verletzt, darunter Polizisten. Der Schütze wurde angeschossen und ins Krankenhaus gebracht. Ein Motiv nannte die Polizei nicht.",
+      "quellen": [
+        {
+          "name": "Notes from Poland",
+          "url": "https://notesfrompoland.com/2026/11/07/fatalities-reported-in-shooting-on-historical-market-square-in-krakow/"
+        },
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/world/2026/1107/1598368-poland-shooting/"
+        }
+      ]
+    },
+    {
+      "headline": "Russland greift Kiew vor Gesprächen in Abu Dhabi an",
+      "text": "Russland hat Kiew in der Nacht mit ballistischen Raketen beschossen. Laut Behörden gab es mindestens sechs Verletzte, die Nordbrücke und ein Kindergarten wurden beschädigt. Selenskyj sprach von 36 Raketen. Der Angriff erfolgte drei Tage vor Beginn von Gesprächen in Abu Dhabi.",
       "quellen": [
         {
           "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/trump-meets-russian-envoy-in-washington-ahead-of-ukraine-peace-talks-claims-big-beautiful-agreement-coming/"
+          "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents"
         }
       ]
     },
     {
-      "headline": "Bombendrohungen treffen weiter Airlines und Medien in Europa",
-      "text": "Neue Drohungen betrafen weitere Flüge, etwa von Ryanair und Wizz Air, und am Freitag irische Medien. Irlands Regierung spricht von einer möglichen koordinierten Störkampagne. Male State bestreitet laut BBC jede Verbindung. In keiner betroffenen Maschine fand sich Sprengstoff.",
+      "headline": "Neue Bombendrohungen gegen Flüge und Sender in Europa",
+      "text": "Am Freitag gab es erneut Bombendrohungen gegen Flüge in mehreren Ländern, drei Maschinen begleiteten ungarische Kampfjets. Auch RTÉ in Irland wurde geräumt. Sprengstoff fand sich nicht, die Urheber sind unklar. Irland spricht von einer wohl koordinierten Störkampagne.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cm2d66n0lx1yo"
+          "url": "https://www.bbc.com/news/articles/cq62yy064vjpo"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes"
         }
       ]
     }
@@ -64,7 +72,7 @@
   "national": [
     {
       "headline": "Union will Ilse Aigner als Bundespräsidentin nominieren",
-      "text": "Die Union will laut ARD-Hauptstadtstudio Ilse Aigner für das höchste Staatsamt nominieren. Bekannt wird das am Montag, die formelle Entscheidung fällen CDU-Präsidium und -Vorstand. SPD-Chef Klingbeil kündigte für diesen Fall Unterstützung an. Gewählt wird am 30. Januar.",
+      "text": "Die Union will laut ARD-Hauptstadtstudio Ilse Aigner für das höchste Staatsamt aufstellen. Bekannt gegeben wird das am Montag, formell entscheiden Präsidium und Vorstand der CDU. SPD-Chef Klingbeil kündigte Unterstützung an. Gewählt wird am 30. Januar.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -92,7 +100,7 @@
     },
     {
       "headline": "AfD-Landesverband fürchtet finanzielle Folgen des Datenlecks",
-      "text": "Laut NDR und WDR verlangt der AfD-Landesverband Mecklenburg-Vorpommern von der Bundespartei, mögliche Kosten des Datenlecks zu übernehmen. Darüber berät am Samstag der Konvent. Etwa 420.000 E-Mails wurden veröffentlicht, die Partei bestätigte Teile des Leaks.",
+      "text": "Laut NDR und WDR verlangt der AfD-Landesverband Mecklenburg-Vorpommern von der Bundespartei, ihn von Forderungen aus dem Datenleck freizustellen. Darüber soll am Samstag der Konvent beraten. Etwa 420.000 E-Mails wurden veröffentlicht, die AfD bestätigte Teile des Leaks.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -101,12 +109,16 @@
       ]
     },
     {
-      "headline": "Eishockey-WM in Deutschland wegen Russland vor Boykott",
-      "text": "Nach der CAS-Entscheidung zur Rückkehr Russlands wollen Finnland, Schweden, Norwegen, Dänemark und Lettland nicht gegen Russland spielen. Hauptsponsor Skoda will sein Engagement bei der WM im Mai in Deutschland überdenken, falls Russland teilnimmt.",
+      "headline": "Regierung sieht Eishockey-WM mit Russland als faktisch unmöglich",
+      "text": "Nach der CAS-Entscheidung zu Russland wollen Finnland, Schweden und weitere Verbände nicht gegen Russland spielen. Laut Regierungssprecher Kornelius macht eine russische Teilnahme die WM im Mai faktisch unmöglich. Skoda will sein Sponsoring bei russischer Teilnahme überdenken.",
       "quellen": [
         {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/sport/eishockey-wm-boykott-finnland-russland-norwegen-schweden-100.html"
+        },
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html"
         }
       ]
     }
