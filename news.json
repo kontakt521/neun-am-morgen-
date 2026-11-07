@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-07",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "USA bestätigen neue Angriffe auf iranische Insel Qeshm",
-      "text": "Trump bestätigte am Freitag Angriffe auf eine iranische Flugabwehranlage auf der Insel Qeshm und sprach von großen Fortschritten in den Gesprächen mit Teheran. Laut den Revolutionsgarden liefen zwei weitere Tanker auf Minen. Das US-Zentralkommando nannte die Lage relativ ruhig.",
+      "headline": "USA greifen erneut Ziele auf iranischer Insel Qeshm an",
+      "text": "Trump bestätigte am Freitag Angriffe auf iranische Flugabwehr auf Qeshm und sprach von großen Fortschritten in den Gesprächen mit Teheran. Laut den Revolutionsgarden liefen zwei Tanker auf Minen, bestätigt ist das nicht. Das US-Zentralkommando nannte die Lage relativ ruhig.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -18,7 +18,7 @@
     },
     {
       "headline": "Trump macht Stephen Miller zum Stabschef",
-      "text": "Trump hat seinen langjährigen Berater Stephen Miller zum Stabschef des Weißen Hauses befördert. Er ersetzt Susie Wiles, an der Trump zuletzt zunehmend zweifelte. Laut BBC könnte das auf einen Konfrontationskurs gegenüber den Demokraten hindeuten.",
+      "text": "Trump hat seinen langjährigen Berater Stephen Miller zum Stabschef des Weißen Hauses befördert. Er ersetzt Susie Wiles, an der Trump zuletzt zunehmend zweifelte. Laut BBC könnte das ein Zeichen sein, dass Trump sich nach der Wahlniederlage auf einen politischen Kampf einstellt.",
       "quellen": [
         {
           "name": "BBC",
@@ -28,7 +28,7 @@
     },
     {
       "headline": "Paraguays Präsident Peña abgesetzt und unter Hausarrest",
-      "text": "Paraguays Senat enthob Präsident Santiago Peña mit 44 von 45 Stimmen des Amtes, nachdem die Digitalbank Ueno zusammengebrochen war. Er steht unter Hausarrest, Vizepräsident Pedro Alliana wurde vereidigt. Peña weist laut BBC jedes Fehlverhalten zurück.",
+      "text": "Paraguays Senat enthob Präsident Santiago Peña mit 44 von 45 Stimmen des Amtes, nachdem die Digitalbank Ueno zusammengebrochen war. Er steht unter Hausarrest, Vizepräsident Pedro Alliana wurde als Nachfolger vereidigt. Peña hat laut BBC jedes Fehlverhalten bestritten.",
       "quellen": [
         {
           "name": "BBC",
@@ -41,8 +41,8 @@
       ]
     },
     {
-      "headline": "Trump stellt nach Treffen mit russischem Gesandten Abkommen in Aussicht",
-      "text": "Trump traf am 5. November nach eigenen Angaben den russischen Gesandten Kirill Dmitriev und sprach von einem großen Abkommen, das mehr als die Ukraine betreffe. Inhalte nannte er nicht. Am 10. und 11. November sind Gespräche in Abu Dhabi geplant.",
+      "headline": "Trump kündigt nach Treffen mit Dmitriev großes Abkommen an",
+      "text": "Trump traf am 5. November den russischen Gesandten Kirill Dmitriev und kündigte ein großes Abkommen an, das mehr als die Ukraine betreffe. Zum Gesprächsinhalt äußerte er sich nicht. Am 10. und 11. November sind Gespräche in Abu Dhabi geplant.",
       "quellen": [
         {
           "name": "Kyiv Independent",
@@ -52,15 +52,11 @@
     },
     {
       "headline": "Bombendrohungen treffen weiter Airlines und Medien in Europa",
-      "text": "Neue Drohungen betrafen am Freitag Flüge und Medien wie RTÉ und Sky. Jets begleiteten Maschinen durch den ungarischen Luftraum, Irlands Regierung hält eine koordinierte Störkampagne für wahrscheinlich. Die Gruppe Male State bestreitet laut BBC jede Beteiligung.",
+      "text": "Neue Drohungen betrafen weitere Flüge, etwa von Ryanair und Wizz Air, und am Freitag irische Medien. Irlands Regierung spricht von einer möglichen koordinierten Störkampagne. Male State bestreitet laut BBC jede Verbindung. In keiner betroffenen Maschine fand sich Sprengstoff.",
       "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cm2d66n0lx1yo"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic"
         }
       ]
     }
@@ -68,7 +64,7 @@
   "national": [
     {
       "headline": "Union will Ilse Aigner als Bundespräsidentin nominieren",
-      "text": "Laut ARD-Hauptstadtstudio wollen die beiden Unionsparteien Ilse Aigner als Staatsoberhaupt vorschlagen. Bekannt gegeben werden soll das am Montag, die formelle Entscheidung treffen CDU-Präsidium und -Vorstand. SPD-Chef Klingbeil sagte Unterstützung zu. Gewählt wird am 30. Januar.",
+      "text": "Die Union will laut ARD-Hauptstadtstudio Ilse Aigner für das höchste Staatsamt nominieren. Bekannt wird das am Montag, die formelle Entscheidung fällen CDU-Präsidium und -Vorstand. SPD-Chef Klingbeil kündigte für diesen Fall Unterstützung an. Gewählt wird am 30. Januar.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -106,12 +102,8 @@
     },
     {
       "headline": "Eishockey-WM in Deutschland wegen Russland vor Boykott",
-      "text": "Nach der CAS-Zulassung russischer Teams drohen Finnland, Schweden und Tschechien mit einem Boykott der Eishockey-WM im Mai. Hauptsponsor Skoda stellt sein Sponsoring in Frage. Laut Regierungssprecher ist das Turnier mit Russland faktisch nicht durchführbar.",
+      "text": "Nach der CAS-Entscheidung zur Rückkehr Russlands wollen Finnland, Schweden, Norwegen, Dänemark und Lettland nicht gegen Russland spielen. Hauptsponsor Skoda will sein Engagement bei der WM im Mai in Deutschland überdenken, falls Russland teilnimmt.",
       "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html"
-        },
         {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/sport/eishockey-wm-boykott-finnland-russland-norwegen-schweden-100.html"
