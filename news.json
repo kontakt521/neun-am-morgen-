@@ -1,24 +1,24 @@
 {
   "datum": "2026-11-08",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Krakauer Schütze handelte offenbar aus rechtsextremer Gesinnung",
-      "text": "Beim Angriff auf dem Hauptmarkt von Krakau starben am Samstag sechs Menschen, mehr als ein Dutzend wurden verletzt. Der 25-jährige Täter gilt laut Innenminister als Ultranationalist. Laut Regierungschef Tusk fand die Polizei in seinem Wohnhaus drei weitere Tote, wohl Angehörige.",
+      "headline": "Sechs Tote bei Schüssen auf Krakaus Hauptmarkt",
+      "text": "Ein Bewaffneter hat am Samstag in Krakaus Altstadt sechs Menschen getötet, 15 weitere wurden verletzt. Im Haus des Verdächtigen lagen laut Polizei drei weitere Tote, seine Eltern und seine Schwester. Die Staatsanwaltschaft ermittelt wegen Terrorismus.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow"
+          "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6n9r01d2709o"
+          "url": "https://www.bbc.com/news/articles/cmd7q15drwgeo"
         }
       ]
     },
     {
-      "headline": "USA gründen Einsatzgruppe gegen Irans Nachschubwege",
-      "text": "Das US-Regionalkommando Centcom hat die Task Force Iron Gate gegründet. Sie soll den Transport moderner Waffen über Irans Landgrenzen und das Kaspische Meer verhindern und die Seeblockade ergänzen. Irans Agentur IRNA meldete am Samstag Explosionen auf der Insel Qeshm.",
+      "headline": "USA gründen Einsatzgruppe gegen Irans Landwege",
+      "text": "Das US-Regionalkommando Centcom hat die Task Force Iron Gate gegründet. Sie soll verhindern, dass Iran über Landgrenzen und das Kaspische Meer moderne Waffen transportiert, und die Seeblockade verstärken. Die Agentur IRNA meldete am Samstag Explosionen auf der Insel Qeshm.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -27,37 +27,37 @@
       ]
     },
     {
-      "headline": "Russland beschießt Kiew vor den Gesprächen in Abu Dhabi",
-      "text": "Laut Selenskyj griffen über 30 ballistische Raketen und mehr als 170 Drohnen zwölf Regionen an, am stärksten Kiew. Umspannwerke, die zwei Atomkraftwerke anbinden, wurden getroffen, neun Menschen verletzt. Gespräche in Abu Dhabi sind für den 10. und 11. November angesetzt.",
+      "headline": "Russland trifft Ukraines Stromnetz vor Abu-Dhabi-Gesprächen",
+      "text": "Nach einem Angriff auf eine Energieanlage sind laut dem Versorger DTEK über 600.000 Menschen im Gebiet Dnipropetrowsk ohne Strom, im Gebiet Charkiw weitere 250.000. Selenskyj wirft Russland Druck vor den Gesprächen in Abu Dhabi am 10. und 11. November vor.",
       "quellen": [
         {
           "name": "Kyiv Independent",
           "url": "https://kyivindependent.com/russia-to-send-senior-diplomats-military-officials-to-upcoming-peace-talks-in-abu-dhabi/"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cm4g1nq8158po"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity"
         }
       ]
     },
     {
       "headline": "Trump macht Stephen Miller zum Stabschef",
-      "text": "Nach der Wahlniederlage der Republikaner ersetzt Trump Stabschefin Susie Wiles durch Stephen Miller, den Architekten der harten Einwanderungspolitik. Miller übernimmt am Montag. Wiles soll laut Trump weiter für ihn arbeiten. Demokraten kritisieren die Wahl scharf.",
+      "text": "Nach der Wahlniederlage der Republikaner ersetzt Trump Stabschefin Susie Wiles durch Stephen Miller, den Architekten seiner harten Einwanderungspolitik. Miller übernimmt am Montag, Wiles arbeitet laut Trump weiter für ihn. Demokraten wie Jeffries kritisieren die Wahl scharf.",
       "quellen": [
         {
           "name": "NPR",
           "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/crp3gg2z171go"
         }
       ]
     },
     {
       "headline": "Herzog beauftragt Eisenkot mit der Regierungsbildung",
-      "text": "Israels Präsident Herzog hat Oppositionsführer Gadi Eisenkot mit der Regierungsbildung beauftragt. Eisenkot erhielt 67 Empfehlungen, Netanyahu 46. Er hat 28 Tage Zeit, mit möglicher Verlängerung um 14 Tage. Sein Bündnis kam bei der Wahl auf 48 Sitze, Netanyahus Block auf 53.",
+      "text": "Präsident Herzog hat Oppositionsführer Gadi Eisenkot mit der Regierungsbildung beauftragt. Laut seinem Büro erhielt Eisenkot 67 Empfehlungen, Netanyahu 46. Eisenkot hat 28 Tage Zeit, mit möglicher Verlängerung um 14 Tage. Netanyahus Block holte 53 Sitze, Eisenkots Bündnis 48.",
       "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
-        },
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cmy8367lj5xlo"
@@ -67,8 +67,8 @@
   ],
   "national": [
     {
-      "headline": "Union dürfte Ilse Aigner als Bundespräsidentin nominieren",
-      "text": "Nach Medienberichten will die CDU Bayerns Landtagspräsidentin Ilse Aigner als Unionskandidatin vorschlagen. Präsidium und Vorstand sollen am Montag entscheiden. Die 61-Jährige wird laut Deutschlandfunk auch von der SPD unterstützt. Gewählt wird am 30. Januar 2027.",
+      "headline": "Union dürfte Ilse Aigner als Bundespräsidentin vorschlagen",
+      "text": "Nach Medienberichten will die CDU Bayerns Landtagspräsidentin Ilse Aigner als Kandidatin der Union unterstützen. Präsidium und Vorstand entscheiden am Montag. Die 61-Jährige wird laut Deutschlandfunk auch von der SPD getragen. Beide haben in der Bundesversammlung die Mehrheit.",
       "quellen": [
         {
           "name": "Deutschlandfunk",
@@ -81,8 +81,8 @@
       ]
     },
     {
-      "headline": "Hubig möchte AfD-Leak für Verbotsprüfung verwenden",
-      "text": "Justizministerin Stefanie Hubig will ein mögliches AfD-Verbotsverfahren in einer Arbeitsgruppe von Bund und Ländern prüfen lassen. Die geleakten Mails sollen dafür genutzt werden, wenn sie die Verfassungsfeindlichkeit belegen. In der Koalition ist ein Verfahren umstritten.",
+      "headline": "Hubig will AfD-Leak für Verbotsprüfung nutzen",
+      "text": "Justizministerin Stefanie Hubig will ein mögliches AfD-Verbotsverfahren von einer Bund-Länder-Arbeitsgruppe prüfen lassen. Die geleakten Mails sollen einbezogen werden, falls sie die Verfassungsfeindlichkeit belegen. In der Koalition fehlt eine einheitliche Haltung.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -91,8 +91,8 @@
       ]
     },
     {
-      "headline": "Pistorius erwartet keine Rückkehr der Wehrpflicht",
-      "text": "Verteidigungsminister Boris Pistorius sieht den Personalbedarf der Bundeswehr auch ohne Wehrpflicht gedeckt, falls der Kurs anhält. Die Truppe zählt rund 190.000 Soldaten, so viele wie seit 13 Jahren nicht. Aus der Union kommt Widerspruch, Söder fordert eine echte Wehrpflicht.",
+      "headline": "Pistorius hält Wehrpflicht derzeit für unnötig",
+      "text": "Verteidigungsminister Boris Pistorius erwartet, die Bundeswehr könne ihren Personalbedarf ohne Wehrpflicht decken, wenn der Kurs anhält. Sie zählt rund 190.000 Soldaten, so viele wie seit 13 Jahren nicht. Die Union widerspricht, Söder reichen Investitionen in Ausrüstung nicht.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -101,12 +101,16 @@
       ]
     },
     {
-      "headline": "Kein Hinweis auf Fremdverschulden bei Aiwangers Tod",
-      "text": "Nach vorläufiger Obduktion starb Bayerns Wirtschaftsminister Hubert Aiwanger laut Berliner Staatsanwaltschaft ohne Fremdverschulden. Weitere gerichtsmedizinische Untersuchungen stehen aus. Söder will die Koalition fortsetzen, die Freien Wähler beraten bis zum Wochenende.",
+      "headline": "Keine Hinweise auf Fremdverschulden bei Aiwangers Tod",
+      "text": "Bayerns Wirtschaftsminister Hubert Aiwanger starb laut vorläufiger Obduktion ohne Fremdverschulden, so die Staatsanwaltschaft Berlin. Weitere gerichtsmedizinische Untersuchungen stehen aus. Söder will die Koalition fortsetzen, die Freien Wähler beraten bis zum Wochenende.",
       "quellen": [
         {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/politik/deutschland/aiwanger-tod-obduktion-ermittlungen-100.html"
+        },
+        {
+          "name": "news.at",
+          "url": "https://www.news.at/politik/bayerns-landes-wirtschaftsminister-hubert-aiwanger-tot"
         }
       ]
     }
