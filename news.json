@@ -1,53 +1,49 @@
 {
-  "datum": "2026-11-07",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-08",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Sechs Tote bei Schüssen auf Marktplatz in Krakau",
-      "text": "Ein 24-jähriger Pole schoss am Samstag gegen 15 Uhr auf dem Hauptmarkt von Krakau aus einem Auto wahllos auf Menschen. Laut Polizei starben vier Frauen und zwei Männer, mindestens 15 Menschen wurden verletzt. Der Täter wurde festgenommen. Ein Motiv nannte die Polizei nicht.",
+      "headline": "Krakauer Schütze handelte offenbar aus rechtsextremer Gesinnung",
+      "text": "Beim Angriff auf dem Hauptmarkt von Krakau starben am Samstag sechs Menschen, mehr als ein Dutzend wurden verletzt. Der polnische Täter gilt laut Innenminister als Ultranationalist. Laut Regierungschef Tusk fand die Polizei drei weitere Tote in seinem Wohnhaus, wohl Angehörige.",
       "quellen": [
         {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/world/2026/1107/1598368-poland-shooting/"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6n9r01d2709o"
         },
         {
-          "name": "Notes from Poland",
-          "url": "https://notesfrompoland.com/2026/11/07/fatalities-reported-in-shooting-on-historical-market-square-in-krakow/"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow"
         }
       ]
     },
     {
-      "headline": "US-Angriffe auf Qeshm, Trump spricht von Fortschritten",
-      "text": "Trump bestätigte am Freitag kleinere US-Angriffe auf iranische Flugabwehr auf Qeshm und sprach von großen Fortschritten in den Gesprächen mit Teheran. Laut dem Staatsfernsehen schoss Irans Luftabwehr eine US-Drohne ab. Katar wies Berichte über gescheiterte Gespräche zurück.",
+      "headline": "USA gründen Einsatzgruppe gegen Irans Nachschubwege",
+      "text": "Das US-Regionalkommando Centcom hat die Task Force Iron Gate gegründet. Sie soll Waffenlieferungen über Irans Landgrenzen und das Kaspische Meer verhindern und die seit Monaten laufende Seeblockade ergänzen. Irans Agentur IRNA meldete Explosionen auf der Insel Qeshm.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
+          "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
         }
       ]
     },
     {
-      "headline": "Russland greift Kiew vor Gesprächen in Abu Dhabi an",
-      "text": "Russland hat Kiew in der Nacht zum Samstag mit ballistischen Raketen beschossen. Laut Behörden gab es mindestens sechs Verletzte, die Nordbrücke und ein Kindergarten wurden beschädigt. Selenskyj sprach von 36 Raketen. Gespräche in Abu Dhabi sollen in drei Tagen beginnen.",
+      "headline": "Russland beschießt Kiew vor den Gesprächen in Abu Dhabi",
+      "text": "Laut Selenskyj feuerte Russland 36 ballistische Raketen auf Kiew und Umgebung und traf Umspannwerke, die zwei Atomkraftwerke anbinden. In Kiew wurden mindestens sechs Menschen verletzt, die Nordbrücke ist beschädigt. Die Gespräche in Abu Dhabi sollen kommende Woche stattfinden.",
       "quellen": [
         {
           "name": "Kyiv Independent",
           "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cm4g1nq8158po"
         }
       ]
     },
     {
       "headline": "Trump macht Stephen Miller zum Stabschef",
-      "text": "Trump hat seinen Berater Stephen Miller zum Stabschef des Weißen Hauses ernannt. Er ersetzt Susie Wiles, die laut NPR weiter für Trump arbeiten soll, und übernimmt am Montag. Laut BBC könnte das ein Zeichen sein, dass Trump sich auf einen politischen Kampf einstellt.",
+      "text": "Nach der Wahlniederlage der Republikaner ersetzt Trump Stabschefin Susie Wiles durch Stephen Miller, den Architekten der harten Einwanderungspolitik. Miller übernimmt am Montag. Wiles soll laut Trump weiter für ihn arbeiten. Demokraten kritisieren die Wahl scharf.",
       "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/crp3gg2z171go"
-        },
         {
           "name": "NPR",
           "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff"
@@ -55,70 +51,62 @@
       ]
     },
     {
-      "headline": "Neue Bombendrohungen gegen Flüge und Sender in Europa",
-      "text": "Am Freitag gab es erneut Bombendrohungen gegen Flüge in mehreren Ländern, drei Maschinen begleiteten ungarische Kampfjets. Auch RTÉ in Irland wurde geräumt. Sprengstoff fand sich nicht, die Urheber sind unklar. Irlands Regierung spricht von einer wohl koordinierten Störkampagne.",
+      "headline": "Herzog beauftragt Eisenkot mit der Regierungsbildung",
+      "text": "Israels Präsident Herzog hat Oppositionsführer Gadi Eisenkot mit der Regierungsbildung beauftragt. Eisenkot erhielt 67 Empfehlungen, Netanyahu 46. Er hat 28 Tage Zeit, mit möglicher Verlängerung um 14 Tage. Sein Bündnis kam bei der Wahl auf 48 Sitze, Netanyahus Block auf 53.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cq62yy064vjpo"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
         },
         {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cmy8367lj5xlo"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Union will Ilse Aigner als Bundespräsidentin nominieren",
-      "text": "Laut ARD-Hauptstadtstudio will die Union Ilse Aigner ins Rennen ums Bundespräsidentenamt schicken. Verkündet wird das am Montag, formell entscheiden CDU-Präsidium und -Vorstand. SPD-Chef Klingbeil sicherte bei einem Unionsvorschlag Unterstützung zu. Gewählt wird am 30. Januar.",
+      "headline": "Union dürfte Ilse Aigner als Bundespräsidentin nominieren",
+      "text": "Nach Medienberichten will die CDU Bayerns Landtagspräsidentin Ilse Aigner als Unionskandidatin vorschlagen. Präsidium und Vorstand sollen am Montag entscheiden. Die 61-Jährige wird laut Deutschlandfunk auch von der SPD unterstützt. Gewählt wird am 30. Januar 2027.",
+      "quellen": [
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/cdu-praesidium-beraet-in-berlin-100.html"
+        },
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/politik/ohne-abitur-und-ohne-allueren-ilse-aigner-ist-die-kandidatin-auf-die-sich-alle-einigen-konnten-ld.10056796"
+        }
+      ]
+    },
+    {
+      "headline": "Hubig möchte AfD-Leak für Verbotsprüfung verwenden",
+      "text": "Justizministerin Stefanie Hubig will ein mögliches AfD-Verbotsverfahren in einer Arbeitsgruppe von Bund und Ländern untersuchen lassen. Die geleakten Mails sollen dafür genutzt werden, wenn sie die Verfassungsfeindlichkeit belegen. In der Koalition ist ein Verfahren umstritten.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html"
-        },
+          "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Pistorius erwartet keine Rückkehr der Wehrpflicht",
+      "text": "Verteidigungsminister Boris Pistorius sieht den Personalbedarf der Bundeswehr auch ohne Wehrpflicht gedeckt, falls der Kurs anhält. Die Truppe zählt rund 190.000 Soldaten, so viele wie seit 13 Jahren nicht. Aus der Union kommt Widerspruch, Söder fordert eine echte Wehrpflicht.",
+      "quellen": [
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/medienberichte-auch-cdu-fuer-ilse-aigner-102.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html"
         }
       ]
     },
     {
       "headline": "Kein Hinweis auf Fremdverschulden bei Aiwangers Tod",
-      "text": "Nach dem vorläufigen Obduktionsergebnis starb Bayerns Wirtschaftsminister Aiwanger ohne Fremdverschulden, so die Berliner Staatsanwaltschaft. Weitere gerichtsmedizinische Untersuchungen stehen aus. Söder will die Koalition fortsetzen, die Freien Wähler beraten bis zum Wochenende.",
+      "text": "Nach vorläufiger Obduktion starb Bayerns Wirtschaftsminister Hubert Aiwanger laut Berliner Staatsanwaltschaft ohne Fremdverschulden. Weitere gerichtsmedizinische Untersuchungen stehen aus. Söder will die Koalition fortsetzen, die Freien Wähler beraten bis zum Wochenende.",
       "quellen": [
         {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/politik/deutschland/aiwanger-tod-obduktion-ermittlungen-100.html"
-        },
-        {
-          "name": "SRF",
-          "url": "https://www.srf.ch/news/international/vize-regierungschef-bayerns-nach-aiwangers-tod-kein-hinweis-auf-fremdverschulden"
-        }
-      ]
-    },
-    {
-      "headline": "AfD-Landesverband fürchtet finanzielle Folgen des Datenlecks",
-      "text": "Laut NDR und WDR verlangt der AfD-Landesverband Mecklenburg-Vorpommern von der Bundespartei, ihn von Forderungen aus dem Datenleck freizustellen. Der Konvent berät am Samstag darüber. Etwa 420.000 E-Mails sind im Netz, die AfD bestätigte Teile des Leaks.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-folgen-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Regierung sieht Eishockey-WM mit Russland als faktisch unmöglich",
-      "text": "Nach der CAS-Entscheidung zu Russland wollen Finnland, Schweden und weitere Verbände nicht gegen Russland spielen. Laut Regierungssprecher Kornelius macht eine russische Teilnahme das Turnier faktisch unmöglich. Hauptsponsor Skoda würde sein Engagement überdenken.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/sport/eishockey-wm-boykott-finnland-russland-norwegen-schweden-100.html"
-        },
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html"
         }
       ]
     }
