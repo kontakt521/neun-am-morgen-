@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-08",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
-      "headline": "Sechs Tote bei Schüssen auf Krakaus Hauptmarkt",
-      "text": "Ein Bewaffneter hat am Samstag in Krakaus Altstadt sechs Menschen getötet, 15 weitere wurden verletzt. Im Haus des Verdächtigen lagen laut Polizei drei weitere Tote, seine Eltern und seine Schwester. Die Staatsanwaltschaft ermittelt wegen Terrorismus.",
+      "headline": "Polen ermittelt nach Krakauer Schüssen wegen Terrors",
+      "text": "Nach den Schüssen im Zentrum Krakaus mit sechs Toten ermittelt die Staatsanwaltschaft wegen Terrors. Im Haus des Verdächtigen lagen drei weitere Tote, laut Polizei seine Eltern und seine Schwester. Innenminister Kierwinski sieht rechtsextreme Einflüsse beim Verdächtigen.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -18,7 +18,7 @@
     },
     {
       "headline": "USA gründen Einsatzgruppe gegen Irans Landwege",
-      "text": "Das US-Regionalkommando Centcom hat die Task Force Iron Gate gegründet. Sie soll verhindern, dass Iran über Landgrenzen und das Kaspische Meer moderne Waffen transportiert, und die Seeblockade verstärken. Die Agentur IRNA meldete am Samstag Explosionen auf der Insel Qeshm.",
+      "text": "Das US-Regionalkommando Centcom hat die Task Force Iron Gate gegründet. Sie soll verhindern, dass Iran über Landgrenzen und das Kaspische Meer Waffen transportiert, und die Seeblockade verstärken. Die Agentur IRNA meldete am Samstag Explosionen auf der Insel Qeshm.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -28,15 +28,15 @@
     },
     {
       "headline": "Russland trifft Ukraines Stromnetz vor Abu-Dhabi-Gesprächen",
-      "text": "Nach einem Angriff auf eine Energieanlage sind laut dem Versorger DTEK über 600.000 Menschen im Gebiet Dnipropetrowsk ohne Strom, im Gebiet Charkiw weitere 250.000. Selenskyj wirft Russland Druck vor den Gesprächen in Abu Dhabi am 10. und 11. November vor.",
+      "text": "Nach einem Angriff auf eine Energieanlage sind laut dem Versorger DTEK über 600.000 Menschen im Gebiet Dnipropetrowsk ohne Strom, im Gebiet Charkiw weitere 250.000. Selenskyj wirft Russland vor, vor den Gesprächen in Abu Dhabi am 10. und 11. November Druck auszuüben.",
       "quellen": [
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russia-to-send-senior-diplomats-military-officials-to-upcoming-peace-talks-in-abu-dhabi/"
-        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russia-to-send-senior-diplomats-military-officials-to-upcoming-peace-talks-in-abu-dhabi/"
         }
       ]
     },
@@ -67,12 +67,12 @@
   ],
   "national": [
     {
-      "headline": "Union dürfte Ilse Aigner als Bundespräsidentin vorschlagen",
-      "text": "Nach Medienberichten will die CDU Bayerns Landtagspräsidentin Ilse Aigner als Kandidatin der Union unterstützen. Präsidium und Vorstand entscheiden am Montag. Die 61-Jährige wird laut Deutschlandfunk auch von der SPD getragen. Beide haben in der Bundesversammlung die Mehrheit.",
+      "headline": "Aigner soll Kandidatin der Union werden",
+      "text": "Kanzler Merz will die bayerische Landtagspräsidentin Ilse Aigner am Montag den CDU-Gremien als Bundespräsidentin vorschlagen, laut CDU-Kreisen. Union und SPD haben in der Bundesversammlung am 30. Januar eine Mehrheit. Aigner wäre die erste Frau im Amt.",
       "quellen": [
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/cdu-praesidium-beraet-in-berlin-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html"
         },
         {
           "name": "NZZ",
@@ -92,7 +92,7 @@
     },
     {
       "headline": "Pistorius hält Wehrpflicht derzeit für unnötig",
-      "text": "Verteidigungsminister Boris Pistorius erwartet, die Bundeswehr könne ihren Personalbedarf ohne Wehrpflicht decken, wenn der Kurs anhält. Sie zählt rund 190.000 Soldaten, so viele wie seit 13 Jahren nicht. Die Union widerspricht, Söder reichen Investitionen in Ausrüstung nicht.",
+      "text": "Verteidigungsminister Boris Pistorius erwartet, die Bundeswehr könne ihren Personalbedarf ohne Wehrpflicht decken, wenn der Kurs anhält. Sie zählt rund 190.000 Soldaten, so viele wie seit 13 Jahren nicht. Aus der Union kommt Widerspruch, Söder fordert die Wehrpflicht.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -102,7 +102,7 @@
     },
     {
       "headline": "Keine Hinweise auf Fremdverschulden bei Aiwangers Tod",
-      "text": "Bayerns Wirtschaftsminister Hubert Aiwanger starb laut vorläufiger Obduktion ohne Fremdverschulden, so die Staatsanwaltschaft Berlin. Weitere gerichtsmedizinische Untersuchungen stehen aus. Söder will die Koalition fortsetzen, die Freien Wähler beraten bis zum Wochenende.",
+      "text": "Bayerns Wirtschaftsminister Hubert Aiwanger starb laut vorläufiger Obduktion ohne Fremdverschulden, so die Staatsanwaltschaft Berlin. Weitere gerichtsmedizinische Untersuchungen stehen aus. Söder will die Koalition fortsetzen, die Freien Wähler wollten bis zum Wochenende beraten.",
       "quellen": [
         {
           "name": "ZDFheute",
