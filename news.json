@@ -1,24 +1,24 @@
 {
   "datum": "2026-11-08",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
       "headline": "Krakauer Schütze handelte offenbar aus rechtsextremer Gesinnung",
-      "text": "Beim Angriff auf dem Hauptmarkt von Krakau starben am Samstag sechs Menschen, mehr als ein Dutzend wurden verletzt. Der polnische Täter gilt laut Innenminister als Ultranationalist. Laut Regierungschef Tusk fand die Polizei drei weitere Tote in seinem Wohnhaus, wohl Angehörige.",
+      "text": "Beim Angriff auf dem Hauptmarkt von Krakau starben am Samstag sechs Menschen, mehr als ein Dutzend wurden verletzt. Der 25-jährige Täter gilt laut Innenminister als Ultranationalist. Laut Regierungschef Tusk fand die Polizei in seinem Wohnhaus drei weitere Tote, wohl Angehörige.",
       "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6n9r01d2709o"
-        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6n9r01d2709o"
         }
       ]
     },
     {
       "headline": "USA gründen Einsatzgruppe gegen Irans Nachschubwege",
-      "text": "Das US-Regionalkommando Centcom hat die Task Force Iron Gate gegründet. Sie soll Waffenlieferungen über Irans Landgrenzen und das Kaspische Meer verhindern und die seit Monaten laufende Seeblockade ergänzen. Irans Agentur IRNA meldete Explosionen auf der Insel Qeshm.",
+      "text": "Das US-Regionalkommando Centcom hat die Task Force Iron Gate gegründet. Sie soll den Transport moderner Waffen über Irans Landgrenzen und das Kaspische Meer verhindern und die Seeblockade ergänzen. Irans Agentur IRNA meldete am Samstag Explosionen auf der Insel Qeshm.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -28,11 +28,11 @@
     },
     {
       "headline": "Russland beschießt Kiew vor den Gesprächen in Abu Dhabi",
-      "text": "Laut Selenskyj feuerte Russland 36 ballistische Raketen auf Kiew und Umgebung und traf Umspannwerke, die zwei Atomkraftwerke anbinden. In Kiew wurden mindestens sechs Menschen verletzt, die Nordbrücke ist beschädigt. Die Gespräche in Abu Dhabi sollen kommende Woche stattfinden.",
+      "text": "Laut Selenskyj griffen über 30 ballistische Raketen und mehr als 170 Drohnen zwölf Regionen an, am stärksten Kiew. Umspannwerke, die zwei Atomkraftwerke anbinden, wurden getroffen, neun Menschen verletzt. Gespräche in Abu Dhabi sind für den 10. und 11. November angesetzt.",
       "quellen": [
         {
           "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/"
+          "url": "https://kyivindependent.com/russia-to-send-senior-diplomats-military-officials-to-upcoming-peace-talks-in-abu-dhabi/"
         },
         {
           "name": "BBC",
@@ -82,7 +82,7 @@
     },
     {
       "headline": "Hubig möchte AfD-Leak für Verbotsprüfung verwenden",
-      "text": "Justizministerin Stefanie Hubig will ein mögliches AfD-Verbotsverfahren in einer Arbeitsgruppe von Bund und Ländern untersuchen lassen. Die geleakten Mails sollen dafür genutzt werden, wenn sie die Verfassungsfeindlichkeit belegen. In der Koalition ist ein Verfahren umstritten.",
+      "text": "Justizministerin Stefanie Hubig will ein mögliches AfD-Verbotsverfahren in einer Arbeitsgruppe von Bund und Ländern prüfen lassen. Die geleakten Mails sollen dafür genutzt werden, wenn sie die Verfassungsfeindlichkeit belegen. In der Koalition ist ein Verfahren umstritten.",
       "quellen": [
         {
           "name": "tagesschau",
