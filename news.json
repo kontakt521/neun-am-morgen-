@@ -1,28 +1,24 @@
 {
   "datum": "2026-11-09",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "Iran droht den USA mit Vergeltung bei neuen Angriffen",
-      "text": "Irans Außenminister Araghchi droht den USA mit einer harten Antwort, falls sie ihre Angriffe wieder aufnehmen. Präsident Trump hält neue Schläge bei Fortschritten in den Verhandlungen für sehr unwahrscheinlich. US-Außenminister Rubio sieht keinen Durchbruch.",
+      "headline": "Katar vermittelt vor Trump-Treffen im Iran-Konflikt",
+      "text": "Katars Ministerpräsident trifft am Montag Präsident Trump im Weißen Haus. Iran hat über Katar einen neuen Vorschlag übermittelt, den die USA prüfen. Außenminister Rubio sieht keinen Durchbruch. Trump hält neue Angriffe bei einem starken Abkommen für sehr unwahrscheinlich.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat"
+          "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations"
         }
       ]
     },
     {
-      "headline": "Russland trifft Ukraines Stromnetz vor Gesprächen in Abu Dhabi",
-      "text": "Nach russischen Angriffen sind im Gebiet Dnipropetrowsk laut dem Versorger DTEK über 600.000 Menschen ohne Strom, im Gebiet Charkiw weitere 250.000. Am 10. und 11. November verhandeln Russland und die Ukraine in Abu Dhabi unter US-Vermittlung.",
+      "headline": "Russland und Ukraine beschießen sich vor Gesprächen",
+      "text": "Nach einem ukrainischen Drohnenangriff brannte laut dem Gouverneur die Raffinerie Kirischi im Gebiet Leningrad, eine Frau starb durch Trümmer. Russland traf laut Staatsagenturen drei Umspannwerke in der Ukraine. Am 10. und 11. November verhandeln beide Seiten in Abu Dhabi.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity"
+          "url": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight"
         },
         {
           "name": "Kyiv Independent",
@@ -45,12 +41,12 @@
       ]
     },
     {
-      "headline": "Polen ermittelt nach Schüssen in Krakau wegen Terrors",
-      "text": "Bei Schüssen in Krakau starben sechs Menschen. Im Haus des 25-jährigen Verdächtigen lagen drei weitere Tote, laut Polizei seine Eltern und seine Schwester. Die Staatsanwaltschaft ermittelt wegen einer terroristischen Straftat. Ein Minister sieht rechtsextreme Einflüsse.",
+      "headline": "Todesschütze von Krakau stirbt im Krankenhaus",
+      "text": "Der 24-jährige Schütze, der in Krakau sechs Menschen tötete, ist laut Polizei im Krankenhaus gestorben. Er steht im Verdacht, auch Eltern und Schwester getötet zu haben. Ein Minister sprach von rechtsextremen Einflüssen. Ministerpräsident Tusk nennt die Tat Terrorismus.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cmd7q15drwgeo"
+          "url": "https://www.bbc.com/news/articles/c6y434dw8319o"
         }
       ]
     },
@@ -71,16 +67,16 @@
   ],
   "national": [
     {
-      "headline": "Aigner soll Kandidatin der Union werden",
-      "text": "Kanzler Merz will Ilse Aigner, die bayerische Landtagspräsidentin, am Montag den CDU-Gremien als Bundespräsidentin vorschlagen, laut Parteikreisen. In der Bundesversammlung am 30. Januar hätten Union und SPD rund 50 Stimmen Vorsprung. Aigner wäre die erste Frau im Amt.",
+      "headline": "Merz unterstützt Aigner als Bundespräsidentin",
+      "text": "Kanzler Merz unterstützt Ilse Aigner als künftige Bundespräsidentin und will sie am Montag den Spitzengremien der CDU vorschlagen. Die Bundesversammlung entscheidet am 30. Januar, Union und SPD hätten dort rund 50 Stimmen Vorsprung. Aigner wäre die erste Frau im Amt.",
       "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html"
-        },
         {
           "name": "NZZ",
           "url": "https://www.nzz.ch/international/friedrich-merz-schlaegt-ilse-aigner-als-bundespraesidentin-vor-ld.10058169"
+        },
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html"
         }
       ]
     },
