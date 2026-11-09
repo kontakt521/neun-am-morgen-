@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-09",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
       "headline": "Katars Regierungschef trifft Trump wegen Iran",
-      "text": "Katars Ministerpräsident trifft am Montag Präsident Trump im Weißen Haus. Iran übermittelte über Katar einen Vorschlag, den die USA prüfen. Außenminister Rubio sieht keinen Durchbruch. Trump hält neue Angriffe bei einem starken Abkommen für sehr unwahrscheinlich.",
+      "text": "Katars Ministerpräsident trifft am Montag Präsident Trump im Weißen Haus. Iran übermittelte über Katar einen Vorschlag, den die USA prüfen. Außenminister Rubio sieht keinen Fortschritt. Trump hält neue Angriffe bei einem starken Abkommen für sehr unwahrscheinlich.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -17,36 +17,36 @@
       "text": "Bei Angriffen in der Nacht starben mindestens vier Menschen. Laut dem Gouverneur setzte eine ukrainische Drohne die Raffinerie Kirischi in Brand, Russland traf nach Staatsagenturen drei Umspannwerke. Am 10. und 11. November verhandeln beide Seiten mit den USA in Abu Dhabi.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight"
-        },
-        {
           "name": "Kyiv Independent",
           "url": "https://kyivindependent.com/russia-to-send-senior-diplomats-military-officials-to-upcoming-peace-talks-in-abu-dhabi/"
-        }
-      ]
-    },
-    {
-      "headline": "Jeffries stützt Amtsenthebung von Minister Hegseth",
-      "text": "Der Demokrat Hakeem Jeffries, voraussichtlich künftiger Sprecher des Repräsentantenhauses, sagte bei ABC, er sei bei der Resolution gegen Verteidigungsminister Hegseth fest dafür. Der Republikaner Massie will sie mit acht Anklagepunkten einbringen. Trump verteidigt Hegseth.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cj4g1nwx39wno"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight"
         }
       ]
     },
     {
-      "headline": "Todesschütze von Krakau stirbt im Krankenhaus",
-      "text": "Der 24-jährige Verdächtige von Krakau, der sechs Menschen tötete, ist laut Polizei im Krankenhaus gestorben. Er soll auch Eltern und Schwester getötet haben. Ein Minister sprach von rechtsextremen Einflüssen, die Ermittler prüfen das Motiv. Premier Tusk nennt die Tat Terrorismus.",
+      "headline": "Massie bringt Amtsenthebung von Minister Hegseth ein",
+      "text": "Der Republikaner Massie brachte im Repräsentantenhaus eine Resolution zur Amtsenthebung von Minister Hegseth ein. Er wirft ihm Krieg gegen Iran ohne Zustimmung des Kongresses vor. Der Demokrat Jeffries unterstützt sie. Sprecher Johnson muss binnen zwei Tagen darüber befinden.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6y434dw8319o"
+          "url": "https://www.bbc.com/news/articles/cwr5y58jjp8ro"
+        }
+      ]
+    },
+    {
+      "headline": "Nvidia prüft Geheimdienstvorwürfe gegen Konzernchef Huang",
+      "text": "Nvidias Verwaltungsrat lässt prüfen, ob Konzernchef Jensen Huang Ziel einer ausländischen Geheimdienstoperation war. Huang räumte eine Affäre ein. Laut New York Times halten US-Geheimdienste die Frau für eine Spionin Pekings, China weist das zurück. Die Aktie fiel deutlich.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6zxjx01vyleo"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal"
         }
       ]
     },
@@ -68,15 +68,15 @@
   "national": [
     {
       "headline": "Merz schlägt Aigner als Bundespräsidentin vor",
-      "text": "Kanzler Merz hat Ilse Aigner als Kandidatin der Union für das Amt der Bundespräsidentin vorgestellt. Sie wäre die erste Frau im Amt. Die Bundesversammlung wählt am 30. Januar, Union und SPD kommen laut dpa auf etwa 50 Stimmen Vorsprung. SPD und Grüne signalisierten Unterstützung.",
+      "text": "Kanzler Merz stellte Ilse Aigner als Unionskandidatin für Steinmeiers Nachfolge vor. Sie wäre die erste Frau im Amt. Bei der Wahl am 30. Januar liegen Union und SPD rund 50 Stimmen vorn. SPD und Grüne signalisierten Unterstützung, AfD und Linke planen eigene Kandidaten.",
       "quellen": [
         {
           "name": "NZZ",
           "url": "https://www.nzz.ch/international/friedrich-merz-schlaegt-ilse-aigner-als-bundespraesidentin-vor-ld.10058169"
         },
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/aigner-merz-soeder-bundespraesidentin-100.html"
         }
       ]
     },
@@ -91,22 +91,22 @@
       ]
     },
     {
-      "headline": "AfD fürchtet finanzielle Folgen des Datenlecks",
-      "text": "Die AfD in Mecklenburg-Vorpommern verlangt laut NDR und WDR, dass die Bundespartei für mögliche Kosten des Datenlecks aufkommt. Er fürchtet Bußgelder und Schadensersatzforderungen. Der Landesdatenschutzbeauftragte leitete ein Prüfverfahren ein.",
+      "headline": "Koalition ringt vor Haushaltssitzung um Plastiksteuer",
+      "text": "Vor der Bereinigungssitzung im Bundestag am Donnerstag ist offen, ob die Plastiksteuer kommt. Unionsfraktionschef Frei lehnt sie ab, dann fehlen dem Haushalt ab 2028 über eine Milliarde Euro jährlich. Die Zuckersteuer soll nach Plänen der Union erst am 1. Januar 2028 starten.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-folgen-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-steuerplaene-bundesregierung-100.html"
         }
       ]
     },
     {
-      "headline": "Pistorius hält Wehrpflicht derzeit für unnötig",
-      "text": "Verteidigungsminister Boris Pistorius erwartet, die Bundeswehr könne ihren Personalbedarf ohne Wehrpflicht decken, wenn der Kurs anhält. Sie zählt rund 190.000 Soldaten, so viele wie seit 13 Jahren nicht. Aus der Union kommt Widerspruch, Söder fordert die Wehrpflicht.",
+      "headline": "Merz und Knobloch beim Synagogen-Jubiläum in München",
+      "text": "Beim Festakt zu 20 Jahren Synagoge Ohel Jakob in München sagte Kanzler Merz, ein normales, offenes jüdisches Leben sei in Deutschland noch immer nicht möglich. Die Holocaust-Überlebende Charlotte Knobloch warnte vor Israelhass.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html"
+          "url": "https://www.tagesschau.de/inland/gesellschaft/synagoge-muenchen-102.html"
         }
       ]
     }
