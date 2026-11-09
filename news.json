@@ -1,34 +1,24 @@
 {
-  "datum": "2026-11-08",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-09",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Polen ermittelt nach Krakauer Schüssen wegen Terrors",
-      "text": "Nach den Schüssen im Zentrum Krakaus mit sechs Toten ermittelt die Staatsanwaltschaft wegen Terrors. Im Haus des Verdächtigen lagen drei weitere Tote, laut Polizei seine Eltern und seine Schwester. Innenminister Kierwinski sieht rechtsextreme Einflüsse beim Verdächtigen.",
+      "headline": "Iran droht den USA mit Vergeltung bei neuen Angriffen",
+      "text": "Irans Außenminister Araghchi droht den USA mit einer harten Antwort, falls sie ihre Angriffe wieder aufnehmen. Präsident Trump hält neue Schläge bei Fortschritten in den Verhandlungen für sehr unwahrscheinlich. US-Außenminister Rubio sieht keinen Durchbruch.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe"
+          "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cmd7q15drwgeo"
-        }
-      ]
-    },
-    {
-      "headline": "USA gründen Einsatzgruppe gegen Irans Landwege",
-      "text": "Das US-Regionalkommando Centcom hat die Task Force Iron Gate gegründet. Sie soll verhindern, dass Iran über Landgrenzen und das Kaspische Meer Waffen transportiert, und die Seeblockade verstärken. Die Agentur IRNA meldete am Samstag Explosionen auf der Insel Qeshm.",
-      "quellen": [
-        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
+          "url": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat"
         }
       ]
     },
     {
-      "headline": "Russland trifft Ukraines Stromnetz vor Abu-Dhabi-Gesprächen",
-      "text": "Nach einem Angriff auf eine Energieanlage sind laut dem Versorger DTEK über 600.000 Menschen im Gebiet Dnipropetrowsk ohne Strom, im Gebiet Charkiw weitere 250.000. Selenskyj wirft Russland vor, vor den Gesprächen in Abu Dhabi am 10. und 11. November Druck auszuüben.",
+      "headline": "Russland trifft Ukraines Stromnetz vor Gesprächen in Abu Dhabi",
+      "text": "Nach russischen Angriffen sind im Gebiet Dnipropetrowsk laut dem Versorger DTEK über 600.000 Menschen ohne Strom, im Gebiet Charkiw weitere 250.000. Am 10. und 11. November verhandeln Russland und die Ukraine in Abu Dhabi unter US-Vermittlung.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -41,26 +31,40 @@
       ]
     },
     {
-      "headline": "Trump macht Stephen Miller zum Stabschef",
-      "text": "Nach der Wahlniederlage der Republikaner ersetzt Trump Stabschefin Susie Wiles durch Stephen Miller, den Architekten seiner harten Einwanderungspolitik. Miller übernimmt am Montag, Wiles arbeitet laut Trump weiter für ihn. Demokraten wie Jeffries kritisieren die Wahl scharf.",
+      "headline": "Jeffries stützt Amtsenthebung gegen Hegseth",
+      "text": "Der Demokrat Hakeem Jeffries, voraussichtlich künftiger Sprecher des Repräsentantenhauses, unterstützt die Amtsenthebung von Verteidigungsminister Hegseth. Der Republikaner Massie will eine Resolution mit acht Anklagepunkten einbringen. Trump nimmt Hegseth in Schutz.",
       "quellen": [
         {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/crp3gg2z171go"
+          "url": "https://www.bbc.com/news/articles/cj4g1nwx39wno"
+        }
+      ]
+    },
+    {
+      "headline": "Polen ermittelt nach Schüssen in Krakau wegen Terrors",
+      "text": "Bei Schüssen in Krakau starben sechs Menschen. Im Haus des 25-jährigen Verdächtigen lagen drei weitere Tote, laut Polizei seine Eltern und seine Schwester. Die Staatsanwaltschaft ermittelt wegen einer terroristischen Straftat. Ein Minister sieht rechtsextreme Einflüsse.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cmd7q15drwgeo"
         }
       ]
     },
     {
       "headline": "Herzog beauftragt Eisenkot mit der Regierungsbildung",
-      "text": "Präsident Herzog hat Oppositionsführer Gadi Eisenkot mit der Regierungsbildung beauftragt. Laut seinem Büro erhielt Eisenkot 67 Empfehlungen, Netanyahu 46. Eisenkot hat 28 Tage Zeit, mit möglicher Verlängerung um 14 Tage. Netanyahus Block holte 53 Sitze, Eisenkots Bündnis 48.",
+      "text": "Präsident Herzog hat Oppositionsführer Gadi Eisenkot mit der Regierungsbildung beauftragt. Laut seinem Büro erhielt Eisenkot 67 Empfehlungen, Netanyahu 46. Eisenkot hat 28 Tage Zeit, mit möglicher Verlängerung um 14 Tage. Netanyahus Block holte 53 Sitze, Eisenkots Block 48.",
       "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cmy8367lj5xlo"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog"
         }
       ]
     }
@@ -68,7 +72,7 @@
   "national": [
     {
       "headline": "Aigner soll Kandidatin der Union werden",
-      "text": "Kanzler Merz will die bayerische Landtagspräsidentin Ilse Aigner am Montag den CDU-Gremien als Bundespräsidentin vorschlagen, laut CDU-Kreisen. Union und SPD haben in der Bundesversammlung am 30. Januar eine Mehrheit. Aigner wäre die erste Frau im Amt.",
+      "text": "Kanzler Merz will Ilse Aigner, die bayerische Landtagspräsidentin, am Montag den CDU-Gremien als Bundespräsidentin vorschlagen, laut Parteikreisen. In der Bundesversammlung am 30. Januar hätten Union und SPD rund 50 Stimmen Vorsprung. Aigner wäre die erste Frau im Amt.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -76,13 +80,27 @@
         },
         {
           "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/ohne-abitur-und-ohne-allueren-ilse-aigner-ist-die-kandidatin-auf-die-sich-alle-einigen-konnten-ld.10056796"
+          "url": "https://www.nzz.ch/international/friedrich-merz-schlaegt-ilse-aigner-als-bundespraesidentin-vor-ld.10058169"
+        }
+      ]
+    },
+    {
+      "headline": "Aiwanger starb laut Obduktion ohne Fremdverschulden",
+      "text": "Bayerns Wirtschaftsminister Hubert Aiwanger starb nach vorläufigem Obduktionsergebnis ohne Fremdverschulden, teilte die Staatsanwaltschaft Berlin mit. Es folgen weitere rechtsmedizinische Untersuchungen. Ministerpräsident Söder kündigte an, die Koalition fortzusetzen.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/aiwanger-tod-obduktion-ermittlungen-100.html"
+        },
+        {
+          "name": "news.at",
+          "url": "https://www.news.at/politik/bayerns-landes-wirtschaftsminister-hubert-aiwanger-tot"
         }
       ]
     },
     {
       "headline": "Hubig will AfD-Leak für Verbotsprüfung nutzen",
-      "text": "Justizministerin Stefanie Hubig will ein mögliches AfD-Verbotsverfahren von einer Bund-Länder-Arbeitsgruppe prüfen lassen. Die geleakten Mails sollen einbezogen werden, falls sie die Verfassungsfeindlichkeit belegen. In der Koalition fehlt eine einheitliche Haltung.",
+      "text": "Justizministerin Stefanie Hubig will ein mögliches AfD-Verbotsverfahren von einer Bund-Länder-Arbeitsgruppe prüfen lassen. Die geleakten E-Mails sollen einbezogen werden, falls sie die Verfassungsfeindlichkeit belegen. In der Koalition fehlt eine einheitliche Haltung.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -97,20 +115,6 @@
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Keine Hinweise auf Fremdverschulden bei Aiwangers Tod",
-      "text": "Bayerns Wirtschaftsminister Hubert Aiwanger starb laut vorläufiger Obduktion ohne Fremdverschulden, so die Staatsanwaltschaft Berlin. Weitere gerichtsmedizinische Untersuchungen stehen aus. Söder will die Koalition fortsetzen, die Freien Wähler wollten bis zum Wochenende beraten.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/aiwanger-tod-obduktion-ermittlungen-100.html"
-        },
-        {
-          "name": "news.at",
-          "url": "https://www.news.at/politik/bayerns-landes-wirtschaftsminister-hubert-aiwanger-tot"
         }
       ]
     }
