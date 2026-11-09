@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-09",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Katar vermittelt vor Trump-Treffen im Iran-Konflikt",
-      "text": "Katars Ministerpräsident trifft am Montag Präsident Trump im Weißen Haus. Iran hat über Katar einen neuen Vorschlag übermittelt, den die USA prüfen. Außenminister Rubio sieht keinen Durchbruch. Trump hält neue Angriffe bei einem starken Abkommen für sehr unwahrscheinlich.",
+      "headline": "Katars Regierungschef trifft Trump wegen Iran",
+      "text": "Katars Ministerpräsident trifft am Montag Präsident Trump im Weißen Haus. Iran übermittelte über Katar einen Vorschlag, den die USA prüfen. Außenminister Rubio sieht keinen Durchbruch. Trump hält neue Angriffe bei einem starken Abkommen für sehr unwahrscheinlich.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -14,7 +14,7 @@
     },
     {
       "headline": "Russland und Ukraine beschießen sich vor Gesprächen",
-      "text": "Nach einem ukrainischen Drohnenangriff brannte laut dem Gouverneur die Raffinerie Kirischi im Gebiet Leningrad, eine Frau starb durch Trümmer. Russland traf laut Staatsagenturen drei Umspannwerke in der Ukraine. Am 10. und 11. November verhandeln beide Seiten in Abu Dhabi.",
+      "text": "Bei Angriffen in der Nacht starben mindestens vier Menschen. Laut dem Gouverneur setzte eine ukrainische Drohne die Raffinerie Kirischi in Brand, Russland traf nach Staatsagenturen drei Umspannwerke. Am 10. und 11. November verhandeln beide Seiten mit den USA in Abu Dhabi.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -27,8 +27,8 @@
       ]
     },
     {
-      "headline": "Jeffries stützt Amtsenthebung gegen Hegseth",
-      "text": "Der Demokrat Hakeem Jeffries, voraussichtlich künftiger Sprecher des Repräsentantenhauses, unterstützt die Amtsenthebung von Verteidigungsminister Hegseth. Der Republikaner Massie will eine Resolution mit acht Anklagepunkten einbringen. Trump nimmt Hegseth in Schutz.",
+      "headline": "Jeffries stützt Amtsenthebung von Minister Hegseth",
+      "text": "Der Demokrat Hakeem Jeffries, voraussichtlich künftiger Sprecher des Repräsentantenhauses, sagte bei ABC, er sei bei der Resolution gegen Verteidigungsminister Hegseth fest dafür. Der Republikaner Massie will sie mit acht Anklagepunkten einbringen. Trump verteidigt Hegseth.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -42,7 +42,7 @@
     },
     {
       "headline": "Todesschütze von Krakau stirbt im Krankenhaus",
-      "text": "Der 24-jährige Schütze, der in Krakau sechs Menschen tötete, ist laut Polizei im Krankenhaus gestorben. Er steht im Verdacht, auch Eltern und Schwester getötet zu haben. Ein Minister sprach von rechtsextremen Einflüssen. Ministerpräsident Tusk nennt die Tat Terrorismus.",
+      "text": "Der 24-jährige Verdächtige von Krakau, der sechs Menschen tötete, ist laut Polizei im Krankenhaus gestorben. Er soll auch Eltern und Schwester getötet haben. Ein Minister sprach von rechtsextremen Einflüssen, die Ermittler prüfen das Motiv. Premier Tusk nennt die Tat Terrorismus.",
       "quellen": [
         {
           "name": "BBC",
@@ -52,7 +52,7 @@
     },
     {
       "headline": "Herzog beauftragt Eisenkot mit der Regierungsbildung",
-      "text": "Präsident Herzog hat Oppositionsführer Gadi Eisenkot mit der Regierungsbildung beauftragt. Laut seinem Büro erhielt Eisenkot 67 Empfehlungen, Netanyahu 46. Eisenkot hat 28 Tage Zeit, mit möglicher Verlängerung um 14 Tage. Netanyahus Block holte 53 Sitze, Eisenkots Block 48.",
+      "text": "Präsident Herzog beauftragt Oppositionsführer Gadi Eisenkot mit der Regierungsbildung. Laut seinem Büro erhielt Eisenkot 67 Empfehlungen, Netanyahu 46. Eisenkot hat 28 Tage Zeit, mit möglicher Verlängerung um 14 Tage. Netanyahus Block holte 53 Sitze, Eisenkots Block 48.",
       "quellen": [
         {
           "name": "BBC",
@@ -67,8 +67,8 @@
   ],
   "national": [
     {
-      "headline": "Merz unterstützt Aigner als Bundespräsidentin",
-      "text": "Kanzler Merz unterstützt Ilse Aigner als künftige Bundespräsidentin und will sie am Montag den Spitzengremien der CDU vorschlagen. Die Bundesversammlung entscheidet am 30. Januar, Union und SPD hätten dort rund 50 Stimmen Vorsprung. Aigner wäre die erste Frau im Amt.",
+      "headline": "Merz schlägt Aigner als Bundespräsidentin vor",
+      "text": "Kanzler Merz hat Ilse Aigner als Kandidatin der Union für das Amt der Bundespräsidentin vorgestellt. Sie wäre die erste Frau im Amt. Die Bundesversammlung wählt am 30. Januar, Union und SPD kommen laut dpa auf etwa 50 Stimmen Vorsprung. SPD und Grüne signalisierten Unterstützung.",
       "quellen": [
         {
           "name": "NZZ",
@@ -76,31 +76,27 @@
         },
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
         }
       ]
     },
     {
-      "headline": "Aiwanger starb laut Obduktion ohne Fremdverschulden",
-      "text": "Bayerns Wirtschaftsminister Hubert Aiwanger starb nach vorläufigem Obduktionsergebnis ohne Fremdverschulden, teilte die Staatsanwaltschaft Berlin mit. Es folgen weitere rechtsmedizinische Untersuchungen. Ministerpräsident Söder kündigte an, die Koalition fortzusetzen.",
+      "headline": "SPD plant neue Spitze bis Dezember",
+      "text": "Nach Bärbel Bas' Rücktritt im Oktober stellt sich die SPD neu auf. Generalsekretär Klüssendorf kündigte an, spätestens im Dezember einen Personalvorschlag zu machen. Ein Parteitag in Bremen wählt Mitte Januar die ganze Führung neu. Bisher hat niemand offiziell kandidiert.",
       "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/aiwanger-tod-obduktion-ermittlungen-100.html"
-        },
-        {
-          "name": "news.at",
-          "url": "https://www.news.at/politik/bayerns-landes-wirtschaftsminister-hubert-aiwanger-tot"
+          "url": "https://www.zdfheute.de/politik/deutschland/spd-vorstand-vorschlag-kluessendorf-100.html"
         }
       ]
     },
     {
-      "headline": "Hubig will AfD-Leak für Verbotsprüfung nutzen",
-      "text": "Justizministerin Stefanie Hubig will ein mögliches AfD-Verbotsverfahren von einer Bund-Länder-Arbeitsgruppe prüfen lassen. Die geleakten E-Mails sollen einbezogen werden, falls sie die Verfassungsfeindlichkeit belegen. In der Koalition fehlt eine einheitliche Haltung.",
+      "headline": "AfD fürchtet finanzielle Folgen des Datenlecks",
+      "text": "Die AfD in Mecklenburg-Vorpommern verlangt laut NDR und WDR, dass die Bundespartei für mögliche Kosten des Datenlecks aufkommt. Er fürchtet Bußgelder und Schadensersatzforderungen. Der Landesdatenschutzbeauftragte leitete ein Prüfverfahren ein.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html"
+          "url": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-folgen-100.html"
         }
       ]
     },
