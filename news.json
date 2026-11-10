@@ -1,34 +1,52 @@
 {
-  "datum": "2026-11-09",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-10",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Katars Regierungschef trifft Trump wegen Iran",
-      "text": "Katars Ministerpräsident trifft am Montag Präsident Trump im Weißen Haus. Iran übermittelte über Katar einen Vorschlag, den die USA prüfen. Außenminister Rubio sieht keinen Fortschritt. Trump hält neue Angriffe bei einem starken Abkommen für sehr unwahrscheinlich.",
+      "headline": "Trump nennt den Iran-Krieg militärisch praktisch beendet",
+      "text": "Nach einem Treffen mit Katars Ministerpräsident sagte Trump, weitere US-Angriffe auf Iran seien sehr unwahrscheinlich. Die Seeblockade iranischer Häfen bleibt bestehen. Iranische Vertreter wiesen die Aussagen als Falschmeldung zurück. Katar sprach von positiven Gesprächen.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations"
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cq5yny4nl2d3o"
         }
       ]
     },
     {
-      "headline": "Russland und Ukraine beschießen sich vor Gesprächen",
-      "text": "Bei Angriffen in der Nacht starben mindestens vier Menschen. Laut dem Gouverneur setzte eine ukrainische Drohne die Raffinerie Kirischi in Brand, Russland traf nach Staatsagenturen drei Umspannwerke. Am 10. und 11. November verhandeln beide Seiten mit den USA in Abu Dhabi.",
+      "headline": "Russland, Ukraine und USA verhandeln in Abu Dhabi",
+      "text": "In Abu Dhabi beginnt am Dienstag die dritte Runde des Jahres mit US-Vermittlung. Laut einem US-Vertreter zeigen beide Seiten privat etwas Flexibilität bei Gebietsfragen. Der Kreml lehnt Europäer am Tisch ab, mehrere Staaten und die EU entsenden dennoch Vertreter.",
       "quellen": [
         {
           "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russia-to-send-senior-diplomats-military-officials-to-upcoming-peace-talks-in-abu-dhabi/"
+          "url": "https://kyivindependent.com/europes-attendance-at-abu-dhabi-peace-talks-clarified/"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight"
+          "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+        }
+      ]
+    },
+    {
+      "headline": "Trump sagt, das FBI prüfe die Affäre von Nvidia-Chef Huang",
+      "text": "Nach Angaben von Trump prüft das FBI die Beziehung von Konzernchef Jensen Huang zur mutmaßlichen chinesischen Spionin Alice Huang. Huang habe ihm versichert, nichts von ihrer Rolle geahnt zu haben. Peking weist die Vorwürfe zurück. Die Nvidia-Aktie fiel um mehr als vier Prozent.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqg7x7dpvym8o"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy"
         }
       ]
     },
     {
       "headline": "Massie bringt Amtsenthebung von Minister Hegseth ein",
-      "text": "Der Republikaner Massie brachte im Repräsentantenhaus eine Resolution zur Amtsenthebung von Minister Hegseth ein. Er wirft ihm Krieg gegen Iran ohne Zustimmung des Kongresses vor. Der Demokrat Jeffries unterstützt sie. Sprecher Johnson muss binnen zwei Tagen darüber befinden.",
+      "text": "Der Republikaner Massie brachte im Repräsentantenhaus Anklageartikel gegen Minister Hegseth ein, unter anderem wegen des Iran-Krieges ohne Zustimmung des Kongresses. Die Kammer muss sich binnen 48 Stunden damit befassen. Hegseth nennt das eine Farce, Trump stützt ihn.",
       "quellen": [
         {
           "name": "BBC",
@@ -37,27 +55,9 @@
       ]
     },
     {
-      "headline": "Nvidia prüft Geheimdienstvorwürfe gegen Konzernchef Huang",
-      "text": "Nvidias Verwaltungsrat lässt prüfen, ob Konzernchef Jensen Huang Ziel einer ausländischen Geheimdienstoperation war. Huang räumte eine Affäre ein. Laut New York Times halten US-Geheimdienste die Frau für eine Spionin Pekings, China weist das zurück. Die Aktie fiel deutlich.",
+      "headline": "Herzog betraut Eisenkot mit Regierungsbildung in Israel",
+      "text": "Israels Präsident Herzog hat Netanyahus Rivalen Gadi Eisenkot mit der Regierungsbildung betraut. Netanyahus Likud holte 27 Sitze, sechs mehr als Eisenkots Partei Yashar, doch keiner erreichte die Mehrheit. Eisenkot hat 28 Tage Zeit, mit möglicher Verlängerung um 14 Tage.",
       "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6zxjx01vyleo"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal"
-        }
-      ]
-    },
-    {
-      "headline": "Herzog beauftragt Eisenkot mit der Regierungsbildung",
-      "text": "Präsident Herzog beauftragt Oppositionsführer Gadi Eisenkot mit der Regierungsbildung. Laut seinem Büro erhielt Eisenkot 67 Empfehlungen, Netanyahu 46. Eisenkot hat 28 Tage Zeit, mit möglicher Verlängerung um 14 Tage. Netanyahus Block holte 53 Sitze, Eisenkots Block 48.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cmy8367lj5xlo"
-        },
         {
           "name": "NPR",
           "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog"
@@ -67,32 +67,22 @@
   ],
   "national": [
     {
-      "headline": "Merz schlägt Aigner als Bundespräsidentin vor",
-      "text": "Kanzler Merz stellte Ilse Aigner als Unionskandidatin für Steinmeiers Nachfolge vor. Sie wäre die erste Frau im Amt. Bei der Wahl am 30. Januar liegen Union und SPD rund 50 Stimmen vorn. SPD und Grüne signalisierten Unterstützung, AfD und Linke planen eigene Kandidaten.",
+      "headline": "Union nominiert Aigner für das Amt der Bundespräsidentin",
+      "text": "Der CDU-Bundesvorstand nominierte die CSU-Politikerin Ilse Aigner auf Vorschlag von Kanzler Merz für die Wahl am 30. Januar 2027. Union und SPD verfügen in der Bundesversammlung über rund 50 Stimmen Vorsprung. Merz wies Kritik an einem holprigen Verfahren zurück.",
       "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/friedrich-merz-ilse-aigner-kandidatin-bundespraesidentin-100.html"
+        },
         {
           "name": "NZZ",
           "url": "https://www.nzz.ch/international/friedrich-merz-schlaegt-ilse-aigner-als-bundespraesidentin-vor-ld.10058169"
-        },
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/aigner-merz-soeder-bundespraesidentin-100.html"
         }
       ]
     },
     {
-      "headline": "SPD plant neue Spitze bis Dezember",
-      "text": "Nach Bärbel Bas' Rücktritt im Oktober stellt sich die SPD neu auf. Generalsekretär Klüssendorf kündigte an, spätestens im Dezember einen Personalvorschlag zu machen. Ein Parteitag in Bremen wählt Mitte Januar die ganze Führung neu. Bisher hat niemand offiziell kandidiert.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/spd-vorstand-vorschlag-kluessendorf-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Koalition ringt vor Haushaltssitzung um Plastiksteuer",
-      "text": "Vor der Bereinigungssitzung im Bundestag am Donnerstag ist offen, ob die Plastiksteuer kommt. Unionsfraktionschef Frei lehnt sie ab, dann fehlen dem Haushalt ab 2028 über eine Milliarde Euro jährlich. Die Zuckersteuer soll nach Plänen der Union erst am 1. Januar 2028 starten.",
+      "headline": "Koalition streitet vor Haushaltssitzung über Plastiksteuer",
+      "text": "Vor der Bereinigungssitzung am Donnerstag lehnt Unionsfraktionschef Frei die Plastiksteuer ab, SPD-Fraktionschef Miersch hält sie nicht für erledigt. Ohne die Steuer fehlt ab 2028 über eine Milliarde Euro jährlich. Die Zuckersteuer soll nach Wunsch der Union erst 2028 starten.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -101,8 +91,18 @@
       ]
     },
     {
-      "headline": "Merz und Knobloch beim Synagogen-Jubiläum in München",
-      "text": "Beim Festakt zu 20 Jahren Synagoge Ohel Jakob in München sagte Kanzler Merz, ein normales, offenes jüdisches Leben sei in Deutschland noch immer nicht möglich. Die Holocaust-Überlebende Charlotte Knobloch warnte vor Israelhass.",
+      "headline": "SPD will neue Parteispitze bis Dezember vorschlagen",
+      "text": "Die SPD will nach dem Rückzug von Bärbel Bas Mitte Oktober spätestens im Dezember eine neue Spitze vorschlagen. Ein Parteitag in Bremen wählt die gesamte Führung neu, Termin ist der 16. und 17. Januar. Eine offizielle Kandidatur gibt es bislang nicht.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/spd-vorstand-vorschlag-kluessendorf-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Merz beklagt fehlende Normalität jüdischen Lebens",
+      "text": "Beim Festakt zu 20 Jahren der Münchner Synagoge Ohel Jakob sagte Kanzler Merz, ein normales und offen sichtbares jüdisches Leben gebe es in Deutschland weiterhin nicht. Die Holocaust-Überlebende Charlotte Knobloch warnte vor Israelhass, der sich als ehrliche Haltung tarne.",
       "quellen": [
         {
           "name": "tagesschau",
