@@ -1,93 +1,93 @@
 {
   "datum": "2026-11-10",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
-      "headline": "Trump sieht Iran-Krieg faktisch beendet",
-      "text": "Nach Gesprächen mit Katars Ministerpräsident im Weißen Haus sagte Trump am Montag, er sehe den Krieg gegen Iran faktisch als beendet an. Irans Außenminister Araghchi erklärte am Dienstag, ein Ende komme nur durch Respekt, nicht durch Gewalt oder Sanktionen.",
+      "headline": "Katar sieht Fortschritte bei Gesprächen zwischen USA und Iran",
+      "text": "Katar sieht Fortschritte in den Verhandlungen zwischen Washington und Teheran, kann aber nicht sagen, wie nah eine Einigung ist. Trump will vorerst auf neue Angriffe verzichten. Iran bietet Gespräche an, falls die USA unter anderem Angriffe und Blockade beenden.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end"
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/10/qatar-sees-progress-in-us-iran-talks-after-white-house-meeting"
         }
       ]
     },
     {
-      "headline": "Ukraine-Gespräche in Abu Dhabi gehen am Mittwoch weiter",
-      "text": "Nach vier Stunden Dreiergesprächen von Ukraine, Russland und USA in Abu Dhabi nannte US-Außenminister Rubio die Runde sehr produktiv. Laut US-Vertretern zeigen Kiew und Moskau bei Gebietsfragen privat etwas Flexibilität. Kremlsprecher Peskow sprach von einem dreiseitigen Format.",
+      "headline": "Ukraine-Gespräche in Abu Dhabi gehen in den zweiten Tag",
+      "text": "Russland und die Ukraine haben in Abu Dhabi erstmals seit Februar unter US-Vermittlung verhandelt, rund vier Stunden lang. US-Außenminister Rubio nannte das Treffen sehr produktiv. Laut Selenskyj ging es um Gefangene und Sicherheitsgarantien. Am Mittwoch wird weiterverhandelt.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqpvgvrpjvv8o"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
         },
         {
           "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/europes-attendance-at-abu-dhabi-peace-talks-clarified/"
+          "url": "https://kyivindependent.com/ukraine-russia-us-resume-trilateral-peace-talks-in-abu-dhabi-after-9-month-pause/"
         }
       ]
     },
     {
-      "headline": "Trump zufolge prüft das FBI die Affäre von Nvidia-Chef Huang",
-      "text": "Trump sagte, das FBI prüfe die Affäre von Nvidia-Chef Jensen Huang mit der mutmaßlichen chinesischen Spionin Alice Huang. Huang habe laut Trump nichts gewusst. Peking weist die Vorwürfe zurück. Die Nvidia-Aktie fiel am Montag um mehr als vier Prozent.",
+      "headline": "Abstimmung über Amtsenthebung von Hegseth erwartet",
+      "text": "Verteidigungsminister Hegseth nannte den Amtsenthebungsantrag des Republikaners Massie eine Farce und ein politisches Spektakel. Laut Massie soll das Repräsentantenhaus am Dienstagabend Ortszeit abstimmen. Sprecher Johnson erwartet, dass der Antrag scheitert.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqg7x7dpvym8o"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy"
-        }
-      ]
-    },
-    {
-      "headline": "Hegseth nennt Amtsenthebungsantrag eine Farce",
-      "text": "Der Abgeordnete Massie brachte im Repräsentantenhaus einen Antrag auf Amtsenthebung von Verteidigungsminister Hegseth ein, unter anderem wegen des Iran-Kriegs. Hegseth nannte ihn eine Farce, Trump verteidigte ihn. Sprecher Johnson erwartet, dass der Antrag scheitert.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce"
-        },
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas"
-        }
-      ]
-    },
-    {
-      "headline": "Frankreich beschuldigt Iran wegen Kühlschrank-Hacks",
-      "text": "Frankreich führt Hackerangriffe auf die Kühlsysteme von Supermärkten im Oktober auf Irans Revolutionsgarden zurück. Die Pariser Staatsanwaltschaft ermittelt, Außenminister Barrot kündigte Sanktionen an. Iran weist die Anschuldigungen als unbegründet zurück.",
-      "quellen": [
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks"
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/hegseth-pentagon-briefing-impeachment-iran-war/"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cmg474vk6dyqo"
+          "url": "https://www.bbc.com/news/articles/cwm232mnv11do"
+        }
+      ]
+    },
+    {
+      "headline": "US-Inflation im Oktober höher als erwartet",
+      "text": "Die Verbraucherpreise in den USA sind im Oktober laut Arbeitsministerium um 0,4 Prozent zum Vormonat gestiegen, Ökonomen hatten mit 0,3 Prozent gerechnet. Treiber waren Wohnen, Lebensmittel und Energie. Analysten erwarten nun eine Zinserhöhung der US-Notenbank im Dezember.",
+      "quellen": [
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cwy8lx3pg4k2o"
+        }
+      ]
+    },
+    {
+      "headline": "Anthropic strebt Börsenwert von bis zu 1,3 Billionen Dollar an",
+      "text": "Das KI-Unternehmen Anthropic will seine Aktien an der New Yorker Nasdaq für 70 bis 78 Dollar je Stück anbieten und bis zu 64 Milliarden Dollar einnehmen. Das entspräche einem Wert von 1,1 bis 1,3 Billionen Dollar. Der Handel unter dem Kürzel ANT soll am 19. November beginnen.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/crpdgd723x2zo"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Aigner stellt sich den Bundestagsfraktionen vor",
-      "text": "Die von der CDU am Montag nominierte Ilse Aigner besucht die Bundestagsfraktionen der Union, der SPD und der Grünen. Die AfD hatte sie eingeladen, doch Aigner sagte ab. Die Bundesversammlung wählt am 30. Januar, Union und SPD kommen dort auf eine Mehrheit von etwa 50 Stimmen.",
+      "headline": "Aigner stellt sich bei Union, SPD und Grünen vor",
+      "text": "Ilse Aigner, Unionskandidatin für das höchste Staatsamt, besuchte die Bundestagsfraktionen von CDU/CSU, SPD und Grünen und erhielt bei SPD und Grünen Applaus. Ein Termin bei der AfD ist laut ihrem Stabschef nicht geplant. Die Bundesversammlung wählt am 30. Januar.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/aigner-will-als-bundespraesidentin-bruecken-bauen-keine-termine-bei-afd-und-linken-100.html"
         },
         {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/international/friedrich-merz-schlaegt-ilse-aigner-als-bundespraesidentin-vor-ld.10058169"
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/international/hoechstes-amt-in-deutschland-ilse-aigner-soll-bundespraesidentin-werden"
         }
       ]
     },
     {
-      "headline": "Schüsse in Hamburg, Tatverdächtiger tot aufgefunden",
-      "text": "Am Dienstag wurden im Hamburger Stadtteil Hafencity offenbar zwei Menschen durch Schüsse verletzt. Spezialkräfte des Landeskriminalamts fanden den 68-jährigen Tatverdächtigen tot im Elbphilharmonie-Hotel. Laut Polizei könnten die Hintergründe im familiären Bereich liegen.",
+      "headline": "Hamburger Schütze soll auch Frau und Schwiegervater getötet haben",
+      "text": "Nach den Schüssen nahe der Elbphilharmonie mit zwei Schwerverletzten fand die Polizei in der Wohnung des toten 68-jährigen Tatverdächtigen in Eningen unter Achalm zwei Leichen. Laut Polizei sind es seine Ehefrau und sein Schwiegervater, der Hintergrund könnte familiär sein.",
       "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-etlingen-schuesse-100.html"
+        },
         {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/panorama/kriminalitaet/schiesserei-hamburg-elbphilharmonie-100.html"
@@ -95,22 +95,26 @@
       ]
     },
     {
-      "headline": "Maschinenbauer werfen der Bundesregierung Reformstau vor",
-      "text": "Beim Maschinenbau-Gipfel in Berlin kritisierte der Branchenverband VDMA, die Regierung setze Reformen zu zögerlich um und blockiere sie durch Streit. Wirtschaftsministerin Reiche forderte Änderungen im Arbeitsrecht und nannte den Kündigungsschutz zu starr.",
+      "headline": "Klingbeil plant Aus für Steuerklassen III und V",
+      "text": "Finanzminister Klingbeil will laut einem Papier seines Ministeriums die von vielen Ehepaaren genutzten Steuerklassen III und V durch ein automatisiertes Faktorverfahren ersetzen. Begründet wird das mit Gerechtigkeit, da oft Frauen höhere Abzüge haben. Aus der Union kommt Kritik.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html"
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/lars-klingbeil-plant-abschaffung-von-steuerklassen-iii-und-v-a-4022a7cf-5aac-4d8e-a708-de7811a7c183"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/klingbeil-will-steuerklassen-iii-und-v-wohl-abschaffen-100.html"
         }
       ]
     },
     {
-      "headline": "E-Auto-Förderung 2027 soll um 917 Millionen Euro steigen",
-      "text": "Laut einer Vorlage des Finanzministeriums, die Reuters vorliegt, sollen 2027 für die E-Auto-Prämie 1,72 Milliarden Euro bereitstehen. Grund ist die hohe Nachfrage. Der Haushaltsausschuss will ab Donnerstag die letzten Änderungen am Haushalt beschließen.",
+      "headline": "Maschinenbauer werfen Bundesregierung Reformstau vor",
+      "text": "Beim Branchentreffen der Maschinenbauer in Berlin zeigte sich VDMA-Präsident Kawlath fassungslos über den Streit in der Regierung, der Reformen blockiere. Wirtschaftsministerin Reiche plädierte für ein geändertes Arbeitsrecht und nannte den Kündigungsschutz zu starr.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html"
         }
       ]
     }
