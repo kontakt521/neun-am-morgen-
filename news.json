@@ -1,38 +1,38 @@
 {
   "datum": "2026-11-10",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "Trump nennt den Iran-Krieg militärisch praktisch beendet",
-      "text": "Nach einem Treffen mit Katars Ministerpräsident sagte Trump, weitere US-Angriffe auf Iran seien sehr unwahrscheinlich. Die Seeblockade iranischer Häfen bleibt bestehen. Iranische Vertreter wiesen die Aussagen als Falschmeldung zurück. Katar sprach von positiven Gesprächen.",
+      "headline": "Trump hält Iran-Krieg militärisch für beendet, Blockade bleibt",
+      "text": "Nach einem Treffen mit Katars Ministerpräsident sagte Trump, neue US-Angriffe auf Iran seien sehr unwahrscheinlich, die Seeblockade bleibe. Neu ist eine Einsatzgruppe gegen Irans Handel über Land und Kaspisches Meer. Iranische Vertreter wiesen das als Falschmeldung zurück.",
       "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
-        },
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cq5yny4nl2d3o"
-        }
-      ]
-    },
-    {
-      "headline": "Russland, Ukraine und USA verhandeln in Abu Dhabi",
-      "text": "In Abu Dhabi beginnt am Dienstag die dritte Runde des Jahres mit US-Vermittlung. Laut einem US-Vertreter zeigen beide Seiten privat etwas Flexibilität bei Gebietsfragen. Der Kreml lehnt Europäer am Tisch ab, mehrere Staaten und die EU entsenden dennoch Vertreter.",
-      "quellen": [
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/europes-attendance-at-abu-dhabi-peace-talks-clarified/"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
         }
       ]
     },
     {
-      "headline": "Trump sagt, das FBI prüfe die Affäre von Nvidia-Chef Huang",
-      "text": "Nach Angaben von Trump prüft das FBI die Beziehung von Konzernchef Jensen Huang zur mutmaßlichen chinesischen Spionin Alice Huang. Huang habe ihm versichert, nichts von ihrer Rolle geahnt zu haben. Peking weist die Vorwürfe zurück. Die Nvidia-Aktie fiel um mehr als vier Prozent.",
+      "headline": "Dritte Runde der Ukraine-Gespräche beginnt in Abu Dhabi",
+      "text": "Laut der Agentur RIA Novosti verhandeln Russland, die Ukraine und die USA in Abu Dhabi, die dritte Runde dieses Jahres. Ein US-Vertreter sieht privat etwas Flexibilität bei Gebietsfragen. Der Kreml lehnt Europäer ab, doch mehrere Staaten, Nato und EU entsenden Vertreter.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/europes-attendance-at-abu-dhabi-peace-talks-clarified/"
+        }
+      ]
+    },
+    {
+      "headline": "Trump zufolge prüft das FBI die Affäre von Nvidia-Chef Huang",
+      "text": "Trump sagte, das FBI prüfe die Beziehung von Nvidia-Chef Jensen Huang zur mutmaßlichen chinesischen Spionin Alice Huang. Huang habe ihm versichert, nichts geahnt zu haben. Peking weist die Vorwürfe zurück. Die Nvidia-Aktie fiel am Montag um mehr als vier Prozent.",
       "quellen": [
         {
           "name": "BBC",
@@ -46,7 +46,7 @@
     },
     {
       "headline": "Massie bringt Amtsenthebung von Minister Hegseth ein",
-      "text": "Der Republikaner Massie brachte im Repräsentantenhaus Anklageartikel gegen Minister Hegseth ein, unter anderem wegen des Iran-Krieges ohne Zustimmung des Kongresses. Die Kammer muss sich binnen 48 Stunden damit befassen. Hegseth nennt das eine Farce, Trump stützt ihn.",
+      "text": "Massie brachte im Repräsentantenhaus Anklageartikel gegen Verteidigungsminister Hegseth ein, weil dieser den Iran-Krieg über 90 Tage ohne Zustimmung des Kongresses führe. Die Kammer muss sich binnen 48 Stunden damit befassen. Hegseth spricht von Scheinverfahren, Trump stützt ihn.",
       "quellen": [
         {
           "name": "BBC",
@@ -56,7 +56,7 @@
     },
     {
       "headline": "Herzog betraut Eisenkot mit Regierungsbildung in Israel",
-      "text": "Israels Präsident Herzog hat Netanyahus Rivalen Gadi Eisenkot mit der Regierungsbildung betraut. Netanyahus Likud holte 27 Sitze, sechs mehr als Eisenkots Partei Yashar, doch keiner erreichte die Mehrheit. Eisenkot hat 28 Tage Zeit, mit möglicher Verlängerung um 14 Tage.",
+      "text": "Präsident Herzog hat Netanyahus Rivalen Gadi Eisenkot mit der Regierungsbildung betraut. Netanyahus Likud holte 27 Sitze, sechs mehr als Eisenkots Yashar, doch keiner erreichte die Mehrheit. Eisenkot hat 28 Tage Zeit, plus mögliche 14. Netanyahu bleibt geschäftsführend im Amt.",
       "quellen": [
         {
           "name": "NPR",
@@ -68,7 +68,7 @@
   "national": [
     {
       "headline": "Union nominiert Aigner für das Amt der Bundespräsidentin",
-      "text": "Der CDU-Bundesvorstand nominierte die CSU-Politikerin Ilse Aigner auf Vorschlag von Kanzler Merz für die Wahl am 30. Januar 2027. Union und SPD verfügen in der Bundesversammlung über rund 50 Stimmen Vorsprung. Merz wies Kritik an einem holprigen Verfahren zurück.",
+      "text": "Der CDU-Bundesvorstand nominierte die CSU-Politikerin Ilse Aigner auf Vorschlag von Kanzler Merz für die Wahl am 30. Januar 2027. Union und SPD haben in der Bundesversammlung rund 50 Stimmen Mehrheit. Merz wies Kritik an einem holprigen Verfahren zurück.",
       "quellen": [
         {
           "name": "ZDFheute",
@@ -81,8 +81,8 @@
       ]
     },
     {
-      "headline": "Koalition streitet vor Haushaltssitzung über Plastiksteuer",
-      "text": "Vor der Bereinigungssitzung am Donnerstag lehnt Unionsfraktionschef Frei die Plastiksteuer ab, SPD-Fraktionschef Miersch hält sie nicht für erledigt. Ohne die Steuer fehlt ab 2028 über eine Milliarde Euro jährlich. Die Zuckersteuer soll nach Wunsch der Union erst 2028 starten.",
+      "headline": "Koalition ringt vor der Bereinigungssitzung um Steuerpläne",
+      "text": "Vor der Bereinigungssitzung am Donnerstag lehnt Unionsfraktionschef Frei die Plastiksteuer ab, auch in der SPD gibt es Zweifel. Ohne sie fehlt ab 2028 über eine Milliarde Euro jährlich. Die Union will die Zuckersteuer um ein halbes Jahr auf Anfang 2028 verschieben.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -92,7 +92,7 @@
     },
     {
       "headline": "SPD will neue Parteispitze bis Dezember vorschlagen",
-      "text": "Die SPD will nach dem Rückzug von Bärbel Bas Mitte Oktober spätestens im Dezember eine neue Spitze vorschlagen. Ein Parteitag in Bremen wählt die gesamte Führung neu, Termin ist der 16. und 17. Januar. Eine offizielle Kandidatur gibt es bislang nicht.",
+      "text": "Nach dem Rücktritt von Bas im Oktober will die SPD bis spätestens Dezember eine neue Führung vorschlagen. Termin des Bremer Parteitags mit Neuwahl der gesamten Spitze ist der 16. und 17. Januar. Eine offizielle Kandidatur gibt es bislang nicht.",
       "quellen": [
         {
           "name": "ZDFheute",
@@ -102,7 +102,7 @@
     },
     {
       "headline": "Merz beklagt fehlende Normalität jüdischen Lebens",
-      "text": "Beim Festakt zu 20 Jahren der Münchner Synagoge Ohel Jakob sagte Kanzler Merz, ein normales und offen sichtbares jüdisches Leben gebe es in Deutschland weiterhin nicht. Die Holocaust-Überlebende Charlotte Knobloch warnte vor Israelhass, der sich als ehrliche Haltung tarne.",
+      "text": "Beim Festakt zu 20 Jahren der Münchner Synagoge Ohel Jakob sagte Kanzler Merz, ein normales, offen sichtbares jüdisches Leben sei in Deutschland weiterhin nicht möglich. Die Holocaust-Überlebende Charlotte Knobloch warnte vor Israelhass, der sich als ehrliche Haltung ausgibt.",
       "quellen": [
         {
           "name": "tagesschau",
