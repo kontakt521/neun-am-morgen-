@@ -1,28 +1,24 @@
 {
   "datum": "2026-11-10",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Trump hält Iran-Krieg militärisch für beendet, Blockade bleibt",
-      "text": "Nach einem Treffen mit Katars Ministerpräsident sagte Trump, neue US-Angriffe auf Iran seien sehr unwahrscheinlich, die Seeblockade bleibe. Neu ist eine Einsatzgruppe gegen Irans Handel über Land und Kaspisches Meer. Iranische Vertreter wiesen das als Falschmeldung zurück.",
+      "headline": "Trump sieht Iran-Krieg faktisch beendet",
+      "text": "Nach Gesprächen mit Katars Ministerpräsident im Weißen Haus sagte Trump am Montag, er sehe den Krieg gegen Iran faktisch als beendet an. Irans Außenminister Araghchi erklärte am Dienstag, ein Ende komme nur durch Respekt, nicht durch Gewalt oder Sanktionen.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cq5yny4nl2d3o"
-        },
-        {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+          "url": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end"
         }
       ]
     },
     {
-      "headline": "Dritte Runde der Ukraine-Gespräche beginnt in Abu Dhabi",
-      "text": "Laut der Agentur RIA Novosti verhandeln Russland, die Ukraine und die USA in Abu Dhabi, die dritte Runde dieses Jahres. Ein US-Vertreter sieht privat etwas Flexibilität bei Gebietsfragen. Der Kreml lehnt Europäer ab, doch mehrere Staaten, Nato und EU entsenden Vertreter.",
+      "headline": "Ukraine-Gespräche in Abu Dhabi gehen am Mittwoch weiter",
+      "text": "Nach vier Stunden Dreiergesprächen von Ukraine, Russland und USA in Abu Dhabi nannte US-Außenminister Rubio die Runde sehr produktiv. Laut US-Vertretern zeigen Kiew und Moskau bei Gebietsfragen privat etwas Flexibilität. Kremlsprecher Peskow sprach von einem dreiseitigen Format.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqpvgvrpjvv8o"
         },
         {
           "name": "Kyiv Independent",
@@ -32,7 +28,7 @@
     },
     {
       "headline": "Trump zufolge prüft das FBI die Affäre von Nvidia-Chef Huang",
-      "text": "Trump sagte, das FBI prüfe die Beziehung von Nvidia-Chef Jensen Huang zur mutmaßlichen chinesischen Spionin Alice Huang. Huang habe ihm versichert, nichts geahnt zu haben. Peking weist die Vorwürfe zurück. Die Nvidia-Aktie fiel am Montag um mehr als vier Prozent.",
+      "text": "Trump sagte, das FBI prüfe die Affäre von Nvidia-Chef Jensen Huang mit der mutmaßlichen chinesischen Spionin Alice Huang. Huang habe laut Trump nichts gewusst. Peking weist die Vorwürfe zurück. Die Nvidia-Aktie fiel am Montag um mehr als vier Prozent.",
       "quellen": [
         {
           "name": "BBC",
@@ -45,34 +41,42 @@
       ]
     },
     {
-      "headline": "Massie bringt Amtsenthebung von Minister Hegseth ein",
-      "text": "Massie brachte im Repräsentantenhaus Anklageartikel gegen Verteidigungsminister Hegseth ein, weil dieser den Iran-Krieg über 90 Tage ohne Zustimmung des Kongresses führe. Die Kammer muss sich binnen 48 Stunden damit befassen. Hegseth spricht von Scheinverfahren, Trump stützt ihn.",
+      "headline": "Hegseth nennt Amtsenthebungsantrag eine Farce",
+      "text": "Der Abgeordnete Massie brachte im Repräsentantenhaus einen Antrag auf Amtsenthebung von Verteidigungsminister Hegseth ein, unter anderem wegen des Iran-Kriegs. Hegseth nannte ihn eine Farce, Trump verteidigte ihn. Sprecher Johnson erwartet, dass der Antrag scheitert.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cwr5y58jjp8ro"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas"
         }
       ]
     },
     {
-      "headline": "Herzog betraut Eisenkot mit Regierungsbildung in Israel",
-      "text": "Präsident Herzog hat Netanyahus Rivalen Gadi Eisenkot mit der Regierungsbildung betraut. Netanyahus Likud holte 27 Sitze, sechs mehr als Eisenkots Yashar, doch keiner erreichte die Mehrheit. Eisenkot hat 28 Tage Zeit, plus mögliche 14. Netanyahu bleibt geschäftsführend im Amt.",
+      "headline": "Frankreich beschuldigt Iran wegen Kühlschrank-Hacks",
+      "text": "Frankreich führt Hackerangriffe auf die Kühlsysteme von Supermärkten im Oktober auf Irans Revolutionsgarden zurück. Die Pariser Staatsanwaltschaft ermittelt, Außenminister Barrot kündigte Sanktionen an. Iran weist die Anschuldigungen als unbegründet zurück.",
       "quellen": [
         {
           "name": "NPR",
-          "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog"
+          "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cmg474vk6dyqo"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Union nominiert Aigner für das Amt der Bundespräsidentin",
-      "text": "Der CDU-Bundesvorstand nominierte die CSU-Politikerin Ilse Aigner auf Vorschlag von Kanzler Merz für die Wahl am 30. Januar 2027. Union und SPD haben in der Bundesversammlung rund 50 Stimmen Mehrheit. Merz wies Kritik an einem holprigen Verfahren zurück.",
+      "headline": "Aigner stellt sich den Bundestagsfraktionen vor",
+      "text": "Die von der CDU am Montag nominierte Ilse Aigner besucht die Bundestagsfraktionen der Union, der SPD und der Grünen. Die AfD hatte sie eingeladen, doch Aigner sagte ab. Die Bundesversammlung wählt am 30. Januar, Union und SPD kommen dort auf eine Mehrheit von etwa 50 Stimmen.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/friedrich-merz-ilse-aigner-kandidatin-bundespraesidentin-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html"
         },
         {
           "name": "NZZ",
@@ -81,32 +85,32 @@
       ]
     },
     {
-      "headline": "Koalition ringt vor der Bereinigungssitzung um Steuerpläne",
-      "text": "Vor der Bereinigungssitzung am Donnerstag lehnt Unionsfraktionschef Frei die Plastiksteuer ab, auch in der SPD gibt es Zweifel. Ohne sie fehlt ab 2028 über eine Milliarde Euro jährlich. Die Union will die Zuckersteuer um ein halbes Jahr auf Anfang 2028 verschieben.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-steuerplaene-bundesregierung-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "SPD will neue Parteispitze bis Dezember vorschlagen",
-      "text": "Nach dem Rücktritt von Bas im Oktober will die SPD bis spätestens Dezember eine neue Führung vorschlagen. Termin des Bremer Parteitags mit Neuwahl der gesamten Spitze ist der 16. und 17. Januar. Eine offizielle Kandidatur gibt es bislang nicht.",
+      "headline": "Schüsse in Hamburg, Tatverdächtiger tot aufgefunden",
+      "text": "Am Dienstag wurden im Hamburger Stadtteil Hafencity offenbar zwei Menschen durch Schüsse verletzt. Spezialkräfte des Landeskriminalamts fanden den 68-jährigen Tatverdächtigen tot im Elbphilharmonie-Hotel. Laut Polizei könnten die Hintergründe im familiären Bereich liegen.",
       "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/spd-vorstand-vorschlag-kluessendorf-100.html"
+          "url": "https://www.zdfheute.de/panorama/kriminalitaet/schiesserei-hamburg-elbphilharmonie-100.html"
         }
       ]
     },
     {
-      "headline": "Merz beklagt fehlende Normalität jüdischen Lebens",
-      "text": "Beim Festakt zu 20 Jahren der Münchner Synagoge Ohel Jakob sagte Kanzler Merz, ein normales, offen sichtbares jüdisches Leben sei in Deutschland weiterhin nicht möglich. Die Holocaust-Überlebende Charlotte Knobloch warnte vor Israelhass, der sich als ehrliche Haltung ausgibt.",
+      "headline": "Maschinenbauer werfen der Bundesregierung Reformstau vor",
+      "text": "Beim Maschinenbau-Gipfel in Berlin kritisierte der Branchenverband VDMA, die Regierung setze Reformen zu zögerlich um und blockiere sie durch Streit. Wirtschaftsministerin Reiche forderte Änderungen im Arbeitsrecht und nannte den Kündigungsschutz zu starr.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/synagoge-muenchen-102.html"
+          "url": "https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "E-Auto-Förderung 2027 soll um 917 Millionen Euro steigen",
+      "text": "Laut einer Vorlage des Finanzministeriums, die Reuters vorliegt, sollen 2027 für die E-Auto-Prämie 1,72 Milliarden Euro bereitstehen. Grund ist die hohe Nachfrage. Der Haushaltsausschuss will ab Donnerstag die letzten Änderungen am Haushalt beschließen.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html"
         }
       ]
     }
