@@ -1,78 +1,92 @@
 {
   "datum": "2026-11-11",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "Ukraine-Gespräche in Abu Dhabi gehen weiter",
-      "text": "Russland und die Ukraine haben in Abu Dhabi erstmals seit neun Monaten unter US-Vermittlung verhandelt, vier Stunden lang. US-Außenminister Rubio nannte das sehr produktiv, mahnte aber Geduld an. Laut Selenskyj ging es vor allem um humanitäre Fragen. Am Mittwoch geht es weiter.",
+      "headline": "Ukraine und Russland verhandeln zweiten Tag in Abu Dhabi",
+      "text": "Unter US-Vermittlung haben Delegationen aus Moskau und Kiew am Mittwoch den zweiten Tag in Abu Dhabi verhandelt. Laut Selenskyj ging es um einen Tausch von 1000 oder womöglich 1500 Gefangenen je Seite. Russland sprach demnach auch Gebietsfragen an.",
       "quellen": [
         {
-          "name": "PBS NewsHour (AP)",
-          "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi"
+          "name": "AP (Local 10)",
+          "url": "https://www.local10.com/news/world/2026/11/11/russia-and-ukraine-hold-a-second-day-of-us-brokered-talks-in-abu-dhabi/"
+        },
+        {
+          "name": "bne IntelliNews",
+          "url": "https://www.intellinews.com/ukraine-russia-discuss-prisoner-swap-of-up-to-1-500-each-483857/"
+        }
+      ]
+    },
+    {
+      "headline": "Iran will Straße von Hormus vorerst geschlossen halten",
+      "text": "Irans Sicherheitschef Mohsen Rezaei hat Berichte über Verhandlungen mit den USA als Lüge zurückgewiesen. Die Straße von Hormus bleibe zu, bis Washington sieben Bedingungen Teherans erfülle. Laut den Revolutionsgarden gerieten am Dienstag drei Öltanker nach Minentreffern in Brand.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"
         }
       ]
     },
     {
       "headline": "Repräsentantenhaus stoppt Amtsenthebung von Hegseth",
-      "text": "Mit 211 zu 204 Stimmen hat das US-Repräsentantenhaus den Antrag auf Amtsenthebung von Verteidigungsminister Hegseth an einen Ausschuss verwiesen und damit vorerst gestoppt. Einziger Republikaner dagegen war Antragsteller Massie. Trump stellt sich hinter Hegseth.",
+      "text": "Mit 211 zu 204 Stimmen hat das US-Repräsentantenhaus einen Antrag auf Amtsenthebung von Verteidigungsminister Hegseth an einen Ausschuss verwiesen und so vorerst gestoppt. Antragsteller Massie stimmte als einziger Republikaner dagegen. Trump stützt Hegseth.",
       "quellen": [
         {
           "name": "NBC News",
           "url": "https://www.nbcnews.com/politics/congress/republican-led-house-rejects-hegseth-impeachment-effort-rcna608534"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth"
         }
       ]
     },
     {
-      "headline": "USA klagen drei Männer wegen Anschlagsplänen für Iran an",
-      "text": "Die US-Justiz wirft drei Männern vor, für Irans Revolutionsgarden und die irakische Miliz Kataib Hisbollah an knapp 20 Anschlägen und Versuchen in Europa und den USA beteiligt zu sein, darunter an einem Plan gegen die Basis Fairford in England. Iran bestreitet jede Rolle dabei.",
+      "headline": "Generalstreik gegen die Wohnungskrise in Spanien",
+      "text": "In Spanien streiken Arbeiter gegen die Wohnungskrise, erstmals seit 14 Jahren mit Unterstützung der beiden größten Gewerkschaften UGT und CCOO. Diese melden eine frühe Beteiligung von 90 Prozent in Häfen und Autoindustrie. Am 29. November wird in Spanien vorgezogen gewählt.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base"
+          "name": "Reuters",
+          "url": "https://www.nbcnews.com/world/spain/workers-launch-general-strike-spain-severe-housing-crisis-rcna608710"
         },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words"
+        }
+      ]
+    },
+    {
+      "headline": "USA klagen drei Männer wegen Plan gegen Basis Fairford an",
+      "text": "Drei Männer sollen laut US-Justiz für Irans Revolutionsgarden und die irakische Miliz Kataib Hisbollah an fast 20 Anschlägen und Versuchen in Europa und den USA mitgewirkt haben, auch an einem Plan gegen die Basis Fairford in England. Iran bestreitet eine Rolle in Fairford.",
+      "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/c3rryrryk59zo"
-        }
-      ]
-    },
-    {
-      "headline": "Staats- und Regierungschefs beraten auf Klimagipfel COP31",
-      "text": "Bei der UN-Klimakonferenz COP31 im türkischen Antalya empfängt Präsident Erdoğan am 11. und 12. November Staats- und Regierungschefs. Die Konferenz begann mit Streit über Geld für ärmere Länder und dauert bis 20. November. Die US-Regierung hat keine Vertreter geschickt.",
-      "quellen": [
-        {
-          "name": "Hürriyet Daily News",
-          "url": "https://www.hurriyetdailynews.com/cop31-climate-summit-opens-in-turkiye-amid-calls-for-stronger-action-229175"
         },
         {
-          "name": "Khaleej Times",
-          "url": "https://www.khaleejtimes.com/world/cop31-opens-leaders-pressure-tackle-climate-crisis?amp=1"
-        }
-      ]
-    },
-    {
-      "headline": "Kennedy-Familie klagt gegen Trumps Triumphbogen",
-      "text": "Neun Mitglieder der Familie Kennedy klagen gegen einen 76 Meter hohen Bogen, den Trump in der US-Hauptstadt bauen will. Er würde laut Klage die Sicht auf das Grab John F. Kennedys auf dem Friedhof Arlington verstellen. Ein Richter stoppte das Projekt vorige Woche vorläufig.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cw8dvpmzp2p4o"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Aigner besucht Fraktionen, aber nicht AfD und Linke",
-      "text": "Ilse Aigner, Kandidatin für das Amt der Bundespräsidentin, stellte sich im Bundestag bei Union, SPD und Grünen vor, nicht aber bei AfD und Linken. Eine AfD-Einladung schlug sie aus, nachdem Vizefraktionschefin von Storch die Nominierung abgewertet hatte. Gewählt wird im Januar.",
+      "headline": "Studie belegt verbreitete Belästigung in der Bundeswehr",
+      "text": "Laut einer Dunkelfeldstudie haben 72 Prozent der befragten Soldatinnen im Dienst schon verbale sexuelle Belästigung erlebt, bei den Soldaten 31 Prozent. Minister Pistorius fordert null Toleranz und setzt auf 34 Maßnahmen, zentral ist die neue Beratungsstelle HELP.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/aigner-fraktionen-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/bundeswehr-dunkelfeldstudie-sexuelle-belaestigung-boris-pistorius-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Linke will eigene Kandidatin gegen Aigner aufstellen",
+      "text": "Ilse Aigner, die Bundespräsidentin werden soll, hat sich bei Union, SPD und Grünen vorgestellt, nicht aber bei AfD und Linken. Linken-Fraktionschef Pellmann kündigte an, binnen weniger Tage eine eigene Bewerberin zu nennen. Eine AfD-Einladung hatte Aigner ausgeschlagen.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-fraktionen-100.html"
         },
         {
           "name": "ZDFheute",
@@ -81,40 +95,26 @@
       ]
     },
     {
-      "headline": "Lebenslange Haft für Mord an Fabian aus Güstrow",
-      "text": "Das Landgericht Rostock verurteilte die 30-jährige Gina H. für den Mord an dem acht Jahre alten Fabian zu lebenslanger Haft und stellte eine besondere Schuldschwere fest. Sie bestreitet die Tat, rechtskräftig ist das Urteil nicht.",
+      "headline": "Verdächtiger im Fall der toten Schülerin Lisa gestorben",
+      "text": "Der 22-Jährige, der im Fall der 13 Jahre alten Lisa aus Berlin-Marzahn unter Verdacht stand, ist tot, wie die Staatsanwaltschaft bestätigte. Er soll versucht haben, sich beim Eintreffen der Polizei in dem Haus in Bad Freienwalde zu erschießen, in dem Lisas Leiche lag.",
       "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/panorama/kriminalitaet/lebenslange-haft-prozess-mord-fabian-100.html"
-        },
         {
           "name": "Spiegel",
-          "url": "https://www.spiegel.de/panorama/justiz/fall-fabian-rostock-gina-h-zu-lebenslanger-haft-verurteilt-a-04259c80-a4fe-4a3d-8a0d-5df5831fd894"
-        }
-      ]
-    },
-    {
-      "headline": "Klingbeil plant Aus für Steuerklassen III und V",
-      "text": "Finanzminister Klingbeil will die bei Ehepaaren verbreiteten Steuerklassen III und V durch ein automatisiertes Faktorverfahren ersetzen, die gemeinsame Steuerlast bliebe gleich. Laut Ministerium müssten viele Paare dann keine Steuererklärung mehr abgeben. Die Union übt Kritik.",
-      "quellen": [
-        {
-          "name": "Tagesspiegel (dpa)",
-          "url": "https://www.tagesspiegel.de/politik/dpa-steuern-klingbeil-will-steuerklassen-iii-und-v-abschaffen-16269374.html"
+          "url": "https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben-a-69df66f2-c2b2-472b-9679-8a211338be32"
         },
         {
-          "name": "t-online",
-          "url": "https://www.t-online.de/nachrichten/deutschland/id_101522358/klingbeil-will-steuerklassen-iii-und-v-abschaffen.html"
+          "name": "Südostschweiz",
+          "url": "https://www.suedostschweiz.ch/panorama/lisa-13-aus-berlin-marzahn-tot-das-ist-ueber-den-tatverdaechtigen-nun-bekannt-2227418"
         }
       ]
     },
     {
-      "headline": "Schütze von Hamburg soll zuvor zwei Angehörige getötet haben",
-      "text": "Der 68-Jährige, der nahe der Hamburger Elbphilharmonie zwei Menschen angeschossen haben soll, hat nach Annahme der Polizei zuvor in Eningen unter Achalm seine Ehefrau sowie den Schwiegervater getötet. Er wurde tot in einem Hotelzimmer gefunden, die Polizei geht von Suizid aus.",
+      "headline": "Ex-Intendantin Schlesinger steht wegen Untreue vor Gericht",
+      "text": "Vor dem Landgericht Berlin müssen sich Patricia Schlesinger und drei weitere frühere RBB-Führungskräfte unter anderem wegen Untreue verantworten. Laut Anklage entstand dem Sender ein Schaden von über 1,7 Millionen Euro. Die Angeklagten weisen die Vorwürfe über Anwälte zurück.",
       "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/panorama/kriminalitaet/schiesserei-hamburg-elbphilharmonie-100.html"
+          "url": "https://www.zdfheute.de/panorama/kriminalitaet/rbb-skandal-vor-gericht-patricia-schlesinger-100.html"
         }
       ]
     }
