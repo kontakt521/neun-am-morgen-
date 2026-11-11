@@ -1,120 +1,120 @@
 {
-  "datum": "2026-11-10",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-11",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Katar sieht Fortschritte bei Gesprächen zwischen USA und Iran",
-      "text": "Katar sieht Fortschritte in den Verhandlungen zwischen Washington und Teheran, kann aber nicht sagen, wie nah eine Einigung ist. Trump will vorerst auf neue Angriffe verzichten. Iran bietet Gespräche an, falls die USA unter anderem Angriffe und Blockade beenden.",
+      "headline": "Ukraine-Gespräche in Abu Dhabi gehen weiter",
+      "text": "Russland und die Ukraine haben in Abu Dhabi erstmals seit neun Monaten unter US-Vermittlung verhandelt, vier Stunden lang. US-Außenminister Rubio nannte das sehr produktiv, mahnte aber Geduld an. Laut Selenskyj ging es vor allem um humanitäre Fragen. Am Mittwoch geht es weiter.",
       "quellen": [
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/10/qatar-sees-progress-in-us-iran-talks-after-white-house-meeting"
+          "name": "PBS NewsHour (AP)",
+          "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi"
         }
       ]
     },
     {
-      "headline": "Ukraine-Gespräche in Abu Dhabi gehen in den zweiten Tag",
-      "text": "Russland und die Ukraine haben in Abu Dhabi erstmals seit Februar unter US-Vermittlung verhandelt, rund vier Stunden lang. US-Außenminister Rubio nannte das Treffen sehr produktiv. Laut Selenskyj ging es um Gefangene und Sicherheitsgarantien. Am Mittwoch wird weiterverhandelt.",
+      "headline": "Repräsentantenhaus stoppt Amtsenthebung von Hegseth",
+      "text": "Mit 211 zu 204 Stimmen hat das US-Repräsentantenhaus den Antrag auf Amtsenthebung von Verteidigungsminister Hegseth an einen Ausschuss verwiesen und damit vorerst gestoppt. Einziger Republikaner dagegen war Antragsteller Massie. Trump stellt sich hinter Hegseth.",
       "quellen": [
         {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/congress/republican-led-house-rejects-hegseth-impeachment-effort-rcna608534"
         },
         {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukraine-russia-us-resume-trilateral-peace-talks-in-abu-dhabi-after-9-month-pause/"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth"
         }
       ]
     },
     {
-      "headline": "Abstimmung über Amtsenthebung von Hegseth erwartet",
-      "text": "Verteidigungsminister Hegseth nannte den Amtsenthebungsantrag des Republikaners Massie eine Farce und ein politisches Spektakel. Laut Massie soll das Repräsentantenhaus am Dienstagabend Ortszeit abstimmen. Sprecher Johnson erwartet, dass der Antrag scheitert.",
+      "headline": "USA klagen drei Männer wegen Anschlagsplänen für Iran an",
+      "text": "Die US-Justiz wirft drei Männern vor, für Irans Revolutionsgarden und die irakische Miliz Kataib Hisbollah an knapp 20 Anschlägen und Versuchen in Europa und den USA beteiligt zu sein, darunter an einem Plan gegen die Basis Fairford in England. Iran bestreitet jede Rolle dabei.",
       "quellen": [
         {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/hegseth-pentagon-briefing-impeachment-iran-war/"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cwm232mnv11do"
-        }
-      ]
-    },
-    {
-      "headline": "US-Inflation im Oktober höher als erwartet",
-      "text": "Die Verbraucherpreise in den USA sind im Oktober laut Arbeitsministerium um 0,4 Prozent zum Vormonat gestiegen, Ökonomen hatten mit 0,3 Prozent gerechnet. Treiber waren Wohnen, Lebensmittel und Energie. Analysten erwarten nun eine Zinserhöhung der US-Notenbank im Dezember.",
-      "quellen": [
-        {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cwy8lx3pg4k2o"
+          "url": "https://www.bbc.com/news/articles/c3rryrryk59zo"
         }
       ]
     },
     {
-      "headline": "Anthropic strebt Börsenwert von bis zu 1,3 Billionen Dollar an",
-      "text": "Das KI-Unternehmen Anthropic will seine Aktien an der New Yorker Nasdaq für 70 bis 78 Dollar je Stück anbieten und bis zu 64 Milliarden Dollar einnehmen. Das entspräche einem Wert von 1,1 bis 1,3 Billionen Dollar. Der Handel unter dem Kürzel ANT soll am 19. November beginnen.",
+      "headline": "Staats- und Regierungschefs beraten auf Klimagipfel COP31",
+      "text": "Bei der UN-Klimakonferenz COP31 im türkischen Antalya empfängt Präsident Erdoğan am 11. und 12. November Staats- und Regierungschefs. Die Konferenz begann mit Streit über Geld für ärmere Länder und dauert bis 20. November. Die US-Regierung hat keine Vertreter geschickt.",
+      "quellen": [
+        {
+          "name": "Hürriyet Daily News",
+          "url": "https://www.hurriyetdailynews.com/cop31-climate-summit-opens-in-turkiye-amid-calls-for-stronger-action-229175"
+        },
+        {
+          "name": "Khaleej Times",
+          "url": "https://www.khaleejtimes.com/world/cop31-opens-leaders-pressure-tackle-climate-crisis?amp=1"
+        }
+      ]
+    },
+    {
+      "headline": "Kennedy-Familie klagt gegen Trumps Triumphbogen",
+      "text": "Neun Mitglieder der Familie Kennedy klagen gegen einen 76 Meter hohen Bogen, den Trump in der US-Hauptstadt bauen will. Er würde laut Klage die Sicht auf das Grab John F. Kennedys auf dem Friedhof Arlington verstellen. Ein Richter stoppte das Projekt vorige Woche vorläufig.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/crpdgd723x2zo"
+          "url": "https://www.bbc.com/news/articles/cw8dvpmzp2p4o"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Aigner stellt sich bei Union, SPD und Grünen vor",
-      "text": "Ilse Aigner, Unionskandidatin für das höchste Staatsamt, besuchte die Bundestagsfraktionen von CDU/CSU, SPD und Grünen und erhielt bei SPD und Grünen Applaus. Ein Termin bei der AfD ist laut ihrem Stabschef nicht geplant. Die Bundesversammlung wählt am 30. Januar.",
+      "headline": "Aigner besucht Fraktionen, aber nicht AfD und Linke",
+      "text": "Ilse Aigner, Kandidatin für das Amt der Bundespräsidentin, stellte sich im Bundestag bei Union, SPD und Grünen vor, nicht aber bei AfD und Linken. Eine AfD-Einladung schlug sie aus, nachdem Vizefraktionschefin von Storch die Nominierung abgewertet hatte. Gewählt wird im Januar.",
       "quellen": [
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/aigner-will-als-bundespraesidentin-bruecken-bauen-keine-termine-bei-afd-und-linken-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/aigner-fraktionen-100.html"
         },
         {
-          "name": "SRF",
-          "url": "https://www.srf.ch/news/international/hoechstes-amt-in-deutschland-ilse-aigner-soll-bundespraesidentin-werden"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/aigner-bundespraesidentin-linke-afd-100.html"
         }
       ]
     },
     {
-      "headline": "Hamburger Schütze soll auch Frau und Schwiegervater getötet haben",
-      "text": "Nach den Schüssen nahe der Elbphilharmonie mit zwei Schwerverletzten fand die Polizei in der Wohnung des toten 68-jährigen Tatverdächtigen in Eningen unter Achalm zwei Leichen. Laut Polizei sind es seine Ehefrau und sein Schwiegervater, der Hintergrund könnte familiär sein.",
+      "headline": "Lebenslange Haft für Mord an Fabian aus Güstrow",
+      "text": "Das Landgericht Rostock verurteilte die 30-jährige Gina H. für den Mord an dem acht Jahre alten Fabian zu lebenslanger Haft und stellte eine besondere Schuldschwere fest. Sie bestreitet die Tat, rechtskräftig ist das Urteil nicht.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-etlingen-schuesse-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/panorama/kriminalitaet/lebenslange-haft-prozess-mord-fabian-100.html"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/panorama/kriminalitaet/schiesserei-hamburg-elbphilharmonie-100.html"
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/panorama/justiz/fall-fabian-rostock-gina-h-zu-lebenslanger-haft-verurteilt-a-04259c80-a4fe-4a3d-8a0d-5df5831fd894"
         }
       ]
     },
     {
       "headline": "Klingbeil plant Aus für Steuerklassen III und V",
-      "text": "Finanzminister Klingbeil will laut einem Papier seines Ministeriums die von vielen Ehepaaren genutzten Steuerklassen III und V durch ein automatisiertes Faktorverfahren ersetzen. Begründet wird das mit Gerechtigkeit, da oft Frauen höhere Abzüge haben. Aus der Union kommt Kritik.",
+      "text": "Finanzminister Klingbeil will die bei Ehepaaren verbreiteten Steuerklassen III und V durch ein automatisiertes Faktorverfahren ersetzen, die gemeinsame Steuerlast bliebe gleich. Laut Ministerium müssten viele Paare dann keine Steuererklärung mehr abgeben. Die Union übt Kritik.",
       "quellen": [
         {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/lars-klingbeil-plant-abschaffung-von-steuerklassen-iii-und-v-a-4022a7cf-5aac-4d8e-a708-de7811a7c183"
+          "name": "Tagesspiegel (dpa)",
+          "url": "https://www.tagesspiegel.de/politik/dpa-steuern-klingbeil-will-steuerklassen-iii-und-v-abschaffen-16269374.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/klingbeil-will-steuerklassen-iii-und-v-wohl-abschaffen-100.html"
+          "name": "t-online",
+          "url": "https://www.t-online.de/nachrichten/deutschland/id_101522358/klingbeil-will-steuerklassen-iii-und-v-abschaffen.html"
         }
       ]
     },
     {
-      "headline": "Maschinenbauer werfen Bundesregierung Reformstau vor",
-      "text": "Beim Branchentreffen der Maschinenbauer in Berlin zeigte sich VDMA-Präsident Kawlath fassungslos über den Streit in der Regierung, der Reformen blockiere. Wirtschaftsministerin Reiche plädierte für ein geändertes Arbeitsrecht und nannte den Kündigungsschutz zu starr.",
+      "headline": "Schütze von Hamburg soll zuvor zwei Angehörige getötet haben",
+      "text": "Der 68-Jährige, der nahe der Hamburger Elbphilharmonie zwei Menschen angeschossen haben soll, hat nach Annahme der Polizei zuvor in Eningen unter Achalm seine Ehefrau sowie den Schwiegervater getötet. Er wurde tot in einem Hotelzimmer gefunden, die Polizei geht von Suizid aus.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/panorama/kriminalitaet/schiesserei-hamburg-elbphilharmonie-100.html"
         }
       ]
     }
