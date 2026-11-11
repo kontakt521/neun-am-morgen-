@@ -1,52 +1,56 @@
 {
   "datum": "2026-11-11",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Ukraine und Russland verhandeln zweiten Tag in Abu Dhabi",
-      "text": "Unter US-Vermittlung haben Delegationen aus Moskau und Kiew am Mittwoch den zweiten Tag in Abu Dhabi verhandelt. Laut Selenskyj ging es um einen Tausch von 1000 oder womöglich 1500 Gefangenen je Seite. Russland sprach demnach auch Gebietsfragen an.",
+      "headline": "Russland und Ukraine vereinbaren großen Gefangenenaustausch",
+      "text": "Nach zwei Tagen US-vermittelter Gespräche in Abu Dhabi haben Moskau und Kiew einen großen Gefangenenaustausch vereinbart. Die Zahl soll laut US-Gesandtem Kushner am Donnerstag feststehen. Ein Durchbruch zum Kriegsende blieb aus. Er und Witkoff wollen Putin in Moskau treffen.",
       "quellen": [
         {
-          "name": "AP (Local 10)",
-          "url": "https://www.local10.com/news/world/2026/11/11/russia-and-ukraine-hold-a-second-day-of-us-brokered-talks-in-abu-dhabi/"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
         },
         {
-          "name": "bne IntelliNews",
-          "url": "https://www.intellinews.com/ukraine-russia-discuss-prisoner-swap-of-up-to-1-500-each-483857/"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks"
         }
       ]
     },
     {
       "headline": "Iran will Straße von Hormus vorerst geschlossen halten",
-      "text": "Irans Sicherheitschef Mohsen Rezaei hat Berichte über Verhandlungen mit den USA als Lüge zurückgewiesen. Die Straße von Hormus bleibe zu, bis Washington sieben Bedingungen Teherans erfülle. Laut den Revolutionsgarden gerieten am Dienstag drei Öltanker nach Minentreffern in Brand.",
+      "text": "Irans Sicherheitschef Rezaei bestreitet laufende Gespräche mit den USA. Die Straße von Hormus bleibe zu, bis Washington sieben Bedingungen Teherans erfülle, darunter ein Ende der Seeblockade und der Sanktionen. US-Außenminister Rubio hält große Kampfeinsätze derzeit für unnötig.",
       "quellen": [
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"
+        },
+        {
+          "name": "Middle East Monitor",
+          "url": "https://www.middleeastmonitor.com/20261111-rezaei-strait-of-hormuz-will-remain-closed-until-irans-seven-conditions-are-met/"
+        }
+      ]
+    },
+    {
+      "headline": "Millionen Spanier im ersten Generalstreik seit 2012",
+      "text": "Laut Gewerkschaften haben sich vier Millionen Arbeitnehmer am spanischen Generalstreik gegen die Wohnungskrise beteiligt. In Häfen und Autoindustrie lag die Beteiligung demnach bei 90 Prozent. Die Polizei meldete bis Mittag 40 Festnahmen. Am 29. November wird vorgezogen gewählt.",
+      "quellen": [
+        {
+          "name": "Reuters",
+          "url": "https://www.aol.com/articles/workers-across-spain-stage-first-081654000.html"
+        },
+        {
+          "name": "AP (ABC News)",
+          "url": "https://abcnews.com/Business/wireStory/spains-general-strike-14-years-brings-clashing-social-138035789"
         }
       ]
     },
     {
       "headline": "Repräsentantenhaus stoppt Amtsenthebung von Hegseth",
-      "text": "Mit 211 zu 204 Stimmen hat das US-Repräsentantenhaus einen Antrag auf Amtsenthebung von Verteidigungsminister Hegseth an einen Ausschuss verwiesen und so vorerst gestoppt. Antragsteller Massie stimmte als einziger Republikaner dagegen. Trump stützt Hegseth.",
+      "text": "Mit 211 zu 204 Stimmen hat das US-Repräsentantenhaus einen Amtsenthebungsantrag gegen Pentagonchef Hegseth an einen Ausschuss verwiesen und so gestoppt. Es ging um den Iran-Krieg und andere Einsätze. Antragsteller Massie stimmte als einziger Republikaner mit den Demokraten.",
       "quellen": [
         {
           "name": "NBC News",
           "url": "https://www.nbcnews.com/politics/congress/republican-led-house-rejects-hegseth-impeachment-effort-rcna608534"
-        }
-      ]
-    },
-    {
-      "headline": "Generalstreik gegen die Wohnungskrise in Spanien",
-      "text": "In Spanien streiken Arbeiter gegen die Wohnungskrise, erstmals seit 14 Jahren mit Unterstützung der beiden größten Gewerkschaften UGT und CCOO. Diese melden eine frühe Beteiligung von 90 Prozent in Häfen und Autoindustrie. Am 29. November wird in Spanien vorgezogen gewählt.",
-      "quellen": [
-        {
-          "name": "Reuters",
-          "url": "https://www.nbcnews.com/world/spain/workers-launch-general-strike-spain-severe-housing-crisis-rcna608710"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words"
         }
       ]
     },
@@ -67,16 +71,40 @@
   ],
   "national": [
     {
-      "headline": "Studie belegt verbreitete Belästigung in der Bundeswehr",
-      "text": "Laut einer Dunkelfeldstudie haben 72 Prozent der befragten Soldatinnen im Dienst schon verbale sexuelle Belästigung erlebt, bei den Soldaten 31 Prozent. Minister Pistorius fordert null Toleranz und setzt auf 34 Maßnahmen, zentral ist die neue Beratungsstelle HELP.",
+      "headline": "Wirtschaftsweise erwarten mehr Wachstum und fordern Sparkurs",
+      "text": "Die Wirtschaftsweisen rechnen für 2026 mit 1,3 Prozent Wachstum und für 2027 mit 1,0 Prozent, vor allem dank starker Exporte und Staatsausgaben. Wegen der Lage der Staatsfinanzen verlangen sie zugleich deutliche Einschnitte, etwa die Abschaffung der Rente mit 63.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html"
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html"
         },
         {
           "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/wirtschaft/wirtschaftsweise-jahresgutachten-sachverstaendigenrat-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Schüsse nahe der Elbphilharmonie, mutmaßlicher Täter tot",
+      "text": "In der Hamburger Hafencity wurden laut Polizei ein Mann (40) und eine Frau (39) durch Schüsse schwer verletzt. Der mutmaßliche Schütze, ein 68-Jähriger aus Eningen unter Achalm, lag tot im Hotel der Elbphilharmonie. In seiner Wohnung fand die Polizei zwei Leichen.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-eningen-schuesse-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Studie belegt verbreitete Belästigung in der Bundeswehr",
+      "text": "Laut einer Dunkelfeldstudie wurden 72 Prozent der Soldatinnen im Dienst mindestens einmal verbal sexuell belästigt, bei Soldaten 31 Prozent. Die tatsächlichen Fälle übersteigen die Meldungen drei- bis sechsfach. Minister Pistorius setzt auf einen Aktionsplan mit 34 Maßnahmen.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
           "url": "https://www.zdfheute.de/politik/deutschland/bundeswehr-dunkelfeldstudie-sexuelle-belaestigung-boris-pistorius-100.html"
+        },
+        {
+          "name": "ORF",
+          "url": "https://orf.at/stories/3447909/"
         }
       ]
     },
@@ -85,36 +113,12 @@
       "text": "Ilse Aigner, die Bundespräsidentin werden soll, hat sich bei Union, SPD und Grünen vorgestellt, nicht aber bei AfD und Linken. Linken-Fraktionschef Pellmann kündigte an, binnen weniger Tage eine eigene Bewerberin zu nennen. Eine AfD-Einladung hatte Aigner ausgeschlagen.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-fraktionen-100.html"
-        },
-        {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/politik/deutschland/aigner-bundespraesidentin-linke-afd-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Verdächtiger im Fall der toten Schülerin Lisa gestorben",
-      "text": "Der 22-Jährige, der im Fall der 13 Jahre alten Lisa aus Berlin-Marzahn unter Verdacht stand, ist tot, wie die Staatsanwaltschaft bestätigte. Er soll versucht haben, sich beim Eintreffen der Polizei in dem Haus in Bad Freienwalde zu erschießen, in dem Lisas Leiche lag.",
-      "quellen": [
-        {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/panorama/justiz/berlin-marzahn-mutmasslicher-taeter-im-fall-lisa-t-an-verletzungen-gestorben-a-69df66f2-c2b2-472b-9679-8a211338be32"
         },
         {
-          "name": "Südostschweiz",
-          "url": "https://www.suedostschweiz.ch/panorama/lisa-13-aus-berlin-marzahn-tot-das-ist-ueber-den-tatverdaechtigen-nun-bekannt-2227418"
-        }
-      ]
-    },
-    {
-      "headline": "Ex-Intendantin Schlesinger steht wegen Untreue vor Gericht",
-      "text": "Vor dem Landgericht Berlin müssen sich Patricia Schlesinger und drei weitere frühere RBB-Führungskräfte unter anderem wegen Untreue verantworten. Laut Anklage entstand dem Sender ein Schaden von über 1,7 Millionen Euro. Die Angeklagten weisen die Vorwürfe über Anwälte zurück.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/panorama/kriminalitaet/rbb-skandal-vor-gericht-patricia-schlesinger-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-fraktionen-100.html"
         }
       ]
     }
