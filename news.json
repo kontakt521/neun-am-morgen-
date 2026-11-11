@@ -1,18 +1,18 @@
 {
   "datum": "2026-11-11",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
       "headline": "Russland und Ukraine vereinbaren großen Gefangenenaustausch",
-      "text": "Nach zwei Tagen US-vermittelter Gespräche in Abu Dhabi haben Moskau und Kiew einen großen Gefangenenaustausch vereinbart. Die Zahl soll laut US-Gesandtem Kushner am Donnerstag feststehen. Ein Durchbruch zum Kriegsende blieb aus. Er und Witkoff wollen Putin in Moskau treffen.",
+      "text": "Die US-vermittelten Gespräche in Abu Dhabi endeten ohne Durchbruch, Moskau und Kiew bestätigten aber einen großen Gefangenenaustausch. Am schwierigsten bleibt laut Kushner die Gebietsfrage. Er und Witkoff wollen am Donnerstag Putin in Moskau und dann Selenskyj in Dublin treffen.",
       "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/ck792we7zrz4o"
+        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
-        },
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks"
         }
       ]
     },
@@ -31,40 +31,40 @@
       ]
     },
     {
-      "headline": "Millionen Spanier im ersten Generalstreik seit 2012",
-      "text": "Laut Gewerkschaften haben sich vier Millionen Arbeitnehmer am spanischen Generalstreik gegen die Wohnungskrise beteiligt. In Häfen und Autoindustrie lag die Beteiligung demnach bei 90 Prozent. Die Polizei meldete bis Mittag 40 Festnahmen. Am 29. November wird vorgezogen gewählt.",
+      "headline": "Zusammenstöße in Barcelona bei Generalstreik in Spanien",
+      "text": "Beim ersten Generalstreik in Spanien seit 14 Jahren demonstrierten laut BBC rund 120.000 Menschen in Madrid und über 50.000 in Barcelona. Dort kam es zu Zusammenstößen zwischen Gruppen von Demonstranten und der Polizei, die Tränengas einsetzte. Anlass sind hohe Wohnkosten.",
       "quellen": [
         {
-          "name": "Reuters",
-          "url": "https://www.aol.com/articles/workers-across-spain-stage-first-081654000.html"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cwvg25nypmrvo"
         },
         {
-          "name": "AP (ABC News)",
-          "url": "https://abcnews.com/Business/wireStory/spains-general-strike-14-years-brings-clashing-social-138035789"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike"
         }
       ]
     },
     {
-      "headline": "Repräsentantenhaus stoppt Amtsenthebung von Hegseth",
-      "text": "Mit 211 zu 204 Stimmen hat das US-Repräsentantenhaus einen Amtsenthebungsantrag gegen Pentagonchef Hegseth an einen Ausschuss verwiesen und so gestoppt. Es ging um den Iran-Krieg und andere Einsätze. Antragsteller Massie stimmte als einziger Republikaner mit den Demokraten.",
+      "headline": "Russlands Botschafter in den USA plötzlich gestorben",
+      "text": "Alexander Darchiev, Russlands Botschafter in Washington, ist laut dem russischen Außenministerium am Mittwoch im Alter von 66 Jahren plötzlich gestorben. Zur Ursache machte Moskau keine Angaben. Der Fachmann für die Beziehungen zu den USA war seit anderthalb Jahren im Amt.",
       "quellen": [
         {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/politics/congress/republican-led-house-rejects-hegseth-impeachment-effort-rcna608534"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66"
         }
       ]
     },
     {
       "headline": "USA klagen drei Männer wegen Plan gegen Basis Fairford an",
-      "text": "Drei Männer sollen laut US-Justiz für Irans Revolutionsgarden und die irakische Miliz Kataib Hisbollah an fast 20 Anschlägen und Versuchen in Europa und den USA mitgewirkt haben, auch an einem Plan gegen die Basis Fairford in England. Iran bestreitet eine Rolle in Fairford.",
+      "text": "Drei Männer sollen laut US-Justiz für Irans Revolutionsgarden und die irakische Miliz Kataib Hisbollah an fast 20 Anschlägen und Anschlagsversuchen in Europa und den USA beteiligt gewesen sein, darunter ein Plan gegen die Basis Fairford in Großbritannien. Iran bestreitet das.",
       "quellen": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy"
+        },
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/c3rryrryk59zo"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base"
         }
       ]
     }
@@ -85,18 +85,22 @@
       ]
     },
     {
-      "headline": "Schüsse nahe der Elbphilharmonie, mutmaßlicher Täter tot",
-      "text": "In der Hamburger Hafencity wurden laut Polizei ein Mann (40) und eine Frau (39) durch Schüsse schwer verletzt. Der mutmaßliche Schütze, ein 68-Jähriger aus Eningen unter Achalm, lag tot im Hotel der Elbphilharmonie. In seiner Wohnung fand die Polizei zwei Leichen.",
+      "headline": "Haushaltskompromiss ohne Stromsteuersenkung für alle",
+      "text": "Union und SPD haben sich laut Spiegel auf einen Kompromiss für den Haushalt 2027 geeinigt, eine allgemeine Senkung der Stromsteuer ist nicht dabei. Kanzler Merz ist damit vorerst gescheitert. Die Zuckersteuer soll erst 2028 kommen, eine Plastiksteuer vorerst gar nicht.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-eningen-schuesse-100.html"
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/deutschland/haushalt-2027-bundesregierung-senkt-stromsteuer-fuer-privathaushalte-nicht-a-b0f3c1e9-80e2-444f-b5ac-84fb332bf304"
+        },
+        {
+          "name": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/haushaltsberatungen-zucker-und-plastiksteuer-vom-tisch-senkung-der-stromsteuer-auch-10588456"
         }
       ]
     },
     {
       "headline": "Studie belegt verbreitete Belästigung in der Bundeswehr",
-      "text": "Laut einer Dunkelfeldstudie wurden 72 Prozent der Soldatinnen im Dienst mindestens einmal verbal sexuell belästigt, bei Soldaten 31 Prozent. Die tatsächlichen Fälle übersteigen die Meldungen drei- bis sechsfach. Minister Pistorius setzt auf einen Aktionsplan mit 34 Maßnahmen.",
+      "text": "Laut einer Dunkelfeldstudie erlebten 72 Prozent der Soldatinnen in ihrer Dienstzeit mindestens einmal verbale Belästigung, unter Soldaten waren es 31 Prozent. Die tatsächlichen Fälle übersteigen die Meldungen drei- bis sechsfach. Pistorius kündigte 34 Gegenmaßnahmen an.",
       "quellen": [
         {
           "name": "ZDFheute",
@@ -109,16 +113,12 @@
       ]
     },
     {
-      "headline": "Linke will eigene Kandidatin gegen Aigner aufstellen",
-      "text": "Ilse Aigner, die Bundespräsidentin werden soll, hat sich bei Union, SPD und Grünen vorgestellt, nicht aber bei AfD und Linken. Linken-Fraktionschef Pellmann kündigte an, binnen weniger Tage eine eigene Bewerberin zu nennen. Eine AfD-Einladung hatte Aigner ausgeschlagen.",
+      "headline": "Hamburger Schütze stand wegen Betrugs vor Gericht",
+      "text": "Gegen den 68-Jährigen, der in Hamburg zwei Menschen durch Schüsse schwer verletzt haben soll, lief ein Berufungsverfahren wegen Betrugs. Zuvor soll er in Eningen Frau und Schwiegervater getötet haben. Laut Medien nannte er im Abschiedsbrief auch seine geringe Rente als Motiv.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/aigner-bundespraesidentin-linke-afd-100.html"
-        },
-        {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-fraktionen-100.html"
+          "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/schuesse-hamburg-details-100.html"
         }
       ]
     }
