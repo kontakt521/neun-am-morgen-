@@ -1,42 +1,42 @@
 {
   "datum": "2026-11-12",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Nvidia-Aktie bricht wegen Berichten über Huangs Ablösung ein",
-      "text": "Die Nvidia-Aktie fiel nachbörslich um mehr als 8 Prozent. Laut Wall Street Journal bereitet der Verwaltungsrat die Ablösung von Chef Huang vor. Es geht um Vorwürfe einer Beziehung im Unternehmen und eine Affäre mit einer Frau, die für Chinas Geheimdienst gearbeitet haben soll.",
+      "headline": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
+      "text": "Jensen Huang ist als Nvidia-Chef zurückgetreten. Zuvor war über Affären mit einer mutmaßlichen chinesischen Spionin und einer Managerin des Konzerns berichtet worden. Finanzchefin Colette Kress führt Nvidia vorerst. Der Börsenwert fiel erstmals seit 2025 unter 4 Billionen Dollar.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future"
-        },
-        {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/"
-        }
-      ]
-    },
-    {
-      "headline": "US-Gesandte treffen Putin in Moskau",
-      "text": "Die US-Unterhändler Witkoff und Kushner sind zu Gesprächen mit Putin in Moskau eingetroffen, danach wollen sie Selenskyj in Dublin treffen. Kushner will erreichen, dass Europäer künftig mitverhandeln. Russland und die Ukraine vereinbarten im Grundsatz einen Gefangenenaustausch.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cwrkgmymk55zo"
+          "url": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo"
         },
         {
           "name": "NPR",
-          "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks"
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down"
         }
       ]
     },
     {
-      "headline": "Israel bereitet sich laut Medien auf Angriff auf Iran vor",
-      "text": "Israels Sicherheitskabinett wies laut Medien die Armee an, einen Angriff auf Iran stärker vorzubereiten. Irans Sicherheitschef Rezaei drohte, bei einem neuen US-Krieg sei jede beteiligte Basis bis nach Europa ein Ziel. Oppositionsführer Eisenkot mahnte Netanjahu zur Vorsicht.",
+      "headline": "US-Gesandte treffen Putin nach Ukraine-Gesprächen",
+      "text": "Die US-Gesandten Witkoff und Kushner trafen Putin im Kreml. Zuvor hatten Russland und die Ukraine in Abu Dhabi verhandelt und nur einen Gefangenenaustausch vereinbart. Putin lehnte europäische Truppen in der Ukraine ab. Nun ist ein Treffen mit Selenskyj in Dublin geplant.",
+      "quellen": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cwrkgmymk55zo"
+        }
+      ]
+    },
+    {
+      "headline": "Iran droht bei neuem US-Angriff mit härterer Antwort",
+      "text": "Ein Sprecher der iranischen Streitkräfte drohte, einen neuen US-Angriff zehnmal härter zu beantworten. Israels Armee soll laut Al Jazeera einen möglichen Angriff auf Iran stärker vorbereiten. Eisenkot, der eine Regierung bilden soll, mahnte Premier Netanjahu zur Vorsicht.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza"
         },
         {
           "name": "Jerusalem Post",
@@ -45,62 +45,62 @@
       ]
     },
     {
-      "headline": "Israelischer Angriff auf Klinik in Gaza tötet sechs Menschen",
-      "text": "Bei einem israelischen Luftangriff auf das Nasser-Krankenhaus im Süden Gazas wurden laut dem Hamas-geführten Gesundheitsministerium mindestens sechs Menschen getötet, darunter ein Chirurg. Israels Armee erklärte, ihr Ziel sei ein Kommandeur des bewaffneten Hamas-Flügels gewesen.",
+      "headline": "Acht Tote bei Hauseinsturz in New York",
+      "text": "Beim Einsturz eines dreistöckigen Gebäudes im New Yorker Stadtteil Brooklyn sind laut Feuerwehr mindestens acht Menschen gestorben und 17 verletzt worden. Das Haus stürzte in eine benachbarte Baugrube. Die Staatsanwaltschaft prüft, ob Straftaten zum Einsturz beitrugen.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/ckzd9p7e4eqeo"
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/newyork/news/building-collapse-nyc-brooklyn-flatbush-rescue-operation/"
         }
       ]
     },
     {
-      "headline": "Demokrat Colom gewinnt Senatswahl in Mississippi",
-      "text": "Scott Colom gewann die Senatswahl in Mississippi mit 49,2 zu 48,7 Prozent gegen Amtsinhaberin Cindy Hyde-Smith. Er ist der erste Schwarze, den der Staat seit 1874 in den Senat wählt, und der erste Demokrat dort seit 1982. Die Demokraten stellen künftig laut BBC 55 Senatoren.",
+      "headline": "Israelischer Angriff auf Klinik in Gaza tötet sechs Menschen",
+      "text": "Bei einem israelischen Luftangriff auf das Nasser-Krankenhaus in Gaza wurden laut dem Hamas-geführten Gesundheitsministerium sechs Menschen getötet, darunter ein Chirurg. Israels Armee nannte als Ziel einen Hamas-Kommandeur, der die Klinik als Hauptquartier genutzt habe.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cw7vppyr80eeo"
+          "url": "https://www.bbc.com/news/articles/ckzd9p7e4eqeo"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Koalition verzichtet vorerst auf Stromsteuersenkung für alle",
-      "text": "Vor der Bereinigungssitzung zum Etat 2027 fanden Union und SPD Kompromisse. Die Stromsteuer sinkt vorerst nicht für alle, weil die Gegenfinanzierung fehlt. Die Zuckersteuer kommt erst 2028, die Plastiksteuer vorerst nicht. Wohngeld wird nicht gekürzt, aber 2027 nicht erhöht.",
-      "quellen": [
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/koalition-findet-etat-kompromisse-stromsteuer-fuer-privathaushalte-wird-vorerst-nicht-gesenkt-100.html"
-        },
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/haushalt-zuckersteuer-plastiksteuer-stromsteuer-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Pistorius will Belästigung in der Truppe härter bekämpfen",
-      "text": "Laut einer Dunkelfeldstudie der Bundeswehr wurden im Dienst 75 Prozent der Soldatinnen mindestens einmal sexuell belästigt, bei Soldaten 35 Prozent. Minister Pistorius kündigte 34 Gegenmaßnahmen an. Vorgesetzte sollen auch nach ihrem Umgang mit Fällen beurteilt werden.",
+      "headline": "Stromsteuer sinkt vorerst nicht für alle",
+      "text": "Union und SPD einigten sich vor der Bereinigungssitzung zum Etat 2027 auf Kompromisse. Für eine Senkung der Stromsteuer fehlt laut Unionsfraktionschef Frei die Gegenfinanzierung von fünf Milliarden Euro. Eine Plastiksteuer gibt es 2027 nicht, die Zuckersteuer folgt erst 2028.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-union-spd-102.html"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/pistorius-bundeswehr-sexuelle-belaestigung-studie-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/stromsteuer-fuer-privathaushalte-wird-vorerst-nicht-gesenkt-mieterbund-warnt-vor-belastung-aermerer--100.html"
         }
       ]
     },
     {
-      "headline": "IG Metall macht Weg für ganztägige Warnstreiks frei",
-      "text": "Im Tarifkonflikt der Metall- und Elektrobranche gab die IG Metall erstmals seit 2018 ganztägige Warnstreiks frei. Sie fordert 5 Prozent mehr Geld für rund 3,7 Millionen Arbeitnehmer. Die Arbeitgeber bieten 1,3 Prozent und eine Einmalzahlung und kritisieren die Streiks scharf.",
+      "headline": "Pistorius kündigt Maßnahmen gegen Belästigung in Truppe an",
+      "text": "Laut einer Dunkelfeldstudie der Bundeswehr wurden 75 Prozent aller Soldatinnen im Dienst schon einmal sexuell belästigt, bei Soldaten 35 Prozent. Minister Pistorius kündigte 34 Maßnahmen an. Vorgesetzte sollen auch nach ihrem Umgang mit Fällen beurteilt werden.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/pistorius-bundeswehr-sexuelle-belaestigung-studie-100.html"
+        },
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html"
+        }
+      ]
+    },
+    {
+      "headline": "IG Metall gibt ganztägige Warnstreiks frei",
+      "text": "Die IG Metall hat im Tarifkonflikt der Metallbranche erstmals seit 2018 ganztägige Warnstreiks beschlossen. Sie fordert 5 Prozent mehr Geld für etwa 3,7 Millionen Arbeitnehmer. Die Arbeitgeber bieten 1,3 Prozent und eine Einmalzahlung und nennen die Streiks unverhältnismäßig.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -113,12 +113,12 @@
       ]
     },
     {
-      "headline": "Bundesregierung will nationale Gasreserve für Krisen anlegen",
-      "text": "Das Kabinett billigte einen Gesetzentwurf von Wirtschaftsministerin Reiche für eine Gasreserve. Sie soll nur in Notlagen wie Sabotage dienen, nicht gegen hohe Preise. Zahlen sollen die Gaskunden über eine Umlage, für typische Haushalte laut Entwurf 3,77 bis 9,40 Euro im Jahr.",
+      "headline": "Bundesbank schließt neue Finanzkrise nicht aus",
+      "text": "Bundesbankvorstand Theurer sieht erhöhte Risiken und schließt eine neue Finanzkrise nicht aus. Im Mittelpunkt des Finanzstabilitätsberichts stehen hohe Staatsschulden, hoch bewertete KI-Aktien und Cyberangriffe. Es gibt so viele Insolvenzen wie seit 2014 nicht mehr.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gasreserve-126.html"
+          "name": "FAZ",
+          "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/bundesbank-warnt-michael-theurer-schliesst-neue-finanzkrise-nicht-aus-201676901.html"
         }
       ]
     }
