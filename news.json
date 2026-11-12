@@ -1,15 +1,11 @@
 {
   "datum": "2026-11-12",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
-      "headline": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-      "text": "Jensen Huang ist als Nvidia-Chef zurückgetreten. Zuvor war über Affären mit einer mutmaßlichen chinesischen Spionin und einer Managerin des Konzerns berichtet worden. Finanzchefin Colette Kress führt Nvidia vorerst. Der Börsenwert fiel erstmals seit 2025 unter 4 Billionen Dollar.",
+      "headline": "Nvidia-Chef Huang tritt nach Affären-Skandal zurück",
+      "text": "Jensen Huang tritt als Nvidia-Chef zurück, teilte der Verwaltungsrat mit. Laut New York Times hatte er Affären mit einer Managerin und einer Kundin, die nach Einschätzung von US-Geheimdiensten von China angeworben wurde. Finanzchefin Colette Kress führt Nvidia übergangsweise.",
       "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo"
-        },
         {
           "name": "NPR",
           "url": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down"
@@ -17,12 +13,12 @@
       ]
     },
     {
-      "headline": "US-Gesandte treffen Putin nach Ukraine-Gesprächen",
-      "text": "Die US-Gesandten Witkoff und Kushner trafen Putin im Kreml. Zuvor hatten Russland und die Ukraine in Abu Dhabi verhandelt und nur einen Gefangenenaustausch vereinbart. Putin lehnte europäische Truppen in der Ukraine ab. Nun ist ein Treffen mit Selenskyj in Dublin geplant.",
+      "headline": "Putin beharrt bei US-Gesandten auf Gebietsforderungen",
+      "text": "Putin hat beim Treffen mit den US-Gesandten Witkoff und Kushner in Moskau die Staatsgrenze als einzige Trennlinie verlangt und ausländische Truppen in der Ukraine abgelehnt. Laut Witkoff sollen Europäer an der nächsten Runde teilnehmen. Am Freitag treffen sie Selenskyj in Dublin.",
       "quellen": [
         {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin"
         },
         {
           "name": "BBC",
@@ -31,12 +27,12 @@
       ]
     },
     {
-      "headline": "Iran droht bei neuem US-Angriff mit härterer Antwort",
-      "text": "Ein Sprecher der iranischen Streitkräfte drohte, einen neuen US-Angriff zehnmal härter zu beantworten. Israels Armee soll laut Al Jazeera einen möglichen Angriff auf Iran stärker vorbereiten. Eisenkot, der eine Regierung bilden soll, mahnte Premier Netanjahu zur Vorsicht.",
+      "headline": "Israel bereitet laut Medien Angriff auf Iran vor",
+      "text": "Israels Sicherheitskabinett hat die Armee laut israelischen Medien angewiesen, einen möglichen Angriff auf Iran intensiver vorzubereiten. Irans Sicherheitschef Rezaei drohte, bei einem neuen US-Angriff jede beteiligte Militärbasis bis nach Europa zum legitimen Ziel zu erklären.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza"
+          "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack"
         },
         {
           "name": "Jerusalem Post",
@@ -45,9 +41,13 @@
       ]
     },
     {
-      "headline": "Acht Tote bei Hauseinsturz in New York",
-      "text": "Beim Einsturz eines dreistöckigen Gebäudes im New Yorker Stadtteil Brooklyn sind laut Feuerwehr mindestens acht Menschen gestorben und 17 verletzt worden. Das Haus stürzte in eine benachbarte Baugrube. Die Staatsanwaltschaft prüft, ob Straftaten zum Einsturz beitrugen.",
+      "headline": "Acht Tote nach Hauseinsturz in New York",
+      "text": "Beim Einsturz eines dreistöckigen Wohn- und Geschäftshauses im New Yorker Stadtteil Brooklyn sind acht Menschen gestorben, darunter zwei Kinder und zwei Bauarbeiter. 18 wurden verletzt. Das Haus fiel in eine benachbarte Baugrube. Die Staatsanwaltschaft prüft mögliche Straftaten.",
       "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cm20v66jq611o"
+        },
         {
           "name": "CBS News",
           "url": "https://www.cbsnews.com/newyork/news/building-collapse-nyc-brooklyn-flatbush-rescue-operation/"
@@ -56,51 +56,57 @@
     },
     {
       "headline": "Israelischer Angriff auf Klinik in Gaza tötet sechs Menschen",
-      "text": "Bei einem israelischen Luftangriff auf das Nasser-Krankenhaus in Gaza wurden laut dem Hamas-geführten Gesundheitsministerium sechs Menschen getötet, darunter ein Chirurg. Israels Armee nannte als Ziel einen Hamas-Kommandeur, der die Klinik als Hauptquartier genutzt habe.",
+      "text": "Bei einem israelischen Luftangriff auf das Nasser-Krankenhaus in Chan Junis wurden laut dem Hamas-geführten Gesundheitsministerium sechs Menschen getötet, darunter ein Chirurg. Israels Armee nannte als Ziel einen Hamas-Kommandeur, der die Klinik als Hauptquartier genutzt habe.",
       "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/ckzd9p7e4eqeo"
-        },
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Stromsteuer sinkt vorerst nicht für alle",
-      "text": "Union und SPD einigten sich vor der Bereinigungssitzung zum Etat 2027 auf Kompromisse. Für eine Senkung der Stromsteuer fehlt laut Unionsfraktionschef Frei die Gegenfinanzierung von fünf Milliarden Euro. Eine Plastiksteuer gibt es 2027 nicht, die Zuckersteuer folgt erst 2028.",
+      "headline": "Streit um Stromsteuer belastet Koalition",
+      "text": "Nach dem Haushaltskompromiss der Koalition verlangen die Regierungschefs von Hessen und Rheinland-Pfalz weiter eine niedrigere Stromsteuer für alle. SPD-Fraktionschef Miersch hält sie für nicht finanzierbar. Unionspolitiker verweisen auf den Koalitionsausschuss kommende Woche.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-union-spd-102.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/haushalt-zuckersteuer-plastiksteuer-stromsteuer-100.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/stromsteuer-fuer-privathaushalte-wird-vorerst-nicht-gesenkt-mieterbund-warnt-vor-belastung-aermerer--100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-kompromisse-stromsteuer-reaktionen-100.html"
         }
       ]
     },
     {
-      "headline": "Pistorius kündigt Maßnahmen gegen Belästigung in Truppe an",
-      "text": "Laut einer Dunkelfeldstudie der Bundeswehr wurden 75 Prozent aller Soldatinnen im Dienst schon einmal sexuell belästigt, bei Soldaten 35 Prozent. Minister Pistorius kündigte 34 Maßnahmen an. Vorgesetzte sollen auch nach ihrem Umgang mit Fällen beurteilt werden.",
+      "headline": "Mercedes legt Investitionen in Deutschland auf Eis",
+      "text": "Mercedes-Benz stoppt sämtliche neuen Investitionen in seine deutschen Werke und prüft Werksschließungen. Grund sind festgefahrene Verhandlungen mit den Arbeitnehmervertretern über Kostensenkungen. Der Vorstand fordert unter anderem längere Arbeitszeiten ohne Lohnausgleich.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html"
+        },
+        {
+          "name": "n-tv",
+          "url": "https://www.n-tv.de/wirtschaft/Mercedes-stoppt-alle-weiteren-Investitionen-in-die-deutschen-Standorte-id31527789.html"
+        }
+      ]
+    },
+    {
+      "headline": "Pistorius will Vorgesetzte stärker in die Pflicht nehmen",
+      "text": "Drei Viertel der Soldatinnen wurden laut einer Dunkelfeldstudie der Bundeswehr im Dienst schon sexuell belästigt, bei Soldaten sind es 35 Prozent. Minister Pistorius will mehr Prävention. Vorgesetzte sollen künftig auch nach ihrem Umgang mit solchen Fällen beurteilt werden.",
       "quellen": [
         {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/politik/deutschland/pistorius-bundeswehr-sexuelle-belaestigung-studie-100.html"
-        },
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html"
         }
       ]
     },
     {
       "headline": "IG Metall gibt ganztägige Warnstreiks frei",
-      "text": "Die IG Metall hat im Tarifkonflikt der Metallbranche erstmals seit 2018 ganztägige Warnstreiks beschlossen. Sie fordert 5 Prozent mehr Geld für etwa 3,7 Millionen Arbeitnehmer. Die Arbeitgeber bieten 1,3 Prozent und eine Einmalzahlung und nennen die Streiks unverhältnismäßig.",
+      "text": "Im Metall-Tarifkonflikt hat die IG Metall erstmals seit 2018 ganztägige Warnstreiks beschlossen. Sie fordert 5 Prozent mehr Geld für etwa 3,7 Millionen Arbeitnehmer. Die Arbeitgeber bieten 1,3 Prozent und eine widerrufbare Einmalzahlung.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -109,16 +115,6 @@
         {
           "name": "ORF",
           "url": "https://orf.at/stories/3447981/"
-        }
-      ]
-    },
-    {
-      "headline": "Bundesbank schließt neue Finanzkrise nicht aus",
-      "text": "Bundesbankvorstand Theurer sieht erhöhte Risiken und schließt eine neue Finanzkrise nicht aus. Im Mittelpunkt des Finanzstabilitätsberichts stehen hohe Staatsschulden, hoch bewertete KI-Aktien und Cyberangriffe. Es gibt so viele Insolvenzen wie seit 2014 nicht mehr.",
-      "quellen": [
-        {
-          "name": "FAZ",
-          "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/bundesbank-warnt-michael-theurer-schliesst-neue-finanzkrise-nicht-aus-201676901.html"
         }
       ]
     }
