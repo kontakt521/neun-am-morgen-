@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-12",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
       "headline": "Nvidia-Aktie bricht wegen Berichten über Huangs Ablösung ein",
-      "text": "Die Nvidia-Aktie fiel nachbörslich um über 8 Prozent. Laut Wall Street Journal bereitet der Verwaltungsrat die Ablösung von Chef Jensen Huang vor. Hintergrund sind eine Affäre und Huangs Verbindung zu einer Managerin, die US-Geheimdienste für eine chinesische Agentin halten.",
+      "text": "Die Nvidia-Aktie fiel nachbörslich um mehr als 8 Prozent. Laut Wall Street Journal bereitet der Verwaltungsrat die Ablösung von Chef Huang vor. Es geht um Vorwürfe einer Beziehung im Unternehmen und eine Affäre mit einer Frau, die für Chinas Geheimdienst gearbeitet haben soll.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -17,8 +17,22 @@
       ]
     },
     {
+      "headline": "US-Gesandte treffen Putin in Moskau",
+      "text": "Die US-Unterhändler Witkoff und Kushner sind zu Gesprächen mit Putin in Moskau eingetroffen, danach wollen sie Selenskyj in Dublin treffen. Kushner will erreichen, dass Europäer künftig mitverhandeln. Russland und die Ukraine vereinbarten im Grundsatz einen Gefangenenaustausch.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cwrkgmymk55zo"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks"
+        }
+      ]
+    },
+    {
       "headline": "Israel bereitet sich laut Medien auf Angriff auf Iran vor",
-      "text": "Israels Sicherheitskabinett wies laut Medien die Armee an, einen Angriff auf Iran stärker vorzubereiten. Irans Sicherheitschef Rezaei drohte, bei einem neuen US-Krieg jede beteiligte Basis bis nach Europa anzugreifen. Oppositionsführer Eisenkot mahnte Netanjahu zur Vorsicht.",
+      "text": "Israels Sicherheitskabinett wies laut Medien die Armee an, einen Angriff auf Iran stärker vorzubereiten. Irans Sicherheitschef Rezaei drohte, bei einem neuen US-Krieg sei jede beteiligte Basis bis nach Europa ein Ziel. Oppositionsführer Eisenkot mahnte Netanjahu zur Vorsicht.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -31,40 +45,26 @@
       ]
     },
     {
-      "headline": "Witkoff und Kushner reisen zu Putin nach Moskau",
-      "text": "Nach Gesprächen in Abu Dhabi ohne Durchbruch wollen die US-Gesandten Witkoff und Kushner am Donnerstag Putin in Moskau und dann Selenskyj in Dublin treffen. Russland und die Ukraine einigten sich grundsätzlich auf einen großen Gefangenenaustausch. Strittig bleiben Gebietsfragen.",
+      "headline": "Israelischer Angriff auf Klinik in Gaza tötet sechs Menschen",
+      "text": "Bei einem israelischen Luftangriff auf das Nasser-Krankenhaus im Süden Gazas wurden laut dem Hamas-geführten Gesundheitsministerium mindestens sechs Menschen getötet, darunter ein Chirurg. Israels Armee erklärte, ihr Ziel sei ein Kommandeur des bewaffneten Hamas-Flügels gewesen.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/ck792we7zrz4o"
-        },
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks"
+          "url": "https://www.bbc.com/news/articles/ckzd9p7e4eqeo"
         }
       ]
     },
     {
       "headline": "Demokrat Colom gewinnt Senatswahl in Mississippi",
-      "text": "Scott Colom hat den Senatssitz in Mississippi knapp gegen die Republikanerin Cindy Hyde-Smith gewonnen. Er ist der erste schwarze Senator des Staates seit mehr als 140 Jahren und der erste Demokrat dort seit 1982. Die Demokraten kommen damit laut BBC auf 55 der 100 Sitze.",
+      "text": "Scott Colom gewann die Senatswahl in Mississippi mit 49,2 zu 48,7 Prozent gegen Amtsinhaberin Cindy Hyde-Smith. Er ist der erste Schwarze, den der Staat seit 1874 in den Senat wählt, und der erste Demokrat dort seit 1982. Die Demokraten stellen künftig laut BBC 55 Senatoren.",
       "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cw7vppyr80eeo"
-        }
-      ]
-    },
-    {
-      "headline": "Israelischer Angriff trifft Nasser-Krankenhaus in Gaza",
-      "text": "Bei einem israelischen Luftangriff auf das Nasser-Krankenhaus in Chan Junis wurden laut dem Zivilschutz im Gazastreifen mehrere Menschen getötet, laut BBC mindestens fünf. Getroffen wurde ein Gebäude mit Chirurgie und Intensivstation. Israels Armee äußerte sich zunächst nicht.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/ckzd9p7e4eqeo"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza"
+          "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi"
         }
       ]
     }
@@ -72,7 +72,7 @@
   "national": [
     {
       "headline": "Koalition verzichtet vorerst auf Stromsteuersenkung für alle",
-      "text": "Union und SPD einigten sich vor der Bereinigungssitzung zum Haushalt 2027 auf Kompromisse. Die Stromsteuer sinkt vorerst nicht für alle, weil eine Finanzierung fehlt. Kanzler Merz hatte sich dafür eingesetzt. Die Zuckersteuer kommt erst 2028, die Plastiksteuer vorerst nicht.",
+      "text": "Vor der Bereinigungssitzung zum Etat 2027 fanden Union und SPD Kompromisse. Die Stromsteuer sinkt vorerst nicht für alle, weil die Gegenfinanzierung fehlt. Die Zuckersteuer kommt erst 2028, die Plastiksteuer vorerst nicht. Wohngeld wird nicht gekürzt, aber 2027 nicht erhöht.",
       "quellen": [
         {
           "name": "Deutschlandfunk",
@@ -86,29 +86,29 @@
     },
     {
       "headline": "Pistorius will Belästigung in der Truppe härter bekämpfen",
-      "text": "Laut einer Dunkelfeldstudie der Bundeswehr erlebten 75 Prozent der Soldatinnen im Dienst mindestens einmal sexuelle Belästigung, unter Soldaten 35 Prozent. Minister Pistorius kündigte 34 Gegenmaßnahmen an. Vorgesetzte sollen auch nach ihrem Umgang mit Fällen beurteilt werden.",
+      "text": "Laut einer Dunkelfeldstudie der Bundeswehr wurden im Dienst 75 Prozent der Soldatinnen mindestens einmal sexuell belästigt, bei Soldaten 35 Prozent. Minister Pistorius kündigte 34 Gegenmaßnahmen an. Vorgesetzte sollen auch nach ihrem Umgang mit Fällen beurteilt werden.",
       "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/pistorius-bundeswehr-sexuelle-belaestigung-studie-100.html"
-        },
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/pistorius-bundeswehr-sexuelle-belaestigung-studie-100.html"
         }
       ]
     },
     {
-      "headline": "Wirtschaftsweise sehen Wachstum und fordern Sparkurs",
-      "text": "Der Sachverständigenrat erwartet für 2026 1,3 Prozent Wachstum und für 2027 1,0 Prozent, getragen von Exporten und Staatsausgaben. Er warnt vor einer Haushaltskrise und rät zu Einschnitten, etwa dem Ende der Rente mit 63. Steuererhöhungen könnten mittelfristig nötig werden.",
+      "headline": "IG Metall macht Weg für ganztägige Warnstreiks frei",
+      "text": "Im Tarifkonflikt der Metall- und Elektrobranche gab die IG Metall erstmals seit 2018 ganztägige Warnstreiks frei. Sie fordert 5 Prozent mehr Geld für rund 3,7 Millionen Arbeitnehmer. Die Arbeitgeber bieten 1,3 Prozent und eine Einmalzahlung und kritisieren die Streiks scharf.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html"
         },
         {
           "name": "ORF",
-          "url": "https://orf.at/stories/3447931/"
+          "url": "https://orf.at/stories/3447981/"
         }
       ]
     },
