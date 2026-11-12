@@ -1,124 +1,124 @@
 {
-  "datum": "2026-11-11",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-12",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Russland und Ukraine vereinbaren großen Gefangenenaustausch",
-      "text": "Die US-vermittelten Gespräche in Abu Dhabi endeten ohne Durchbruch, Moskau und Kiew bestätigten aber einen großen Gefangenenaustausch. Am schwierigsten bleibt laut Kushner die Gebietsfrage. Er und Witkoff wollen am Donnerstag Putin in Moskau und dann Selenskyj in Dublin treffen.",
+      "headline": "Nvidia-Aktie bricht wegen Berichten über Huangs Ablösung ein",
+      "text": "Die Nvidia-Aktie fiel nachbörslich um über 8 Prozent. Laut Wall Street Journal bereitet der Verwaltungsrat die Ablösung von Chef Jensen Huang vor. Hintergrund sind eine Affäre und Huangs Verbindung zu einer Managerin, die US-Geheimdienste für eine chinesische Agentin halten.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/"
+        }
+      ]
+    },
+    {
+      "headline": "Israel bereitet sich laut Medien auf Angriff auf Iran vor",
+      "text": "Israels Sicherheitskabinett wies laut Medien die Armee an, einen Angriff auf Iran stärker vorzubereiten. Irans Sicherheitschef Rezaei drohte, bei einem neuen US-Krieg jede beteiligte Basis bis nach Europa anzugreifen. Oppositionsführer Eisenkot mahnte Netanjahu zur Vorsicht.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack"
+        },
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/israel-election-2026/article-914622"
+        }
+      ]
+    },
+    {
+      "headline": "Witkoff und Kushner reisen zu Putin nach Moskau",
+      "text": "Nach Gesprächen in Abu Dhabi ohne Durchbruch wollen die US-Gesandten Witkoff und Kushner am Donnerstag Putin in Moskau und dann Selenskyj in Dublin treffen. Russland und die Ukraine einigten sich grundsätzlich auf einen großen Gefangenenaustausch. Strittig bleiben Gebietsfragen.",
       "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/ck792we7zrz4o"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks"
         }
       ]
     },
     {
-      "headline": "Iran will Straße von Hormus vorerst geschlossen halten",
-      "text": "Irans Sicherheitschef Rezaei bestreitet laufende Gespräche mit den USA. Die Straße von Hormus bleibe zu, bis Washington sieben Bedingungen Teherans erfülle, darunter ein Ende der Seeblockade und der Sanktionen. US-Außenminister Rubio hält große Kampfeinsätze derzeit für unnötig.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"
-        },
-        {
-          "name": "Middle East Monitor",
-          "url": "https://www.middleeastmonitor.com/20261111-rezaei-strait-of-hormuz-will-remain-closed-until-irans-seven-conditions-are-met/"
-        }
-      ]
-    },
-    {
-      "headline": "Zusammenstöße in Barcelona bei Generalstreik in Spanien",
-      "text": "Beim ersten Generalstreik in Spanien seit 14 Jahren demonstrierten laut BBC rund 120.000 Menschen in Madrid und über 50.000 in Barcelona. Dort kam es zu Zusammenstößen zwischen Gruppen von Demonstranten und der Polizei, die Tränengas einsetzte. Anlass sind hohe Wohnkosten.",
+      "headline": "Demokrat Colom gewinnt Senatswahl in Mississippi",
+      "text": "Scott Colom hat den Senatssitz in Mississippi knapp gegen die Republikanerin Cindy Hyde-Smith gewonnen. Er ist der erste schwarze Senator des Staates seit mehr als 140 Jahren und der erste Demokrat dort seit 1982. Die Demokraten kommen damit laut BBC auf 55 der 100 Sitze.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cwvg25nypmrvo"
-        },
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike"
+          "url": "https://www.bbc.com/news/articles/cw7vppyr80eeo"
         }
       ]
     },
     {
-      "headline": "Russlands Botschafter in den USA plötzlich gestorben",
-      "text": "Alexander Darchiev, Russlands Botschafter in Washington, ist laut dem russischen Außenministerium am Mittwoch im Alter von 66 Jahren plötzlich gestorben. Zur Ursache machte Moskau keine Angaben. Der Fachmann für die Beziehungen zu den USA war seit anderthalb Jahren im Amt.",
+      "headline": "Israelischer Angriff trifft Nasser-Krankenhaus in Gaza",
+      "text": "Bei einem israelischen Luftangriff auf das Nasser-Krankenhaus in Chan Junis wurden laut dem Zivilschutz im Gazastreifen mehrere Menschen getötet, laut BBC mindestens fünf. Getroffen wurde ein Gebäude mit Chirurgie und Intensivstation. Israels Armee äußerte sich zunächst nicht.",
       "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66"
-        }
-      ]
-    },
-    {
-      "headline": "USA klagen drei Männer wegen Plan gegen Basis Fairford an",
-      "text": "Drei Männer sollen laut US-Justiz für Irans Revolutionsgarden und die irakische Miliz Kataib Hisbollah an fast 20 Anschlägen und Anschlagsversuchen in Europa und den USA beteiligt gewesen sein, darunter ein Plan gegen die Basis Fairford in Großbritannien. Iran bestreitet das.",
-      "quellen": [
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy"
-        },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c3rryrryk59zo"
+          "url": "https://www.bbc.com/news/articles/ckzd9p7e4eqeo"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Wirtschaftsweise erwarten mehr Wachstum und fordern Sparkurs",
-      "text": "Die Wirtschaftsweisen rechnen für 2026 mit 1,3 Prozent Wachstum und für 2027 mit 1,0 Prozent, vor allem dank starker Exporte und Staatsausgaben. Wegen der Lage der Staatsfinanzen verlangen sie zugleich deutliche Einschnitte, etwa die Abschaffung der Rente mit 63.",
+      "headline": "Koalition verzichtet vorerst auf Stromsteuersenkung für alle",
+      "text": "Union und SPD einigten sich vor der Bereinigungssitzung zum Haushalt 2027 auf Kompromisse. Die Stromsteuer sinkt vorerst nicht für alle, weil eine Finanzierung fehlt. Kanzler Merz hatte sich dafür eingesetzt. Die Zuckersteuer kommt erst 2028, die Plastiksteuer vorerst nicht.",
+      "quellen": [
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/koalition-findet-etat-kompromisse-stromsteuer-fuer-privathaushalte-wird-vorerst-nicht-gesenkt-100.html"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/haushalt-zuckersteuer-plastiksteuer-stromsteuer-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Pistorius will Belästigung in der Truppe härter bekämpfen",
+      "text": "Laut einer Dunkelfeldstudie der Bundeswehr erlebten 75 Prozent der Soldatinnen im Dienst mindestens einmal sexuelle Belästigung, unter Soldaten 35 Prozent. Minister Pistorius kündigte 34 Gegenmaßnahmen an. Vorgesetzte sollen auch nach ihrem Umgang mit Fällen beurteilt werden.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/pistorius-bundeswehr-sexuelle-belaestigung-studie-100.html"
+        },
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html"
+        }
+      ]
+    },
+    {
+      "headline": "Wirtschaftsweise sehen Wachstum und fordern Sparkurs",
+      "text": "Der Sachverständigenrat erwartet für 2026 1,3 Prozent Wachstum und für 2027 1,0 Prozent, getragen von Exporten und Staatsausgaben. Er warnt vor einer Haushaltskrise und rät zu Einschnitten, etwa dem Ende der Rente mit 63. Steuererhöhungen könnten mittelfristig nötig werden.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/wirtschaft/wirtschaftsweise-jahresgutachten-sachverstaendigenrat-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Haushaltskompromiss ohne Stromsteuersenkung für alle",
-      "text": "Union und SPD haben sich laut Spiegel auf einen Kompromiss für den Haushalt 2027 geeinigt, eine allgemeine Senkung der Stromsteuer ist nicht dabei. Kanzler Merz ist damit vorerst gescheitert. Die Zuckersteuer soll erst 2028 kommen, eine Plastiksteuer vorerst gar nicht.",
-      "quellen": [
-        {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/deutschland/haushalt-2027-bundesregierung-senkt-stromsteuer-fuer-privathaushalte-nicht-a-b0f3c1e9-80e2-444f-b5ac-84fb332bf304"
-        },
-        {
-          "name": "Berliner Zeitung",
-          "url": "https://www.berliner-zeitung.de/article/haushaltsberatungen-zucker-und-plastiksteuer-vom-tisch-senkung-der-stromsteuer-auch-10588456"
-        }
-      ]
-    },
-    {
-      "headline": "Studie belegt verbreitete Belästigung in der Bundeswehr",
-      "text": "Laut einer Dunkelfeldstudie erlebten 72 Prozent der Soldatinnen in ihrer Dienstzeit mindestens einmal verbale Belästigung, unter Soldaten waren es 31 Prozent. Die tatsächlichen Fälle übersteigen die Meldungen drei- bis sechsfach. Pistorius kündigte 34 Gegenmaßnahmen an.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/bundeswehr-dunkelfeldstudie-sexuelle-belaestigung-boris-pistorius-100.html"
-        },
-        {
           "name": "ORF",
-          "url": "https://orf.at/stories/3447909/"
+          "url": "https://orf.at/stories/3447931/"
         }
       ]
     },
     {
-      "headline": "Hamburger Schütze stand wegen Betrugs vor Gericht",
-      "text": "Gegen den 68-Jährigen, der in Hamburg zwei Menschen durch Schüsse schwer verletzt haben soll, lief ein Berufungsverfahren wegen Betrugs. Zuvor soll er in Eningen Frau und Schwiegervater getötet haben. Laut Medien nannte er im Abschiedsbrief auch seine geringe Rente als Motiv.",
+      "headline": "Bundesregierung will nationale Gasreserve für Krisen anlegen",
+      "text": "Das Kabinett billigte einen Gesetzentwurf von Wirtschaftsministerin Reiche für eine Gasreserve. Sie soll nur in Notlagen wie Sabotage dienen, nicht gegen hohe Preise. Zahlen sollen die Gaskunden über eine Umlage, für typische Haushalte laut Entwurf 3,77 bis 9,40 Euro im Jahr.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/schuesse-hamburg-details-100.html"
+          "url": "https://www.tagesschau.de/inland/gasreserve-126.html"
         }
       ]
     }
