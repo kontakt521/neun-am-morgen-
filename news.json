@@ -1,74 +1,92 @@
 {
-  "datum": "2026-11-12",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-13",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Nvidia-Chef Huang tritt nach Affären-Skandal zurück",
-      "text": "Jensen Huang tritt als Nvidia-Chef zurück, teilte der Verwaltungsrat mit. Laut New York Times hatte er Affären mit einer Managerin und einer Kundin, die nach Einschätzung von US-Geheimdiensten von China angeworben wurde. Finanzchefin Colette Kress führt Nvidia übergangsweise.",
-      "quellen": [
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down"
-        }
-      ]
-    },
-    {
-      "headline": "Putin beharrt bei US-Gesandten auf Gebietsforderungen",
-      "text": "Putin hat beim Treffen mit den US-Gesandten Witkoff und Kushner in Moskau die Staatsgrenze als einzige Trennlinie verlangt und ausländische Truppen in der Ukraine abgelehnt. Laut Witkoff sollen Europäer an der nächsten Runde teilnehmen. Am Freitag treffen sie Selenskyj in Dublin.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cwrkgmymk55zo"
-        }
-      ]
-    },
-    {
-      "headline": "Israel bereitet laut Medien Angriff auf Iran vor",
-      "text": "Israels Sicherheitskabinett hat die Armee laut israelischen Medien angewiesen, einen möglichen Angriff auf Iran intensiver vorzubereiten. Irans Sicherheitschef Rezaei drohte, bei einem neuen US-Angriff jede beteiligte Militärbasis bis nach Europa zum legitimen Ziel zu erklären.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack"
-        },
-        {
-          "name": "Jerusalem Post",
-          "url": "https://www.jpost.com/israel-election-2026/article-914622"
-        }
-      ]
-    },
-    {
-      "headline": "Acht Tote nach Hauseinsturz in New York",
-      "text": "Beim Einsturz eines dreistöckigen Wohn- und Geschäftshauses im New Yorker Stadtteil Brooklyn sind acht Menschen gestorben, darunter zwei Kinder und zwei Bauarbeiter. 18 wurden verletzt. Das Haus fiel in eine benachbarte Baugrube. Die Staatsanwaltschaft prüft mögliche Straftaten.",
+      "headline": "US-Kongress will Ex-Nvidia-Chef Huang befragen",
+      "text": "Jensen Huang soll vor dem US-Kongress aussagen. Der Bankenausschuss des Senats bat ihn um eine freiwillige Aussage am 3. Dezember und droht sonst mit Vorladung. Auch Handelsminister Lutnick soll aussagen. Nvidia verlor laut BBC in fünf Tagen 550 Milliarden Dollar an Wert.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cm20v66jq611o"
+          "url": "https://www.bbc.com/news/articles/cmq5vd1wdgz6o"
         },
         {
           "name": "CBS News",
-          "url": "https://www.cbsnews.com/newyork/news/building-collapse-nyc-brooklyn-flatbush-rescue-operation/"
+          "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-congress-testify/"
         }
       ]
     },
     {
-      "headline": "Israelischer Angriff auf Klinik in Gaza tötet sechs Menschen",
-      "text": "Bei einem israelischen Luftangriff auf das Nasser-Krankenhaus in Chan Junis wurden laut dem Hamas-geführten Gesundheitsministerium sechs Menschen getötet, darunter ein Chirurg. Israels Armee nannte als Ziel einen Hamas-Kommandeur, der die Klinik als Hauptquartier genutzt habe.",
+      "headline": "Iran meldet Angriff auf US-Radar in Bahrain",
+      "text": "Irans Revolutionsgarden melden einen Angriff auf ein US-Frühwarnradar in Bahrain, als Vergeltung für einen Luftangriff auf einen Funkturm in Südiran. Laut Reuters ist es die erste solche Angabe Irans seit Anfang September. Die USA und Bahrain äußerten sich zunächst nicht.",
       "quellen": [
         {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain"
+        }
+      ]
+    },
+    {
+      "headline": "Europa soll an nächsten Ukraine-Gesprächen teilnehmen",
+      "text": "Nach ihrem Treffen mit Putin haben die US-Gesandten Witkoff und Kushner Selenskyj westlich von Dublin getroffen. Laut Selenskyj sitzt Europa bei der nächsten Verhandlungsrunde mit am Tisch, Putin stimmte laut Kushner zu. Geplant ist der bislang größte Gefangenenaustausch.",
+      "quellen": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-prisoner-swap-no-ceasaefire-putin-trump/"
+        }
+      ]
+    },
+    {
+      "headline": "Ukraine greift russisches Kriegsschiff in der Ostsee an",
+      "text": "Die Ukraine hat laut dem Geheimdienst SBU das russische Raketenschiff Naro-Fominsk im Finnischen Meerbusen mit Drohnen angegriffen. Finnland bestätigte einen Angriff nahe der Insel Gogland. Es gilt als erster solcher Angriff in einem für zivile Schiffe offenen Teil der Ostsee.",
+      "quellen": [
+        {
+          "name": "Yle",
+          "url": "https://yle.fi/a/74-20256496"
+        },
+        {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/ckzd9p7e4eqeo"
+          "url": "https://www.bbc.com/news/articles/cmn0d33zz34zo"
+        }
+      ]
+    },
+    {
+      "headline": "Großstörung bei Outlook und Teams",
+      "text": "Eine Störung hat am Donnerstag Outlook, Teams, Copilot und weitere Microsoft-Dienste beeinträchtigt. Auf Downdetector meldeten zur Spitze rund 130.000 Nutzer Outlook-Probleme. Laut Microsoft fielen Server bei automatischen Prüfungen aus. Wann alles wieder läuft, war offen.",
+      "quellen": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Streit um Stromsteuer belastet Koalition",
-      "text": "Nach dem Haushaltskompromiss der Koalition verlangen die Regierungschefs von Hessen und Rheinland-Pfalz weiter eine niedrigere Stromsteuer für alle. SPD-Fraktionschef Miersch hält sie für nicht finanzierbar. Unionspolitiker verweisen auf den Koalitionsausschuss kommende Woche.",
+      "headline": "Bundestag stimmt über Reform der Geheimdienste ab",
+      "text": "Der Bundestag stimmt am Freitag über mehr Befugnisse für die Nachrichtendienste ab. Bei konkreten Hinweisen auf Terror oder Spionage soll der Verfassungsschutz selbst eingreifen und etwa heimlich Wohnungen betreten dürfen. Linke und AfD lehnen das ab.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html"
+        },
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/deutschland/news-geheimdienstreform-cdu-frust-ueber-friedrich-merz-klimaproteste-a-b617fcc0-61d8-4ad1-9f37-75c82dc69dbf"
+        }
+      ]
+    },
+    {
+      "headline": "Haushaltsausschuss berät letzte Änderungen am Etat 2027",
+      "text": "Der Haushaltsausschuss hat in der Bereinigungssitzung über letzte Änderungen am Bundeshaushalt 2027 beraten. Eine Stromsteuersenkung für alle bleibt mangels Gegenfinanzierung vorerst aus. Die Zuckersteuer soll erst 2028 kommen, die Plastiksteuer wird vorerst nicht erhoben.",
       "quellen": [
         {
           "name": "ZDFheute",
@@ -76,45 +94,31 @@
         },
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-kompromisse-stromsteuer-reaktionen-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bereinigungssitzung-finanzen-100.html"
         }
       ]
     },
     {
-      "headline": "Mercedes legt Investitionen in Deutschland auf Eis",
-      "text": "Mercedes-Benz stoppt sämtliche neuen Investitionen in seine deutschen Werke und prüft Werksschließungen. Grund sind festgefahrene Verhandlungen mit den Arbeitnehmervertretern über Kostensenkungen. Der Vorstand fordert unter anderem längere Arbeitszeiten ohne Lohnausgleich.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html"
-        },
-        {
-          "name": "n-tv",
-          "url": "https://www.n-tv.de/wirtschaft/Mercedes-stoppt-alle-weiteren-Investitionen-in-die-deutschen-Standorte-id31527789.html"
-        }
-      ]
-    },
-    {
-      "headline": "Pistorius will Vorgesetzte stärker in die Pflicht nehmen",
-      "text": "Drei Viertel der Soldatinnen wurden laut einer Dunkelfeldstudie der Bundeswehr im Dienst schon sexuell belästigt, bei Soldaten sind es 35 Prozent. Minister Pistorius will mehr Prävention. Vorgesetzte sollen künftig auch nach ihrem Umgang mit solchen Fällen beurteilt werden.",
+      "headline": "Mercedes stoppt Investitionen in deutsche Werke",
+      "text": "Mercedes-Benz legt in Deutschland alle neuen Investitionen auf Eis und prüft, welche Werke es sich noch leisten kann. Der Vorstand begründet das mit stockenden Gesprächen mit Arbeitnehmervertretern über Sparmaßnahmen und verlangt längere Arbeitszeiten ohne Lohnausgleich.",
       "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/pistorius-bundeswehr-sexuelle-belaestigung-studie-100.html"
+          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/mercedes-sparmassnahmen-100.html"
         }
       ]
     },
     {
-      "headline": "IG Metall gibt ganztägige Warnstreiks frei",
-      "text": "Im Metall-Tarifkonflikt hat die IG Metall erstmals seit 2018 ganztägige Warnstreiks beschlossen. Sie fordert 5 Prozent mehr Geld für etwa 3,7 Millionen Arbeitnehmer. Die Arbeitgeber bieten 1,3 Prozent und eine widerrufbare Einmalzahlung.",
+      "headline": "IG Metall setzt auf ganztägige Warnstreiks",
+      "text": "Im Metall-Tarifkonflikt hat die IG Metall erstmals seit 2018 ganztägige Warnstreiks beschlossen, in Hunderten Betrieben. Sie fordert binnen eines Jahres 5 Prozent mehr Geld, die Arbeitgeber bieten bei weit längerer Laufzeit 1,3 Prozent und eine widerrufbare Einmalzahlung.",
       "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html"
-        },
         {
           "name": "ORF",
           "url": "https://orf.at/stories/3447981/"
+        },
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html"
         }
       ]
     }
