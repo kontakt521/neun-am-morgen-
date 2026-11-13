@@ -1,25 +1,57 @@
 {
   "datum": "2026-11-13",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "US-Kongress will Ex-Nvidia-Chef Huang befragen",
-      "text": "Jensen Huang soll vor dem US-Kongress aussagen. Der Bankenausschuss des Senats bat ihn um eine freiwillige Aussage am 3. Dezember und droht sonst mit Vorladung. Auch Handelsminister Lutnick soll aussagen. Nvidia verlor laut BBC in fünf Tagen 550 Milliarden Dollar an Wert.",
+      "headline": "US-Senat lädt Ex-Nvidia-Chef Huang und Minister Lutnick vor",
+      "text": "Der Bankenausschuss des US-Senats will Jensen Huang und Handelsminister Lutnick am 3. Dezember öffentlich befragen und droht sonst mit Vorladung. Huang war am Donnerstag nach Berichten über Affären zurückgetreten, eine davon mit einer mutmaßlichen chinesischen Spionin.",
       "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cmq5vd1wdgz6o"
         },
         {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-congress-testify/"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate"
         }
       ]
     },
     {
-      "headline": "Iran meldet Angriff auf US-Radar in Bahrain",
-      "text": "Irans Revolutionsgarden melden einen Angriff auf ein US-Frühwarnradar in Bahrain, als Vergeltung für einen Luftangriff auf einen Funkturm in Südiran. Laut Reuters ist es die erste solche Angabe Irans seit Anfang September. Die USA und Bahrain äußerten sich zunächst nicht.",
+      "headline": "Störung bei Outlook und Teams dauert an",
+      "text": "Die weltweite Störung bei Outlook, Teams und Copilot hält auch am Freitag an. Laut Microsoft gab es bislang nur geringe Fortschritte, wiederhergestellte Server fielen erneut aus. Betroffen sind Nutzer in 74 Ländern. Böswillige Aktivitäten sind Microsoft nicht bekannt.",
       "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why"
+        },
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/business/2026/1113/1599061-microsoft-tech-outage/"
+        }
+      ]
+    },
+    {
+      "headline": "Europa soll bei nächster Ukraine-Runde mitverhandeln",
+      "text": "Selenskyj und der US-Gesandte Kushner haben bei Dublin bestätigt, dass Europa direkt an der nächsten Gesprächsrunde in Abu Dhabi teilnimmt. Putin ist laut Kushner bereit dazu. Wer Europa vertritt, muss laut Irlands Premier Martin binnen zwei Wochen geklärt werden.",
+      "quellen": [
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/"
+        }
+      ]
+    },
+    {
+      "headline": "Iran meldet Minenexplosion an LNG-Tanker in Hormus",
+      "text": "Ein Flüssiggastanker ist laut Irans Revolutionsgarden in der Straße von Hormus auf eine Seemine gelaufen und explodiert. Er habe eine nicht genehmigte Route genutzt. Zudem melden die Garden einen Angriff auf ein US-Radar in Bahrain. Washington und Manama schwiegen zunächst.",
+      "quellen": [
+        {
+          "name": "Reuters",
+          "url": "https://cyprus-mail.com/2026/11/13/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz"
+        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain"
@@ -27,98 +59,74 @@
       ]
     },
     {
-      "headline": "Europa soll an nächsten Ukraine-Gesprächen teilnehmen",
-      "text": "Nach ihrem Treffen mit Putin haben die US-Gesandten Witkoff und Kushner Selenskyj westlich von Dublin getroffen. Laut Selenskyj sitzt Europa bei der nächsten Verhandlungsrunde mit am Tisch, Putin stimmte laut Kushner zu. Geplant ist der bislang größte Gefangenenaustausch.",
-      "quellen": [
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/"
-        },
-        {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-prisoner-swap-no-ceasaefire-putin-trump/"
-        }
-      ]
-    },
-    {
-      "headline": "Ukraine greift russisches Kriegsschiff in der Ostsee an",
-      "text": "Die Ukraine hat laut dem Geheimdienst SBU das russische Raketenschiff Naro-Fominsk im Finnischen Meerbusen mit Drohnen angegriffen. Finnland bestätigte einen Angriff nahe der Insel Gogland. Es gilt als erster solcher Angriff in einem für zivile Schiffe offenen Teil der Ostsee.",
+      "headline": "Finnland spricht Kiew auf Angriff auf Kriegsschiff an",
+      "text": "Nach dem ukrainischen Drohnenangriff auf ein russisches Kriegsschiff im Finnischen Meerbusen hat Finnland Kiew auf Risiken für Umwelt und Schifffahrt hingewiesen. Minister Häkkänen hält die Ostsee dennoch für sicher. Es gilt als erster solcher Angriff in zivil befahrenem Gebiet.",
       "quellen": [
         {
           "name": "Yle",
-          "url": "https://yle.fi/a/74-20256496"
+          "url": "https://yle.fi/a/74-20256796"
         },
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cmn0d33zz34zo"
         }
       ]
-    },
-    {
-      "headline": "Großstörung bei Outlook und Teams",
-      "text": "Eine Störung hat am Donnerstag Outlook, Teams, Copilot und weitere Microsoft-Dienste beeinträchtigt. Auf Downdetector meldeten zur Spitze rund 130.000 Nutzer Outlook-Probleme. Laut Microsoft fielen Server bei automatischen Prüfungen aus. Wann alles wieder läuft, war offen.",
-      "quellen": [
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users"
-        }
-      ]
     }
   ],
   "national": [
     {
-      "headline": "Bundestag stimmt über Reform der Geheimdienste ab",
-      "text": "Der Bundestag stimmt am Freitag über mehr Befugnisse für die Nachrichtendienste ab. Bei konkreten Hinweisen auf Terror oder Spionage soll der Verfassungsschutz selbst eingreifen und etwa heimlich Wohnungen betreten dürfen. Linke und AfD lehnen das ab.",
+      "headline": "Bundestag entscheidet über Reform der Geheimdienste",
+      "text": "Der Bundestag stimmt am Freitag über mehr Befugnisse für BND und Verfassungsschutz ab. Der BND soll im Ausland erstmals sabotieren dürfen, der Verfassungsschutz bei konkreten Hinweisen auf Terror oder Spionage etwa heimlich Wohnungen betreten. Linke und AfD sind dagegen.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html"
         },
         {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/deutschland/news-geheimdienstreform-cdu-frust-ueber-friedrich-merz-klimaproteste-a-b617fcc0-61d8-4ad1-9f37-75c82dc69dbf"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/bnd-soll-kuenftig-auch-sabotage-im-ausland-betreiben-duerfen-bundestag-koennte-befugnisse-heute-deut-102.html"
         }
       ]
     },
     {
-      "headline": "Haushaltsausschuss berät letzte Änderungen am Etat 2027",
-      "text": "Der Haushaltsausschuss hat in der Bereinigungssitzung über letzte Änderungen am Bundeshaushalt 2027 beraten. Eine Stromsteuersenkung für alle bleibt mangels Gegenfinanzierung vorerst aus. Die Zuckersteuer soll erst 2028 kommen, die Plastiksteuer wird vorerst nicht erhoben.",
+      "headline": "Haushaltsausschuss billigt Rekordetat für 2027",
+      "text": "Nach mehr als 15 Stunden hat der Haushaltsausschuss den Etat 2027 gebilligt. Er umfasst knapp 561 Milliarden Euro, so viel wie nie. Neue Kredite im Kernhaushalt betragen fast 123 Milliarden Euro. Ob die Stromsteuer für alle sinkt, soll der Koalitionsausschuss am Dienstag klären.",
       "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/haushalt-zuckersteuer-plastiksteuer-stromsteuer-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/haushalt-haushaltsausschuss-bundestag-union-spd-100.html"
         },
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bereinigungssitzung-finanzen-100.html"
+          "url": "https://www.tagesschau.de/inland/bundeshaushalt-2027-100.html"
         }
       ]
     },
     {
-      "headline": "Mercedes stoppt Investitionen in deutsche Werke",
-      "text": "Mercedes-Benz legt in Deutschland alle neuen Investitionen auf Eis und prüft, welche Werke es sich noch leisten kann. Der Vorstand begründet das mit stockenden Gesprächen mit Arbeitnehmervertretern über Sparmaßnahmen und verlangt längere Arbeitszeiten ohne Lohnausgleich.",
+      "headline": "Mercedes stoppt Investitionen und prüft Werksschließungen",
+      "text": "Mercedes-Benz stoppt sämtliche Investitionen in seine deutschen Werke und prüft nun konkret Schließungen. Der Vorstand verweist auf stockende Gespräche mit Arbeitnehmervertretern über Kostensenkungen und fordert 40 statt 35 Wochenstunden ohne Lohnausgleich.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/mercedes-sparmassnahmen-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/mercedes-benz-prueft-jetzt-konkret-und-detailliert-werksschliessungen-100.html"
         }
       ]
     },
     {
-      "headline": "IG Metall setzt auf ganztägige Warnstreiks",
-      "text": "Im Metall-Tarifkonflikt hat die IG Metall erstmals seit 2018 ganztägige Warnstreiks beschlossen, in Hunderten Betrieben. Sie fordert binnen eines Jahres 5 Prozent mehr Geld, die Arbeitgeber bieten bei weit längerer Laufzeit 1,3 Prozent und eine widerrufbare Einmalzahlung.",
+      "headline": "IG Metall plant ganztägige Warnstreiks",
+      "text": "Im festgefahrenen Metall-Tarifstreit ruft die IG Metall erstmals seit 2018 zu 24-stündigen Warnstreiks in Hunderten Betrieben auf. Sie fordert 5 Prozent mehr Geld für ein Jahr, die Arbeitgeber bieten bei viel längerer Laufzeit 1,3 Prozent und eine widerrufbare Einmalzahlung.",
       "quellen": [
         {
           "name": "ORF",
           "url": "https://orf.at/stories/3447981/"
         },
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/wirtschaft/ig-metall-warnstreik-metallindustrie-elektroindustrie-100.html"
         }
       ]
     }
