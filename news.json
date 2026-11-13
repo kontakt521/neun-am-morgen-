@@ -1,10 +1,38 @@
 {
   "datum": "2026-11-13",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "US-Senat lädt Ex-Nvidia-Chef Huang und Minister Lutnick vor",
-      "text": "Der Bankenausschuss des US-Senats will Jensen Huang und Handelsminister Lutnick am 3. Dezember öffentlich befragen und droht sonst mit Vorladung. Huang war am Donnerstag nach Berichten über Affären zurückgetreten, eine davon mit einer mutmaßlichen chinesischen Spionin.",
+      "headline": "Microsoft meldet Erholung nach weltweitem Ausfall",
+      "text": "Nach der globalen Störung bei Outlook, Teams und Copilot meldet Microsoft Fortschritte. Die E-Mail-Warteschlangen seien stark geschrumpft, einzelne Nutzer hätten aber weiter Probleme. Ursache sei eine Überlastung durch unerwartet ausgefallene Server, kein Cyberangriff.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cwvg238zrnm5o"
+        },
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/primetime/2026/1113/1599152-microsoft-outage-clarity/"
+        }
+      ]
+    },
+    {
+      "headline": "Kreml stellt Bedingung für Europas Rolle bei Ukraine-Gesprächen",
+      "text": "Russland hat einer Teilnahme Europas an Ukraine-Gesprächen laut Kremlsprecher Peskow noch nicht zugestimmt. Europa müsse erst zeigen, dass es zum Friedensprozess beitragen wolle. Zuvor hatte Kushner erklärt, Putin habe zugestimmt. Die EU sucht in Dublin einen Verhandlungsführer.",
+      "quellen": [
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push"
+        }
+      ]
+    },
+    {
+      "headline": "Nvidia verliert nach Huang-Skandal 550 Milliarden Dollar",
+      "text": "Nvidia hat binnen fünf Tagen 550 Milliarden Dollar Börsenwert verloren, so stark wie nie seit dem Börsengang. Ex-Chef Huang soll am 3. Dezember vor dem Bankenausschuss des US-Senats aussagen, Handelsminister Lutnick ebenfalls im Dezember. Finanzchefin Kress führt Nvidia vorerst.",
       "quellen": [
         {
           "name": "BBC",
@@ -12,46 +40,14 @@
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate"
+          "url": "https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company"
         }
       ]
     },
     {
-      "headline": "Störung bei Outlook und Teams dauert an",
-      "text": "Die weltweite Störung bei Outlook, Teams und Copilot hält auch am Freitag an. Laut Microsoft gab es bislang nur geringe Fortschritte, wiederhergestellte Server fielen erneut aus. Betroffen sind Nutzer in 74 Ländern. Böswillige Aktivitäten sind Microsoft nicht bekannt.",
+      "headline": "USA weisen iranische Angaben zu Angriff in Bahrain zurück",
+      "text": "Das US-Zentralkommando hat nach eigenen Angaben zwei iranische Angriffsdrohnen abgeschossen, ohne Verletzte oder Schäden. Irans Revolutionsgarden hatten erklärt, ein US-Radar in Bahrain angegriffen zu haben, als Vergeltung für einen Luftangriff in Südiran. Beides ist unbestätigt.",
       "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why"
-        },
-        {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/business/2026/1113/1599061-microsoft-tech-outage/"
-        }
-      ]
-    },
-    {
-      "headline": "Europa soll bei nächster Ukraine-Runde mitverhandeln",
-      "text": "Selenskyj und der US-Gesandte Kushner haben bei Dublin bestätigt, dass Europa direkt an der nächsten Gesprächsrunde in Abu Dhabi teilnimmt. Putin ist laut Kushner bereit dazu. Wer Europa vertritt, muss laut Irlands Premier Martin binnen zwei Wochen geklärt werden.",
-      "quellen": [
-        {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/"
-        },
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/"
-        }
-      ]
-    },
-    {
-      "headline": "Iran meldet Minenexplosion an LNG-Tanker in Hormus",
-      "text": "Ein Flüssiggastanker ist laut Irans Revolutionsgarden in der Straße von Hormus auf eine Seemine gelaufen und explodiert. Er habe eine nicht genehmigte Route genutzt. Zudem melden die Garden einen Angriff auf ein US-Radar in Bahrain. Washington und Manama schwiegen zunächst.",
-      "quellen": [
-        {
-          "name": "Reuters",
-          "url": "https://cyprus-mail.com/2026/11/13/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz"
-        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain"
@@ -59,74 +55,74 @@
       ]
     },
     {
-      "headline": "Finnland spricht Kiew auf Angriff auf Kriegsschiff an",
-      "text": "Nach dem ukrainischen Drohnenangriff auf ein russisches Kriegsschiff im Finnischen Meerbusen hat Finnland Kiew auf Risiken für Umwelt und Schifffahrt hingewiesen. Minister Häkkänen hält die Ostsee dennoch für sicher. Es gilt als erster solcher Angriff in zivil befahrenem Gebiet.",
+      "headline": "Zweite Autobombe binnen zwei Tagen in Russland",
+      "text": "In Moskau ist laut dem russischen Ermittlungskomitee Sergej Sawarotny, ein früherer Berater des putinfreundlichen ukrainischen Ex-Regierungschefs Asarow, durch eine Autobombe verletzt worden. Am Vortag hatte eine Autobombe in Sankt Petersburg einen russischen Oberst getötet.",
       "quellen": [
         {
-          "name": "Yle",
-          "url": "https://yle.fi/a/74-20256796"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5gm3gnwl42eo"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cmn0d33zz34zo"
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/car-explosion-in-moscow-reportedly-injures-ex-azarov-press-secretary/"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Bundestag entscheidet über Reform der Geheimdienste",
-      "text": "Der Bundestag stimmt am Freitag über mehr Befugnisse für BND und Verfassungsschutz ab. Der BND soll im Ausland erstmals sabotieren dürfen, der Verfassungsschutz bei konkreten Hinweisen auf Terror oder Spionage etwa heimlich Wohnungen betreten. Linke und AfD sind dagegen.",
+      "headline": "Bundestag beschließt mehr Befugnisse für Nachrichtendienste",
+      "text": "Mit 309 Ja- und 190 Nein-Stimmen hat der Bundestag die Reform der Nachrichtendienste gebilligt. Verfassungsschutz und BND können künftig etwa per Cyberangriff gegen Angreifer vorgehen und unter Auflagen heimlich Wohnungen betreten. AfD und Linke kritisieren das als überzogen.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/bnd-soll-kuenftig-auch-sabotage-im-ausland-betreiben-duerfen-bundestag-koennte-befugnisse-heute-deut-102.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/nachrichtendienst-reform-bundestag-bnd-gesetz-100.html"
         }
       ]
     },
     {
-      "headline": "Haushaltsausschuss billigt Rekordetat für 2027",
-      "text": "Nach mehr als 15 Stunden hat der Haushaltsausschuss den Etat 2027 gebilligt. Er umfasst knapp 561 Milliarden Euro, so viel wie nie. Neue Kredite im Kernhaushalt betragen fast 123 Milliarden Euro. Ob die Stromsteuer für alle sinkt, soll der Koalitionsausschuss am Dienstag klären.",
+      "headline": "Merz will Stromsteuer schon 2027 für alle senken",
+      "text": "Merz will die Stromsteuer ab 2027 vollständig auf das EU-Minimum senken, doch im Etat fehlen etwa 5,4 Milliarden Euro. Finanzminister Klingbeil fordert eine solide Gegenfinanzierung, auch in der Union gibt es Kritik. Merz will das am Dienstag im Koalitionsausschuss ansprechen.",
       "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/haushalt-haushaltsausschuss-bundestag-union-spd-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/merz-klingbeil-stromsteuer-senkung-debatte-100.html"
         },
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/bundeshaushalt-2027-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-haushalt-kritik-merz-100.html"
         }
       ]
     },
     {
-      "headline": "Mercedes stoppt Investitionen und prüft Werksschließungen",
-      "text": "Mercedes-Benz stoppt sämtliche Investitionen in seine deutschen Werke und prüft nun konkret Schließungen. Der Vorstand verweist auf stockende Gespräche mit Arbeitnehmervertretern über Kostensenkungen und fordert 40 statt 35 Wochenstunden ohne Lohnausgleich.",
+      "headline": "Mercedes legt Investitionen in Deutschland auf Eis",
+      "text": "Mercedes-Benz stoppt laut Personalvorständin Seeger alle Investitionen in Deutschland und prüft, zwei der zwölf Werke zu schließen. Verlangt werden 40 statt 35 Wochenstunden ohne Lohnausgleich. Produktionsvorstand Scheibe nennt Zölle, Preisdruck und Konkurrenz aus China.",
       "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html"
-        },
         {
           "name": "Deutschlandfunk",
           "url": "https://www.deutschlandfunk.de/mercedes-benz-prueft-jetzt-konkret-und-detailliert-werksschliessungen-100.html"
+        },
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/wirtschaft/krise-in-der-autoindustrie-mercedes-erwaegt-werksschliessungen-das-steckt-dahinter"
         }
       ]
     },
     {
-      "headline": "IG Metall plant ganztägige Warnstreiks",
-      "text": "Im festgefahrenen Metall-Tarifstreit ruft die IG Metall erstmals seit 2018 zu 24-stündigen Warnstreiks in Hunderten Betrieben auf. Sie fordert 5 Prozent mehr Geld für ein Jahr, die Arbeitgeber bieten bei viel längerer Laufzeit 1,3 Prozent und eine widerrufbare Einmalzahlung.",
+      "headline": "IG Metall bereitet ganztägige Warnstreiks vor",
+      "text": "Im festgefahrenen Tarifstreit der Metall- und Elektroindustrie plant die IG Metall erstmals seit 2018 Warnstreiks über 24 Stunden in Hunderten Betrieben. Die Gewerkschaft fordert 5 Prozent mehr Geld, die Arbeitgeber bieten 1,3 Prozent bei viel längerer Laufzeit.",
       "quellen": [
-        {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3447981/"
-        },
         {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/wirtschaft/ig-metall-warnstreik-metallindustrie-elektroindustrie-100.html"
+        },
+        {
+          "name": "ORF",
+          "url": "https://orf.at/stories/3447981/"
         }
       ]
     }
