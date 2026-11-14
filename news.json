@@ -1,38 +1,52 @@
 {
   "datum": "2026-11-14",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
+      "headline": "USA bringen laut Selenskyj Nato-Beitritt gegen Donbas ins Spiel",
+      "text": "US-Unterhändler haben laut Präsident Selenskyj erstmals gefragt, ob die Ukraine bei einem Nato-Beitritt den Donbas räumen würde. Über ein solches Paket mit Sicherheitsgarantien von Nato und EU will er ein Referendum abhalten. Konkrete Zusagen fehlen bislang.",
+      "quellen": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-withdrawal-zelensky-says/"
+        },
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/europe/2026/1114/1599202-us-ukraine-russia/"
+        }
+      ]
+    },
+    {
       "headline": "Trump, Putin und Xi wollen sich in China treffen",
-      "text": "Trump, Putin und Xi wollen sich laut Weißem Haus in der kommenden Woche am Rande des Apec-Gipfels in Shenzhen erstmals zu dritt treffen. Trump will über den Abbau von Atomwaffen und den Iran-Krieg reden. Die Ukraine soll laut US-Regierungsvertretern kein Thema sein.",
+      "text": "Trump, Putin und Xi planen laut Weißem Haus in der kommenden Woche am Rande des Apec-Gipfels in Shenzhen ihr erstes Dreiertreffen. Trump will über den Abbau von Atomwaffen sprechen, auch der Iran könnte Thema sein, die Ukraine nicht. Russland hat das Treffen bestätigt.",
       "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/ckz74jzpy18do"
         },
         {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/world/2026/1114/1599193-trump-xi-putin/"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
         }
       ]
     },
     {
-      "headline": "Europa soll bei Ukraine-Verhandlungen mitreden",
-      "text": "Die EU-Institutionen und fünf Staaten, darunter Deutschland, sollen Europa gemeinsam bei Verhandlungen über ein Ende des Ukraine-Kriegs vertreten, sagte Ratspräsident Costa in Dublin. Laut Selenskyj und US-Gesandten soll Europa zur nächsten Runde in Abu Dhabi eingeladen werden.",
+      "headline": "Längster landesweiter Flugstopp in den USA seit 2001",
+      "text": "Störungen bei Radar und Funk der Flugsicherung stoppten am Freitag für rund vier Stunden alle Abflüge in den USA. Laut FlightAware fielen fast 8000 Flüge aus. Verkehrsminister Duffy nennt veraltete Technik als Ursache. Für einen Cyberangriff sieht die Regierung keine Belege.",
       "quellen": [
         {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/european-leaders-agree-on-joint-team-for-ukraine-peace-negotiations-costa-says/"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports"
         },
         {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/analysis-and-comment/2026/1114/1599180-eu-summit-ukraine/"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqx2wyvyr3zzo"
         }
       ]
     },
     {
       "headline": "Iran meldet drei brennende Tanker in der Straße von Hormus",
-      "text": "Iranische Behörden meldeten am Samstag, drei Öltanker seien in gesperrten Zonen der Straße von Hormus auf Minen gelaufen und in Brand geraten. Die UN zählen seit Kriegsbeginn im Februar mindestens 25 getötete Seeleute. Das US-Militär gibt an, die Hauptrouten geräumt zu haben.",
+      "text": "Iranische Behörden meldeten am Samstag, drei Öltanker seien in gesperrten Zonen der Straße von Hormus auf Minen gelaufen und in Brand geraten. Laut UN starben dort seit Kriegsbeginn im Februar mindestens 25 Seeleute. Das US-Militär gibt an, die Hauptrouten geräumt zu haben.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -41,22 +55,8 @@
       ]
     },
     {
-      "headline": "Microsoft meldet Erholung nach weltweitem Outlook-Ausfall",
-      "text": "Nach fast einem Tag Störung meldet Microsoft eine breite Erholung von Outlook, Teams und weiteren Diensten. Ursache war laut dem Konzern ein Fehler bei einer früheren Erweiterung der Netzkapazität, kein Cyberangriff. Downdetector zählte weltweit über 7,4 Millionen Meldungen.",
-      "quellen": [
-        {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/business/2026/1113/1599061-microsoft-tech-outage/"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage"
-        }
-      ]
-    },
-    {
       "headline": "Nvidia-Affäre bringt US-Handelsminister Lutnick unter Druck",
-      "text": "Finanzminister Bessent wirft dem Handelsministerium unter Howard Lutnick vor, die Ausfuhr von KI-Chips schlecht überwacht zu haben. Lutnick soll im Dezember vor dem Bankenausschuss des Senats aussagen. Auch der als Nvidia-Chef abgesetzte Jensen Huang wurde vorgeladen.",
+      "text": "Finanzminister Bessent wirft dem Handelsministerium unter Howard Lutnick vor, die Ausfuhr von KI-Chips schlecht überwacht zu haben. Lutnick soll im Dezember vor dem Bankenausschuss des Senats aussagen. Nvidia wird nach Huangs Abgang vorerst von Finanzchefin Colette Kress geführt.",
       "quellen": [
         {
           "name": "BBC",
@@ -71,12 +71,12 @@
   ],
   "national": [
     {
-      "headline": "Haushaltsausschuss billigt Etat 2027 ohne Stromsteuersenkung",
-      "text": "Der Haushaltsausschuss hat den Bundesetat 2027 gebilligt, der Bund darf damit etwa 560,9 Milliarden Euro ausgeben. Für die von Kanzler Merz verlangte allgemeine Stromsteuersenkung fehlt das Geld, auch in der Union gibt es Kritik. Am Dienstag soll der Koalitionsausschuss beraten.",
+      "headline": "Merz beharrt auf Senkung der Stromsteuer ab 2027",
+      "text": "Kanzler Friedrich Merz will die Stromsteuer ab 2027 auch für Privathaushalte auf das EU-Minimum senken. Im Etatentwurf fehlen dafür etwa 5,4 Milliarden Euro, Finanzminister Klingbeil verlangt eine Gegenfinanzierung. Merz will das am Dienstag im Koalitionsausschuss ansprechen.",
       "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/haushalt-haushaltsausschuss-bundestag-union-spd-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/merz-klingbeil-stromsteuer-senkung-debatte-100.html"
         },
         {
           "name": "tagesschau",
@@ -85,44 +85,44 @@
       ]
     },
     {
+      "headline": "Bayern nimmt mit Staatsakt Abschied von Hubert Aiwanger",
+      "text": "Mit Requiem und Trauerstaatsakt in der Münchner Frauenkirche hat Bayern den gestorbenen Vize-Regierungschef Hubert Aiwanger geehrt. Mehr als 1000 Gäste kamen. Söder sagte, ganz Bayern trauere. Der 55-Jährige war tot in einem Berliner Hotelzimmer gefunden worden.",
+      "quellen": [
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-hubert-aiwanger-a-e986f8ab-d9b9-4faf-adf7-d167c63eb24b"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/aiwanger-staatsakt-trauerfeier-100.html"
+        }
+      ]
+    },
+    {
       "headline": "Bundestag gibt Nachrichtendiensten mehr Befugnisse",
       "text": "Der BND darf im Ausland Server staatlicher Hacker lahmlegen, der Verfassungsschutz unter Auflagen heimlich Wohnungen betreten. Das beschloss der Bundestag mit 309 zu 190 Stimmen. Die Opposition hält die neuen Rechte des Verfassungsschutzes für verfassungswidrig.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html"
-        },
-        {
           "name": "NZZ",
           "url": "https://www.nzz.ch/deutschland/politik/deutsche-geheimdienste-erhalten-mehr-befugnisse-fuer-die-abwehr-von-spionage-terrorismus-und-sabotage-ld.10063180"
-        }
-      ]
-    },
-    {
-      "headline": "Bayern nimmt mit Staatsakt Abschied von Hubert Aiwanger",
-      "text": "Mit Requiem und Trauerstaatsakt im Münchner Liebfrauendom würdigt Bayern den gestorbenen Vize-Ministerpräsidenten Hubert Aiwanger, der auch die Freien Wähler führte. Der 55-Jährige war tot in einem Berliner Hotelzimmer gefunden worden. Die Obduktion ergab einen natürlichen Tod.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/aiwanger-staatsakt-trauerfeier-100.html"
         },
-        {
-          "name": "Stuttgarter Zeitung",
-          "url": "https://www.stuttgarter-zeitung.de/politik/nach-ploetzlichem-tod-staatsakt-fuer-aiwanger-am-samstag-in-muenchen-79687426.html"
-        }
-      ]
-    },
-    {
-      "headline": "AfD will Berthold für das Präsidentenamt nominieren",
-      "text": "Die AfD will laut ARD und ZDF den Fußball-Weltmeister von 1990, Thomas Berthold, ins Rennen um das höchste Staatsamt schicken. Entscheiden soll am Samstag der Bundesvorstand mit den Landesvorsitzenden. Union, SPD und Grüne wollen in der Bundesversammlung Ilse Aigner wählen.",
-      "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/berthold-afd-wahl-bundespraesident-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Weg frei für Rot-Rot-Grün in Mecklenburg-Vorpommern",
+      "text": "Nach Linken und Grünen hat auch ein SPD-Sonderparteitag einstimmig dem Koalitionsvertrag zugestimmt. Damit soll dort erstmals Rot-Rot-Grün regieren. Es hat 39 der 71 Landtagssitze, einzige Opposition ist die AfD. Schwesig will sich am Montag zur Wiederwahl stellen.",
+      "quellen": [
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands-a-64982c32-c954-4d6b-a066-01e7d6b7141e"
         },
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/wahl-bundespraesident-afd-kandidat-thomas-berthold-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/mecklenburg-vorpommern-landesregierung-rot-rot-gruen-100.html"
         }
       ]
     }
