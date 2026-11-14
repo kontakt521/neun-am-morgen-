@@ -1,28 +1,28 @@
 {
   "datum": "2026-11-14",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
       "headline": "USA bringen laut Selenskyj Nato-Beitritt gegen Donbas ins Spiel",
-      "text": "US-Unterhändler haben laut Präsident Selenskyj erstmals gefragt, ob die Ukraine bei einem Nato-Beitritt den Donbas räumen würde. Über ein solches Paket mit Sicherheitsgarantien von Nato und EU will er ein Referendum abhalten. Konkrete Zusagen fehlen bislang.",
+      "text": "US-Unterhändler haben laut Präsident Selenskyj erstmals gefragt, ob die Ukraine bei einem Nato-Beitritt aus dem Donbas abziehen würde. Über ein Paket mit Sicherheitsgarantien und Geld für den Wiederaufbau will er dann abstimmen lassen. Das Weiße Haus äußerte sich nicht.",
       "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
+        },
         {
           "name": "Kyiv Independent",
           "url": "https://kyivindependent.com/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-withdrawal-zelensky-says/"
-        },
-        {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/europe/2026/1114/1599202-us-ukraine-russia/"
         }
       ]
     },
     {
       "headline": "Trump, Putin und Xi wollen sich in China treffen",
-      "text": "Trump, Putin und Xi planen laut Weißem Haus in der kommenden Woche am Rande des Apec-Gipfels in Shenzhen ihr erstes Dreiertreffen. Trump will über den Abbau von Atomwaffen sprechen, auch der Iran könnte Thema sein, die Ukraine nicht. Russland hat das Treffen bestätigt.",
+      "text": "Trump, Putin und Xi planen laut Weißem Haus am Rande des Apec-Gipfels am 18. und 19. November in Shenzhen ihr erstes Dreiertreffen. Thema soll der Abbau von Atomwaffen sein, auch der Iran-Krieg, nicht aber die Ukraine. Laut einem US-Vertreter wird kein Abkommen erwartet.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/ckz74jzpy18do"
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"
         },
         {
           "name": "Al Jazeera",
@@ -31,22 +31,22 @@
       ]
     },
     {
-      "headline": "Längster landesweiter Flugstopp in den USA seit 2001",
-      "text": "Störungen bei Radar und Funk der Flugsicherung stoppten am Freitag für rund vier Stunden alle Abflüge in den USA. Laut FlightAware fielen fast 8000 Flüge aus. Verkehrsminister Duffy nennt veraltete Technik als Ursache. Für einen Cyberangriff sieht die Regierung keine Belege.",
+      "headline": "Umbau an Leitung soll US-Flugstopp ausgelöst haben",
+      "text": "Verkehrsminister Duffy führt den US-weiten Flugstopp vom Freitag auf Wartung zurück. Ein auf Glasfaser umgestellter Router habe das Netz der Flugsicherung überflutet. Geprüft wird ein Fehler der Firma L3Harris oder ein Defekt. An einen Cyberangriff glaubt die Regierung nicht.",
       "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9"
+        },
         {
           "name": "NPR",
           "url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqx2wyvyr3zzo"
         }
       ]
     },
     {
       "headline": "Iran meldet drei brennende Tanker in der Straße von Hormus",
-      "text": "Iranische Behörden meldeten am Samstag, drei Öltanker seien in gesperrten Zonen der Straße von Hormus auf Minen gelaufen und in Brand geraten. Laut UN starben dort seit Kriegsbeginn im Februar mindestens 25 Seeleute. Das US-Militär gibt an, die Hauptrouten geräumt zu haben.",
+      "text": "Irans Behörden meldeten am Samstag, drei Öltanker seien in gesperrten Zonen der Straße von Hormus auf Minen gelaufen und in Brand geraten. Laut UN starben in und um die Meerenge seit Februar mindestens 25 Seeleute. Das US-Militär gibt an, die Hauptrouten geräumt zu haben.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -55,21 +55,31 @@
       ]
     },
     {
-      "headline": "Nvidia-Affäre bringt US-Handelsminister Lutnick unter Druck",
-      "text": "Finanzminister Bessent wirft dem Handelsministerium unter Howard Lutnick vor, die Ausfuhr von KI-Chips schlecht überwacht zu haben. Lutnick soll im Dezember vor dem Bankenausschuss des Senats aussagen. Nvidia wird nach Huangs Abgang vorerst von Finanzchefin Colette Kress geführt.",
+      "headline": "Ermittler in Ungarn finden versteckte Millionen",
+      "text": "Bei Ermittlungen gegen Ex-Entwicklungsminister Miklós Seszták hat die Behörde NVVH Bargeld im Wert von 19,5 Millionen Dollar gefunden, versteckt in Tresoren, Gebäuden und Wäldern. Seszták soll bestochen worden sein, was er bestreitet. Premier Magyar sprach vom Ende der Mafia.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqvg2d1eg7zro"
-        },
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick"
+          "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo"
         }
       ]
     }
   ],
   "national": [
+    {
+      "headline": "Hubertus Heil kandidiert für den SPD-Vorsitz",
+      "text": "Ex-Arbeitsminister Heil will im Januar in Bremen für die SPD-Spitze antreten und ist der erste offizielle Bewerber. In einem Brief verspricht er, sich voll dem Amt zu widmen. Amtsinhaber Klingbeil, auch Vizekanzler und Finanzminister, ließ eine Kandidatur bisher offen.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html"
+        },
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/deutschland/spd-hubertus-heil-will-fuer-parteivorsitz-kandidieren-a-f9209fb9-0404-43be-b66d-b2207e7e6aaa"
+        }
+      ]
+    },
     {
       "headline": "Merz beharrt auf Senkung der Stromsteuer ab 2027",
       "text": "Kanzler Friedrich Merz will die Stromsteuer ab 2027 auch für Privathaushalte auf das EU-Minimum senken. Im Etatentwurf fehlen dafür etwa 5,4 Milliarden Euro, Finanzminister Klingbeil verlangt eine Gegenfinanzierung. Merz will das am Dienstag im Koalitionsausschuss ansprechen.",
@@ -99,30 +109,12 @@
       ]
     },
     {
-      "headline": "Bundestag gibt Nachrichtendiensten mehr Befugnisse",
-      "text": "Der BND darf im Ausland Server staatlicher Hacker lahmlegen, der Verfassungsschutz unter Auflagen heimlich Wohnungen betreten. Das beschloss der Bundestag mit 309 zu 190 Stimmen. Die Opposition hält die neuen Rechte des Verfassungsschutzes für verfassungswidrig.",
+      "headline": "Deutschland und vier EU-Staaten planen Abschiebezentrum in Ruanda",
+      "text": "Deutschland, Dänemark, die Niederlande, Österreich und Griechenland wollen laut AFP mit Ruanda ein Abkommen schließen. Dort soll ein Zentrum für abgelehnte Asylbewerber entstehen, deren Heimat sie nicht zurücknimmt. Erste Flüge sind laut SZ Mitte 2027 geplant.",
       "quellen": [
         {
           "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/deutsche-geheimdienste-erhalten-mehr-befugnisse-fuer-die-abwehr-von-spionage-terrorismus-und-sabotage-ld.10063180"
-        },
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Weg frei für Rot-Rot-Grün in Mecklenburg-Vorpommern",
-      "text": "Nach Linken und Grünen hat auch ein SPD-Sonderparteitag einstimmig dem Koalitionsvertrag zugestimmt. Damit soll dort erstmals Rot-Rot-Grün regieren. Es hat 39 der 71 Landtagssitze, einzige Opposition ist die AfD. Schwesig will sich am Montag zur Wiederwahl stellen.",
-      "quellen": [
-        {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands-a-64982c32-c954-4d6b-a066-01e7d6b7141e"
-        },
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/mecklenburg-vorpommern-landesregierung-rot-rot-gruen-100.html"
+          "url": "https://www.nzz.ch/deutschland/politik/rwanda-soll-abgelehnte-asylbewerber-aus-deutschland-aufnehmen-fuenf-eu-staaten-wollen-abkommen-schliessen-ld.10064010"
         }
       ]
     }
