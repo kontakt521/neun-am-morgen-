@@ -1,124 +1,128 @@
 {
-  "datum": "2026-11-13",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-14",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Europa schickt Team zu Ukraine-Gesprächen",
-      "text": "Europa soll bei den nächsten Ukraine-Gesprächen laut EU-Ratspräsident Costa von der EU sowie Großbritannien, Frankreich, Deutschland, Italien und Polen vertreten werden. Das vereinbarten die EU-Spitzen in Dublin. Der Kreml hat über eine Teilnahme Europas noch nicht entschieden.",
-      "quellen": [
-        {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice"
-        }
-      ]
-    },
-    {
-      "headline": "Microsoft entschuldigt sich für fast eintägige Störung",
-      "text": "Nach dem Ausfall von Outlook und Teams hat sich Microsoft entschuldigt. Die Störung dauerte laut BBC über 22 Stunden und betraf mehr als 70 Länder. Routineprüfungen hätten einige Server vom Netz genommen und die übrigen überlastet, einen Cyberangriff gab es demnach nicht.",
+      "headline": "Trump, Putin und Xi wollen sich in China treffen",
+      "text": "Trump, Putin und Xi planen laut Weißem Haus ihr erstes Dreiertreffen am Rande des Apec-Gipfels in Shenzhen in der kommenden Woche. Im Mittelpunkt soll die Verringerung der Atomwaffen stehen, die Ukraine laut einem US-Regierungsvertreter nicht. Ein Abkommen wird nicht erwartet.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cxzd9171m51qo"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage"
-        }
-      ]
-    },
-    {
-      "headline": "Nvidia-Affäre bringt Handelsminister Lutnick unter Druck",
-      "text": "US-Finanzminister Bessent wirft Handelsminister Lutnicks Ressort mangelnde Aufsicht über KI-Chip-Exporte vor. Er rügt, dass Megaspeed nicht auf der Exportkontrollliste steht. Dort arbeitete eine mutmaßliche chinesische Spionin, mit der Ex-Nvidia-Chef Huang eine Affäre hatte.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqvg2d1eg7zro"
-        }
-      ]
-    },
-    {
-      "headline": "USA weisen iranische Angaben zu Angriff in Bahrain zurück",
-      "text": "Das US-Militär hat nach eigenen Angaben zwei iranische Drohnen abgeschossen, ohne Verletzte oder Schäden. Irans Revolutionsgarden hatten erklärt, als Vergeltung für einen Angriff in Südiran ein US-Radar in Bahrain angegriffen zu haben. Laut Al Jazeera ist beides unbestätigt.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain"
-        }
-      ]
-    },
-    {
-      "headline": "Autobombe verletzt Ex-Berater Asarows in Moskau",
-      "text": "In Moskau hat eine Autobombe laut dem russischen Ermittlungskomitee Sergej Sawarotny verletzt, einst Berater des ukrainischen Ex-Premiers Asarow. Laut unbestätigten Berichten ist er schwer verletzt. Am Vortag tötete eine Autobombe in Sankt Petersburg einen russischen Soldaten.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c5gm3gnwl42eo"
+          "url": "https://www.bbc.com/news/articles/ckz74jzpy18do"
         },
         {
           "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukraine-war-latest-ex-pm-press-secretary-reportedly-injured-in-moscow-car-explosion/"
+          "url": "https://kyivindependent.com/historic-first-summit-among-trump-xi-putin-will-not-focus-on-ukraine-white-house-says/"
+        }
+      ]
+    },
+    {
+      "headline": "Landesweiter Startstopp legt Flugverkehr in den USA lahm",
+      "text": "Die US-Luftfahrtbehörde FAA hat einen landesweiten Startstopp nach rund vier Stunden aufgehoben. Verkehrsminister Duffy machte überlastete, veraltete Technik verantwortlich. Heimatschutzminister Mullin sieht keine Hinweise auf einen Cyberangriff. Tausende Flüge fielen aus.",
+      "quellen": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next"
+        }
+      ]
+    },
+    {
+      "headline": "Nvidia sucht nach Huangs Abgang einen neuen Chef",
+      "text": "Nach dem erzwungenen Abgang von Jensen Huang leitet Finanzchefin Colette Kress Nvidia vorerst. Vorausgegangen waren Berichte über Affären Huangs, darunter mit einer mutmaßlichen chinesischen Spionin. Die Aktie verlor laut Al Jazeera in dieser Woche bis Donnerstag rund 11 Prozent.",
+      "quellen": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company"
+        }
+      ]
+    },
+    {
+      "headline": "Tanker rammt Flusskreuzfahrtschiff in New Orleans",
+      "text": "In New Orleans hat der Tanker Atlantic Asphalt das Flusskreuzfahrtschiff American Heritage gerammt, das auf die Seite kippte. Laut BBC wurden rund 130 Menschen gerettet, niemand wird vermisst. 32 kamen ins Krankenhaus, keiner in kritischem Zustand. Die Ursache ist unklar.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cw20xmy0m5yyo"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us"
+        }
+      ]
+    },
+    {
+      "headline": "Kreml verschärft Forderungen für Frieden in der Ukraine",
+      "text": "Der Kreml verlangt laut BBC für einen Frieden in der Ukraine eine neue Sicherheitsordnung in Europa und greift Vertragsentwürfe von 2021 auf, die die Nato-Erweiterung bremsen sollten. Über eine Teilnahme Europas an weiteren Gesprächen hat Moskau noch nicht endgültig entschieden.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cq39glwprknjo"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Haushaltsausschuss billigt Rekordetat für 2027",
-      "text": "Nach über 15 Stunden hat der Haushaltsausschuss den Etat für 2027 gebilligt. Vorgesehen sind etwa 560,9 Milliarden Euro Ausgaben und fast 123 Milliarden Euro neue Kredite im Kernhaushalt. Ob die Stromsteuer für alle sinkt, soll am Dienstag der Koalitionsausschuss klären.",
+      "headline": "Merz will Stromsteuer schon 2027 für alle senken",
+      "text": "Kanzler Merz will ab 2027 die Stromsteuer auch für Privathaushalte auf das EU-Minimum senken, obwohl dafür 5,4 Milliarden Euro im Etat fehlen. Finanzminister Klingbeil verlangt eine solide Gegenfinanzierung. Am Dienstag will Merz das Thema im Koalitionsausschuss ansprechen.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/bundeshaushalt-2027-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-haushalt-kritik-merz-100.html"
         },
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/haushalt-haushaltsausschuss-bundestag-union-spd-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/merz-klingbeil-stromsteuer-senkung-debatte-100.html"
         }
       ]
     },
     {
-      "headline": "Bundestag weitet Befugnisse der Nachrichtendienste aus",
-      "text": "Der Bundestag beschloss die Geheimdienstreform mit 309 zu 190 Stimmen. Der Verfassungsschutz darf unter Auflagen heimlich Wohnungen betreten und Infrastruktur von Angreifern per Cyberattacke stören, der BND im Ausland Hackerserver lahmlegen. AfD und Linke nennen das überzogen.",
+      "headline": "Bundestag gibt Nachrichtendiensten mehr Befugnisse",
+      "text": "Der BND darf im Ausland Server staatlicher Hacker lahmlegen, der Verfassungsschutz unter Auflagen heimlich Wohnungen betreten. Das beschloss der Bundestag mit 309 zu 190 Stimmen. Die Opposition hält die neuen Rechte des Verfassungsschutzes für verfassungswidrig.",
       "quellen": [
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/politik/deutsche-geheimdienste-erhalten-mehr-befugnisse-fuer-die-abwehr-von-spionage-terrorismus-und-sabotage-ld.10063180"
+        },
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Kabinett billigt Reform des Elterngelds",
+      "text": "Das Kabinett hat die Elterngeldreform von Familienministerin Prien gebilligt. Je Elternteil sollen vier Monate reserviert sein, mit 80 Prozent des früheren Nettolohns, danach gibt es 50 Prozent. Der Höchstbetrag soll auf 1900 Euro steigen. Gelten soll die Reform ab November 2027.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/elterngeldreform-bundeskabinett-100.html"
         },
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/bundestag-billigt-reform-der-geheimdienste-befugnisse-werden-deutlich-ausgeweitet-100.html"
+          "url": "https://www.deutschlandfunk.de/was-sich-beim-elterngeld-aendern-soll-100.html"
         }
       ]
     },
     {
-      "headline": "Betriebsrat lehnt Werksschließungen bei Mercedes ab",
-      "text": "Nach dem Investitionsstopp bei Mercedes-Benz in Deutschland lehnen IG Metall und Betriebsrat die angedrohten Werksschließungen ab und fordern Gespräche. Laut SRF erwägt der Konzern die Schließung von zwei der zwölf Werke und will fünf Wochenstunden mehr bei gleichem Lohn.",
+      "headline": "AfD entscheidet über Berthold als Präsidentschaftskandidaten",
+      "text": "Die AfD will laut ARD und ZDF den Fußball-Weltmeister von 1990, Thomas Berthold, für die Wahl des Bundespräsidenten nominieren. Entscheiden soll am Samstag der Bundesvorstand mit den Landesvorsitzenden. Union, SPD und Grüne wollen in der Bundesversammlung Ilse Aigner wählen.",
       "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/investitionen-deutschland-kostensenkungen-werksschliessungen-stopp-100.html"
-        },
-        {
-          "name": "SRF",
-          "url": "https://www.srf.ch/news/wirtschaft/krise-in-der-autoindustrie-mercedes-erwaegt-werksschliessungen-das-steckt-dahinter"
-        }
-      ]
-    },
-    {
-      "headline": "AfD will Berthold für Bundespräsidentenwahl nominieren",
-      "text": "Die AfD will laut ARD und ZDF Fußball-Weltmeister Thomas Berthold zur Wahl des Bundespräsidenten aufstellen. Entschieden werden soll am Samstag. Chancen hat er kaum, da Union, SPD und Grüne in der Bundesversammlung die CSU-Politikerin Ilse Aigner wählen wollen.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/wahl-bundespraesident-afd-kandidat-thomas-berthold-100.html"
-        },
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/berthold-afd-wahl-bundespraesident-100.html"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/wahl-bundespraesident-afd-kandidat-thomas-berthold-100.html"
         }
       ]
     }
