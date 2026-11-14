@@ -1,86 +1,86 @@
 {
   "datum": "2026-11-14",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
       "headline": "Trump, Putin und Xi wollen sich in China treffen",
-      "text": "Trump, Putin und Xi planen laut Weißem Haus ihr erstes Dreiertreffen am Rande des Apec-Gipfels in Shenzhen in der kommenden Woche. Im Mittelpunkt soll die Verringerung der Atomwaffen stehen, die Ukraine laut einem US-Regierungsvertreter nicht. Ein Abkommen wird nicht erwartet.",
+      "text": "Trump, Putin und Xi wollen sich laut Weißem Haus in der kommenden Woche am Rande des Apec-Gipfels in Shenzhen erstmals zu dritt treffen. Trump will über den Abbau von Atomwaffen und den Iran-Krieg reden. Die Ukraine soll laut US-Regierungsvertretern kein Thema sein.",
       "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/ckz74jzpy18do"
         },
         {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/historic-first-summit-among-trump-xi-putin-will-not-focus-on-ukraine-white-house-says/"
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/world/2026/1114/1599193-trump-xi-putin/"
         }
       ]
     },
     {
-      "headline": "Landesweiter Startstopp legt Flugverkehr in den USA lahm",
-      "text": "Die US-Luftfahrtbehörde FAA hat einen landesweiten Startstopp nach rund vier Stunden aufgehoben. Verkehrsminister Duffy machte überlastete, veraltete Technik verantwortlich. Heimatschutzminister Mullin sieht keine Hinweise auf einen Cyberangriff. Tausende Flüge fielen aus.",
+      "headline": "Europa soll bei Ukraine-Verhandlungen mitreden",
+      "text": "Die EU-Institutionen und fünf Staaten, darunter Deutschland, sollen Europa gemeinsam bei Verhandlungen über ein Ende des Ukraine-Kriegs vertreten, sagte Ratspräsident Costa in Dublin. Laut Selenskyj und US-Gesandten soll Europa zur nächsten Runde in Abu Dhabi eingeladen werden.",
       "quellen": [
         {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports"
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/european-leaders-agree-on-joint-team-for-ukraine-peace-negotiations-costa-says/"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next"
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/analysis-and-comment/2026/1114/1599180-eu-summit-ukraine/"
         }
       ]
     },
     {
-      "headline": "Nvidia sucht nach Huangs Abgang einen neuen Chef",
-      "text": "Nach dem erzwungenen Abgang von Jensen Huang leitet Finanzchefin Colette Kress Nvidia vorerst. Vorausgegangen waren Berichte über Affären Huangs, darunter mit einer mutmaßlichen chinesischen Spionin. Die Aktie verlor laut Al Jazeera in dieser Woche bis Donnerstag rund 11 Prozent.",
+      "headline": "Iran meldet drei brennende Tanker in der Straße von Hormus",
+      "text": "Iranische Behörden meldeten am Samstag, drei Öltanker seien in gesperrten Zonen der Straße von Hormus auf Minen gelaufen und in Brand geraten. Die UN zählen seit Kriegsbeginn im Februar mindestens 25 getötete Seeleute. Das US-Militär gibt an, die Hauptrouten geräumt zu haben.",
       "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february"
+        }
+      ]
+    },
+    {
+      "headline": "Microsoft meldet Erholung nach weltweitem Outlook-Ausfall",
+      "text": "Nach fast einem Tag Störung meldet Microsoft eine breite Erholung von Outlook, Teams und weiteren Diensten. Ursache war laut dem Konzern ein Fehler bei einer früheren Erweiterung der Netzkapazität, kein Cyberangriff. Downdetector zählte weltweit über 7,4 Millionen Meldungen.",
+      "quellen": [
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/business/2026/1113/1599061-microsoft-tech-outage/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage"
+        }
+      ]
+    },
+    {
+      "headline": "Nvidia-Affäre bringt US-Handelsminister Lutnick unter Druck",
+      "text": "Finanzminister Bessent wirft dem Handelsministerium unter Howard Lutnick vor, die Ausfuhr von KI-Chips schlecht überwacht zu haben. Lutnick soll im Dezember vor dem Bankenausschuss des Senats aussagen. Auch der als Nvidia-Chef abgesetzte Jensen Huang wurde vorgeladen.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqvg2d1eg7zro"
+        },
         {
           "name": "NPR",
           "url": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company"
-        }
-      ]
-    },
-    {
-      "headline": "Tanker rammt Flusskreuzfahrtschiff in New Orleans",
-      "text": "In New Orleans hat der Tanker Atlantic Asphalt das Flusskreuzfahrtschiff American Heritage gerammt, das auf die Seite kippte. Laut BBC wurden rund 130 Menschen gerettet, niemand wird vermisst. 32 kamen ins Krankenhaus, keiner in kritischem Zustand. Die Ursache ist unklar.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cw20xmy0m5yyo"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us"
-        }
-      ]
-    },
-    {
-      "headline": "Kreml verschärft Forderungen für Frieden in der Ukraine",
-      "text": "Der Kreml verlangt laut BBC für einen Frieden in der Ukraine eine neue Sicherheitsordnung in Europa und greift Vertragsentwürfe von 2021 auf, die die Nato-Erweiterung bremsen sollten. Über eine Teilnahme Europas an weiteren Gesprächen hat Moskau noch nicht endgültig entschieden.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cq39glwprknjo"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Merz will Stromsteuer schon 2027 für alle senken",
-      "text": "Kanzler Merz will ab 2027 die Stromsteuer auch für Privathaushalte auf das EU-Minimum senken, obwohl dafür 5,4 Milliarden Euro im Etat fehlen. Finanzminister Klingbeil verlangt eine solide Gegenfinanzierung. Am Dienstag will Merz das Thema im Koalitionsausschuss ansprechen.",
+      "headline": "Haushaltsausschuss billigt Etat 2027 ohne Stromsteuersenkung",
+      "text": "Der Haushaltsausschuss hat den Bundesetat 2027 gebilligt, der Bund darf damit etwa 560,9 Milliarden Euro ausgeben. Für die von Kanzler Merz verlangte allgemeine Stromsteuersenkung fehlt das Geld, auch in der Union gibt es Kritik. Am Dienstag soll der Koalitionsausschuss beraten.",
       "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/haushalt-haushaltsausschuss-bundestag-union-spd-100.html"
+        },
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-haushalt-kritik-merz-100.html"
-        },
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/merz-klingbeil-stromsteuer-senkung-debatte-100.html"
         }
       ]
     },
@@ -89,32 +89,32 @@
       "text": "Der BND darf im Ausland Server staatlicher Hacker lahmlegen, der Verfassungsschutz unter Auflagen heimlich Wohnungen betreten. Das beschloss der Bundestag mit 309 zu 190 Stimmen. Die Opposition hält die neuen Rechte des Verfassungsschutzes für verfassungswidrig.",
       "quellen": [
         {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/deutsche-geheimdienste-erhalten-mehr-befugnisse-fuer-die-abwehr-von-spionage-terrorismus-und-sabotage-ld.10063180"
-        },
-        {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html"
+        },
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/politik/deutsche-geheimdienste-erhalten-mehr-befugnisse-fuer-die-abwehr-von-spionage-terrorismus-und-sabotage-ld.10063180"
         }
       ]
     },
     {
-      "headline": "Kabinett billigt Reform des Elterngelds",
-      "text": "Das Kabinett hat die Elterngeldreform von Familienministerin Prien gebilligt. Je Elternteil sollen vier Monate reserviert sein, mit 80 Prozent des früheren Nettolohns, danach gibt es 50 Prozent. Der Höchstbetrag soll auf 1900 Euro steigen. Gelten soll die Reform ab November 2027.",
+      "headline": "Bayern nimmt mit Staatsakt Abschied von Hubert Aiwanger",
+      "text": "Mit Requiem und Trauerstaatsakt im Münchner Liebfrauendom würdigt Bayern den gestorbenen Vize-Ministerpräsidenten Hubert Aiwanger, der auch die Freien Wähler führte. Der 55-Jährige war tot in einem Berliner Hotelzimmer gefunden worden. Die Obduktion ergab einen natürlichen Tod.",
       "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/elterngeldreform-bundeskabinett-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/aiwanger-staatsakt-trauerfeier-100.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/was-sich-beim-elterngeld-aendern-soll-100.html"
+          "name": "Stuttgarter Zeitung",
+          "url": "https://www.stuttgarter-zeitung.de/politik/nach-ploetzlichem-tod-staatsakt-fuer-aiwanger-am-samstag-in-muenchen-79687426.html"
         }
       ]
     },
     {
-      "headline": "AfD entscheidet über Berthold als Präsidentschaftskandidaten",
-      "text": "Die AfD will laut ARD und ZDF den Fußball-Weltmeister von 1990, Thomas Berthold, für die Wahl des Bundespräsidenten nominieren. Entscheiden soll am Samstag der Bundesvorstand mit den Landesvorsitzenden. Union, SPD und Grüne wollen in der Bundesversammlung Ilse Aigner wählen.",
+      "headline": "AfD will Berthold für das Präsidentenamt nominieren",
+      "text": "Die AfD will laut ARD und ZDF den Fußball-Weltmeister von 1990, Thomas Berthold, ins Rennen um das höchste Staatsamt schicken. Entscheiden soll am Samstag der Bundesvorstand mit den Landesvorsitzenden. Union, SPD und Grüne wollen in der Bundesversammlung Ilse Aigner wählen.",
       "quellen": [
         {
           "name": "tagesschau",
