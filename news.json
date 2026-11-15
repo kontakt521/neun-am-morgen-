@@ -1,128 +1,128 @@
 {
   "datum": "2026-11-15",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Kushner dämpft Selenskyjs Äußerung zum Nato-Beitritt",
-      "text": "Laut Präsident Selenskyj fragten US-Unterhändler erstmals, ob die Ukraine für einen Nato-Beitritt aus dem Donbas abziehen würde. Die USA bestätigten das nicht. Der Gesandte Kushner mahnte Vertraulichkeit an und will nach eigenen Worten Gespräche Europas mit Russland vermitteln.",
+      "headline": "Iran greift erneut Luftwaffenbasis in Bahrain an",
+      "text": "Iran hat am Sonntag zum zweiten Mal in drei Tagen Bahrain angegriffen. Ziel war die vom US-Militär genutzte Luftwaffenbasis Riffa. Laut Bahrains Militär wurden die Angriffe abgefangen. Irans Außenamtssprecher Baghaei nannte Angriffe auf US-Basen bei Nachbarn Selbstverteidigung.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
+          "url": "https://www.bbc.com/news/articles/cqn4e2py48kwo"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine"
+          "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us"
+        }
+      ]
+    },
+    {
+      "headline": "Selenskyj gibt Starshield-Drosselung Mitschuld an Treffern",
+      "text": "Laut Selenskyj kommen russische Drohnenangriffe auf Umspannwerke oft durch, weil Starshield-Terminals an der Front auf 161 km/h gedrosselt sind. Das erschwere das Abfangen. Starlink bestreitet eine Drosselung. In Odessa waren nach einem Treffer 41.000 Haushalte ohne Strom.",
+      "quellen": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/starshield-speed-restrictions-hamper-ukraines-ability-to-defend-energy-infrastructure-against-russian-jet-powered-drones-zelensky-says/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy"
         }
       ]
     },
     {
       "headline": "Trump, Putin und Xi wollen sich in Shenzhen treffen",
-      "text": "Trump, Putin und Xi planen laut Weißem Haus kommende Woche beim Apec-Gipfel in Shenzhen ein erstes Dreiertreffen. Trump will über den Abbau von Atomwaffen reden, auch über den Iran-Krieg, nicht aber über die Ukraine. Russland bestätigte das Treffen, China noch nicht.",
+      "text": "Trump, Putin und Xi wollen sich laut Weißem Haus am Rande des Apec-Gipfels am 18. und 19. November in Shenzhen erstmals zu dritt treffen. Hauptthema soll die Abrüstung von Atomwaffen sein, auch der Iran-Krieg, nicht aber die Ukraine. Abkommen werden nicht erwartet.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"
+          "url": "https://www.bbc.com/news/articles/ckz74jzpy18do"
         },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/historic-first-summit-among-trump-xi-putin-will-not-focus-on-ukraine-white-house-says/"
+        }
+      ]
+    },
+    {
+      "headline": "Israel tötet Kommandeur der Hamas im Süden Gazas",
+      "text": "Israel hat am Samstag bei einem Luftangriff auf ein Zelt von Vertriebenen in al-Mawasi Samir Abu Younis getötet, den Kommandeur der Rafah-Brigade der Hamas. Die Hamas bestätigte den Tod. Seit der Waffenruhe 2025 starben laut Gesundheitsministerium mindestens 1643 Palästinenser.",
+      "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
+          "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
         }
       ]
     },
     {
-      "headline": "Iran meldet drei Tanker nach Minentreffern in Brand",
-      "text": "Laut der iranischen Marine und den Revolutionsgarden sind am Samstag drei Öltanker in der Straße von Hormus auf Minen gelaufen und in Brand geraten. Sie sollen ihre Ortungssysteme abgeschaltet haben. Namen nannte Iran nicht, Reuters konnte die Angaben zunächst nicht prüfen.",
+      "headline": "Router bei Kabeltausch löste US-Flugstopp aus",
+      "text": "Den US-Flugstopp am Freitag löste laut Verkehrsminister Duffy ein Router aus, den L3Harris beim Umstieg auf Glasfaser einbaute und der andere Systeme überflutete. Am Sonntagmorgen waren noch rund 1400 Flüge gestrichen. Duffy veranschlagt 50 Milliarden Dollar für eine Erneuerung.",
       "quellen": [
-        {
-          "name": "Reuters",
-          "url": "https://www.yahoo.com/news/world/articles/irans-navy-says-three-tankers-225347151.html"
-        },
-        {
-          "name": "Middle East Eye",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-three-tankers-hit-mines-hormuz-fire"
-        }
-      ]
-    },
-    {
-      "headline": "Kabeltausch löste laut Minister US-Flugstopp aus",
-      "text": "Den landesweiten US-Flugstopp vom Freitag löste laut Verkehrsminister Duffy ein Router aus, der beim Wechsel von Kupfer auf Glasfaser andere Systeme überflutete. Am Samstag fielen laut Flugdaten-Diensten mehr als 5900 Flüge aus. Die FAA erwartet bis Ende Sonntag Normalbetrieb.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno"
-        },
         {
           "name": "NPR",
           "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel"
-        }
-      ]
-    },
-    {
-      "headline": "SpaceX fängt Starship erstmals nach Raumflug auf",
-      "text": "Die Oberstufe des Starship ist am Samstag nach 14 Erdumrundungen zur Startrampe in Texas zurückgekehrt und wurde dort von mechanischen Armen gefangen, erstmals nach einem Flug ins All. Der Booster explodierte dagegen kurz nach dem Start am Freitag. Die Nasa begrüßte den Erfolg.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first"
         },
         {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqx2wyvyr3zzo"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Heil fordert Klingbeil im Rennen um SPD-Vorsitz heraus",
-      "text": "Der frühere Arbeitsminister Heil hat seine Bewerbung um den SPD-Vorsitz eingereicht und tritt dafür ein, Parteivorsitz und Regierungsamt zu trennen. Umweltminister Schneider und Fraktionschef Miersch stellten sich hinter Amtsinhaber Klingbeil, der eine Kandidatur offenlässt.",
+      "headline": "SPD-Minister stärken Klingbeil gegen Herausforderer Heil",
+      "text": "Nach der Bewerbung von Hubertus Heil um den SPD-Vorsitz haben sich Umweltminister Schneider, Verteidigungsminister Pistorius und Fraktionschef Miersch für Parteichef Klingbeil ausgesprochen. Er lässt eine Kandidatur offen, die Jusos sind dagegen. Gewählt wird im Januar in Bremen.",
       "quellen": [
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/hubertus-heil-will-kandidieren-schneider-und-miersch-fuer-klingbeil-100.html"
-        },
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Kritik an Kassenärzte-Chef wegen Selbstzahler-Terminen",
-      "text": "Kassenärzte-Chef Gassen erwartet wegen Honorarkürzungen, dass Praxen auch Kassenpatienten Termine in der Privatsprechstunde anbieten, die sie selbst zahlen. Der GKV-Spitzenverband sprach von Geiselhaft, der SoVD von sozialer Ungerechtigkeit. SPD-Chef Klingbeil lehnte das ab.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html"
         },
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/kritik-an-selbstzahler-vorstoss-von-gassen-100.html"
+          "url": "https://www.deutschlandfunk.de/lies-warnt-spd-vor-selbstbeschaeftigung-rueckhalt-fuer-klingbeil-100.html"
         }
       ]
     },
     {
-      "headline": "CSU will höhere Abschläge bei der Frührente",
-      "text": "CSU-Landesgruppenchef Hoffmann will den Abschlag je Monat vorgezogenen Rentenbeginns auf 0,4 Prozent anheben, derzeit sind es 0,3 Prozent. Bei vier Jahren wären es 19,2 statt 14,4 Prozent. Hintergrund ist, dass der Bund seinen Rentenzuschuss 2027 um drei Milliarden Euro kürzt.",
+      "headline": "Breite Kritik an Gassens Vorstoß zu Selbstzahler-Terminen",
+      "text": "Kassenärzte-Chef Gassen erwartet wegen Honorarkürzungen, dass Praxen auch Kassenpatienten selbst bezahlte Privatsprechstunden anbieten. Der GKV-Spitzenverband nannte das eine Angst-Kampagne, Grünen-Politiker Dahmen warnte vor Paywall-Medizin. SPD-Chef Klingbeil lehnte das ab.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html"
+          "url": "https://www.tagesschau.de/inland/gesellschaft/arzttermine-selbst-zahlen-debatte-100.html"
         },
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/plaene-abzuege-bei-fruehrente-sollen-von-0-3-auf-0-4-prozent-pro-monat-steigen-102.html"
+          "url": "https://www.deutschlandfunk.de/sprechstunde-nur-fuer-selbstzahler-kritik-an-vorstoss-von-kassenaerzte-chef-gassen-100.html"
         }
       ]
     },
     {
-      "headline": "Merz beharrt vor Koalitionsausschuss auf Stromsteuersenkung",
-      "text": "Kanzler Merz hat erneut zugesagt, die Stromsteuer zum Jahresbeginn auf das EU-Minimum zu senken. Im Haushaltsentwurf ist dafür kein Geld vorgesehen, Finanzminister Klingbeil lehnt ungedeckte Steuerausfälle ab. Am Dienstag tagt der Koalitionsausschuss.",
+      "headline": "Van der Bellen ruft am Volkstrauertag zu Mitgefühl auf",
+      "text": "Österreichs Bundespräsident Van der Bellen hat bei der zentralen Gedenkstunde zum Volkstrauertag im Bundestag aufgerufen, Mitgefühl zu verteidigen. Es sei keine Schwäche, sondern das Fundament der Humanität. Zuvor hatte er mit Steinmeier an der Neuen Wache Kränze niedergelegt.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/stromsteuer-streit-koalition-analyse-100.html"
+          "name": "ORF",
+          "url": "https://orf.at/stories/3448251/"
+        },
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl-a-e630014a-fe36-4b74-a98e-11dc07c59a21"
+        }
+      ]
+    },
+    {
+      "headline": "Förderung kleiner Solaranlagen soll laut SPD bleiben",
+      "text": "Union und SPD sind sich laut SPD auf Fachebene einig, die Einspeisevergütung für Solaranlagen bis 25 Kilowatt zu erhalten. Ministerin Reiche wollte sie für neue Anlagen abschaffen. Laut Unionsfraktionsvize Müller ist ohne Einigung auf das gesamte Energiepaket nichts endgültig.",
+      "quellen": [
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben-a-6b026b8d-e1f0-4e89-83f5-cc7d948a60c1"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/spd-solarfoerderung-fuer-kleine-anlagen-soll-bleiben-100.html"
         }
       ]
     }
