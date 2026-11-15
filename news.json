@@ -1,6 +1,6 @@
 {
   "datum": "2026-11-15",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
       "headline": "Kushner dämpft Selenskyjs Äußerung zum Nato-Beitritt",
@@ -45,8 +45,8 @@
       ]
     },
     {
-      "headline": "Tausende Flüge in den USA fallen weiter aus",
-      "text": "Nach dem landesweiten Flugstopp vom Freitag fielen am Samstag laut Flight Aware mehr als 3500 US-Flüge aus. Auslöser war laut Minister Duffy ein Router, der beim Wechsel von Kupfer auf Glasfaser andere Systeme überflutete. FAA-Chef Bedford erwartet bis Sonntagabend Normalbetrieb.",
+      "headline": "Kabeltausch löste laut Minister US-Flugstopp aus",
+      "text": "Den landesweiten US-Flugstopp vom Freitag löste laut Verkehrsminister Duffy ein Router aus, der beim Wechsel von Kupfer auf Glasfaser andere Systeme überflutete. Am Samstag fielen laut Flugdaten-Diensten mehr als 5900 Flüge aus. Die FAA erwartet bis Ende Sonntag Normalbetrieb.",
       "quellen": [
         {
           "name": "BBC",
@@ -75,26 +75,26 @@
   ],
   "national": [
     {
-      "headline": "Heil tritt als erster Bewerber für SPD-Vorsitz an",
-      "text": "Ex-Arbeitsminister Hubertus Heil will als erster offizieller Bewerber an die SPD-Spitze. Gewählt wird im Januar auf einem Parteitag in Bremen. Amtsinhaber Klingbeil ließ eine erneute Bewerbung offen, laut Deutschlandfunk unterstützen Miersch und Pistorius seine Wiederwahl.",
+      "headline": "Heil fordert Klingbeil im Rennen um SPD-Vorsitz heraus",
+      "text": "Der frühere Arbeitsminister Heil hat seine Bewerbung um den SPD-Vorsitz eingereicht und tritt dafür ein, Parteivorsitz und Regierungsamt zu trennen. Umweltminister Schneider und Fraktionschef Miersch stellten sich hinter Amtsinhaber Klingbeil, der eine Kandidatur offenlässt.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/hubertus-heil-spd-partei-vorsitz-kandidatur-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/hubertus-heil-will-kandidieren-schneider-und-miersch-fuer-klingbeil-100.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/frueherer-arbeitsminister-hubertus-heil-kandidiert-fuer-spd-vorsitz-102.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html"
         }
       ]
     },
     {
-      "headline": "Kassenärzte-Chef erwartet bezahlte Termine für Kassenpatienten",
-      "text": "KBV-Chef Andreas Gassen rechnet wegen Honorarkürzungen von drei Milliarden Euro damit, dass Praxen auch Kassenpatienten selbst bezahlte Termine in der Privatsprechstunde anbieten. Der GKV-Spitzenverband sprach von Geiselhaft, SPD-Chef Klingbeil lehnte den Vorschlag ab.",
+      "headline": "Kritik an Kassenärzte-Chef wegen Selbstzahler-Terminen",
+      "text": "Kassenärzte-Chef Gassen erwartet wegen Honorarkürzungen, dass Praxen auch Kassenpatienten Termine in der Privatsprechstunde anbieten, die sie selbst zahlen. Der GKV-Spitzenverband sprach von Geiselhaft, der SoVD von sozialer Ungerechtigkeit. SPD-Chef Klingbeil lehnte das ab.",
       "quellen": [
         {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/soziales/kassenaerzte-schlagen-selbstzahler-termine-fuer-kassenpatienten-vor-a-4282bfbb-79a4-447b-b77b-812ed98bfc04"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html"
         },
         {
           "name": "Deutschlandfunk",
@@ -103,16 +103,16 @@
       ]
     },
     {
-      "headline": "Rot-Rot-Grün in Mecklenburg-Vorpommern besiegelt",
-      "text": "SPD, Linke und Grüne haben in Greifswald den Vertrag für die erste rot-rot-grüne Landesregierung in Mecklenburg-Vorpommern unterzeichnet. Zuvor stimmte die SPD in Güstrow einstimmig zu. Das Bündnis hat 39 der 71 Sitze, am Montag soll der Landtag Schwesig erneut wählen.",
+      "headline": "CSU will höhere Abschläge bei der Frührente",
+      "text": "CSU-Landesgruppenchef Hoffmann will den Abschlag je Monat vorgezogenen Rentenbeginns auf 0,4 Prozent anheben, derzeit sind es 0,3 Prozent. Bei vier Jahren wären es 19,2 statt 14,4 Prozent. Hintergrund ist, dass der Bund seinen Rentenzuschuss 2027 um drei Milliarden Euro kürzt.",
       "quellen": [
         {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3448177/"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html"
         },
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/spd-basis-stellt-sich-voll-hinter-manuela-schwesig,mvlandtag-128.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/plaene-abzuege-bei-fruehrente-sollen-von-0-3-auf-0-4-prozent-pro-monat-steigen-102.html"
         }
       ]
     },
