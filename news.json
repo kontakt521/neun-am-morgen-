@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-15",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
-      "headline": "Iran greift erneut Luftwaffenbasis in Bahrain an",
-      "text": "Iran hat am Sonntag zum zweiten Mal in drei Tagen Bahrain angegriffen. Ziel war die vom US-Militär genutzte Luftwaffenbasis Riffa. Laut Bahrains Militär wurden die Angriffe abgefangen. Irans Außenamtssprecher Baghaei nannte Angriffe auf US-Basen bei Nachbarn Selbstverteidigung.",
+      "headline": "Iran greift erneut US-Basis in Bahrain an",
+      "text": "Iran hat am Sonntag zum zweiten Mal in drei Tagen Bahrain angegriffen. Laut Revolutionsgarde galt der Angriff mit sechs Drohnen einer US-Radaranlage auf der Basis Riffa. Bahrains Militär meldete den Abschuss. Irans Außenamtssprecher Baghaei sprach von Selbstverteidigung.",
       "quellen": [
         {
           "name": "BBC",
@@ -17,27 +17,37 @@
       ]
     },
     {
-      "headline": "Selenskyj gibt Starshield-Drosselung Mitschuld an Treffern",
-      "text": "Laut Selenskyj kommen russische Drohnenangriffe auf Umspannwerke oft durch, weil Starshield-Terminals an der Front auf 161 km/h gedrosselt sind. Das erschwere das Abfangen. Starlink bestreitet eine Drosselung. In Odessa waren nach einem Treffer 41.000 Haushalte ohne Strom.",
+      "headline": "Estland will Grenzübergänge zu Russland schließen",
+      "text": "Nach einem versuchten Brandanschlag auf den Drohnenhersteller Threod Systems bei Tallinn will Estland seine drei Straßenübergänge nach Russland ab 1. Dezember schließen. Acht Verdächtige wurden festgenommen. Laut estnischem Geheimdienst gab Russlands GRU die Tat in Auftrag.",
       "quellen": [
         {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/starshield-speed-restrictions-hamper-ukraines-ability-to-defend-energy-infrastructure-against-russian-jet-powered-drones-zelensky-says/"
+          "name": "ERR",
+          "url": "https://news.err.ee/1610196794/estonia-to-close-border-crossings-with-russia-after-gru-linked-sabotage-attacks"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy"
+          "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker"
         }
       ]
     },
     {
-      "headline": "Trump, Putin und Xi wollen sich in Shenzhen treffen",
-      "text": "Trump, Putin und Xi wollen sich laut Weißem Haus am Rande des Apec-Gipfels am 18. und 19. November in Shenzhen erstmals zu dritt treffen. Hauptthema soll die Abrüstung von Atomwaffen sein, auch der Iran-Krieg, nicht aber die Ukraine. Abkommen werden nicht erwartet.",
+      "headline": "Selenskyj fordert Aufhebung der Starshield-Drosselung",
+      "text": "Selenskyj hat die USA und Musk aufgefordert, die Drosselung des Dienstes Starshield zu beenden. Kiews Abfangdrohnen verlören bei 161 km/h die Verbindung und holten russische Jet-Drohnen nicht ein. Russland setzte laut Selenskyj binnen einer Woche über 2300 Angriffsdrohnen ein.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/ckz74jzpy18do"
+          "url": "https://www.bbc.com/news/articles/c6m25zg88k45o"
         },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/starshield-speed-restrictions-hamper-ukraines-ability-to-defend-energy-infrastructure-against-russian-jet-powered-drones-zelensky-says/"
+        }
+      ]
+    },
+    {
+      "headline": "Trump, Putin und Xi treffen sich erstmals zu dritt",
+      "text": "Trump, Putin und Xi treffen sich laut Weißem Haus am Rande des Apec-Gipfels am 18. und 19. November in Shenzhen erstmals zu dritt. Hauptthema ist laut einem US-Beamten die nukleare Nichtverbreitung, auch über den Iran-Krieg soll geredet werden, nicht über die Ukraine.",
+      "quellen": [
         {
           "name": "Kyiv Independent",
           "url": "https://kyivindependent.com/historic-first-summit-among-trump-xi-putin-will-not-focus-on-ukraine-white-house-says/"
@@ -45,56 +55,60 @@
       ]
     },
     {
-      "headline": "Israel tötet Kommandeur der Hamas im Süden Gazas",
-      "text": "Israel hat am Samstag bei einem Luftangriff auf ein Zelt von Vertriebenen in al-Mawasi Samir Abu Younis getötet, den Kommandeur der Rafah-Brigade der Hamas. Die Hamas bestätigte den Tod. Seit der Waffenruhe 2025 starben laut Gesundheitsministerium mindestens 1643 Palästinenser.",
+      "headline": "Tausende US-Flüge fallen auch am Sonntag aus",
+      "text": "Zwei Tage nach dem landesweiten Flugstopp fielen in den USA am Sonntag 2000 Flüge aus, über 5000 waren verspätet. Verkehrsminister Duffy erwartet Normalbetrieb erst am Montag. Ursache war laut ihm ein Router, eingebaut beim Glasfaser-Umbau durch L3Harris.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
-        }
-      ]
-    },
-    {
-      "headline": "Router bei Kabeltausch löste US-Flugstopp aus",
-      "text": "Den US-Flugstopp am Freitag löste laut Verkehrsminister Duffy ein Router aus, den L3Harris beim Umstieg auf Glasfaser einbaute und der andere Systeme überflutete. Am Sonntagmorgen waren noch rund 1400 Flüge gestrichen. Duffy veranschlagt 50 Milliarden Dollar für eine Erneuerung.",
-      "quellen": [
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cw1mdlv0k2r4o"
+        },
         {
           "name": "NPR",
           "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqx2wyvyr3zzo"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "SPD-Minister stärken Klingbeil gegen Herausforderer Heil",
-      "text": "Nach der Bewerbung von Hubertus Heil um den SPD-Vorsitz haben sich Umweltminister Schneider, Verteidigungsminister Pistorius und Fraktionschef Miersch für Parteichef Klingbeil ausgesprochen. Er lässt eine Kandidatur offen, die Jusos sind dagegen. Gewählt wird im Januar in Bremen.",
+      "headline": "Heil will Parteivorsitz und Regierungsämter trennen",
+      "text": "Hubertus Heil will als SPD-Chef Partei- und Regierungsämter trennen, Klingbeil solle aber seine Regierungsämter behalten. Die SPD Sachsen-Anhalt nominierte Heil. Fraktionschef Miersch und Minister Schneider unterstützen Klingbeil. Der Parteitag ist im Januar in Bremen.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/lies-warnt-spd-vor-selbstbeschaeftigung-rueckhalt-fuer-klingbeil-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/spd-vorsitz-kandidatur-hubertus-heil-andreas-schmidt-cdu-100.html"
         }
       ]
     },
     {
       "headline": "Breite Kritik an Gassens Vorstoß zu Selbstzahler-Terminen",
-      "text": "Kassenärzte-Chef Gassen erwartet wegen Honorarkürzungen, dass Praxen auch Kassenpatienten selbst bezahlte Privatsprechstunden anbieten. Der GKV-Spitzenverband nannte das eine Angst-Kampagne, Grünen-Politiker Dahmen warnte vor Paywall-Medizin. SPD-Chef Klingbeil lehnte das ab.",
+      "text": "Kassenärzte-Chef Gassen erwartet wegen Honorarkürzungen von laut ihm drei Milliarden Euro, dass Praxen auch Kassenpatienten Selbstzahler-Sprechstunden anbieten. Der GKV-Spitzenverband nennt das eine Angst-Kampagne, die Grünen warnen vor Paywall-Medizin. Klingbeil lehnt das ab.",
       "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/arzttermine-selbst-zahlen-debatte-100.html"
-        },
         {
           "name": "Deutschlandfunk",
           "url": "https://www.deutschlandfunk.de/sprechstunde-nur-fuer-selbstzahler-kritik-an-vorstoss-von-kassenaerzte-chef-gassen-100.html"
+        },
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/arzttermine-selbst-zahlen-debatte-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Ramelow fordert Emde zum Verlassen der Linksfraktion auf",
+      "text": "Ramelow hat die Berliner Linken-Abgeordnete Vanessa Emde aufgefordert, die Fraktion von sich aus zu verlassen. Sie habe das Sondierungspapier mit SPD und Grünen unterzeichnet und tags darauf das Gegenteil gesagt. Emde wird vorgeworfen, das Existenzrecht Israels anzuzweifeln.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/ramelow-linke-koalition-berlin-emde-fraktionsausschluss-100.html"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/ramelow-fordert-emde-zum-freiwilligen-verlassen-der-fraktion-auf-100.html"
         }
       ]
     },
@@ -109,20 +123,6 @@
         {
           "name": "Spiegel",
           "url": "https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl-a-e630014a-fe36-4b74-a98e-11dc07c59a21"
-        }
-      ]
-    },
-    {
-      "headline": "Förderung kleiner Solaranlagen soll laut SPD bleiben",
-      "text": "Union und SPD sind sich laut SPD auf Fachebene einig, die Einspeisevergütung für Solaranlagen bis 25 Kilowatt zu erhalten. Ministerin Reiche wollte sie für neue Anlagen abschaffen. Laut Unionsfraktionsvize Müller ist ohne Einigung auf das gesamte Energiepaket nichts endgültig.",
-      "quellen": [
-        {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben-a-6b026b8d-e1f0-4e89-83f5-cc7d948a60c1"
-        },
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/spd-solarfoerderung-fuer-kleine-anlagen-soll-bleiben-100.html"
         }
       ]
     }
