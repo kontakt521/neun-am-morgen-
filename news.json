@@ -1,24 +1,24 @@
 {
-  "datum": "2026-11-14",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-15",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "USA bringen laut Selenskyj Nato-Beitritt gegen Donbas ins Spiel",
-      "text": "US-Unterhändler haben laut Präsident Selenskyj erstmals gefragt, ob die Ukraine bei einem Nato-Beitritt aus dem Donbas abziehen würde. Über ein Paket mit Sicherheitsgarantien und Geld für den Wiederaufbau will er dann abstimmen lassen. Das Weiße Haus äußerte sich nicht.",
+      "headline": "Kushner dämpft Selenskyjs Äußerung zum Nato-Beitritt",
+      "text": "Laut Präsident Selenskyj fragten US-Unterhändler erstmals, ob die Ukraine für einen Nato-Beitritt aus dem Donbas abziehen würde. Die USA bestätigten das nicht. Der Gesandte Kushner mahnte Vertraulichkeit an und will nach eigenen Worten Gespräche Europas mit Russland vermitteln.",
       "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
         },
         {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-withdrawal-zelensky-says/"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine"
         }
       ]
     },
     {
-      "headline": "Trump, Putin und Xi wollen sich in China treffen",
-      "text": "Trump, Putin und Xi planen laut Weißem Haus am Rande des Apec-Gipfels am 18. und 19. November in Shenzhen ihr erstes Dreiertreffen. Thema soll der Abbau von Atomwaffen sein, auch der Iran-Krieg, nicht aber die Ukraine. Laut einem US-Vertreter wird kein Abkommen erwartet.",
+      "headline": "Trump, Putin und Xi wollen sich in Shenzhen treffen",
+      "text": "Trump, Putin und Xi planen laut Weißem Haus kommende Woche beim Apec-Gipfel in Shenzhen ein erstes Dreiertreffen. Trump will über den Abbau von Atomwaffen reden, auch über den Iran-Krieg, nicht aber über die Ukraine. Russland bestätigte das Treffen, China noch nicht.",
       "quellen": [
         {
           "name": "BBC",
@@ -26,95 +26,103 @@
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
+          "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
         }
       ]
     },
     {
-      "headline": "Umbau an Leitung soll US-Flugstopp ausgelöst haben",
-      "text": "Verkehrsminister Duffy führt den US-weiten Flugstopp vom Freitag auf Wartung zurück. Ein auf Glasfaser umgestellter Router habe das Netz der Flugsicherung überflutet. Geprüft wird ein Fehler der Firma L3Harris oder ein Defekt. An einen Cyberangriff glaubt die Regierung nicht.",
+      "headline": "Iran meldet drei Tanker nach Minentreffern in Brand",
+      "text": "Laut der iranischen Marine und den Revolutionsgarden sind am Samstag drei Öltanker in der Straße von Hormus auf Minen gelaufen und in Brand geraten. Sie sollen ihre Ortungssysteme abgeschaltet haben. Namen nannte Iran nicht, Reuters konnte die Angaben zunächst nicht prüfen.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9"
+          "name": "Reuters",
+          "url": "https://www.yahoo.com/news/world/articles/irans-navy-says-three-tankers-225347151.html"
         },
         {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports"
+          "name": "Middle East Eye",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-three-tankers-hit-mines-hormuz-fire"
         }
       ]
     },
     {
-      "headline": "Iran meldet drei brennende Tanker in der Straße von Hormus",
-      "text": "Irans Behörden meldeten am Samstag, drei Öltanker seien in gesperrten Zonen der Straße von Hormus auf Minen gelaufen und in Brand geraten. Laut UN starben in und um die Meerenge seit Februar mindestens 25 Seeleute. Das US-Militär gibt an, die Hauptrouten geräumt zu haben.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february"
-        }
-      ]
-    },
-    {
-      "headline": "Ermittler in Ungarn finden versteckte Millionen",
-      "text": "Bei Ermittlungen gegen Ex-Entwicklungsminister Miklós Seszták hat die Behörde NVVH Bargeld im Wert von 19,5 Millionen Dollar gefunden, versteckt in Tresoren, Gebäuden und Wäldern. Seszták soll bestochen worden sein, was er bestreitet. Premier Magyar sprach vom Ende der Mafia.",
+      "headline": "Tausende Flüge in den USA fallen weiter aus",
+      "text": "Nach dem landesweiten Flugstopp vom Freitag fielen am Samstag laut Flight Aware mehr als 3500 US-Flüge aus. Auslöser war laut Minister Duffy ein Router, der beim Wechsel von Kupfer auf Glasfaser andere Systeme überflutete. FAA-Chef Bedford erwartet bis Sonntagabend Normalbetrieb.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo"
+          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel"
+        }
+      ]
+    },
+    {
+      "headline": "SpaceX fängt Starship erstmals nach Raumflug auf",
+      "text": "Die Oberstufe des Starship ist am Samstag nach 14 Erdumrundungen zur Startrampe in Texas zurückgekehrt und wurde dort von mechanischen Armen gefangen, erstmals nach einem Flug ins All. Der Booster explodierte dagegen kurz nach dem Start am Freitag. Die Nasa begrüßte den Erfolg.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Hubertus Heil kandidiert für den SPD-Vorsitz",
-      "text": "Ex-Arbeitsminister Heil will im Januar in Bremen für die SPD-Spitze antreten und ist der erste offizielle Bewerber. In einem Brief verspricht er, sich voll dem Amt zu widmen. Amtsinhaber Klingbeil, auch Vizekanzler und Finanzminister, ließ eine Kandidatur bisher offen.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html"
-        },
-        {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/deutschland/spd-hubertus-heil-will-fuer-parteivorsitz-kandidieren-a-f9209fb9-0404-43be-b66d-b2207e7e6aaa"
-        }
-      ]
-    },
-    {
-      "headline": "Merz beharrt auf Senkung der Stromsteuer ab 2027",
-      "text": "Kanzler Friedrich Merz will die Stromsteuer ab 2027 auch für Privathaushalte auf das EU-Minimum senken. Im Etatentwurf fehlen dafür etwa 5,4 Milliarden Euro, Finanzminister Klingbeil verlangt eine Gegenfinanzierung. Merz will das am Dienstag im Koalitionsausschuss ansprechen.",
+      "headline": "Heil tritt als erster Bewerber für SPD-Vorsitz an",
+      "text": "Ex-Arbeitsminister Hubertus Heil will als erster offizieller Bewerber an die SPD-Spitze. Gewählt wird im Januar auf einem Parteitag in Bremen. Amtsinhaber Klingbeil ließ eine erneute Bewerbung offen, laut Deutschlandfunk unterstützen Miersch und Pistorius seine Wiederwahl.",
       "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/merz-klingbeil-stromsteuer-senkung-debatte-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/hubertus-heil-spd-partei-vorsitz-kandidatur-100.html"
         },
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-haushalt-kritik-merz-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/frueherer-arbeitsminister-hubertus-heil-kandidiert-fuer-spd-vorsitz-102.html"
         }
       ]
     },
     {
-      "headline": "Bayern nimmt mit Staatsakt Abschied von Hubert Aiwanger",
-      "text": "Mit Requiem und Trauerstaatsakt in der Münchner Frauenkirche hat Bayern den gestorbenen Vize-Regierungschef Hubert Aiwanger geehrt. Mehr als 1000 Gäste kamen. Söder sagte, ganz Bayern trauere. Der 55-Jährige war tot in einem Berliner Hotelzimmer gefunden worden.",
+      "headline": "Kassenärzte-Chef erwartet bezahlte Termine für Kassenpatienten",
+      "text": "KBV-Chef Andreas Gassen rechnet wegen Honorarkürzungen von drei Milliarden Euro damit, dass Praxen auch Kassenpatienten selbst bezahlte Termine in der Privatsprechstunde anbieten. Der GKV-Spitzenverband sprach von Geiselhaft, SPD-Chef Klingbeil lehnte den Vorschlag ab.",
       "quellen": [
         {
           "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-hubert-aiwanger-a-e986f8ab-d9b9-4faf-adf7-d167c63eb24b"
+          "url": "https://www.spiegel.de/wirtschaft/soziales/kassenaerzte-schlagen-selbstzahler-termine-fuer-kassenpatienten-vor-a-4282bfbb-79a4-447b-b77b-812ed98bfc04"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/aiwanger-staatsakt-trauerfeier-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/kritik-an-selbstzahler-vorstoss-von-gassen-100.html"
         }
       ]
     },
     {
-      "headline": "Deutschland und vier EU-Staaten planen Abschiebezentrum in Ruanda",
-      "text": "Deutschland, Dänemark, die Niederlande, Österreich und Griechenland wollen laut AFP mit Ruanda ein Abkommen schließen. Dort soll ein Zentrum für abgelehnte Asylbewerber entstehen, deren Heimat sie nicht zurücknimmt. Erste Flüge sind laut SZ Mitte 2027 geplant.",
+      "headline": "Rot-Rot-Grün in Mecklenburg-Vorpommern besiegelt",
+      "text": "SPD, Linke und Grüne haben in Greifswald den Vertrag für die erste rot-rot-grüne Landesregierung in Mecklenburg-Vorpommern unterzeichnet. Zuvor stimmte die SPD in Güstrow einstimmig zu. Das Bündnis hat 39 der 71 Sitze, am Montag soll der Landtag Schwesig erneut wählen.",
       "quellen": [
         {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/rwanda-soll-abgelehnte-asylbewerber-aus-deutschland-aufnehmen-fuenf-eu-staaten-wollen-abkommen-schliessen-ld.10064010"
+          "name": "ORF",
+          "url": "https://orf.at/stories/3448177/"
+        },
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/spd-basis-stellt-sich-voll-hinter-manuela-schwesig,mvlandtag-128.html"
+        }
+      ]
+    },
+    {
+      "headline": "Merz beharrt vor Koalitionsausschuss auf Stromsteuersenkung",
+      "text": "Kanzler Merz hat erneut zugesagt, die Stromsteuer zum Jahresbeginn auf das EU-Minimum zu senken. Im Haushaltsentwurf ist dafür kein Geld vorgesehen, Finanzminister Klingbeil lehnt ungedeckte Steuerausfälle ab. Am Dienstag tagt der Koalitionsausschuss.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/stromsteuer-streit-koalition-analyse-100.html"
         }
       ]
     }
