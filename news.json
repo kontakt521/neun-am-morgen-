@@ -1,86 +1,114 @@
 {
   "datum": "2026-11-16",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "Iran meldet Untergang eines Supertankers in Hormus",
-      "text": "Ein Supertanker mit über zwei Millionen Barrel Öl ist laut Irans Revolutionsgarden in der Straße von Hormus nach einem Minentreffer gesunken, unabhängig bestätigt ist das nicht. Iran griff am Sonntag laut eigenen Angaben eine US-Radaranlage in Bahrain an, das Abschüsse meldete.",
-      "quellen": [
-        {
-          "name": "Telegraph (Yahoo)",
-          "url": "https://www.yahoo.com/news/world/articles/iran-attacks-us-military-bahrain-144206998.html"
-        },
-        {
-          "name": "Gulf News",
-          "url": "https://gulfnews.com/world/mena/iran-says-supertanker-with-2-million-barrels-of-oil-sank-in-gulf-1.500748289"
-        }
-      ]
-    },
-    {
-      "headline": "Hunderttausende protestieren in Prag für öffentliche Sender",
-      "text": "In Prag haben am Sonntag laut Medienberichten 350.000 bis 400.000 Menschen gegen den Plan der Regierung Babiš protestiert, Tschechiens öffentliches Fernsehen und Radio künftig aus dem Staatshaushalt statt über Gebühren zu finanzieren. Babiš will an dem Gesetz festhalten.",
-      "quellen": [
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/15/hundreds-of-thousands-in-prague-protest-czech-governments-public-media-funding-plans"
-        },
-        {
-          "name": "UPI (Yahoo)",
-          "url": "https://www.yahoo.com/news/world/articles/massive-prague-protest-targets-changes-002139673.html"
-        }
-      ]
-    },
-    {
-      "headline": "Estland schließt ab Dezember Grenzübergänge zu Russland",
-      "text": "Nach einem versuchten Brandanschlag auf den Drohnenhersteller Threod Systems schließt Estland ab 1. Dezember die Grenzübergänge zu Russland. Acht Verdächtige wurden festgenommen. Laut estnischen Behörden gab Russlands GRU die Tat in Auftrag, Moskau spricht von Russophobie.",
+      "headline": "Dritter US-Flugzeugträger trifft im Nahen Osten ein",
+      "text": "Die USS Theodore Roosevelt ist laut einem US-Vertreter im Nahen Osten angekommen, damit operieren dort drei US-Flugzeugträger. Pentagon und Centcom bestätigten das nicht formell. Irans Revolutionsgarden griffen am Sonntag nach eigenen Angaben mit Drohnen eine Basis in Bahrain an.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker"
+          "url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume"
         },
         {
-          "name": "CNN",
-          "url": "https://www.cnn.com/2026/11/15/europe/estonia-close-russian-border-attack-intl"
+          "name": "The National",
+          "url": "https://www.thenationalnews.com/news/us/2026/11/16/uss-theodore-roosevelt-middle-east-centcom/"
         }
       ]
     },
     {
-      "headline": "China bestätigt ersten Dreiergipfel mit Trump und Putin",
-      "text": "Chinas Außenministerium hat am Montag bestätigt, dass sich Xi Jinping am Donnerstag in Shenzhen mit Trump und Putin zum ersten Dreiergipfel trifft. Themen nannte Peking nicht. Laut US-Beamten will Trump über weniger Atomwaffen und den Iran-Krieg reden, nicht über die Ukraine.",
+      "headline": "Jemens Armee räumt Gebiet an der Meerenge Bab al-Mandab",
+      "text": "Jemens regierungstreue Truppen ziehen sich aus dem Gebiet an der Meerenge Bab al-Mandab zurück, um die Interimshauptstadt Aden zu sichern. Laut Huthi-Medien kontrollieren die proiranischen Huthi nun das Gebiet. Im Oktober hatten die Truppen es nach eigenen Angaben gesichert.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqvg2xgyvnjpo"
+        },
+        {
+          "name": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/15/southern-yemeni-forces-withdraw-from-area-near-bab-al-mandab/"
+        }
+      ]
+    },
+    {
+      "headline": "Xi, Trump und Putin treffen sich am Donnerstag in Shenzhen",
+      "text": "Chinas Außenministerium hat das erste Dreiertreffen von Xi Jinping, Trump und Putin für Donnerstag in Shenzhen bestätigt, ohne Themen zu nennen. Laut einem US-Vertreter soll es vor allem um atomare Abrüstung gehen, nicht um die Ukraine. Neue Abkommen werden nicht erwartet.",
       "quellen": [
         {
           "name": "Japan Times",
           "url": "https://www.japantimes.co.jp/news/2026/11/16/asia-pacific/politics/china-confirms-xi-trump-putin-summit/"
         },
         {
-          "name": "CNN",
-          "url": "https://www.cnn.com/2026/11/13/politics/trump-putin-xi-meeting"
+          "name": "Kyiv Independent",
+          "url": "https://www.kyivindependent.com/historic-first-summit-among-trump-xi-putin-will-not-focus-on-ukraine-white-house-says/"
         }
       ]
     },
     {
-      "headline": "Russland greift Energie- und Bahnanlagen der Ukraine an",
-      "text": "Russische Angriffe auf Energie- und Bahnanlagen in acht ukrainischen Regionen forderten am Wochenende laut Behörden vier Tote und 69 Verletzte. Selenskyj gibt der Starshield-Drosselung eine Mitschuld. In Nischnekamsk beschädigten Drohnen laut dem Bürgermeister Industrieanlagen.",
+      "headline": "Verkehr auf der Krim-Brücke nach Angriff eingeschränkt",
+      "text": "Die Krim-Brücke ist am Montag laut dem russischen Krim-Chef Aksjonow getroffen worden, der Verkehr sollte bis etwa Mittag eingeschränkt bleiben. Kiew schwieg. Selenskyj verlangte von den USA und Musk, die Drosselung von Starshield aufzuheben, die die Drohnenabwehr behindere.",
       "quellen": [
         {
-          "name": "Telegraph (Yahoo)",
-          "url": "https://www.yahoo.com/news/world/articles/zelensky-starlink-slowdown-allowed-wave-155958719.html"
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-reportedly-strikes-crimean-bridge-forcing-temporary-traffic-halt/"
         },
         {
-          "name": "Arab News",
-          "url": "https://arabnews.pk/world/zelensky-says-russias-energy-attacks-helped-by-starshield-restrictions-3007139"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6m25zg88k45o"
+        }
+      ]
+    },
+    {
+      "headline": "Megaspeed weist Vorwürfe im Nvidia-Skandal zurück",
+      "text": "Die Singapurer Firma Megaspeed, größter Abnehmer von Nvidia-Chips in Südostasien, nennt Berichte über ihr Geschäft unbelegt und lässt intern ermitteln. Die mutmaßliche chinesische Spionin Alice Huang sei im August 2025 ausgeschieden. Peking bestreitet die Spionagevorwürfe.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cmdx1vpprk9vo"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Heil fordert Klingbeil im Kampf um den SPD-Vorsitz heraus",
-      "text": "Ex-Arbeitsminister Heil bewirbt sich um den SPD-Vorsitz und will Partei- und Regierungsämter trennen, Klingbeil solle aber Vizekanzler bleiben. Ob Klingbeil erneut antritt, ist offen, Fraktionschef Miersch und Umweltminister Schneider stützen ihn. Gewählt wird im Januar.",
+      "headline": "Ex-Assistent soll BND-Akten über Leibwächter geschmuggelt haben",
+      "text": "Im Spionagefall Hanning soll der frühere Assistent des Ex-BND-Chefs, Manfred D., laut SZ, NDR und WDR Geheimpapiere auch über die Personenschützer des BND-Präsidenten aus der Zentrale gebracht haben, die an den Schleusen offenbar in der Regel nicht durchsucht werden.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html"
+          "url": "https://www.tagesschau.de/investigativ/ndr-wdr/bnd-hanning-108.html"
+        },
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/deutschland/bnd-august-hannings-mutmasslicher-komplize-soll-geheime-dokumente-aus-bnd-zentrale-geschmuggelt-haben-a-6422c816-f371-427d-96c3-59323107119b"
+        }
+      ]
+    },
+    {
+      "headline": "Söder hält Stromsteuersenkung weiter für finanzierbar",
+      "text": "Vor dem Koalitionsausschuss am Dienstag hält CSU-Chef Söder eine Stromsteuersenkung für alle noch für möglich und nennt sie eine Frage der Glaubwürdigkeit. Die Ausweitung der Mütterrente will er dafür nicht zurücknehmen. Im Haushalt fehlen die nötigen etwa 5,4 Milliarden Euro.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-soeder-stromsteuer-moeglich-koalition-muetterrente-100.html"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/soeder-csu-koalition-haushalt-stromsteuer-muetterrente-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "SPD-Spitzen stellen sich nach Heils Bewerbung hinter Klingbeil",
+      "text": "Nach Heils Bewerbung um den SPD-Vorsitz sprechen sich Fraktionschef Miersch sowie die Minister Schneider, Pistorius, Hubig und Hubertz für einen Verbleib Klingbeils aus. Heil kritisiert Klingbeils Doppelrolle als Parteichef und Vizekanzler.",
+      "quellen": [
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/lies-warnt-spd-vor-selbstbeschaeftigung-rueckhalt-fuer-klingbeil-102.html"
         },
         {
           "name": "NZZ",
@@ -89,40 +117,12 @@
       ]
     },
     {
-      "headline": "Söder drängt vor Koalitionsausschuss auf Stromsteuersenkung",
-      "text": "CSU-Chef Söder fordert vor dem Koalitionsausschuss am Dienstag eine Lösung bei Stromsteuer und kalter Progression. Merz hatte gesagt, die Senkung für alle komme vorerst nicht, im Etat fehlten über fünf Milliarden Euro. Finanzminister Klingbeil verlangt eine Gegenfinanzierung.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/soeder-csu-koalition-haushalt-stromsteuer-muetterrente-100.html"
-        },
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/csu-chef-soeder-schliesst-verzicht-auf-erhoehung-der-muetterrente-aus-102.html"
-        }
-      ]
-    },
-    {
-      "headline": "Industrie streicht binnen eines Jahres 140.000 Stellen",
-      "text": "In der deutschen Industrie arbeiteten Ende September laut einer EY-Studie 5,3 Millionen Menschen, 140.200 weniger als im Vorjahr. Im dritten Quartal wuchs dabei der Umsatz um 4,6 Prozent. In der Autobranche gingen 36.100 Stellen verloren, seit 2019 sind es insgesamt rund 405.800.",
-      "quellen": [
-        {
-          "name": "t-online (dpa)",
-          "url": "https://www.t-online.de/finanzen/aktuelles/id_101530160/industrie-steigert-umsatz-doch-140000-jobs-fallen-weg.html"
-        },
-        {
-          "name": "Tagesspiegel (dpa)",
-          "url": "https://www.tagesspiegel.de/wirtschaft/dpa-konjunktur-industrie-steigert-umsatz-doch-140000-jobs-fallen-weg-16287915.html"
-        }
-      ]
-    },
-    {
-      "headline": "Schwesig stellt sich im Landtag zur Wiederwahl",
-      "text": "Manuela Schwesig soll am Montag erneut zur Ministerpräsidentin von Mecklenburg-Vorpommern gewählt werden. Das erste rot-rot-grüne Bündnis im Land hat 39 Landtagssitze, einzige Oppositionspartei ist die AfD mit 32. Die SPD erhält fünf Ministerposten, Linke zwei und Grüne einen.",
+      "headline": "Schwesig stellt sich im Schweriner Landtag zur Wiederwahl",
+      "text": "Manuela Schwesig stellt sich am Montagnachmittag im Landtag erneut zur Wahl als Ministerpräsidentin von Mecklenburg-Vorpommern. Ihr Dreierbündnis hat 39 Sitze, einzige Oppositionspartei ist die AfD mit 32. Ob Schwesig für den SPD-Vorsitz kandidiert, lässt sie weiter offen.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/spd-basis-stellt-sich-voll-hinter-manuela-schwesig,mvlandtag-128.html"
+          "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/schwesig-vor-wiederwahl-in-mv-ministerpraesidentin-laesst-kandidatur-fuer-spd-vorsitz-noch-offen,mvlandtag-120.html"
         },
         {
           "name": "Deutschlandfunk",
