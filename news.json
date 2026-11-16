@@ -1,128 +1,132 @@
 {
-  "datum": "2026-11-15",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-16",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Iran greift erneut US-Basis in Bahrain an",
-      "text": "Iran hat am Sonntag zum zweiten Mal in drei Tagen Bahrain angegriffen. Laut Revolutionsgarde galt der Angriff mit sechs Drohnen einer US-Radaranlage auf der Basis Riffa. Bahrains Militär meldete den Abschuss. Irans Außenamtssprecher Baghaei sprach von Selbstverteidigung.",
+      "headline": "Iran meldet Untergang eines Supertankers in Hormus",
+      "text": "Ein Supertanker mit über zwei Millionen Barrel Öl ist laut Irans Revolutionsgarden in der Straße von Hormus nach einem Minentreffer gesunken, unabhängig bestätigt ist das nicht. Iran griff am Sonntag laut eigenen Angaben eine US-Radaranlage in Bahrain an, das Abschüsse meldete.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqn4e2py48kwo"
+          "name": "Telegraph (Yahoo)",
+          "url": "https://www.yahoo.com/news/world/articles/iran-attacks-us-military-bahrain-144206998.html"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us"
+          "name": "Gulf News",
+          "url": "https://gulfnews.com/world/mena/iran-says-supertanker-with-2-million-barrels-of-oil-sank-in-gulf-1.500748289"
         }
       ]
     },
     {
-      "headline": "Estland will Grenzübergänge zu Russland schließen",
-      "text": "Nach einem versuchten Brandanschlag auf den Drohnenhersteller Threod Systems bei Tallinn will Estland seine drei Straßenübergänge nach Russland ab 1. Dezember schließen. Acht Verdächtige wurden festgenommen. Laut estnischem Geheimdienst gab Russlands GRU die Tat in Auftrag.",
+      "headline": "Hunderttausende protestieren in Prag für öffentliche Sender",
+      "text": "In Prag haben am Sonntag laut Medienberichten 350.000 bis 400.000 Menschen gegen den Plan der Regierung Babiš protestiert, Tschechiens öffentliches Fernsehen und Radio künftig aus dem Staatshaushalt statt über Gebühren zu finanzieren. Babiš will an dem Gesetz festhalten.",
       "quellen": [
         {
-          "name": "ERR",
-          "url": "https://news.err.ee/1610196794/estonia-to-close-border-crossings-with-russia-after-gru-linked-sabotage-attacks"
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/15/hundreds-of-thousands-in-prague-protest-czech-governments-public-media-funding-plans"
         },
+        {
+          "name": "UPI (Yahoo)",
+          "url": "https://www.yahoo.com/news/world/articles/massive-prague-protest-targets-changes-002139673.html"
+        }
+      ]
+    },
+    {
+      "headline": "Estland schließt ab Dezember Grenzübergänge zu Russland",
+      "text": "Nach einem versuchten Brandanschlag auf den Drohnenhersteller Threod Systems schließt Estland ab 1. Dezember die Grenzübergänge zu Russland. Acht Verdächtige wurden festgenommen. Laut estnischen Behörden gab Russlands GRU die Tat in Auftrag, Moskau spricht von Russophobie.",
+      "quellen": [
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker"
-        }
-      ]
-    },
-    {
-      "headline": "Selenskyj fordert Aufhebung der Starshield-Drosselung",
-      "text": "Selenskyj hat die USA und Musk aufgefordert, die Drosselung des Dienstes Starshield zu beenden. Kiews Abfangdrohnen verlören bei 161 km/h die Verbindung und holten russische Jet-Drohnen nicht ein. Russland setzte laut Selenskyj binnen einer Woche über 2300 Angriffsdrohnen ein.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6m25zg88k45o"
         },
         {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/starshield-speed-restrictions-hamper-ukraines-ability-to-defend-energy-infrastructure-against-russian-jet-powered-drones-zelensky-says/"
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/11/15/europe/estonia-close-russian-border-attack-intl"
         }
       ]
     },
     {
-      "headline": "Trump, Putin und Xi treffen sich erstmals zu dritt",
-      "text": "Trump, Putin und Xi treffen sich laut Weißem Haus am Rande des Apec-Gipfels am 18. und 19. November in Shenzhen erstmals zu dritt. Hauptthema ist laut einem US-Beamten die nukleare Nichtverbreitung, auch über den Iran-Krieg soll geredet werden, nicht über die Ukraine.",
+      "headline": "China bestätigt ersten Dreiergipfel mit Trump und Putin",
+      "text": "Chinas Außenministerium hat am Montag bestätigt, dass sich Xi Jinping am Donnerstag in Shenzhen mit Trump und Putin zum ersten Dreiergipfel trifft. Themen nannte Peking nicht. Laut US-Beamten will Trump über weniger Atomwaffen und den Iran-Krieg reden, nicht über die Ukraine.",
       "quellen": [
         {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/historic-first-summit-among-trump-xi-putin-will-not-focus-on-ukraine-white-house-says/"
-        }
-      ]
-    },
-    {
-      "headline": "Tausende US-Flüge fallen auch am Sonntag aus",
-      "text": "Zwei Tage nach dem landesweiten Flugstopp fielen in den USA am Sonntag 2000 Flüge aus, über 5000 waren verspätet. Verkehrsminister Duffy erwartet Normalbetrieb erst am Montag. Ursache war laut ihm ein Router, eingebaut beim Glasfaser-Umbau durch L3Harris.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cw1mdlv0k2r4o"
+          "name": "Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/16/asia-pacific/politics/china-confirms-xi-trump-putin-summit/"
         },
         {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel"
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/11/13/politics/trump-putin-xi-meeting"
+        }
+      ]
+    },
+    {
+      "headline": "Russland greift Energie- und Bahnanlagen der Ukraine an",
+      "text": "Russische Angriffe auf Energie- und Bahnanlagen in acht ukrainischen Regionen forderten am Wochenende laut Behörden vier Tote und 69 Verletzte. Selenskyj gibt der Starshield-Drosselung eine Mitschuld. In Nischnekamsk beschädigten Drohnen laut dem Bürgermeister Industrieanlagen.",
+      "quellen": [
+        {
+          "name": "Telegraph (Yahoo)",
+          "url": "https://www.yahoo.com/news/world/articles/zelensky-starlink-slowdown-allowed-wave-155958719.html"
+        },
+        {
+          "name": "Arab News",
+          "url": "https://arabnews.pk/world/zelensky-says-russias-energy-attacks-helped-by-starshield-restrictions-3007139"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Heil will Parteivorsitz und Regierungsämter trennen",
-      "text": "Hubertus Heil will als SPD-Chef Partei- und Regierungsämter trennen, Klingbeil solle aber seine Regierungsämter behalten. Die SPD Sachsen-Anhalt nominierte Heil. Fraktionschef Miersch und Minister Schneider unterstützen Klingbeil. Der Parteitag ist im Januar in Bremen.",
+      "headline": "Heil fordert Klingbeil im Kampf um den SPD-Vorsitz heraus",
+      "text": "Ex-Arbeitsminister Heil bewirbt sich um den SPD-Vorsitz und will Partei- und Regierungsämter trennen, Klingbeil solle aber Vizekanzler bleiben. Ob Klingbeil erneut antritt, ist offen, Fraktionschef Miersch und Umweltminister Schneider stützen ihn. Gewählt wird im Januar.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/spd-vorsitz-kandidatur-hubertus-heil-andreas-schmidt-cdu-100.html"
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/politik/hubertus-heil-will-chef-der-deutschen-sozialdemokraten-werden-doch-der-widerstand-formiert-sich-schon-ld.10064425"
         }
       ]
     },
     {
-      "headline": "Breite Kritik an Gassens Vorstoß zu Selbstzahler-Terminen",
-      "text": "Kassenärzte-Chef Gassen erwartet wegen Honorarkürzungen von laut ihm drei Milliarden Euro, dass Praxen auch Kassenpatienten Selbstzahler-Sprechstunden anbieten. Der GKV-Spitzenverband nennt das eine Angst-Kampagne, die Grünen warnen vor Paywall-Medizin. Klingbeil lehnt das ab.",
+      "headline": "Söder drängt vor Koalitionsausschuss auf Stromsteuersenkung",
+      "text": "CSU-Chef Söder fordert vor dem Koalitionsausschuss am Dienstag eine Lösung bei Stromsteuer und kalter Progression. Merz hatte gesagt, die Senkung für alle komme vorerst nicht, im Etat fehlten über fünf Milliarden Euro. Finanzminister Klingbeil verlangt eine Gegenfinanzierung.",
       "quellen": [
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/sprechstunde-nur-fuer-selbstzahler-kritik-an-vorstoss-von-kassenaerzte-chef-gassen-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/soeder-csu-koalition-haushalt-stromsteuer-muetterrente-100.html"
         },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/csu-chef-soeder-schliesst-verzicht-auf-erhoehung-der-muetterrente-aus-102.html"
+        }
+      ]
+    },
+    {
+      "headline": "Industrie streicht binnen eines Jahres 140.000 Stellen",
+      "text": "In der deutschen Industrie arbeiteten Ende September laut einer EY-Studie 5,3 Millionen Menschen, 140.200 weniger als im Vorjahr. Im dritten Quartal wuchs dabei der Umsatz um 4,6 Prozent. In der Autobranche gingen 36.100 Stellen verloren, seit 2019 sind es insgesamt rund 405.800.",
+      "quellen": [
+        {
+          "name": "t-online (dpa)",
+          "url": "https://www.t-online.de/finanzen/aktuelles/id_101530160/industrie-steigert-umsatz-doch-140000-jobs-fallen-weg.html"
+        },
+        {
+          "name": "Tagesspiegel (dpa)",
+          "url": "https://www.tagesspiegel.de/wirtschaft/dpa-konjunktur-industrie-steigert-umsatz-doch-140000-jobs-fallen-weg-16287915.html"
+        }
+      ]
+    },
+    {
+      "headline": "Schwesig stellt sich im Landtag zur Wiederwahl",
+      "text": "Manuela Schwesig soll am Montag erneut zur Ministerpräsidentin von Mecklenburg-Vorpommern gewählt werden. Das erste rot-rot-grüne Bündnis im Land hat 39 Landtagssitze, einzige Oppositionspartei ist die AfD mit 32. Die SPD erhält fünf Ministerposten, Linke zwei und Grüne einen.",
+      "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/arzttermine-selbst-zahlen-debatte-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Ramelow fordert Emde zum Verlassen der Linksfraktion auf",
-      "text": "Ramelow hat die Berliner Linken-Abgeordnete Vanessa Emde aufgefordert, die Fraktion von sich aus zu verlassen. Sie habe das Sondierungspapier mit SPD und Grünen unterzeichnet und tags darauf das Gegenteil gesagt. Emde wird vorgeworfen, das Existenzrecht Israels anzuzweifeln.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/ramelow-linke-koalition-berlin-emde-fraktionsausschluss-100.html"
+          "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/spd-basis-stellt-sich-voll-hinter-manuela-schwesig,mvlandtag-128.html"
         },
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/ramelow-fordert-emde-zum-freiwilligen-verlassen-der-fraktion-auf-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Van der Bellen ruft am Volkstrauertag zu Mitgefühl auf",
-      "text": "Österreichs Bundespräsident Van der Bellen hat bei der zentralen Gedenkstunde zum Volkstrauertag im Bundestag aufgerufen, Mitgefühl zu verteidigen. Es sei keine Schwäche, sondern das Fundament der Humanität. Zuvor hatte er mit Steinmeier an der Neuen Wache Kränze niedergelegt.",
-      "quellen": [
-        {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3448251/"
-        },
-        {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/volkstrauertag-van-der-bellen-fordert-bei-gedenkakt-in-berlin-mehr-mitgefuehl-a-e630014a-fe36-4b74-a98e-11dc07c59a21"
+          "url": "https://www.deutschlandfunk.de/ministerpraesidentin-schwesig-stellt-sich-zur-wiederwahl-102.html"
         }
       ]
     }
