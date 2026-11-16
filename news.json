@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-16",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
       "headline": "Iran droht nach Ankunft eines dritten US-Flugzeugträgers",
-      "text": "Die USS Theodore Roosevelt ist in Nahost angekommen, dort sind nun drei US-Träger. Irans Revolutionsgarden warnten Reedereien vor einer Route durch die Straße von Hormus und erklärten, seit Sonntag seien sechs Schiffe gesunken. Unabhängig belegt ist das nicht.",
+      "text": "Mit der USS Theodore Roosevelt sind drei US-Träger in Nahost. Laut einer Meldung an die britische Stelle UKMTO traf am Montag ein Geschoss ein Schiff beim Verlassen der Straße von Hormus, es fing Feuer. Irans Revolutionsgarden melden sechs gesunkene Schiffe, belegt ist das nicht.",
       "quellen": [
         {
           "name": "The National",
@@ -17,26 +17,26 @@
       ]
     },
     {
-      "headline": "Russland meldet größten ukrainischen Drohnenangriff des Krieges",
-      "text": "Laut russischem Militär wurden binnen 24 Stunden 2049 ukrainische Drohnen abgefangen, laut Bürgermeister Sobjanin flogen rund 600 auf Moskau zu. Die Krim-Brücke wurde demnach leicht beschädigt. Kiew schwieg. In der Ukraine töteten russische Angriffe mindestens sieben Menschen.",
+      "headline": "Russland meldet Abschuss von 1336 ukrainischen Drohnen",
+      "text": "Russlands Verteidigungsministerium meldet 1336 nachts abgefangene ukrainische Drohnen, laut früheren Zahlen wohl ein Rekord. Laut Bürgermeister Sobjanin flogen rund 600 auf die Region Moskau zu. Kiew schwieg. Russische Angriffe töteten in der Ukraine mindestens drei Menschen.",
       "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/ckx27v6dpjz0o"
-        },
         {
           "name": "Kyiv Independent",
           "url": "https://kyivindependent.com/record-number-of-ukrainian-drones-launched-at-russia-moscow-oblast-among-main-targets/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war"
         }
       ]
     },
     {
-      "headline": "Huthi rücken nach Rückzug der Regierungstruppen Richtung Aden vor",
-      "text": "Nach dem Abzug regierungstreuer Truppen von der Meerenge Bab al-Mandab sind die Huthi laut jemenitischen Soldaten, die mit Reuters sprachen, bis Khor Omairah vorgedrungen, rund 100 Kilometer westlich von Aden. Saudi-Arabien ersetzte den Kommandeur der Militärkoalition.",
+      "headline": "Saudi-Arabien tauscht Kommandeur im Kampf gegen Huthi aus",
+      "text": "König Salman ersetzte den Kommandeur der Koalition im Jemen durch Generalstabschef al-Ruwaili. Zuvor zogen sich Regierungstruppen aus der Nähe der Meerenge Bab al-Mandab zurück, um Aden zu schützen. Laut Soldaten rückten die Huthi bis rund 100 Kilometer westlich von Aden vor.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqvg2xgyvnjpo"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis"
         },
         {
           "name": "The National",
@@ -45,26 +45,26 @@
       ]
     },
     {
-      "headline": "China bestätigt Gipfel von Xi, Trump und Putin am Donnerstag",
-      "text": "Peking bestätigte, dass Xi Jinping, Trump und Putin sich am 19. November am Rande des Apec-Gipfels in Shenzhen erstmals zu dritt treffen. Laut einem US-Vertreter geht es vor allem um nukleare Nichtverbreitung, nicht um die Ukraine. Neue Abkommen werden nicht erwartet.",
+      "headline": "Trump reist zum ersten Dreiergipfel mit Xi und Putin",
+      "text": "Trump reist nach Asien. Beim Apec-Gipfel in China trifft er Xi Jinping und Putin erstmals zu dritt. Laut US-Vertretern geht es um nukleare Abrüstung, ein Abkommen wird nicht erwartet. Trump will auch die Ukraine ansprechen und hält ein Treffen mit Kim Jong Un für möglich.",
       "quellen": [
         {
-          "name": "Kyiv Independent",
-          "url": "https://www.kyivindependent.com/historic-first-summit-among-trump-xi-putin-will-not-focus-on-ukraine-white-house-says/"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia"
+        },
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/Politics/trump-heads-asia-2nd-high-stakes-meeting-chinese/story?id=138059807"
         }
       ]
     },
     {
-      "headline": "Trump hätte nichts gegen Huangs Rückkehr an die Nvidia-Spitze",
-      "text": "Trump hätte nach eigenen Worten nichts dagegen, wenn der zurückgetretene Nvidia-Chef Jensen Huang seinen Posten zurückbekäme. Elon Musk unterschrieb dafür einen offenen Brief. Finanzminister Bessent will einen externen Chef und binnen zehn Tagen Antworten zu Exportkontrollen.",
+      "headline": "Nvidia-Verwaltungsrat will Huang laut BBC nicht zurückholen",
+      "text": "Trump hätte nach eigenen Worten nichts dagegen, wenn der zurückgetretene Nvidia-Chef Jensen Huang zurückkehrt. Mehr als 175.000 Menschen, darunter Elon Musk, fordern das in einem offenen Brief. Laut einer mit dem Verwaltungsrat vertrauten Person hat dieser daran kein Interesse.",
       "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cry49plv8v3go"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia"
         }
       ]
     }
@@ -72,25 +72,25 @@
   "national": [
     {
       "headline": "Fünf EU-Staaten planen Abschiebezentrum in Ruanda ab 2027",
-      "text": "Deutschland, Österreich, Dänemark, Griechenland und die Niederlande wollen 2027 in Ruanda ein Zentrum für abgelehnte Asylbewerber öffnen, deren Herkunftsländer sie nicht zurücknehmen. Für Deutschland geht es anfangs um 40 bis 50 Menschen. Die SPD übt Kritik an Dobrindts Plänen.",
+      "text": "Deutschland, Österreich, Griechenland, Dänemark und die Niederlande wollen 2027 in Ruanda ein Zentrum für abgelehnte Asylbewerber eröffnen, die nicht in ihre Heimat abgeschoben werden können. Laut Verhandlungskreisen sollen anfangs je Land etwa 20 Menschen dorthin.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/ruanda-abschiebungen-hubs-dobrindt-spd-100.html"
+          "name": "ORF",
+          "url": "https://orf.at/stories/3448356/"
         }
       ]
     },
     {
-      "headline": "Merz kündigt Beschluss zur Stromsteuersenkung für Dienstag an",
-      "text": "Kanzler Merz erwartet, dass der Koalitionsausschuss am Dienstag beschließt, die Stromsteuer 2027 auch für Privathaushalte auf das EU-Minimum zu senken. Die Zahlen seien abgeglichen. Finanzminister Klingbeil forderte, die rund fünf Milliarden Euro Ausfälle gegenzufinanzieren.",
+      "headline": "Merz kündigt Einigung zur Stromsteuer für Dienstag an",
+      "text": "Merz erwartet, dass der Koalitionsausschuss am Dienstag beschließt, die Stromsteuer 2027 auch für Privathaushalte auf das EU-Minimum zu senken. Ein Haushalt mit drei Personen könnte laut Berechnungen im Schnitt 93 Euro im Jahr sparen. Klingbeil fordert eine Gegenfinanzierung.",
       "quellen": [
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/merz-stromsteuersenkung-wird-morgen-beschlossen-102.html"
+          "url": "https://www.deutschlandfunk.de/merz-stromsteuersenkung-wird-morgen-im-koalitionsausschuss-beschlossen-100.html"
         },
         {
           "name": "ZDFheute",
@@ -119,10 +119,6 @@
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html"
-        },
-        {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/essener-bischof-sieht-in-afd-schokonikolaus-grenzueberschreitung-ld.10064979"
         }
       ]
     }
