@@ -1,24 +1,38 @@
 {
   "datum": "2026-11-16",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Dritter US-Flugzeugträger trifft im Nahen Osten ein",
-      "text": "Die USS Theodore Roosevelt ist laut einem US-Vertreter im Nahen Osten angekommen, damit operieren dort drei US-Flugzeugträger. Pentagon und Centcom bestätigten das nicht formell. Irans Revolutionsgarden griffen am Sonntag nach eigenen Angaben mit Drohnen eine Basis in Bahrain an.",
+      "headline": "Iran droht nach Ankunft eines dritten US-Flugzeugträgers",
+      "text": "Die USS Theodore Roosevelt ist in Nahost angekommen, dort sind nun drei US-Träger. Irans Revolutionsgarden warnten Reedereien vor einer Route durch die Straße von Hormus und erklärten, seit Sonntag seien sechs Schiffe gesunken. Unabhängig belegt ist das nicht.",
       "quellen": [
+        {
+          "name": "The National",
+          "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives/"
+        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume"
-        },
-        {
-          "name": "The National",
-          "url": "https://www.thenationalnews.com/news/us/2026/11/16/uss-theodore-roosevelt-middle-east-centcom/"
         }
       ]
     },
     {
-      "headline": "Jemens Armee räumt Gebiet an der Meerenge Bab al-Mandab",
-      "text": "Jemens regierungstreue Truppen ziehen sich aus dem Gebiet an der Meerenge Bab al-Mandab zurück, um die Interimshauptstadt Aden zu sichern. Laut Huthi-Medien kontrollieren die proiranischen Huthi nun das Gebiet. Im Oktober hatten die Truppen es nach eigenen Angaben gesichert.",
+      "headline": "Russland meldet größten ukrainischen Drohnenangriff des Krieges",
+      "text": "Laut russischem Militär wurden binnen 24 Stunden 2049 ukrainische Drohnen abgefangen, laut Bürgermeister Sobjanin flogen rund 600 auf Moskau zu. Die Krim-Brücke wurde demnach leicht beschädigt. Kiew schwieg. In der Ukraine töteten russische Angriffe mindestens sieben Menschen.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/ckx27v6dpjz0o"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/record-number-of-ukrainian-drones-launched-at-russia-moscow-oblast-among-main-targets/"
+        }
+      ]
+    },
+    {
+      "headline": "Huthi rücken nach Rückzug der Regierungstruppen Richtung Aden vor",
+      "text": "Nach dem Abzug regierungstreuer Truppen von der Meerenge Bab al-Mandab sind die Huthi laut jemenitischen Soldaten, die mit Reuters sprachen, bis Khor Omairah vorgedrungen, rund 100 Kilometer westlich von Aden. Saudi-Arabien ersetzte den Kommandeur der Militärkoalition.",
       "quellen": [
         {
           "name": "BBC",
@@ -26,18 +40,14 @@
         },
         {
           "name": "The National",
-          "url": "https://www.thenationalnews.com/news/mena/2026/11/15/southern-yemeni-forces-withdraw-from-area-near-bab-al-mandab/"
+          "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/saudi-arabia-replaces-joint-forces-commander-overseeing-fight-with-houthis/"
         }
       ]
     },
     {
-      "headline": "Xi, Trump und Putin treffen sich am Donnerstag in Shenzhen",
-      "text": "Chinas Außenministerium hat das erste Dreiertreffen von Xi Jinping, Trump und Putin für Donnerstag in Shenzhen bestätigt, ohne Themen zu nennen. Laut einem US-Vertreter soll es vor allem um atomare Abrüstung gehen, nicht um die Ukraine. Neue Abkommen werden nicht erwartet.",
+      "headline": "China bestätigt Gipfel von Xi, Trump und Putin am Donnerstag",
+      "text": "Peking bestätigte, dass Xi Jinping, Trump und Putin sich am 19. November am Rande des Apec-Gipfels in Shenzhen erstmals zu dritt treffen. Laut einem US-Vertreter geht es vor allem um nukleare Nichtverbreitung, nicht um die Ukraine. Neue Abkommen werden nicht erwartet.",
       "quellen": [
-        {
-          "name": "Japan Times",
-          "url": "https://www.japantimes.co.jp/news/2026/11/16/asia-pacific/politics/china-confirms-xi-trump-putin-summit/"
-        },
         {
           "name": "Kyiv Independent",
           "url": "https://www.kyivindependent.com/historic-first-summit-among-trump-xi-putin-will-not-focus-on-ukraine-white-house-says/"
@@ -45,88 +55,74 @@
       ]
     },
     {
-      "headline": "Verkehr auf der Krim-Brücke nach Angriff eingeschränkt",
-      "text": "Die Krim-Brücke ist am Montag laut dem russischen Krim-Chef Aksjonow getroffen worden, der Verkehr sollte bis etwa Mittag eingeschränkt bleiben. Kiew schwieg. Selenskyj verlangte von den USA und Musk, die Drosselung von Starshield aufzuheben, die die Drohnenabwehr behindere.",
-      "quellen": [
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukraine-reportedly-strikes-crimean-bridge-forcing-temporary-traffic-halt/"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6m25zg88k45o"
-        }
-      ]
-    },
-    {
-      "headline": "Megaspeed weist Vorwürfe im Nvidia-Skandal zurück",
-      "text": "Die Singapurer Firma Megaspeed, größter Abnehmer von Nvidia-Chips in Südostasien, nennt Berichte über ihr Geschäft unbelegt und lässt intern ermitteln. Die mutmaßliche chinesische Spionin Alice Huang sei im August 2025 ausgeschieden. Peking bestreitet die Spionagevorwürfe.",
+      "headline": "Trump hätte nichts gegen Huangs Rückkehr an die Nvidia-Spitze",
+      "text": "Trump hätte nach eigenen Worten nichts dagegen, wenn der zurückgetretene Nvidia-Chef Jensen Huang seinen Posten zurückbekäme. Elon Musk unterschrieb dafür einen offenen Brief. Finanzminister Bessent will einen externen Chef und binnen zehn Tagen Antworten zu Exportkontrollen.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cmdx1vpprk9vo"
+          "url": "https://www.bbc.com/news/articles/cry49plv8v3go"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025"
+          "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Ex-Assistent soll BND-Akten über Leibwächter geschmuggelt haben",
-      "text": "Im Spionagefall Hanning soll der frühere Assistent des Ex-BND-Chefs, Manfred D., laut SZ, NDR und WDR Geheimpapiere auch über die Personenschützer des BND-Präsidenten aus der Zentrale gebracht haben, die an den Schleusen offenbar in der Regel nicht durchsucht werden.",
+      "headline": "Fünf EU-Staaten planen Abschiebezentrum in Ruanda ab 2027",
+      "text": "Deutschland, Österreich, Dänemark, Griechenland und die Niederlande wollen 2027 in Ruanda ein Zentrum für abgelehnte Asylbewerber öffnen, deren Herkunftsländer sie nicht zurücknehmen. Für Deutschland geht es anfangs um 40 bis 50 Menschen. Die SPD übt Kritik an Dobrindts Plänen.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/investigativ/ndr-wdr/bnd-hanning-108.html"
-        },
-        {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/deutschland/bnd-august-hannings-mutmasslicher-komplize-soll-geheime-dokumente-aus-bnd-zentrale-geschmuggelt-haben-a-6422c816-f371-427d-96c3-59323107119b"
-        }
-      ]
-    },
-    {
-      "headline": "Söder hält Stromsteuersenkung weiter für finanzierbar",
-      "text": "Vor dem Koalitionsausschuss am Dienstag hält CSU-Chef Söder eine Stromsteuersenkung für alle noch für möglich und nennt sie eine Frage der Glaubwürdigkeit. Die Ausweitung der Mütterrente will er dafür nicht zurücknehmen. Im Haushalt fehlen die nötigen etwa 5,4 Milliarden Euro.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-soeder-stromsteuer-moeglich-koalition-muetterrente-100.html"
+          "url": "https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html"
         },
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/soeder-csu-koalition-haushalt-stromsteuer-muetterrente-100.html"
+          "url": "https://www.zdfheute.de/politik/ruanda-abschiebungen-hubs-dobrindt-spd-100.html"
         }
       ]
     },
     {
-      "headline": "SPD-Spitzen stellen sich nach Heils Bewerbung hinter Klingbeil",
-      "text": "Nach Heils Bewerbung um den SPD-Vorsitz sprechen sich Fraktionschef Miersch sowie die Minister Schneider, Pistorius, Hubig und Hubertz für einen Verbleib Klingbeils aus. Heil kritisiert Klingbeils Doppelrolle als Parteichef und Vizekanzler.",
+      "headline": "Merz kündigt Beschluss zur Stromsteuersenkung für Dienstag an",
+      "text": "Kanzler Merz erwartet, dass der Koalitionsausschuss am Dienstag beschließt, die Stromsteuer 2027 auch für Privathaushalte auf das EU-Minimum zu senken. Die Zahlen seien abgeglichen. Finanzminister Klingbeil forderte, die rund fünf Milliarden Euro Ausfälle gegenzufinanzieren.",
       "quellen": [
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/lies-warnt-spd-vor-selbstbeschaeftigung-rueckhalt-fuer-klingbeil-102.html"
+          "url": "https://www.deutschlandfunk.de/merz-stromsteuersenkung-wird-morgen-beschlossen-102.html"
         },
         {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/hubertus-heil-will-chef-der-deutschen-sozialdemokraten-werden-doch-der-widerstand-formiert-sich-schon-ld.10064425"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/merz-koalition-stromsteuer-100.html"
         }
       ]
     },
     {
-      "headline": "Schwesig stellt sich im Schweriner Landtag zur Wiederwahl",
-      "text": "Manuela Schwesig stellt sich am Montagnachmittag im Landtag erneut zur Wahl als Ministerpräsidentin von Mecklenburg-Vorpommern. Ihr Dreierbündnis hat 39 Sitze, einzige Oppositionspartei ist die AfD mit 32. Ob Schwesig für den SPD-Vorsitz kandidiert, lässt sie weiter offen.",
+      "headline": "Schwesig im Schweriner Landtag als Regierungschefin bestätigt",
+      "text": "Der Landtag in Schwerin hat Manuela Schwesig im ersten Wahlgang erneut zur Ministerpräsidentin gewählt. Sie bekam 39 Stimmen, so viele, wie das Bündnis von SPD, Linken und Grünen an Sitzen hat, 29 stimmten dagegen. Es ist die erste Dreierkoalition im Land.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/schwesig-vor-wiederwahl-in-mv-ministerpraesidentin-laesst-kandidatur-fuer-spd-vorsitz-noch-offen,mvlandtag-120.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html"
         },
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/ministerpraesidentin-schwesig-stellt-sich-zur-wiederwahl-102.html"
+          "url": "https://www.deutschlandfunk.de/schwesig-als-ministerpraesidentin-wiedergewaehlt-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "EU-Kommission billigt Unicredits Griff nach der Commerzbank",
+      "text": "Die EU-Kommission erlaubt der italienischen Unicredit ohne Auflagen, die Commerzbank zu übernehmen, und sieht keine Wettbewerbsprobleme. Laut Unicredit steht noch eine Zustimmung aus Polen aus. Unicredit-Chef Orcel plant, rund 7000 Stellen abzubauen.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html"
+        },
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/essener-bischof-sieht-in-afd-schokonikolaus-grenzueberschreitung-ld.10064979"
         }
       ]
     }
