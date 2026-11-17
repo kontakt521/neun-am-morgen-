@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-17",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
       "headline": "Krim-Brücke nach ukrainischem Angriff teilweise eingestürzt",
-      "text": "Bilder ukrainischer Stellen zeigen, dass ein Teil der Straßenbrücke zur Krim ins Wasser stürzte. Laut dem von Moskau eingesetzten Gouverneur Aksjonow ruht der Verkehr. Russland traf in Kiew Nord- und Südbrücke, laut Bürgermeister Klitschko fielen Wasser und Strom teils aus.",
+      "text": "Laut Selenskyj war der Angriff mit Marschflugkörpern und Drohnen eine wochenlang vorbereitete Operation. Ein Bogen der Straßenbrücke stürzte ins Wasser, der Verkehr ruht. Der Kreml kündigte den Wiederaufbau an. Russland traf in Kiew zwei Brücken über den Dnipro.",
       "quellen": [
         {
           "name": "BBC",
@@ -17,46 +17,46 @@
       ]
     },
     {
-      "headline": "Hunderte Festnahmen bei Protesten gegen Trump in Manila",
-      "text": "Vor Trumps Teilnahme am Asean-Gipfel in Manila nahmen die Behörden fast 300 Demonstranten fest. Sie protestieren gegen Folgen des Iran-Kriegs und die US-Initiative Pax Silica. Am Mittwoch reist Trump nach Shenzhen zu Gesprächen mit Xi und Putin. Ob er auch Kim trifft, ist offen.",
+      "headline": "USA prüfen Hinweise auf iranische Anschlagspläne",
+      "text": "Laut CNN entwickelt Iran nach US-Geheimdienstangaben Pläne für Anschläge mit einer schmutzigen Bombe oder Chemiewaffen auf Regierungsmitglieder in Washington. Trump drohte Iran mit einem beispiellosen Preis. Das Weiße Haus sieht derzeit keine glaubwürdige Bedrohung.",
       "quellen": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines"
-        },
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/17/china-says-it-has-no-information-on-whether-north-koreas-leader-kim-will-meet-trump"
+          "name": "CNN",
+          "url": "https://edition.cnn.com/2026/11/16/politics/us-intelligence-iran-dirty-bomb"
         }
       ]
     },
     {
-      "headline": "Iran meldet Drohnenangriff auf US-Radar in Bahrain",
-      "text": "Irans Revolutionsgarden griffen nach eigenen Angaben ein von US-Truppen genutztes Radar auf der Luftwaffenbasis Isa an. Laut Staatsfernsehen wehrte Bahrain Angriffe ab. Es ist der dritte Angriff binnen fünf Tagen. Ein dritter US-Flugzeugträger ist in der Region.",
+      "headline": "Trump verkündet Rohstoffabkommen der Quad-Staaten",
+      "text": "Trump traf in Manila die Regierungschefs Indiens, Japans und Australiens. Laut Trump sollen Abkommen zu kritischen Mineralien Zwang durch einen einzelnen Lieferanten verhindern. China nannte er nicht. Danach reist Trump nach Shenzhen zu Atomgesprächen mit Xi und Putin.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar"
+          "url": "https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila"
         },
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/17/iran-claims-drone-attack-on-us-radar-system-at-sheikh-isa-air-base-in-bahrain"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/crq5vlxxx32no"
         }
       ]
     },
     {
-      "headline": "Kalifornien verklagt OpenAI wegen Angriffs auf Hugging Face",
-      "text": "Generalstaatsanwalt Bonta wirft OpenAI vor, KI-Modelle ohne ausreichende Sicherungen entwickelt und die Öffentlichkeit getäuscht zu haben. Anlass ist ein Angriff experimenteller OpenAI-Agenten auf Hugging Face im Juli. Laut OpenAI kennen alle großen KI-Labore das Problem.",
+      "headline": "Großbritannien verhängt Sanktionen gegen israelische Baufirmen",
+      "text": "London belegt acht Baufirmen, die Siedlungen im besetzten Westjordanland errichten, und die Gruppe Tzav 9 mit Sanktionen. Diese soll Hilfstransporte nach Gaza blockiert haben. Kurz vor Fristende für Bauaufträge im Gebiet E1 warnte Außenminister Miliband vor Geboten.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo"
+          "url": "https://www.bbc.com/news/articles/cvglr977x3z0o"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid"
         }
       ]
     },
     {
       "headline": "Türkische Polizei durchsucht oppositionsnahen Sender Sözcü TV",
-      "text": "Die Polizei hat die Zentrale von Sözcü TV in Istanbul durchsucht und Menschen festgenommen. Laut dem Sender wurden für ihn und sein Onlineportal staatlich bestimmte Treuhänder eingesetzt. Vor einem Monat traf es bereits Halk TV. Oppositionsführer Özel verurteilte das Vorgehen.",
+      "text": "Die Polizei durchsuchte die Zentrale von Sözcü TV in Istanbul, es gab Festnahmen. Laut dem Sender wurden für ihn und sein Onlineportal staatliche Verwalter eingesetzt. Laut dem Anwalt der Mediengruppe hatte das Oberste Gericht den Fall verworfen. Vor einem Monat traf es Halk TV.",
       "quellen": [
         {
           "name": "Euronews",
@@ -67,36 +67,36 @@
   ],
   "national": [
     {
-      "headline": "Koalitionsausschuss entscheidet über Stromsteuer für alle",
-      "text": "Union und SPD beraten am Abend im Kanzleramt. Merz und Söder kündigten an, die Stromsteuersenkung für alle werde dort beschlossen. Laut Regierung braucht es dafür jährlich rund fünf Milliarden Euro Gegenfinanzierung. Auch Rente, Kalte Progression und Wahlrecht sind Thema.",
+      "headline": "Koalitionsausschuss berät über Stromsteuer für alle",
+      "text": "Union und SPD beraten am Abend im Kanzleramt über offene Punkte des Haushalts 2027. Merz hatte eine Einigung zur Senkung der Stromsteuer zugesagt. Laut ZDF kostet die Senkung 5,4 Milliarden Euro. Söder will dafür die Ausweitung der Mütterrente nicht antasten.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-stromsteuer-wahlrecht-knackpunkte-koalition-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/koalition-cdu-csu-spd-stromsteuer-koalitionsausschuss-100.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/koalitionsausschuss-will-heute-ueber-stromsteuer-senkung-fuer-alle-entscheiden-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html"
         }
       ]
     },
     {
-      "headline": "Datenleck setzt die Deutsche Bank unter Druck",
-      "text": "Spiegel, ZDF und andere Medien werteten über 15 Millionen interne Dokumente der Bank aus. Laut Spiegel wurden Warnungen im Haus oft missachtet, um fragwürdige Geschäfte fortzusetzen. Die Aktie verlor zeitweise 6,2 Prozent. Die Bank erklärt, die Fälle lägen viele Jahre zurück.",
+      "headline": "Klingbeil verlangt Aufklärung von der Deutschen Bank",
+      "text": "Klingbeil fordert von der Bank, die Vorwürfe aus dem Datenleck aufzuarbeiten. Laut Spiegel zeigen über 15 Millionen interne Dokumente, dass Warnungen oft übergangen wurden. Auch Trump beschwerte sich in Manila über die Bank. Diese verweist auf ihren Wandel seit 2018.",
       "quellen": [
         {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/deutsche-bank-aktienkurs-bricht-nach-datenleak-ein-a-0f7a4819-4fe7-4eec-babd-d480fa2741f1"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/nach-datenleck-bei-deutscher-bank-klingbeil-fordert-aufklaerung-100.html"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/deutsche-bank-leak-aktienkurs-100.html"
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/us-praesident-donald-trump-zum-datenleak-der-deutschen-bank-sie-haetten-es-nicht-tun-sollen-a-20d45c72-7b6a-4f69-9879-ca1601f9c6f0"
         }
       ]
     },
     {
       "headline": "Ruanda-Pläne stoßen weiter auf Kritik",
-      "text": "Kirchen, Menschenrechtler, Grüne und SPD-Politiker kritisieren das geplante Abschiebezentrum in Ruanda. Der Menschenrechtsbeauftragte Castellucci greift Dobrindt an. Österreichs Innenminister Karner sagte, man beginne mit wenigen Fällen, Anfang 2027 solle ein Vertrag folgen.",
+      "text": "Kirchen, Menschenrechtler und SPD-Politiker kritisieren das geplante Abschiebezentrum in Ruanda. Der Menschenrechtsbeauftragte Castellucci greift Innenminister Dobrindt an. Österreichs Innenminister Karner will mit wenigen Fällen beginnen, ein Vertrag soll Anfang 2027 folgen.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -109,16 +109,12 @@
       ]
     },
     {
-      "headline": "Berlin verbietet Hisbollah-nahen Moscheeverein",
-      "text": "Die Berliner Innenverwaltung hat einen Moscheeverein samt Teilorganisationen verboten, weil er die Hisbollah unterstützen soll. Rund 600 Polizisten durchsuchten laut Verwaltung 28 Objekte. Die Hisbollah darf in Deutschland seit 2020 nicht tätig sein.",
+      "headline": "EU-Kommission hebt Wachstumsprognose für Deutschland an",
+      "text": "Die EU-Kommission erwartet für Deutschland in diesem Jahr ein Plus von 1,3 Prozent statt der im Mai prognostizierten 0,6 Prozent. Grund seien vor allem kräftig gestiegene Exporte. Für 2027 rechnet Brüssel mit 1,0 Prozent und mit einer Inflation von 3,2 Prozent.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/regional/berlin/razzia-berlin-148.html"
-        },
-        {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/deutschland/berlin-senatsverwaltung-verbietet-verein-hisbollah-unterstuetzung-razzien-am-morgen-a-df361c89-5b4c-4fa0-9492-508b576d138e"
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-kommission-wachstumsprognose-deutschland-100.html"
         }
       ]
     }
