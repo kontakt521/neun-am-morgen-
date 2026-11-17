@@ -1,42 +1,38 @@
 {
-  "datum": "2026-11-16",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-17",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Iran droht nach Ankunft eines dritten US-Flugzeugträgers",
-      "text": "Mit der USS Theodore Roosevelt sind drei US-Träger in Nahost. Laut einer Meldung an die britische Stelle UKMTO traf am Montag ein Geschoss ein Schiff beim Verlassen der Straße von Hormus, es fing Feuer. Irans Revolutionsgarden melden sechs gesunkene Schiffe, belegt ist das nicht.",
+      "headline": "Russische Raketen treffen zwei große Brücken in Kiew",
+      "text": "Laut Bürgermeister Klitschko trafen russische Raketen die Nord- und Südbrücke und störten die Wasser- und Stromversorgung. Laut dem von Moskau eingesetzten Statthalter der Krim traf die Ukraine erneut die Krim-Brücke. Zuvor sprach Kiew mit den USA und Europa über Frieden.",
       "quellen": [
         {
-          "name": "The National",
-          "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives/"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cw772jk4rvmxo"
         },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume"
-        }
-      ]
-    },
-    {
-      "headline": "Russland meldet Abschuss von 1336 ukrainischen Drohnen",
-      "text": "Russlands Verteidigungsministerium meldet 1336 nachts abgefangene ukrainische Drohnen, laut früheren Zahlen wohl ein Rekord. Laut Bürgermeister Sobjanin flogen rund 600 auf die Region Moskau zu. Kiew schwieg. Russische Angriffe töteten in der Ukraine mindestens drei Menschen.",
-      "quellen": [
         {
           "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/record-number-of-ukrainian-drones-launched-at-russia-moscow-oblast-among-main-targets/"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war"
+          "url": "https://kyivindependent.com/ukraine-war-latest-crimean-bridge-hit-in-reported-attack-traffic-restrictions-imposed/"
         }
       ]
     },
     {
-      "headline": "Saudi-Arabien tauscht Kommandeur im Kampf gegen Huthi aus",
-      "text": "König Salman ersetzte den Kommandeur der Koalition im Jemen durch Generalstabschef al-Ruwaili. Zuvor zogen sich Regierungstruppen aus der Nähe der Meerenge Bab al-Mandab zurück, um Aden zu schützen. Laut Soldaten rückten die Huthi bis rund 100 Kilometer westlich von Aden vor.",
+      "headline": "Weitere Tanker in der Straße von Hormus getroffen",
+      "text": "Irans Revolutionsgarden melden, dass in der Meerenge zwei Tanker auf Seeminen liefen und brannten, belegt ist das nicht. Die britische Stelle UKMTO meldete am Montag zwei Angriffe auf Tanker mit Bränden im Maschinenraum. Die USA haben nun drei Flugzeugträger in der Region.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis"
+          "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field"
+        }
+      ]
+    },
+    {
+      "headline": "Jemens Parlament stuft Huthi als Terrororganisation ein",
+      "text": "Das Parlament im Jemen billigte einstimmig ein Gesetz, das die Huthi als Terrororganisation einstuft. Präsidialratschef al-Alimi muss es noch in Kraft setzen. Die Armee meldet 661 Angriffe auf die Huthi. Laut Militärs rückten diese bis rund 100 Kilometer westlich von Aden vor.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden"
         },
         {
           "name": "The National",
@@ -45,52 +41,34 @@
       ]
     },
     {
-      "headline": "Trump reist zum ersten Dreiergipfel mit Xi und Putin",
-      "text": "Trump reist nach Asien. Beim Apec-Gipfel in China trifft er Xi Jinping und Putin erstmals zu dritt. Laut US-Vertretern geht es um nukleare Abrüstung, ein Abkommen wird nicht erwartet. Trump will auch die Ukraine ansprechen und hält ein Treffen mit Kim Jong Un für möglich.",
+      "headline": "Trump reist zum Gipfel mit Xi und Putin nach Asien",
+      "text": "Trump ist auf dem Weg nach Asien. Nach Manila reist er zum Apec-Gipfel nach Shenzhen, wo er am Donnerstag Xi Jinping und Putin treffen will. Es soll um nukleare Abrüstung und den Iran-Krieg gehen. US-Vertreter erwarten kein Abkommen. Auch Kim Jong Un könnte hinzukommen.",
       "quellen": [
         {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia"
-        },
-        {
-          "name": "ABC News",
-          "url": "https://abcnews.com/Politics/trump-heads-asia-2nd-high-stakes-meeting-chinese/story?id=138059807"
+          "name": "The National",
+          "url": "https://www.thenationalnews.com/news/us/2026/11/17/trump-to-hold-nuclear-talks-with-xi-and-putin-with-kim-jong-un-possibly-joining/"
         }
       ]
     },
     {
-      "headline": "Nvidia-Verwaltungsrat will Huang laut BBC nicht zurückholen",
-      "text": "Trump hätte nach eigenen Worten nichts dagegen, wenn der zurückgetretene Nvidia-Chef Jensen Huang zurückkehrt. Mehr als 175.000 Menschen, darunter Elon Musk, fordern das in einem offenen Brief. Laut einer mit dem Verwaltungsrat vertrauten Person hat dieser daran kein Interesse.",
+      "headline": "USA wollen Chinas Fernzugriff auf KI-Chips unterbinden",
+      "text": "Die US-Behörde BIS verlangt Lizenzen für moderne Chips nach Indonesien, Malaysia, Singapur, Thailand und Brasilien. Chinesische KI-Entwickler sollen dortige Rechenzentren nicht per Fernzugriff nutzen, um Kontrollen zu umgehen. Zudem laufen US-Strafermittlungen gegen Megaspeed.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cry49plv8v3go"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Fünf EU-Staaten planen Abschiebezentrum in Ruanda ab 2027",
-      "text": "Deutschland, Österreich, Griechenland, Dänemark und die Niederlande wollen 2027 in Ruanda ein Zentrum für abgelehnte Asylbewerber eröffnen, die nicht in ihre Heimat abgeschoben werden können. Laut Verhandlungskreisen sollen anfangs je Land etwa 20 Menschen dorthin.",
+      "headline": "Koalitionsausschuss berät heute über die Stromsteuer",
+      "text": "Merz erwartet, dass der Koalitionsausschuss am Dienstag beschließt, die Stromsteuer 2027 auch für Privathaushalte auf das EU-Minimum zu senken. Im Haushaltsentwurf fehlen dafür etwa 5,4 Milliarden Euro. Das Finanzministerium verlangt eine dauerhafte Gegenfinanzierung.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html"
-        },
-        {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3448356/"
-        }
-      ]
-    },
-    {
-      "headline": "Merz kündigt Einigung zur Stromsteuer für Dienstag an",
-      "text": "Merz erwartet, dass der Koalitionsausschuss am Dienstag beschließt, die Stromsteuer 2027 auch für Privathaushalte auf das EU-Minimum zu senken. Ein Haushalt mit drei Personen könnte laut Berechnungen im Schnitt 93 Euro im Jahr sparen. Klingbeil fordert eine Gegenfinanzierung.",
-      "quellen": [
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/merz-stromsteuersenkung-wird-morgen-im-koalitionsausschuss-beschlossen-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html"
         },
         {
           "name": "ZDFheute",
@@ -99,26 +77,40 @@
       ]
     },
     {
-      "headline": "Schwesig im Schweriner Landtag als Regierungschefin bestätigt",
-      "text": "Der Landtag in Schwerin hat Manuela Schwesig im ersten Wahlgang erneut zur Ministerpräsidentin gewählt. Sie bekam 39 Stimmen, so viele, wie das Bündnis von SPD, Linken und Grünen an Sitzen hat, 29 stimmten dagegen. Es ist die erste Dreierkoalition im Land.",
+      "headline": "Abschiebezentrum in Ruanda soll 2027 in Betrieb gehen",
+      "text": "Deutschland, Österreich, Dänemark, die Niederlande und Griechenland haben in Wien Ruanda als Partner für ein Zentrum für abgelehnte Asylbewerber vorgestellt. Laut Verhandlungskreisen sollen zunächst etwa 100 Menschen dorthin. Kritik kommt von Grünen, Linken und aus der SPD.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/ruanda-return-hub-abschiebezentrum-100.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/schwesig-als-ministerpraesidentin-wiedergewaehlt-100.html"
+          "name": "ORF",
+          "url": "https://orf.at/stories/3448356/"
         }
       ]
     },
     {
-      "headline": "EU-Kommission billigt Unicredits Griff nach der Commerzbank",
-      "text": "Die EU-Kommission erlaubt der italienischen Unicredit ohne Auflagen, die Commerzbank zu übernehmen, und sieht keine Wettbewerbsprobleme. Laut Unicredit steht noch eine Zustimmung aus Polen aus. Unicredit-Chef Orcel plant, rund 7000 Stellen abzubauen.",
+      "headline": "Stahlbranche fordert beim Gipfel billigeren Strom",
+      "text": "In Salzgitter übergaben die Wirtschaftsvereinigung Stahl, die IG Metall und die Länder mit Stahlindustrie Ministerin Reiche ein Positionspapier. Sie verlangen günstigere Energie, mehr Wasserstoff und Schutz vor unfairem Handel. Billigstahl aus China drängt auf den Markt.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/wirtschaft/stahl-industrie-gipfel-salzgitter-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Tesla plant Ausbau in Grünheide für drei Milliarden Euro",
+      "text": "Tesla plant in Grünheide eine neue Halle, in der später bis zu eine Million fahrerlose Cybercabs entstehen könnten. Baubeginn soll 2027 sein, Produktionsstart 2029. Mehrere Hundert Stellen sollen hinzukommen. In der EU ist das Robotaxi bislang nicht zugelassen.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html"
+          "url": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/tesla-gruenheide-werk-ausbau-milliarden-100.html"
         }
       ]
     }
