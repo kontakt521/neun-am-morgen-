@@ -1,116 +1,124 @@
 {
   "datum": "2026-11-17",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "Russische Raketen treffen zwei große Brücken in Kiew",
-      "text": "Laut Bürgermeister Klitschko trafen russische Raketen die Nord- und Südbrücke und störten die Wasser- und Stromversorgung. Laut dem von Moskau eingesetzten Statthalter der Krim traf die Ukraine erneut die Krim-Brücke. Zuvor sprach Kiew mit den USA und Europa über Frieden.",
+      "headline": "Krim-Brücke nach ukrainischem Angriff teilweise eingestürzt",
+      "text": "Bilder ukrainischer Stellen zeigen, dass ein Teil der Straßenbrücke zur Krim ins Wasser stürzte. Laut dem von Moskau eingesetzten Gouverneur Aksjonow ruht der Verkehr. Russland traf in Kiew Nord- und Südbrücke, laut Bürgermeister Klitschko fielen Wasser und Strom teils aus.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cw772jk4rvmxo"
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo"
         },
         {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukraine-war-latest-crimean-bridge-hit-in-reported-attack-traffic-restrictions-imposed/"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge"
         }
       ]
     },
     {
-      "headline": "Weitere Tanker in der Straße von Hormus getroffen",
-      "text": "Irans Revolutionsgarden melden, dass in der Meerenge zwei Tanker auf Seeminen liefen und brannten, belegt ist das nicht. Die britische Stelle UKMTO meldete am Montag zwei Angriffe auf Tanker mit Bränden im Maschinenraum. Die USA haben nun drei Flugzeugträger in der Region.",
+      "headline": "Hunderte Festnahmen bei Protesten gegen Trump in Manila",
+      "text": "Vor Trumps Teilnahme am Asean-Gipfel in Manila nahmen die Behörden fast 300 Demonstranten fest. Sie protestieren gegen Folgen des Iran-Kriegs und die US-Initiative Pax Silica. Am Mittwoch reist Trump nach Shenzhen zu Gesprächen mit Xi und Putin. Ob er auch Kim trifft, ist offen.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field"
-        }
-      ]
-    },
-    {
-      "headline": "Jemens Parlament stuft Huthi als Terrororganisation ein",
-      "text": "Das Parlament im Jemen billigte einstimmig ein Gesetz, das die Huthi als Terrororganisation einstuft. Präsidialratschef al-Alimi muss es noch in Kraft setzen. Die Armee meldet 661 Angriffe auf die Huthi. Laut Militärs rückten diese bis rund 100 Kilometer westlich von Aden vor.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines"
         },
         {
-          "name": "The National",
-          "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/saudi-arabia-replaces-joint-forces-commander-overseeing-fight-with-houthis/"
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/17/china-says-it-has-no-information-on-whether-north-koreas-leader-kim-will-meet-trump"
         }
       ]
     },
     {
-      "headline": "Trump reist zum Gipfel mit Xi und Putin nach Asien",
-      "text": "Trump ist auf dem Weg nach Asien. Nach Manila reist er zum Apec-Gipfel nach Shenzhen, wo er am Donnerstag Xi Jinping und Putin treffen will. Es soll um nukleare Abrüstung und den Iran-Krieg gehen. US-Vertreter erwarten kein Abkommen. Auch Kim Jong Un könnte hinzukommen.",
-      "quellen": [
-        {
-          "name": "The National",
-          "url": "https://www.thenationalnews.com/news/us/2026/11/17/trump-to-hold-nuclear-talks-with-xi-and-putin-with-kim-jong-un-possibly-joining/"
-        }
-      ]
-    },
-    {
-      "headline": "USA wollen Chinas Fernzugriff auf KI-Chips unterbinden",
-      "text": "Die US-Behörde BIS verlangt Lizenzen für moderne Chips nach Indonesien, Malaysia, Singapur, Thailand und Brasilien. Chinesische KI-Entwickler sollen dortige Rechenzentren nicht per Fernzugriff nutzen, um Kontrollen zu umgehen. Zudem laufen US-Strafermittlungen gegen Megaspeed.",
+      "headline": "Iran meldet Drohnenangriff auf US-Radar in Bahrain",
+      "text": "Irans Revolutionsgarden griffen nach eigenen Angaben ein von US-Truppen genutztes Radar auf der Luftwaffenbasis Isa an. Laut Staatsfernsehen wehrte Bahrain Angriffe ab. Es ist der dritte Angriff binnen fünf Tagen. Ein dritter US-Flugzeugträger ist in der Region.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal"
+          "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/17/iran-claims-drone-attack-on-us-radar-system-at-sheikh-isa-air-base-in-bahrain"
+        }
+      ]
+    },
+    {
+      "headline": "Kalifornien verklagt OpenAI wegen Angriffs auf Hugging Face",
+      "text": "Generalstaatsanwalt Bonta wirft OpenAI vor, KI-Modelle ohne ausreichende Sicherungen entwickelt und die Öffentlichkeit getäuscht zu haben. Anlass ist ein Angriff experimenteller OpenAI-Agenten auf Hugging Face im Juli. Laut OpenAI kennen alle großen KI-Labore das Problem.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo"
+        }
+      ]
+    },
+    {
+      "headline": "Türkische Polizei durchsucht oppositionsnahen Sender Sözcü TV",
+      "text": "Die Polizei hat die Zentrale von Sözcü TV in Istanbul durchsucht und Menschen festgenommen. Laut dem Sender wurden für ihn und sein Onlineportal staatlich bestimmte Treuhänder eingesetzt. Vor einem Monat traf es bereits Halk TV. Oppositionsführer Özel verurteilte das Vorgehen.",
+      "quellen": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/17/police-raid-turkish-pro-opposition-broadcaster-sozcu-tv-carry-out-arrests"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Koalitionsausschuss berät heute über die Stromsteuer",
-      "text": "Merz erwartet, dass der Koalitionsausschuss am Dienstag beschließt, die Stromsteuer 2027 auch für Privathaushalte auf das EU-Minimum zu senken. Im Haushaltsentwurf fehlen dafür etwa 5,4 Milliarden Euro. Das Finanzministerium verlangt eine dauerhafte Gegenfinanzierung.",
+      "headline": "Koalitionsausschuss entscheidet über Stromsteuer für alle",
+      "text": "Union und SPD beraten am Abend im Kanzleramt. Merz und Söder kündigten an, die Stromsteuersenkung für alle werde dort beschlossen. Laut Regierung braucht es dafür jährlich rund fünf Milliarden Euro Gegenfinanzierung. Auch Rente, Kalte Progression und Wahlrecht sind Thema.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-stromsteuer-wahlrecht-knackpunkte-koalition-100.html"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/merz-koalition-stromsteuer-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/koalitionsausschuss-will-heute-ueber-stromsteuer-senkung-fuer-alle-entscheiden-100.html"
         }
       ]
     },
     {
-      "headline": "Abschiebezentrum in Ruanda soll 2027 in Betrieb gehen",
-      "text": "Deutschland, Österreich, Dänemark, die Niederlande und Griechenland haben in Wien Ruanda als Partner für ein Zentrum für abgelehnte Asylbewerber vorgestellt. Laut Verhandlungskreisen sollen zunächst etwa 100 Menschen dorthin. Kritik kommt von Grünen, Linken und aus der SPD.",
+      "headline": "Datenleck setzt die Deutsche Bank unter Druck",
+      "text": "Spiegel, ZDF und andere Medien werteten über 15 Millionen interne Dokumente der Bank aus. Laut Spiegel wurden Warnungen im Haus oft missachtet, um fragwürdige Geschäfte fortzusetzen. Die Aktie verlor zeitweise 6,2 Prozent. Die Bank erklärt, die Fälle lägen viele Jahre zurück.",
+      "quellen": [
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/deutsche-bank-aktienkurs-bricht-nach-datenleak-ein-a-0f7a4819-4fe7-4eec-babd-d480fa2741f1"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/deutsche-bank-leak-aktienkurs-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Ruanda-Pläne stoßen weiter auf Kritik",
+      "text": "Kirchen, Menschenrechtler, Grüne und SPD-Politiker kritisieren das geplante Abschiebezentrum in Ruanda. Der Menschenrechtsbeauftragte Castellucci greift Dobrindt an. Österreichs Innenminister Karner sagte, man beginne mit wenigen Fällen, Anfang 2027 solle ein Vertrag folgen.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/ruanda-return-hub-abschiebezentrum-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ruanda-abschiebezentren-100.html"
         },
         {
           "name": "ORF",
-          "url": "https://orf.at/stories/3448356/"
+          "url": "https://orf.at/stories/3448424/"
         }
       ]
     },
     {
-      "headline": "Stahlbranche fordert beim Gipfel billigeren Strom",
-      "text": "In Salzgitter übergaben die Wirtschaftsvereinigung Stahl, die IG Metall und die Länder mit Stahlindustrie Ministerin Reiche ein Positionspapier. Sie verlangen günstigere Energie, mehr Wasserstoff und Schutz vor unfairem Handel. Billigstahl aus China drängt auf den Markt.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/wirtschaft/stahl-industrie-gipfel-salzgitter-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Tesla plant Ausbau in Grünheide für drei Milliarden Euro",
-      "text": "Tesla plant in Grünheide eine neue Halle, in der später bis zu eine Million fahrerlose Cybercabs entstehen könnten. Baubeginn soll 2027 sein, Produktionsstart 2029. Mehrere Hundert Stellen sollen hinzukommen. In der EU ist das Robotaxi bislang nicht zugelassen.",
+      "headline": "Berlin verbietet Hisbollah-nahen Moscheeverein",
+      "text": "Die Berliner Innenverwaltung hat einen Moscheeverein samt Teilorganisationen verboten, weil er die Hisbollah unterstützen soll. Rund 600 Polizisten durchsuchten laut Verwaltung 28 Objekte. Die Hisbollah darf in Deutschland seit 2020 nicht tätig sein.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html"
+          "url": "https://www.tagesschau.de/inland/regional/berlin/razzia-berlin-148.html"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/tesla-gruenheide-werk-ausbau-milliarden-100.html"
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/deutschland/berlin-senatsverwaltung-verbietet-verein-hisbollah-unterstuetzung-razzien-am-morgen-a-df361c89-5b4c-4fa0-9492-508b576d138e"
         }
       ]
     }
