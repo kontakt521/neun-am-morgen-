@@ -1,128 +1,124 @@
 {
-  "datum": "2026-11-17",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-18",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Krim-Brücke teils eingestürzt, Angriffe auf Brücken in Kiew",
-      "text": "Laut Selenskyj war der Angriff die siebte Phase einer seit Wochen laufenden Operation. Ein Abschnitt der Krim-Brücke stürzte ein, den Verkehr übernehmen vor allem Fähren. Kremlsprecher Peskow kündigte einen Reparaturplan an. Russland traf in Kiew zwei Brücken über den Dnipro.",
+      "headline": "Iran greift erneut US-Ziele in Bahrain und Kuwait an",
+      "text": "Iran hat am Dienstag zum dritten Mal binnen Tagen US-Militärziele in Bahrain angegriffen, laut US-Militär ohne Schaden. Laut einem US-Vertreter attackierte ein US-Jet danach eine Raketenstellung der Revolutionsgarden auf Keschm. Nachts meldeten Bahrain und Kuwait neue Angriffe.",
       "quellen": [
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukraine-war-latest-entire-section-of-crimean-bridge-collapses-after-seven-phase-operation-zelensky-reveals/"
-        },
-        {
-          "name": "The Moscow Times",
-          "url": "https://www.themoscowtimes.com/2026/11/17/ukraine-strikes-crimean-bridge-for-second-day-as-russia-pounds-kyiv-bridges-a94281"
-        }
-      ]
-    },
-    {
-      "headline": "Iran weist Vorwurf geplanter Anschläge in Washington zurück",
-      "text": "Laut CNN entwickelt Iran nach Angaben von US-Geheimdiensten Pläne, Regierungsmitglieder in Washington mit einer schmutzigen Bombe oder einer Chemiewaffe anzugreifen. Trump nimmt das nach eigenen Worten sehr ernst. Irans Außenamtssprecher Baghaei nannte die Vorwürfe haltlos.",
-      "quellen": [
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/iran-dismisses-report-of-alleged-dirty-bomb-attack-on-washington/a-79970741"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cq808vzd3nnpo"
-        }
-      ]
-    },
-    {
-      "headline": "Trump verkündet Rohstoffabkommen der Quad-Staaten",
-      "text": "Trump traf in Manila die Regierungschefs Indiens, Japans und Australiens. Abkommen zu kritischen Mineralien sollen laut Trump Zwang durch einen einzelnen Lieferanten verhindern. Rund 1500 Menschen protestierten gegen ihn. Am Donnerstag soll er in Shenzhen Xi und Putin treffen.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila"
-        },
         {
           "name": "NPR",
-          "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines"
+          "url": "https://npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain"
+        },
+        {
+          "name": "Gulf News",
+          "url": "https://gulfnews.com/world/mena/middle-east-war-iran-attacks-bahrain-kuwait-drone-threats-keep-gulf-on-high-alert-as-us-hits-irans-qeshm-1.500751444"
         }
       ]
     },
     {
-      "headline": "Großbritannien verhängt Sanktionen gegen israelische Baufirmen",
-      "text": "London belegt acht Baufirmen, die Siedlungen im besetzten Westjordanland errichten, und die Gruppe Tzav 9 mit Sanktionen. Diese soll Hilfstransporte nach Gaza blockiert haben. Israels Außenminister Saar sprach von einem feindseligen Akt und kündigte Gegenmaßnahmen an.",
+      "headline": "Xi empfängt Putin vor Dreiertreffen mit Trump",
+      "text": "Chinas Staatschef Xi und Russlands Präsident Putin beraten in Shenzhen vor dem Apec-Gipfel. Am Donnerstag ist erstmals ein Dreiertreffen mit US-Präsident Trump geplant. Er will laut dpa über eine mögliche Verringerung der Atomwaffenarsenale weltweit sprechen.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cvglr977x3z0o"
+          "url": "https://www.bbc.com/news/live/cw99e0n0lpnnt"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid"
+          "name": "dpa",
+          "url": "https://www.yahoo.com/news/world/articles/xi-open-apec-summit-ahead-020332150.html"
         }
       ]
     },
     {
-      "headline": "Russisches Militärflugzeug in Sibirien abgestürzt",
-      "text": "Beim Absturz einer An-12-Transportmaschine im Gebiet Kemerowo starben laut Staatsmedien unter Berufung auf das Verteidigungsministerium alle 19 Insassen. Das Ministerium vermutet vorläufig einen technischen Defekt. Der Gouverneur bestätigte den Absturz nahe dem Dorf Jagunowo.",
+      "headline": "USA kritisieren ukrainische Angriffe tief in Russland",
+      "text": "Nach dem Teileinsturz der Krim-Brücke durch einen ukrainischen Angriff kritisierte US-Staatssekretär Colby, solche Schläge hätten weder das Kriegsende näher gebracht noch Russlands Vormarsch gebremst. Nato-Chef Rutte zählte Angriffe auf Logistikknoten zur Selbstverteidigung.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cw8085rykkmgo"
+          "name": "dpa",
+          "url": "https://www.yahoo.com/news/politics/articles/us-criticizes-ukraine-striking-targets-184833042.html"
         },
         {
-          "name": "The Moscow Times",
-          "url": "https://www.themoscowtimes.com/2026/11/17/at-least-13-killed-in-military-transport-plane-crash-in-kemerovo-region-reports-a94289"
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-crimean-bridge-after-russian-missiles-hit-kyiv-bridges/"
+        }
+      ]
+    },
+    {
+      "headline": "Netanjahu-Gegner übernehmen Vorsitz der Knesset",
+      "text": "Die Knesset wählte Matan Kahana von der Partei Jaschar mit 66 Stimmen zum Parlamentspräsidenten, auch arabische Abgeordnete stimmten für ihn. Er löst Amir Ohana vom Likud ab. Das Lager, das Netanjahu ablösen will, hält damit die wichtigsten Posten im Parlament.",
+      "quellen": [
+        {
+          "name": "Ynetnews",
+          "url": "https://www.ynetnews.com/article/b1jkmr5cge"
+        }
+      ]
+    },
+    {
+      "headline": "Rubio sieht keinen Angriff hinter Serie von Störungen",
+      "text": "US-Außenminister Rubio sagte in Manila, es gebe keine Hinweise, dass die jüngsten Ausfälle zusammenhängen oder auf Hacker oder fremde Staaten zurückgehen. Zuvor war ein geheimes internes Netz des Geheimdienstes NSA ausgefallen, laut NSA bei routinemäßiger Wartung.",
+      "quellen": [
+        {
+          "name": "AFP",
+          "url": "https://www.yahoo.com/news/us/articles/rubio-says-no-evidence-recent-025517757.html"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/nsa-network-down-classified-fort-meade/"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Koalitionsausschuss ringt um Senkung der Stromsteuer",
-      "text": "Union und SPD beraten über die Finanzierung einer niedrigeren Stromsteuer. Merz hatte zugesagt, sie 2027 auch für Privathaushalte auf das europäische Minimum zu senken. Das Finanzministerium pocht auf eine dauerhafte Gegenfinanzierung. Auch Rente und Wahlrecht sind Thema.",
+      "headline": "Koalitionsausschuss endet ohne verkündetes Ergebnis",
+      "text": "Union und SPD haben ihren Koalitionsausschuss im Kanzleramt nach über acht Stunden in der Nacht beendet. Ergebnisse sollen erst am Morgen bekanntgegeben werden. Strittig war vor allem, woher 5,4 Milliarden Euro kommen sollen, um die Stromsteuer für alle zu senken.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-stromsteuer-merz-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-beendet-verhandlungen-100.html"
         },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/koalitionsausschuss-beendet-beratungen-noch-keine-ergebnisse-bekannt-102.html"
+        }
+      ]
+    },
+    {
+      "headline": "Karlsruhe entscheidet über Wahlbeschwerde des BSW",
+      "text": "Das Bundesverfassungsgericht entscheidet am Mittwoch über die Beschwerde des BSW gegen die Bundestagswahl 2025. Die Partei kam auf 4,981 Prozent, ihr fehlten 9.529 Stimmen. Sie fordert eine Neuauszählung. Käme sie in den Bundestag, verlöre Schwarz-Rot die Mehrheit.",
+      "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/merz-koalition-stromsteuer-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Trump nennt Vorgehen der Deutschen Bank illegal",
-      "text": "Laut ZDF und Spiegel erhielt 2017 ein Externer durch einen Fehler der Bank Zugriff auf Steuerdaten, darunter zu drei Trump-Konten. Trump nannte das illegal. Klingbeil verlangt volle Aufklärung. Die Aktie der Bank verlor am Dienstag zeitweise mehr als sechs Prozent.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/wirtschaft/deutsche-bank-leak-reaktionen-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/bsw-bundesverfassungsgericht-bundestagswahl-2025-entscheidung-100.html"
         },
         {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3448439/"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/muss-bundestagswahl-neu-ausgezaehlt-werden-bsw-100.html"
         }
       ]
     },
     {
-      "headline": "Kritik an Ruanda-Plänen hält an",
-      "text": "Kirchen, Menschenrechtler und SPD-Politiker kritisieren das geplante Abschiebezentrum in Ruanda. UN-Menschenrechtskommissar Türk sieht Risiken. Österreichs Innenminister Karner spricht von einem Pilotprojekt. Ein Abkommen soll laut Karner 2027 folgen.",
+      "headline": "Klingbeil fordert nach Leak Aufklärung von Deutscher Bank",
+      "text": "Finanzminister Klingbeil verlangt von der Deutschen Bank Aufklärung, wie sie Kontrollmängel behoben hat. Gestützt auf über 15 Millionen Bankdokumente werfen Medien wie Spiegel und ZDF ihr vor, Kontrollen gegen Geldwäsche vernachlässigt zu haben. Die Bank bestreitet das.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ruanda-abschiebezentren-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/bundesfinanzminister-klingbeil-fordert-konsquenzen-aus-datenleck-vorwuerfe-von-us-praesident-trump-100.html"
         },
         {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3448435/"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/deutschebank-226.html"
         }
       ]
     },
     {
-      "headline": "EU-Kommission hebt Wachstumsprognose für Deutschland an",
-      "text": "Die EU-Kommission erwartet für Deutschland in diesem Jahr ein Plus von 1,3 Prozent statt der im Mai prognostizierten 0,6 Prozent, vor allem dank starker Exporte. Für 2027 rechnet sie mit 1,0 Prozent. Die ZEW-Konjunkturerwartungen erreichten den höchsten Stand seit Februar.",
+      "headline": "Streit in der Koalition über Aus für Demokratieprojekte",
+      "text": "Nach dem Umbau der Förderrichtlinie durch Familienministerin Prien verlieren ab 2027 mehrere Projekte gegen Extremismus ihr Geld, etwa die Initiative CLAIM gegen Islamfeindlichkeit. SPD-Politiker Döring warf Prien in der taz vor, sich über die SPD hinweggesetzt zu haben.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-kommission-wachstumsprognose-deutschland-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/foerder-aus-fuer-projekte-erzeugt-weiter-spannungen-zwischen-union-und-spd-100.html"
         }
       ]
     }
