@@ -1,62 +1,74 @@
 {
   "datum": "2026-11-18",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Iran greift nach US-Schlag auf Keschm Kuwait an",
-      "text": "Irans Armee griff nach eigenen Angaben US-Anlagen auf dem Stützpunkt Ali Al Salem in Kuwait an, erstmals seit September. Zuvor griffen US-Jets laut einem US-Militärvertreter eine Raketenstellung auf Keschm an. Bahrain meldete den dritten abgewehrten Angriff binnen einer Woche.",
+      "headline": "Xi empfängt Trump in Shenzhen mit Umarmung",
+      "text": "Chinas Staatschef Xi hat Trump am Mittwoch persönlich am Flughafen von Shenzhen begrüßt und umarmt. Beim Apec-Galadinner gab Putin Trump die Hand. Am Donnerstag wollen die drei erstmals zu dritt beraten, etwa über den Ukraine-Krieg, den Iran-Krieg und atomare Abrüstung.",
+      "quellen": [
+        {
+          "name": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/world/xi-gives-trump-grand-airport-welcome-with-rare-hug-at-shenzhen/"
+        },
+        {
+          "name": "Yahoo News",
+          "url": "https://www.yahoo.com/news/politics/articles/xi-trump-putin-dine-shenzhen-140331525.html"
+        }
+      ]
+    },
+    {
+      "headline": "Iran greift erstmals seit September Ziele in Kuwait an",
+      "text": "Irans Armee griff nach eigenen Angaben US-Drohnen- und Raketenstellungen auf dem Stützpunkt Ali Al Salem in Kuwait an. Zuvor hatten US-Jets laut einem US-Militärvertreter eine Raketenstellung auf Keschm attackiert. Kuwait fing laut seiner Armee Drohnen ab.",
       "quellen": [
         {
           "name": "Reuters",
-          "url": "https://www.gmanetwork.com/news/topstories/world/1009973/iran-fires-at-kuwait-widening-strikes-after-us-hit-iranian-island/story/"
-        }
-      ]
-    },
-    {
-      "headline": "Xi und Putin beraten vor Dreiertreffen mit Trump",
-      "text": "Chinas Staatschef Xi und Russlands Präsident Putin beraten in Shenzhen, einen Tag vor dem ersten Dreiergipfel mit US-Präsident Trump. Zum Auftakt des Apec-Gipfels warb Xi für Freihandel. Putin erwartet vom Treffen großen Nutzen. Trump war am Mittwoch noch auf den Philippinen.",
-      "quellen": [
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/18/chinas-xi-jinping-and-putin-hold-talks-in-shenzhen-on-eve-of-three-way-summit-with-trump"
-        }
-      ]
-    },
-    {
-      "headline": "Ukraine beschädigt Krim-Brücke schwer",
-      "text": "Nach einem ukrainischen Angriff stürzten laut Kiews Generalstab ein Bogen und ein Teil der Fahrbahn der Krim-Brücke ein. Der von Moskau eingesetzte Gouverneur meldete zwei Tote. Russland traf in Kiew laut Bürgermeister Klitschko zwei Brücken und beschädigte die U-Bahn teilweise.",
-      "quellen": [
-        {
-          "name": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-11-18/ukraine-damages-crimean-bridge-in-major-strike/107396824"
+          "url": "https://www.al-monitor.com/originals/2026/11/iran-fires-kuwait-after-us-strike-iranian-island"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge"
+          "name": "AP",
+          "url": "https://www.bostonglobe.com/2026/11/18/business/us-iran-gulf-attacks-kuwait/"
         }
       ]
     },
     {
-      "headline": "Netanjahu-Gegner stellen neuen Knesset-Präsidenten",
-      "text": "Die Knesset hat Matan Kahana von Eisenkots Partei Jaschar mit 66 Stimmen zum Parlamentspräsidenten gewählt, auch mit Stimmen arabischer Parteien. Er folgt auf Amir Ohana vom Likud. Das Lager um Eisenkot bestimmt damit die Tagesordnung. Der Likud sprach von einem Tiefpunkt.",
+      "headline": "Israel startet Einsatz im Zentrum des Gazastreifens",
+      "text": "Israels Armee hat trotz der Waffenruhe seit Oktober 2025 einen Einsatz nahe den Flüchtlingslagern Nuseirat und Al-Bureij begonnen. Sie nennt Hamas-Infrastruktur und eine Bedrohung ihrer Soldaten als Grund. Die Hamas spricht von einem eklatanten Bruch der Waffenruhe.",
       "quellen": [
+        {
+          "name": "AFP",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/11/18/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza"
+        },
+        {
+          "name": "Yahoo News",
+          "url": "https://sg.news.yahoo.com/israeli-military-launches-operation-central-160127760.html"
+        }
+      ]
+    },
+    {
+      "headline": "Ukraine zerstört Teil der Krim-Brücke",
+      "text": "Nach einem ukrainischen Angriff stürzten laut Kiews Generalstab ein Bogen und ein Fahrbahnabschnitt der Krim-Brücke ein, die Bahnstrecke blieb stehen. Der Bahnverkehr lief laut Krim-Gouverneur Aksjonow am Dienstagnachmittag wieder. Der Kreml kündigte den Wiederaufbau an.",
+      "quellen": [
+        {
+          "name": "AP",
+          "url": "https://www.pbs.org/newshour/world/the-symbol-of-the-occupation-ukraine-destroys-span-of-kerch-bridge-linking-russia-with-crimea"
+        },
         {
           "name": "CNN",
-          "url": "https://www.cnn.com/2026/11/17/middleeast/israel-knesset-speaker-netanyahu-intl"
-        },
-        {
-          "name": "Arab News",
-          "url": "https://www.arabnews.jp/en/middle-east/knesset-elects-new-speaker-to-bring-netanyahus-end-closer-3001497"
+          "url": "https://www.cnn.com/2026/11/17/europe/ukraine-russia-kerch-bridge-intl-hnk"
         }
       ]
     },
     {
-      "headline": "Rubio sieht keinen Zusammenhang zwischen IT-Ausfällen",
-      "text": "US-Außenminister Rubio sagte auf den Philippinen, es gebe keine Hinweise, dass die Ausfälle bei Microsoft, der Flugaufsicht FAA und Banken zusammenhängen oder auf Hacker oder fremde Staaten zurückgehen. Laut US-Vertretern fiel am Dienstag auch ein geheimes Netz der NSA aus.",
+      "headline": "Jeffries fordert Briefing zu IT-Ausfällen in den USA",
+      "text": "Nach Ausfällen in den USA, etwa bei Microsoft, der Flugaufsicht FAA, JPMorgan Chase und einem geheimen NSA-Netz, verlangt Demokratenführer Jeffries ein Briefing für den Kongress. Die NSA nannte geplante Wartung als Grund. Belege für einen Zusammenhang gibt es bislang nicht.",
       "quellen": [
         {
-          "name": "CBS News",
-          "url": "https://www.yahoo.com/news/us/articles/rubio-says-theres-zero-evidence-024300272.html"
+          "name": "Newsweek",
+          "url": "https://www.newsweek.com/nsa-down-outage-network-security-communications-systems-12729263"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/tech/security/microsoft-faa-chase-nsa-week-major-outages-tech-plan-conspiracy-down-rcna609876"
         }
       ]
     }
@@ -64,49 +76,57 @@
   "national": [
     {
       "headline": "Koalition senkt Stromsteuer 2027 für alle",
-      "text": "Union und SPD haben im Koalitionsausschuss beschlossen, die Stromsteuer im Jahr 2027 für alle auf das EU-Minimum von 0,1 Cent pro Kilowattstunde zu senken. Bezahlt werden soll das aus Spielräumen bei der EEG-Förderung. Ab 1. Januar 2027 soll zudem ein Spritpreisdeckel gelten.",
+      "text": "Nach achtstündigen Verhandlungen haben sich Union und SPD geeinigt, die Stromsteuer 2027 auf das EU-Mindestniveau zu senken. Das Geld soll aus erwarteten Spielräumen beim EEG-Konto kommen. Ab Januar 2027 sollen steigende Spritpreise befristet gedeckelt werden.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/stromsteuer-senkung-beschlossen-100.html"
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/politik/deutsche-regierung-einigt-sich-nach-harten-verhandlungen-auf-senkung-der-stromsteuer-ld.10067295"
         },
         {
-          "name": "t-online",
-          "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101534002/stromsteuer-koalition-beschliesst-senkung-mit-einem-haken.html"
+          "name": "ORF",
+          "url": "https://orf.at/stories/3448588"
         }
       ]
     },
     {
       "headline": "BSW scheitert in Karlsruhe mit Wahlbeschwerde",
-      "text": "Das Bundesverfassungsgericht hat die für das BSW eingelegte Beschwerde zur Bundestagswahl 2025 einstimmig als unzulässig verworfen. Eine Neuauszählung gibt es nicht. Laut Gericht wurde kein konkreter Wahlfehler dargelegt. Dem BSW hatten 9.529 Stimmen gefehlt.",
+      "text": "Das Bundesverfassungsgericht hat die Beschwerde des BSW gegen die Bundestagswahl 2025 als unzulässig verworfen, neu ausgezählt wird nicht. Laut Gericht schilderte das BSW keinen konkreten Wahlfehler. Die Union schlägt eine Reform der Wahlprüfung vor.",
       "quellen": [
         {
-          "name": "dpa",
-          "url": "https://www.badische-zeitung.de/keine-neuauszaehlung-karlsruhe-verwirft-bsw-wahlbeschwerde"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bsw-beschwerde-abgelehnt-bundestagswahl-100.html"
         },
         {
-          "name": "t-online",
-          "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101534272/bsw-scheitert-vor-gericht-niederlage-fuer-wagenknecht.html"
+          "name": "ORF",
+          "url": "https://orf.at/stories/3448543/"
         }
       ]
     },
     {
-      "headline": "Sewing gesteht nach Leak bei Deutscher Bank Fehler ein",
-      "text": "Nach Berichten über vernachlässigte Kontrollen gegen Geldwäsche hat Bankchef Sewing Fehler eingeräumt. Im Rückblick hätte man wohl anders priorisieren können. Er bestritt, Risiken beiseitegeschoben zu haben. Kontodaten seien nach Erkenntnissen der Bank nicht betroffen.",
+      "headline": "Sewing räumt nach Datenleck Fehler ein",
+      "text": "Deutsche-Bank-Chef Sewing hat nach Berichten über jahrelang vernachlässigte Geldwäsche-Kontrollen Fehler eingeräumt, den Kurs aber verteidigt. Kontodaten sind laut der Bank nicht betroffen. Hessens Datenschutzbeauftragter prüft, ob sie betroffene Kunden rechtzeitig informierte.",
       "quellen": [
         {
-          "name": "Handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/deutschland/vorwuerfe-gegen-dax-konzern-deutsche-bank-chef-sewing-raeumt-nach-datenleck-fehler-ein/100270843.html"
+          "name": "cash.ch (AWP)",
+          "url": "https://www.cash.ch/news/top-news/deutsche-bank-chef-sewing-raumt-nach-datenleck-fehler-ein-986238"
+        },
+        {
+          "name": "blue News",
+          "url": "https://www.bluewin.ch/de/news/wirtschaft/deutsche-bank-chef-sewing-raeumt-nach-datenleck-fehler-ein-li.3677924"
         }
       ]
     },
     {
-      "headline": "Regierung will Kündigungsschutz für Topverdiener lockern",
-      "text": "Laut Reuters will das Kabinett am Mittwoch einen Entwurf billigen, der den Kündigungsschutz bei Jahresgehältern über etwa 186.000 Euro lockert. Firmen könnten so schlecht begründete Kündigungen per Abfindung durchsetzen. Befristungen ohne Sachgrund sollen bis vier Jahre gehen.",
+      "headline": "Kabinett lockert Kündigungsschutz für Topverdiener",
+      "text": "Das Kabinett billigte einen Entwurf, nach dem Arbeitgeber Beschäftigte mit über rund 180.000 Euro Jahresgehalt leichter gegen Abfindung entlassen können, zwölf Monate nach Inkrafttreten. Befristungen ohne Sachgrund sollen bis Ende 2030 bis zu vier statt zwei Jahre erlaubt sein.",
       "quellen": [
         {
           "name": "Reuters",
-          "url": "https://www.onvista.de/news/2026/11-18-lockerung-des-kuendigungsschutzes-am-mittwoch-im-kabinett-0-20-26577707"
+          "url": "https://www.onvista.de/news/2026/11-18-kabinett-beschliesst-lockerungen-beim-kuendigungsschutz-0-20-26577774"
+        },
+        {
+          "name": "Personalwirtschaft",
+          "url": "https://www.personalwirtschaft.de/news/arbeitsrecht/referentenentwurf-schweitzer-vier-aenderungen-im-arbeitsrecht-211351/"
         }
       ]
     }
