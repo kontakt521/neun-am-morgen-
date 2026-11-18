@@ -1,52 +1,52 @@
 {
   "datum": "2026-11-18",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
-      "headline": "Xi empfängt Trump in Shenzhen mit Umarmung",
-      "text": "Chinas Staatschef Xi hat Trump am Mittwoch persönlich am Flughafen von Shenzhen begrüßt und umarmt. Beim Apec-Galadinner gab Putin Trump die Hand. Am Donnerstag wollen die drei erstmals zu dritt beraten, etwa über den Ukraine-Krieg, den Iran-Krieg und atomare Abrüstung.",
+      "headline": "Trump will Putin in China unter vier Augen treffen",
+      "text": "Trump will Putin am Donnerstag in China laut einem US-Regierungsvertreter allein treffen. Zudem beraten Trump, Xi und Putin in Shenzhen erstmals zu dritt. Xi hatte Trump am Flughafen mit einer Umarmung empfangen. US-Gesandte treffen zugleich in Berlin Ukrainer und Europäer.",
       "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday"
+        },
         {
           "name": "The Tribune",
           "url": "https://www.tribuneindia.com/news/world/xi-gives-trump-grand-airport-welcome-with-rare-hug-at-shenzhen/"
-        },
-        {
-          "name": "Yahoo News",
-          "url": "https://www.yahoo.com/news/politics/articles/xi-trump-putin-dine-shenzhen-140331525.html"
         }
       ]
     },
     {
-      "headline": "Iran greift erstmals seit September Ziele in Kuwait an",
-      "text": "Irans Armee griff nach eigenen Angaben US-Drohnen- und Raketenstellungen auf dem Stützpunkt Ali Al Salem in Kuwait an. Zuvor hatten US-Jets laut einem US-Militärvertreter eine Raketenstellung auf Keschm attackiert. Kuwait fing laut seiner Armee Drohnen ab.",
+      "headline": "Iran greift nach US-Angriff Ziele in Kuwait und Bahrain an",
+      "text": "Iran griff nach eigenen Angaben US-Stellungen auf dem Stützpunkt Ali Al Salem in Kuwait an, erstmals seit September. Bahrain wehrte laut eigenen Angaben erneut Angriffe ab. Zuvor hatten US-Jets eine Raketenstellung auf Keschm attackiert. Mehrere Golfstaaten verurteilten Iran.",
       "quellen": [
         {
           "name": "Reuters",
           "url": "https://www.al-monitor.com/originals/2026/11/iran-fires-kuwait-after-us-strike-iranian-island"
         },
         {
-          "name": "AP",
-          "url": "https://www.bostonglobe.com/2026/11/18/business/us-iran-gulf-attacks-kuwait/"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island"
         }
       ]
     },
     {
-      "headline": "Israel startet Einsatz im Zentrum des Gazastreifens",
-      "text": "Israels Armee hat trotz der Waffenruhe seit Oktober 2025 einen Einsatz nahe den Flüchtlingslagern Nuseirat und Al-Bureij begonnen. Sie nennt Hamas-Infrastruktur und eine Bedrohung ihrer Soldaten als Grund. Die Hamas spricht von einem eklatanten Bruch der Waffenruhe.",
+      "headline": "Israel startet Bodeneinsatz im Zentrum des Gazastreifens",
+      "text": "Israels Armee hat nahe den Lagern Nuseirat und Al-Bureij den ersten breiten Bodeneinsatz seit der Waffenruhe vom Oktober 2025 begonnen. Laut Kliniken starben drei Palästinenser. Die Armee verweist auf Hamas-Infrastruktur, die Hamas spricht von einem Bruch der Waffenruhe.",
       "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza"
+        },
         {
           "name": "AFP",
           "url": "https://www.freemalaysiatoday.com/category/world/2026/11/18/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza"
-        },
-        {
-          "name": "Yahoo News",
-          "url": "https://sg.news.yahoo.com/israeli-military-launches-operation-central-160127760.html"
         }
       ]
     },
     {
       "headline": "Ukraine zerstört Teil der Krim-Brücke",
-      "text": "Nach einem ukrainischen Angriff stürzten laut Kiews Generalstab ein Bogen und ein Fahrbahnabschnitt der Krim-Brücke ein, die Bahnstrecke blieb stehen. Der Bahnverkehr lief laut Krim-Gouverneur Aksjonow am Dienstagnachmittag wieder. Der Kreml kündigte den Wiederaufbau an.",
+      "text": "Nach ukrainischem Angriff stürzten laut Kiews Generalstab ein Bogen und ein Fahrbahnteil der Krim-Brücke ein, die Bahnstrecke steht. Der Bahnverkehr läuft laut dem von Moskau eingesetzten Gouverneur Aksjonow wieder. Laut Kremlsprecher Peskow wird die Brücke wiederhergestellt.",
       "quellen": [
         {
           "name": "AP",
@@ -59,16 +59,16 @@
       ]
     },
     {
-      "headline": "Jeffries fordert Briefing zu IT-Ausfällen in den USA",
-      "text": "Nach Ausfällen in den USA, etwa bei Microsoft, der Flugaufsicht FAA, JPMorgan Chase und einem geheimen NSA-Netz, verlangt Demokratenführer Jeffries ein Briefing für den Kongress. Die NSA nannte geplante Wartung als Grund. Belege für einen Zusammenhang gibt es bislang nicht.",
+      "headline": "Neues Politikverbot gegen Imamoglu in der Türkei",
+      "text": "Ein türkisches Gericht hat Istanbuls inhaftierten Bürgermeister Imamoglu zu zwei Jahren und einem Monat Haft verurteilt und laut Medien mit Politikverbot belegt. Es geht um mutmaßliche Wahlmanipulation beim CHP-Parteitag 2023. Das Verbot greift nur, wenn das Urteil Bestand hat.",
       "quellen": [
         {
-          "name": "Newsweek",
-          "url": "https://www.newsweek.com/nsa-down-outage-network-security-communications-systems-12729263"
+          "name": "Reuters",
+          "url": "https://www.yahoo.com/news/articles/turkish-court-hands-sentence-political-155853767.html"
         },
         {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/tech/security/microsoft-faa-chase-nsa-week-major-outages-tech-plan-conspiracy-down-rcna609876"
+          "name": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/11/18/turkish-court-hands-imamoglu-new-jail-term-political-ban/bi/"
         }
       ]
     }
@@ -76,7 +76,7 @@
   "national": [
     {
       "headline": "Koalition senkt Stromsteuer 2027 für alle",
-      "text": "Nach achtstündigen Verhandlungen haben sich Union und SPD geeinigt, die Stromsteuer 2027 auf das EU-Mindestniveau zu senken. Das Geld soll aus erwarteten Spielräumen beim EEG-Konto kommen. Ab Januar 2027 sollen steigende Spritpreise befristet gedeckelt werden.",
+      "text": "Nach über acht Stunden Verhandlung haben Union und SPD vereinbart, die Stromsteuer 2027 auf das EU-Mindestniveau zu senken. Die 5,4 Milliarden Euro sollen aus erwarteten Spielräumen beim EEG-Konto kommen. Ab Januar 2027 sollen steigende Spritpreise befristet gedeckelt werden.",
       "quellen": [
         {
           "name": "NZZ",
@@ -90,7 +90,7 @@
     },
     {
       "headline": "BSW scheitert in Karlsruhe mit Wahlbeschwerde",
-      "text": "Das Bundesverfassungsgericht hat die Beschwerde des BSW gegen die Bundestagswahl 2025 als unzulässig verworfen, neu ausgezählt wird nicht. Laut Gericht schilderte das BSW keinen konkreten Wahlfehler. Die Union schlägt eine Reform der Wahlprüfung vor.",
+      "text": "Das Bundesverfassungsgericht hat die Beschwerde des BSW gegen die Bundestagswahl 2025 als unzulässig verworfen, neu ausgezählt wird nicht. Laut Gericht legte das BSW nur unbelegte Vermutungen vor. Dem BSW fehlten 9529 Stimmen. Die Union schlägt vor, die Wahlprüfung umzubauen.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -103,8 +103,8 @@
       ]
     },
     {
-      "headline": "Sewing räumt nach Datenleck Fehler ein",
-      "text": "Deutsche-Bank-Chef Sewing hat nach Berichten über jahrelang vernachlässigte Geldwäsche-Kontrollen Fehler eingeräumt, den Kurs aber verteidigt. Kontodaten sind laut der Bank nicht betroffen. Hessens Datenschutzbeauftragter prüft, ob sie betroffene Kunden rechtzeitig informierte.",
+      "headline": "Sewing gesteht nach Datenleck Fehler ein",
+      "text": "Deutsche-Bank-Chef Sewing hat nach Berichten über jahrelang vernachlässigte Geldwäsche-Kontrollen Fehler eingeräumt, den Kurs aber verteidigt. Laut Sewing sind Kontodaten nicht betroffen. Hessens Datenschutzbeauftragter prüft, ob die Bank Kunden rechtzeitig informierte.",
       "quellen": [
         {
           "name": "cash.ch (AWP)",
@@ -118,15 +118,15 @@
     },
     {
       "headline": "Kabinett lockert Kündigungsschutz für Topverdiener",
-      "text": "Das Kabinett billigte einen Entwurf, nach dem Arbeitgeber Beschäftigte mit über rund 180.000 Euro Jahresgehalt leichter gegen Abfindung entlassen können, zwölf Monate nach Inkrafttreten. Befristungen ohne Sachgrund sollen bis Ende 2030 bis zu vier statt zwei Jahre erlaubt sein.",
+      "text": "Das Kabinett billigte einen Entwurf, nach dem Arbeitgeber sich von Beschäftigten mit über rund 180.000 Euro Jahresgehalt leichter gegen Abfindung trennen können. Für Neueinstellungen bis Ende 2030 sollen Befristungen ohne Sachgrund bis zu vier statt zwei Jahre möglich sein.",
       "quellen": [
         {
           "name": "Reuters",
           "url": "https://www.onvista.de/news/2026/11-18-kabinett-beschliesst-lockerungen-beim-kuendigungsschutz-0-20-26577774"
         },
         {
-          "name": "Personalwirtschaft",
-          "url": "https://www.personalwirtschaft.de/news/arbeitsrecht/referentenentwurf-schweitzer-vier-aenderungen-im-arbeitsrecht-211351/"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/jobbefristungen-kabinett-100.html"
         }
       ]
     }
