@@ -1,70 +1,78 @@
 {
   "datum": "2026-11-19",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Dreiergipfel von Trump, Xi und Putin in Shenzhen beendet",
-      "text": "Trump, Xi und Putin haben in Shenzhen etwa 90 Minuten beraten. Laut Xinhua forderte Xi, Atomwaffen umfassend zu verbieten und zu vernichten. Putin sprach von einer gemeinsamen Verantwortung der drei Länder für den Frieden. Trump soll in Kürze in die USA zurückfliegen.",
+      "headline": "Trump, Xi und Putin veröffentlichen Friedenserklärung",
+      "text": "Nach ihrem Treffen in Shenzhen haben Trump, Xi und Putin eine Friedenserklärung vorgelegt. Ein Atomkrieg sei nicht zu gewinnen, heißt es darin. Sie wollen über atomare Risiken reden und fordern, dass der Internationale Strafgerichtshof seine Zuständigkeit nicht missbraucht.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c623j4ln97x7o"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/live/cmlye926e2eet"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways"
         }
       ]
     },
     {
-      "headline": "Weltgericht stellt Tötung Tausender Rohingya durch Myanmar fest",
-      "text": "Der Internationale Gerichtshof hat festgestellt, dass Myanmars Sicherheitskräfte Tausende Rohingya getötet und massenhaft sexuelle Gewalt verübt haben. Das Gericht geht von rund 10.000 Toten im Jahr 2017 aus. Ob es Völkermord feststellt, war zunächst offen. Geklagt hatte Gambia.",
+      "headline": "Weltgericht stellt Völkermord Myanmars an Rohingya fest",
+      "text": "Der Internationale Gerichtshof hat mit neun zu sechs Stimmen entschieden, dass Myanmar Völkermord an den Rohingya im Bundesstaat Rakhine begangen hat. Erstmals erklärte das Gericht einen Staat dafür verantwortlich. Myanmar muss Wiedergutmachung leisten. Geklagt hatte Gambia 2019.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide"
+        }
+      ]
+    },
+    {
+      "headline": "Anthropic-Gründer eröffnen Handelstag an der Nasdaq",
+      "text": "Daniela und Dario Amodei haben an der Nasdaq die Eröffnungsglocke geläutet. Der Handel mit den Aktien unter dem Kürzel ANT sollte erst später beginnen. Der Börsengang brachte laut CNN 81,3 Milliarden Dollar. Laut Bloomberg deuten Indikationen auf ein Plus von bis zu 25 Prozent.",
+      "quellen": [
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo"
+        },
+        {
+          "name": "Fortune",
+          "url": "https://fortune.com/2026/11/19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/"
+        }
+      ]
+    },
+    {
+      "headline": "Huthi-Angriff beschädigt Hochhaus des Staatsfonds in Riad",
+      "text": "Ein mutmaßlicher Huthi-Flugkörper hat laut Reuters den PIF-Turm getroffen, Riads höchstes Hochhaus und Sitz des saudischen Staatsfonds. Auf sieben bis acht Etagen barsten Fenster. Verletzte gab es laut Saudi-Arabien nicht. Die Huthi sprachen von Marschflugkörpern.",
       "quellen": [
         {
           "name": "Reuters",
-          "url": "https://www.yahoo.com/news/articles/world-court-finds-myanmar-forces-093810758.html"
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/19/houthi-missile-threat-towards-riyadh-causes-damage-saudi-led-coalition-says"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/live/cr93z32d2344t"
+          "name": "The National",
+          "url": "https://www.thenationalnews.com/news/gulf/2026/11/19/saudi-sovereign-wealth-fund-tower-in-riyadh-damaged-in-houthi-strike/"
         }
       ]
     },
     {
-      "headline": "Anthropic sammelt 81 Milliarden Dollar bei Rekord-Börsengang",
-      "text": "Anthropic hat seine Aktien zu je 83 Dollar platziert, über der geplanten Spanne von 70 bis 78 Dollar. Mit 81 Milliarden Dollar ist es der bislang größte Börsengang. Der Handel in New York beginnt am Donnerstag, der Firmenwert liegt dann bei etwa 1,5 Billionen Dollar.",
+      "headline": "Putin droht nach Angriffen auf Krim-Brücke mit Vergeltung",
+      "text": "Putin hat auf die Angriffe auf die Krim-Brücke eine weit schmerzhaftere Antwort angekündigt. Nachts traf die Ukraine die Brücke zum dritten Mal in dieser Woche, laut Kiew mit Neptun-Raketen. Züge fahren wieder, Autos vorerst nicht. In Sewastopol wird Treibstoff rationiert.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6742m39xgzxo"
-        }
-      ]
-    },
-    {
-      "headline": "Saudi-Arabien wehrt Huthi-Raketen auf Riad ab",
-      "text": "Die saudisch geführte Koalition hat nach eigenen Angaben Huthi-Raketen Richtung Riad und vier ballistische Raketen Richtung Süden abgefangen. In Riad fielen Trümmer herab, Sachschäden wurden gemeldet. Die Huthi nannten unter anderem den Flughafen und das Finanzzentrum als Ziele.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south"
-        }
-      ]
-    },
-    {
-      "headline": "Ukraine trifft Krim-Brücke binnen zwei Tagen erneut",
-      "text": "Ukrainische Drohnen haben die Krim-Brücke laut dem von Moskau eingesetzten Krim-Chef Aksjonow kurz nach Mitternacht erneut getroffen. Russland stoppte den Zugverkehr vorübergehend, Opfer gab es laut Verkehrsministerium nicht. Am 17. November war ein Teil der Brücke eingestürzt.",
-      "quellen": [
+          "url": "https://www.bbc.com/news/articles/cm879dqn3e1jo"
+        },
         {
           "name": "The Kyiv Independent",
-          "url": "https://kyivindependent.com/ukrainian-forces-once-more-hit-russias-crimean-bridge-days-after-devastating-strike/"
+          "url": "https://kyivindependent.com/fuel-restrictions-reportedly-cause-gas-station-queues-in-occupied-sevastopol-after-crimean-bridge-strikes/"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Ukraine-Unterstützer beraten im Berliner Kanzleramt",
-      "text": "Im Kanzleramt beraten knapp 40 Delegationen, rund 30 davon unter Leitung von Staats- und Regierungschefs. Auch Selenskyj und die US-Gesandten Witkoff und Kushner sind dabei. Es geht um Waffenruhe, Gebiete und Sicherheitsgarantien. London sagte über 1000 Langstreckendrohnen zu.",
+      "headline": "Knapp 40 Delegationen beraten in Berlin über Ukraine-Hilfe",
+      "text": "Im Kanzleramt beraten knapp 40 Delegationen, darunter Selenskyj sowie die US-Gesandten Witkoff und Kushner. Merz will Russland stärker unter Druck setzen. Selenskyj beziffert den Zusatzbedarf für 2027 auf 70 Milliarden Euro. London sagte über 1000 Langstreckendrohnen zu.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -72,17 +80,31 @@
         },
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/treffen-der-koalition-der-willigen-merz-pocht-auf-mehr-hilfe-fuer-ukraine-100.html"
+          "url": "https://www.deutschlandfunk.de/ukraine-hilfe-zahlreiche-staats-und-regierungschefs-tagen-im-kanzleramt-auch-selenskyj-angereist-100.html"
         }
       ]
     },
     {
-      "headline": "Bund gibt Widerstand gegen Commerzbank-Übernahme auf",
-      "text": "Der Bund unterstützt nun, dass die italienische Unicredit die Commerzbank übernimmt. Sie hält bereits knapp 50 Prozent. Laut Finanzminister Klingbeil soll die Bank börsennotiert bleiben und in Frankfurt sitzen. Ob betriebsbedingte Kündigungen ausgeschlossen werden, ließ er offen.",
+      "headline": "VW fordert Nullrunden und flexiblere Arbeitszeit",
+      "text": "VW verlangt von der IG Metall Nullrunden für 2027 und 2028. Die 35-Stunden-Woche soll sich ohne Lohnausgleich nach der Auslastung richten, Zulagen sollen wegfallen. Die Gewerkschaft will fünf Prozent mehr und kritisiert die Pläne scharf. Verhandelt wird ab Dienstag in Emden.",
       "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/wirtschaft/commerzbank-uebernahme-unicredit-bundesregierung-100.html"
+          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/volkswagen-nullrunde-100.html"
+        },
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/vw-legt-tarifforderungen-vor-konzern-setzt-auf-mehr-arbeit-fuer-weniger-geld-a-a1adc456-4b16-441b-b7a8-81d08ad1d3f0"
+        }
+      ]
+    },
+    {
+      "headline": "Bund will Übernahme der Commerzbank durch Unicredit stützen",
+      "text": "Die Bundesregierung will nun einen geordneten Kontrollwechsel bei der Commerzbank hin zur Unicredit unterstützen. Laut Finanzminister Klingbeil soll die Bank börsennotiert bleiben und ihren Sitz in Frankfurt behalten. Der Bund verzichtet auf die Nominierung zweier Aufsichtsräte.",
+      "quellen": [
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/einigung-mit-unicredit-bundesregierung-will-uebernahme-der-commerzbank-nun-unterstuetzen-100.html"
         },
         {
           "name": "ORF",
@@ -91,30 +113,12 @@
       ]
     },
     {
-      "headline": "Grüne fordern wegen Bank-Leak den Nationalen Sicherheitsrat",
-      "text": "Nach dem Deutsche-Bank-Leck verlangt der Grünen-Politiker von Notz, den Nationalen Sicherheitsrat einzuberufen. Laut ZDF führte die Bank zeitweise 154 Tarnkonten von Ermittlern. Der CDU-Politiker Henrichmann sieht ein ernstes Risiko, falls solche Daten im Leck stecken.",
+      "headline": "Deutsche Bank wickelte Milliarden für Kolumbiens Banken ab",
+      "text": "Laut dem Leak Inside Deutsche Bank führte das Institut binnen eines Jahres Hunderttausende Zahlungen in zweistelliger Milliardenhöhe für Banken in Kolumbien aus, auch an Webcam-Models. 2019 meldete es laut den Unterlagen keinen Geldwäscheverdacht an deutsche Behörden.",
       "quellen": [
-        {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-leak-gruene-verlangen-einberufung-des-nationalen-sicherheitsrats-a-2f07df9d-87d1-440d-9f24-1e90751c2883"
-        },
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/wirtschaft/deutsche-bank-undercover-agenten-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Stromsteuer-Senkung soll aus Ökostrom-Mitteln kommen",
-      "text": "Die Koalition will die Stromsteuer 2027 für alle auf das EU-Mindestmaß senken, für gut fünf Milliarden Euro. Laut NZZ fließt dafür Geld, das für die Ökostromförderung eingeplant war. Sozialverbandschefin Engelmeier fordert zusätzlich Hilfen für Menschen mit kleinen Einkommen.",
-      "quellen": [
-        {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/deutsche-regierung-einigt-sich-nach-harten-verhandlungen-auf-senkung-der-stromsteuer-ld.10067295"
-        },
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/sozialverband-verlangt-weitergehende-entlastungen-fuer-geringverdiener-100.html"
+          "url": "https://www.zdfheute.de/wirtschaft/deutsche-bank-kolumbien-drogen-sex-100.html"
         }
       ]
     }
