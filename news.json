@@ -1,28 +1,56 @@
 {
-  "datum": "2026-11-18",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-19",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Trump will Putin in China unter vier Augen treffen",
-      "text": "Trump will Putin am Donnerstag in China laut einem US-Regierungsvertreter allein treffen. Zudem beraten Trump, Xi und Putin in Shenzhen erstmals zu dritt. Xi hatte Trump am Flughafen mit einer Umarmung empfangen. US-Gesandte treffen zugleich in Berlin Ukrainer und Europäer.",
+      "headline": "Trump trifft Putin vor Dreiergipfel mit Xi in Shenzhen",
+      "text": "Trump hat am Rande des Apec-Gipfels in Shenzhen rund 40 Minuten mit Putin gesprochen und die seit Jahren sehr gute Beziehung betont. Danach sollen ein Gespräch mit Xi und ein bislang beispielloses Treffen der Präsidenten der USA, Chinas und Russlands folgen.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday"
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-xi-putin-china-apec-congress-2026-live-updates-rcna609888"
         },
         {
-          "name": "The Tribune",
-          "url": "https://www.tribuneindia.com/news/world/xi-gives-trump-grand-airport-welcome-with-rare-hug-at-shenzhen/"
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-trump-tells-putin-we-ve-had-a-great-relationship-for-many-years"
         }
       ]
     },
     {
-      "headline": "Iran greift nach US-Angriff Ziele in Kuwait und Bahrain an",
-      "text": "Iran griff nach eigenen Angaben US-Stellungen auf dem Stützpunkt Ali Al Salem in Kuwait an, erstmals seit September. Bahrain wehrte laut eigenen Angaben erneut Angriffe ab. Zuvor hatten US-Jets eine Raketenstellung auf Keschm attackiert. Mehrere Golfstaaten verurteilten Iran.",
+      "headline": "Krim-Brücke zum dritten Mal in dieser Woche angegriffen",
+      "text": "Die Ukraine hat die Krim-Brücke laut dem von Moskau eingesetzten Krim-Chef Aksjonow kurz nach Mitternacht erneut angegriffen. Der Zugverkehr ist laut russischem Verkehrsministerium vorerst gestoppt, Opfer gab es demnach nicht. Am 17. November war ein Brückenteil eingestürzt.",
       "quellen": [
         {
-          "name": "Reuters",
-          "url": "https://www.al-monitor.com/originals/2026/11/iran-fires-kuwait-after-us-strike-iranian-island"
+          "name": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/ukrainian-forces-once-more-hit-russias-crimean-bridge-days-after-devastating-strike/"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cm879dqn3e1jo"
+        }
+      ]
+    },
+    {
+      "headline": "Israelische Panzer rücken im Zentrum Gazas vor",
+      "text": "Israelische Panzer sind östlich des Lagers Nuseirat jenseits der sogenannten Gelben Linie vorgerückt. Die Armee will einen Tunnel zerstören. Die Hamas wirft Israel einen Bruch der Waffenruhe vor. Laut dem Hamas-geführten Zivilschutz starben drei Menschen bei Drohnenangriffen.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cw8r7510degno"
+        },
+        {
+          "name": "AFP",
+          "url": "https://www.yahoo.com/news/world/articles/israel-army-launches-ground-operation-155855869.html"
+        }
+      ]
+    },
+    {
+      "headline": "Iran meldet Minenexplosionen an drei Tankern bei Hormus",
+      "text": "Laut Irans Revolutionsgarden sind drei Öltanker östlich der Straße von Hormus auf Minen gelaufen und in Brand geraten. Zudem griff Iran Ziele in Kuwait und Bahrain an, nachdem die USA eine Raketenstellung auf Keschm bombardiert hatten. Mehrere Golfstaaten verurteilten Iran.",
+      "quellen": [
+        {
+          "name": "ANI (The Tribune)",
+          "url": "https://www.tribuneindia.com/news/iran-us-conflict/iran-says-3-oil-tankers-catch-fire-after-hitting-mines-east-of-strait-of-hormuz"
         },
         {
           "name": "Al Jazeera",
@@ -31,102 +59,74 @@
       ]
     },
     {
-      "headline": "Israel startet Bodeneinsatz im Zentrum des Gazastreifens",
-      "text": "Israels Armee hat nahe den Lagern Nuseirat und Al-Bureij den ersten breiten Bodeneinsatz seit der Waffenruhe vom Oktober 2025 begonnen. Laut Kliniken starben drei Palästinenser. Die Armee verweist auf Hamas-Infrastruktur, die Hamas spricht von einem Bruch der Waffenruhe.",
+      "headline": "Anthropic vor dem größten Börsengang aller Zeiten",
+      "text": "Der KI-Entwickler Anthropic gibt 980 Millionen Aktien zu je 83 Dollar aus und nimmt damit 81,3 Milliarden Dollar ein, mehr als je zuvor bei einem Börsengang. Der Handel an der Nasdaq soll am Donnerstag beginnen. Der Firmenwert könnte bei rund 1,5 Billionen Dollar liegen.",
       "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza"
-        },
-        {
-          "name": "AFP",
-          "url": "https://www.freemalaysiatoday.com/category/world/2026/11/18/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza"
-        }
-      ]
-    },
-    {
-      "headline": "Ukraine zerstört Teil der Krim-Brücke",
-      "text": "Nach ukrainischem Angriff stürzten laut Kiews Generalstab ein Bogen und ein Fahrbahnteil der Krim-Brücke ein, die Bahnstrecke steht. Der Bahnverkehr läuft laut dem von Moskau eingesetzten Gouverneur Aksjonow wieder. Laut Kremlsprecher Peskow wird die Brücke wiederhergestellt.",
-      "quellen": [
-        {
-          "name": "AP",
-          "url": "https://www.pbs.org/newshour/world/the-symbol-of-the-occupation-ukraine-destroys-span-of-kerch-bridge-linking-russia-with-crimea"
-        },
         {
           "name": "CNN",
-          "url": "https://www.cnn.com/2026/11/17/europe/ukraine-russia-kerch-bridge-intl-hnk"
-        }
-      ]
-    },
-    {
-      "headline": "Neues Politikverbot gegen Imamoglu in der Türkei",
-      "text": "Ein türkisches Gericht hat Istanbuls inhaftierten Bürgermeister Imamoglu zu zwei Jahren und einem Monat Haft verurteilt und laut Medien mit Politikverbot belegt. Es geht um mutmaßliche Wahlmanipulation beim CHP-Parteitag 2023. Das Verbot greift nur, wenn das Urteil Bestand hat.",
-      "quellen": [
-        {
-          "name": "Reuters",
-          "url": "https://www.yahoo.com/news/articles/turkish-court-hands-sentence-political-155853767.html"
+          "url": "https://www.cnn.com/2026/11/18/investing/anthropic-ipo-wall-street-ai"
         },
         {
-          "name": "Balkan Insight",
-          "url": "https://balkaninsight.com/2026/11/18/turkish-court-hands-imamoglu-new-jail-term-political-ban/bi/"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6742m39xgzxo"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Koalition senkt Stromsteuer 2027 für alle",
-      "text": "Nach über acht Stunden Verhandlung haben Union und SPD vereinbart, die Stromsteuer 2027 auf das EU-Mindestniveau zu senken. Die 5,4 Milliarden Euro sollen aus erwarteten Spielräumen beim EEG-Konto kommen. Ab Januar 2027 sollen steigende Spritpreise befristet gedeckelt werden.",
+      "headline": "Großer Ukraine-Gipfel im Berliner Kanzleramt",
+      "text": "Im Kanzleramt beraten am Donnerstag Delegationen aus 37 Ländern über die Ukraine-Hilfe, darunter etwa 30 Staats- und Regierungschefs sowie die Führung von EU und Nato. Selenskyj und die US-Gesandten Witkoff und Kushner nehmen ebenfalls teil. Thema sind Sicherheitsgarantien.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/ukraine-gipfel-kanzleramt-koalition-der-willigen-100.html"
+        },
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-unterstuetzung-treffen-berlin-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Bund und UniCredit einigen sich über Commerzbank",
+      "text": "Die Regierung in Berlin und UniCredit aus Italien haben sich laut Finanzminister Klingbeil über die Konditionen einer Commerzbank-Übernahme geeinigt. Das Institut soll börsennotiert bleiben und in Frankfurt sitzen. Der Bund verzichtet auf zwei Vertreter im Aufsichtsrat.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html"
+        },
+        {
+          "name": "ORF",
+          "url": "https://orf.at/stories/3448616/"
+        }
+      ]
+    },
+    {
+      "headline": "Stromsteuer sinkt 2027 nach zäher Nachtsitzung",
+      "text": "Nach achtstündiger Verhandlung beschlossen CDU, CSU und SPD, die Stromsteuer 2027 auf das EU-Mindestmaß zu senken. Das kostet gut fünf Milliarden Euro. Ein Haushalt mit 3500 Kilowattstunden spart laut NZZ bei voller Weitergabe rund 81 Euro. Für 2028 fehlt eine Lösung.",
       "quellen": [
         {
           "name": "NZZ",
           "url": "https://www.nzz.ch/deutschland/politik/deutsche-regierung-einigt-sich-nach-harten-verhandlungen-auf-senkung-der-stromsteuer-ld.10067295"
         },
         {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3448588"
-        }
-      ]
-    },
-    {
-      "headline": "BSW scheitert in Karlsruhe mit Wahlbeschwerde",
-      "text": "Das Bundesverfassungsgericht hat die Beschwerde des BSW gegen die Bundestagswahl 2025 als unzulässig verworfen, neu ausgezählt wird nicht. Laut Gericht legte das BSW nur unbelegte Vermutungen vor. Dem BSW fehlten 9529 Stimmen. Die Union schlägt vor, die Wahlprüfung umzubauen.",
-      "quellen": [
-        {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bsw-beschwerde-abgelehnt-bundestagswahl-100.html"
-        },
-        {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3448543/"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-spritpreisdeckel-einigung-koalition-100.html"
         }
       ]
     },
     {
-      "headline": "Sewing gesteht nach Datenleck Fehler ein",
-      "text": "Deutsche-Bank-Chef Sewing hat nach Berichten über jahrelang vernachlässigte Geldwäsche-Kontrollen Fehler eingeräumt, den Kurs aber verteidigt. Laut Sewing sind Kontodaten nicht betroffen. Hessens Datenschutzbeauftragter prüft, ob die Bank Kunden rechtzeitig informierte.",
+      "headline": "Datenleck bringt Deutsche Bank weiter unter Druck",
+      "text": "Nach dem Leck von über 15 Millionen internen Dokumenten räumt Bankchef Sewing ein, nicht fehlerfrei zu sein, hält seinen Kurs aber für richtig. Laut ZDF stufte die Bank selbst über 20.000 Transaktionen der Jahre 2017 bis 2020 über Ungarn als Geldwäschenetzwerk ein.",
       "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/wirtschaft/deutsche-bank-geldwaesche-ungarn-100.html"
+        },
         {
           "name": "cash.ch (AWP)",
           "url": "https://www.cash.ch/news/top-news/deutsche-bank-chef-sewing-raumt-nach-datenleck-fehler-ein-986238"
-        },
-        {
-          "name": "blue News",
-          "url": "https://www.bluewin.ch/de/news/wirtschaft/deutsche-bank-chef-sewing-raeumt-nach-datenleck-fehler-ein-li.3677924"
-        }
-      ]
-    },
-    {
-      "headline": "Kabinett lockert Kündigungsschutz für Topverdiener",
-      "text": "Das Kabinett billigte einen Entwurf, nach dem Arbeitgeber sich von Beschäftigten mit über rund 180.000 Euro Jahresgehalt leichter gegen Abfindung trennen können. Für Neueinstellungen bis Ende 2030 sollen Befristungen ohne Sachgrund bis zu vier statt zwei Jahre möglich sein.",
-      "quellen": [
-        {
-          "name": "Reuters",
-          "url": "https://www.onvista.de/news/2026/11-18-kabinett-beschliesst-lockerungen-beim-kuendigungsschutz-0-20-26577774"
-        },
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/jobbefristungen-kabinett-100.html"
         }
       ]
     }
