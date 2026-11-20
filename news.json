@@ -1,128 +1,116 @@
 {
-  "datum": "2026-11-19",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-20",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Trump, Xi und Putin legen Friedenserklärung vor",
-      "text": "Nach ihrem ersten Dreiertreffen in Shenzhen haben Trump, Xi und Putin eine Friedenserklärung vorgelegt. Ein Atomkrieg sei nicht zu gewinnen, heißt es. Sie wollen über atomare Risiken reden und mehr Öl fördern. Der Strafgerichtshof dürfe seine Zuständigkeit nicht missbrauchen.",
+      "headline": "Russland greift Kiew nach Putins Drohung massiv an",
+      "text": "Nach Putins Vergeltungsdrohung wegen der Angriffe auf die Krim-Brücke hat Russland Kiew nachts mit Raketen und Drohnen angegriffen. Laut Bürgermeister Klitschko wurden drei Brücken beschädigt. Behörden meldeten mindestens drei Tote. Strom, Heizung und Wasser fielen teils aus.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c623j4ln97x7o"
-        },
+          "name": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/"
+        }
+      ]
+    },
+    {
+      "headline": "Trump, Xi und Putin unterzeichnen Friedenserklärung",
+      "text": "Nach ihrem ersten Dreiertreffen in Shenzhen haben Trump, Xi und Putin eine Friedenserklärung angenommen. Sie wollen über atomare Risiken reden, Bemühungen um eine wirksamere UN unterstützen und mehr Ölprodukte liefern. Den Strafgerichtshof warnen sie vor Machtmissbrauch.",
+      "quellen": [
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways"
+        },
+        {
+          "name": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/trump-sits-down-with-his-friend-putin-chinas-xi-for-unprecedented-trilateral-talks/"
         }
       ]
     },
     {
-      "headline": "Weltgericht stellt Völkermord Myanmars an Rohingya fest",
-      "text": "Der Internationale Gerichtshof hat mit 9 zu 6 Stimmen entschieden, dass Myanmar 2017 Völkermord an den Rohingya begangen hat. Erstmals erklärte das Gericht einen Staat dafür verantwortlich. Myanmar muss Wiedergutmachung leisten. London will Myanmars Militärattaché ausweisen.",
+      "headline": "Gambia und UN fordern Umsetzung des Rohingya-Urteils",
+      "text": "Der Internationale Gerichtshof hat mit 9 zu 6 Stimmen geurteilt, dass Myanmar 2017 Völkermord an den Rohingya beging, als erster Staat vor diesem Gericht. Gambia und UN-Chef Guterres fordern Myanmar auf, das Urteil zu befolgen. London weist Myanmars Militärattaché aus.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide"
+          "url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c804wzp20ddvo"
+          "url": "https://www.bbc.com/news/articles/c6ly58ndgd0no"
         }
       ]
     },
     {
-      "headline": "Anthropic-Aktie startet mit Kurssprung an der Börse",
-      "text": "Die Aktie von Anthropic ist mit 111,50 Dollar in den Handel gestartet, 34 Prozent über dem Ausgabepreis von 83 Dollar. Der Börsenwert lag damit bei rund zwei Billionen Dollar. Am Nachmittag schmolz das Plus laut CNN auf 14 Prozent. Der Dow Jones verlor über 1000 Punkte.",
+      "headline": "Anthropic-Aktie legt am ersten Handelstag 17 Prozent zu",
+      "text": "Die Anthropic-Aktie startete mit 111,50 Dollar, 34 Prozent über dem Ausgabepreis von 83 Dollar, und schloss bei 97,17 Dollar. Der Börsenwert lag knapp unter 1,8 Billionen Dollar. Der Nasdaq Composite fiel laut BBC um fast 2,3 Prozent, der Dow Jones um 1101 Punkte.",
       "quellen": [
         {
           "name": "Fortune",
           "url": "https://fortune.com/2026/11/19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/"
         },
         {
-          "name": "CNN",
-          "url": "https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c3x29ggenz12o"
         }
       ]
     },
     {
-      "headline": "Huthi-Angriff beschädigt Hochhaus des Staatsfonds in Riad",
-      "text": "Bei einem Huthi-Angriff ist laut Reuters der PIF-Turm getroffen worden, Riads höchstes Hochhaus und Sitz des saudischen Staatsfonds. Auf sieben bis acht Etagen barsten Fenster. Verletzte gab es laut Zivilschutz nicht. Riad behält sich alle nötigen Schritte zur Verteidigung vor.",
-      "quellen": [
-        {
-          "name": "Reuters",
-          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/19/houthi-missile-threat-towards-riyadh-causes-damage-saudi-led-coalition-says"
-        },
-        {
-          "name": "The National",
-          "url": "https://www.thenationalnews.com/news/gulf/2026/11/19/saudi-sovereign-wealth-fund-tower-in-riyadh-damaged-in-houthi-strike/"
-        }
-      ]
-    },
-    {
-      "headline": "Putin droht nach Angriffen auf Krim-Brücke mit Vergeltung",
-      "text": "Putin hat für die Angriffe auf die Krim-Brücke eine weit schmerzhaftere Antwort angekündigt. Am Donnerstag traf die Ukraine die Brücke zum dritten Mal in dieser Woche, laut Kiew mit Neptun-Raketen. Züge fahren wieder, Autos vorerst nicht. In Sewastopol ist Treibstoff rationiert.",
+      "headline": "EU und Großbritannien wollen Jugendaustausch vereinbaren",
+      "text": "Beim Gipfel in Brüssel wollen die EU und Großbritannien laut BBC einen Jugendaustausch beschließen. Jährlich bis zu 100.000 junge EU-Bürger dürften dann in Großbritannien arbeiten, reisen und studieren, ebenso viele Briten in Europa.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cm879dqn3e1jo"
-        },
-        {
-          "name": "The Kyiv Independent",
-          "url": "https://kyivindependent.com/fuel-restrictions-reportedly-cause-gas-station-queues-in-occupied-sevastopol-after-crimean-bridge-strikes/"
+          "url": "https://www.bbc.com/news/articles/c623j4kpg94go"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Merz will baldige Ukraine-Gespräche mit Russland",
-      "text": "Nach dem Ukraine-Gipfel mit 40 Ländern in Berlin hat Merz Putin zum Kriegsende aufgefordert. Bald sollen die Ukraine, Russland, die USA und Europa an einem neutralen Ort verhandeln. Frieden ohne Europa lehnt Merz ab, das Treffen in Shenzhen sei vor allem ein Bildtermin gewesen.",
+      "headline": "Jugendproteste in Dutzenden Städten angekündigt",
+      "text": "In Dutzenden Städten sind für heute Jugendproteste angekündigt, etwa von Gen Z regelt, Schulstreik gegen Wehrpflicht und der Bundesschülerkonferenz. Themen sind Bildung, Lebenshaltungskosten und Wehrpflicht. Bildungsministerin Prien will junge Menschen einbeziehen.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html"
+          "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-110.html"
         },
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/koalition-der-willigen-merz-dringt-auf-beteiligung-europas-bei-ukraine-gespraechen-100.html"
+          "url": "https://www.deutschlandfunk.de/bundesschuelerkonferenz-wirft-politik-falsche-prioritaeten-vor-und-mahnt-mehr-fokus-auf-bildung-an-100.html"
         }
       ]
     },
     {
-      "headline": "VW fordert Nullrunden, Betriebsrat droht mit Streik",
-      "text": "VW verlangt Nullrunden für 2027 und 2028 und will Zulagen streichen. Die Arbeitszeit soll sich nach der Auslastung richten, Mehrarbeit ohne Lohnplus, Minderarbeit mit weniger Geld. Betriebsratschefin Cavallo droht mit Streik ab Januar. Verhandelt wird ab Dienstag in Emden.",
+      "headline": "IG Metall ruft zu ganztägigen Warnstreiks auf",
+      "text": "Im Tarifstreit der Metall- und Elektroindustrie hat die IG Metall Tausende Beschäftigte zu 24-Stunden-Warnstreiks aufgerufen, erstmals seit acht Jahren. Betroffen sind etwa Werften im Norden sowie die bayerischen Werke von BMW und Audi. Die Arbeitgeber üben scharfe Kritik.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/vw-ig-metall-tarifstreit-35-stunden-woche-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-126.html"
+        }
+      ]
+    },
+    {
+      "headline": "Merz sagt der Ukraine Hilfe zu, solange es nötig ist",
+      "text": "Nach dem Ukraine-Gipfel in Berlin hat Merz Putin zum Kriegsende aufgefordert und Kiew weitere Hilfe zugesagt. Für Europa sollen fünf Staaten verhandeln, darunter Deutschland, Frankreich und Großbritannien. Den Dreiergipfel in Shenzhen nannte Merz einen Bildtermin.",
+      "quellen": [
+        {
+          "name": "ORF",
+          "url": "https://orf.at/stories/3448674/"
         },
         {
           "name": "Spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/vw-legt-tarifforderungen-vor-konzern-setzt-auf-mehr-arbeit-fuer-weniger-geld-a-a1adc456-4b16-441b-b7a8-81d08ad1d3f0"
-        }
-      ]
-    },
-    {
-      "headline": "Bund will Übernahme der Commerzbank durch Unicredit stützen",
-      "text": "Die Bundesregierung will nun einen geordneten Kontrollwechsel bei der Commerzbank hin zur Unicredit unterstützen. Laut Finanzminister Klingbeil soll die Bank börsennotiert bleiben und in Frankfurt sitzen. Der Bund verzichtet auf die Nominierung zweier Aufsichtsräte.",
-      "quellen": [
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/einigung-mit-unicredit-bundesregierung-will-uebernahme-der-commerzbank-nun-unterstuetzen-100.html"
-        },
-        {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3448616/"
+          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-laestert-ueber-shenzhen-treffen-als-bildtermin-und-sichert-kyjiw-weitere-unterstuetzung-zu-a-1a623a3e-8112-4d7c-b509-2c29d1453e65"
         }
       ]
     },
     {
       "headline": "AfD will Ministerpräsidentenwahl in Sachsen-Anhalt vorziehen",
-      "text": "AfD-Spitzenkandidat Siegmund will sich schon am 8. Dezember im Landtag zum Ministerpräsidenten von Sachsen-Anhalt wählen lassen, eine Woche früher als bislang vorgesehen. Die AfD stellt 39 der 83 Abgeordneten. Die CDU will während der Wahl hinausgehen, das BSW sich enthalten.",
+      "text": "AfD-Spitzenkandidat Siegmund will sich schon am 8. Dezember im Landtag zum Ministerpräsidenten wählen lassen, eine Woche früher als bislang vorgesehen. Die AfD stellt 39 der 83 Abgeordneten, nötig sind 42 Stimmen. Die CDU will den Saal verlassen, das BSW sich enthalten.",
       "quellen": [
         {
           "name": "MDR",
-          "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/wahl-ministerpraesident-zeitpunkt-afd-video-social-media,afd-siegmund-114.html"
+          "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/wahl-ministerpraesident-zeitpunkt-afd-video-social-media-einschaetzung-reporter-frohmueller,afd-siegmund-114.html"
         },
         {
           "name": "ZDFheute",
