@@ -1,11 +1,15 @@
 {
   "datum": "2026-11-20",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "Russland greift Kiew nach Putins Drohung massiv an",
-      "text": "Nach Putins Vergeltungsdrohung wegen der Angriffe auf die Krim-Brücke hat Russland Kiew nachts mit Raketen und Drohnen angegriffen. Laut Bürgermeister Klitschko wurden drei Brücken beschädigt. Behörden meldeten mindestens drei Tote. Strom, Heizung und Wasser fielen teils aus.",
+      "headline": "Russland trifft Kiewer Brücken bei massivem Angriff",
+      "text": "Nach Putins Vergeltungsdrohung hat Russland die Ukraine nachts mit Raketen und Drohnen angegriffen. Laut Regierungschef Koretskyi starben acht Menschen, sechs davon in Kiew. Drei Brücken über den Dnipro wurden beschädigt. Strom, Heizung und Wasser fielen teils aus.",
       "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges"
+        },
         {
           "name": "The Kyiv Independent",
           "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/"
@@ -13,108 +17,104 @@
       ]
     },
     {
-      "headline": "Trump, Xi und Putin unterzeichnen Friedenserklärung",
-      "text": "Nach ihrem ersten Dreiertreffen in Shenzhen haben Trump, Xi und Putin eine Friedenserklärung angenommen. Sie wollen über atomare Risiken reden, Bemühungen um eine wirksamere UN unterstützen und mehr Ölprodukte liefern. Den Strafgerichtshof warnen sie vor Machtmissbrauch.",
+      "headline": "Kritik in den USA an Trumps Gipfel mit Xi und Putin",
+      "text": "Nach dem ersten Dreiertreffen in Shenzhen kritisieren US-Senatoren beider Parteien Trumps Umgang mit Xi und Putin. In ihrer Friedenserklärung halten die drei fest, ein Atomkrieg sei nicht zu gewinnen. Trump will am Freitag im Weißen Haus vor die Presse treten.",
       "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o"
+        }
+      ]
+    },
+    {
+      "headline": "EU und Großbritannien wollen in Brüssel Neustart einleiten",
+      "text": "Premier Burnham trifft heute in Brüssel von der Leyen und Costa. Erwartet werden Abkommen zu Lebensmitteln, Emissionshandel und Jugendmobilität. Laut BBC dürften jährlich bis zu 100.000 junge EU-Bürger in Großbritannien arbeiten und studieren, ebenso viele Briten in Europa.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go"
+        },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways"
-        },
-        {
-          "name": "The Kyiv Independent",
-          "url": "https://kyivindependent.com/trump-sits-down-with-his-friend-putin-chinas-xi-for-unprecedented-trilateral-talks/"
+          "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset"
         }
       ]
     },
     {
-      "headline": "Gambia und UN fordern Umsetzung des Rohingya-Urteils",
-      "text": "Der Internationale Gerichtshof hat mit 9 zu 6 Stimmen geurteilt, dass Myanmar 2017 Völkermord an den Rohingya beging, als erster Staat vor diesem Gericht. Gambia und UN-Chef Guterres fordern Myanmar auf, das Urteil zu befolgen. London weist Myanmars Militärattaché aus.",
+      "headline": "Anthropic nach Börsendebüt unter den wertvollsten Firmen",
+      "text": "Die Anthropic-Aktie stieg an der Nasdaq zunächst auf 111,53 Dollar, weit über den Ausgabepreis von 83 Dollar, und schloss bei 97,17 Dollar. Laut BBC lag der Börsenwert bei etwa 1,76 Billionen Dollar. Der Nasdaq Composite gab zugleich fast 2,3 Prozent nach.",
       "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o"
+        }
+      ]
+    },
+    {
+      "headline": "Guterres begrüßt Völkermordurteil gegen Myanmar",
+      "text": "Der Internationale Gerichtshof hat Myanmar für den Völkermord an den Rohingya 2017 verantwortlich erklärt, erstmals urteilt er so gegen einen Staat. UN-Chef Guterres begrüßte das Urteil. Myanmar muss Vertriebenen die Rückkehr ermöglichen und Entschädigung zahlen.",
+      "quellen": [
+        {
+          "name": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168836"
+        },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6ly58ndgd0no"
-        }
-      ]
-    },
-    {
-      "headline": "Anthropic-Aktie legt am ersten Handelstag 17 Prozent zu",
-      "text": "Die Anthropic-Aktie startete mit 111,50 Dollar, 34 Prozent über dem Ausgabepreis von 83 Dollar, und schloss bei 97,17 Dollar. Der Börsenwert lag knapp unter 1,8 Billionen Dollar. Der Nasdaq Composite fiel laut BBC um fast 2,3 Prozent, der Dow Jones um 1101 Punkte.",
-      "quellen": [
-        {
-          "name": "Fortune",
-          "url": "https://fortune.com/2026/11/19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c3x29ggenz12o"
-        }
-      ]
-    },
-    {
-      "headline": "EU und Großbritannien wollen Jugendaustausch vereinbaren",
-      "text": "Beim Gipfel in Brüssel wollen die EU und Großbritannien laut BBC einen Jugendaustausch beschließen. Jährlich bis zu 100.000 junge EU-Bürger dürften dann in Großbritannien arbeiten, reisen und studieren, ebenso viele Briten in Europa.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c623j4kpg94go"
+          "url": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Jugendproteste in Dutzenden Städten angekündigt",
-      "text": "In Dutzenden Städten sind für heute Jugendproteste angekündigt, etwa von Gen Z regelt, Schulstreik gegen Wehrpflicht und der Bundesschülerkonferenz. Themen sind Bildung, Lebenshaltungskosten und Wehrpflicht. Bildungsministerin Prien will junge Menschen einbeziehen.",
+      "headline": "Jugendliche protestieren erneut in Dutzenden Städten",
+      "text": "Gen Z regelt und weitere Gruppen haben für heute erneut bundesweit zu Protesten aufgerufen, etwa für mehr Mittel für Schulen, für Klimaschutz und gegen eine Wehrpflicht. Die Initiative meldet rund 20.000 Zusagen in 73 Städten. Auch in der Schweiz und Italien wird demonstriert.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-110.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/bundesschuelerkonferenz-wirft-politik-falsche-prioritaeten-vor-und-mahnt-mehr-fokus-auf-bildung-an-100.html"
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/international/jugendstreik-in-europa-am-freitag-geht-die-gen-z-in-ganz-europa-auf-die-strasse-ld.10066446"
         }
       ]
     },
     {
-      "headline": "IG Metall ruft zu ganztägigen Warnstreiks auf",
-      "text": "Im Tarifstreit der Metall- und Elektroindustrie hat die IG Metall Tausende Beschäftigte zu 24-Stunden-Warnstreiks aufgerufen, erstmals seit acht Jahren. Betroffen sind etwa Werften im Norden sowie die bayerischen Werke von BMW und Audi. Die Arbeitgeber üben scharfe Kritik.",
+      "headline": "IG Metall beginnt ganztägige Warnstreiks",
+      "text": "Die IG Metall hat im Tarifstreit der Metall- und Elektroindustrie erstmals seit acht Jahren ganztägige Warnstreiks begonnen. Betroffen sind etwa Werften im Norden und BMW- und Audi-Werke in Bayern. Die Gewerkschaft will 5 Prozent mehr Lohn, die Arbeitgeber üben scharfe Kritik.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-126.html"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/bundesweite-aktionen-der-beschaeftigten-104.html"
         }
       ]
     },
     {
-      "headline": "Merz sagt der Ukraine Hilfe zu, solange es nötig ist",
-      "text": "Nach dem Ukraine-Gipfel in Berlin hat Merz Putin zum Kriegsende aufgefordert und Kiew weitere Hilfe zugesagt. Für Europa sollen fünf Staaten verhandeln, darunter Deutschland, Frankreich und Großbritannien. Den Dreiergipfel in Shenzhen nannte Merz einen Bildtermin.",
+      "headline": "Pistorius offen für Gespräche in Moskau",
+      "text": "Verteidigungsminister Pistorius hält es für falsch, Putins Moskau-Einladung an die Europäer auszuschlagen. In Warschau forderte er zugleich eine Feuerpause als Teil von Verhandlungen. Kanzler Merz hatte erklärt, Gespräche sollten nur auf neutralem Boden stattfinden.",
       "quellen": [
-        {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3448674/"
-        },
         {
           "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-laestert-ueber-shenzhen-treffen-als-bildtermin-und-sichert-kyjiw-weitere-unterstuetzung-zu-a-1a623a3e-8112-4d7c-b509-2c29d1453e65"
+          "url": "https://www.spiegel.de/politik/deutschland/ukrainekrieg-boris-pistorius-zeigt-sich-offen-fuer-gespraeche-mit-putin-a-d56940e3-68a6-4602-b1bf-edadd333cdc1"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/pistorius-einladung-nach-moskau-auszuschlagen-waere-das-falsche-signal-100.html"
         }
       ]
     },
     {
-      "headline": "AfD will Ministerpräsidentenwahl in Sachsen-Anhalt vorziehen",
-      "text": "AfD-Spitzenkandidat Siegmund will sich schon am 8. Dezember im Landtag zum Ministerpräsidenten wählen lassen, eine Woche früher als bislang vorgesehen. Die AfD stellt 39 der 83 Abgeordneten, nötig sind 42 Stimmen. Die CDU will den Saal verlassen, das BSW sich enthalten.",
+      "headline": "Bundesrat billigt Frühstartrente und stoppt Kita-Gesetz",
+      "text": "Der Bundesrat billigte die Frühstartrente. Kinder ab Jahrgang 2020 erhalten ab dem Jahr, in dem sie sechs werden, bis 18 monatlich 10 Euro vom Staat. Das Startchancengesetz ging in den Vermittlungsausschuss, da der Bund laut den Ländern neue Kita-Vorgaben unzureichend finanziert.",
       "quellen": [
         {
-          "name": "MDR",
-          "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/wahl-ministerpraesident-zeitpunkt-afd-video-social-media-einschaetzung-reporter-frohmueller,afd-siegmund-114.html"
-        },
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-wahl-ministerpraesident-termin-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/bundesrat-stoppt-startchancengesetz-100.html"
         }
       ]
     }
