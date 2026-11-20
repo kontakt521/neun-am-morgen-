@@ -1,14 +1,14 @@
 {
   "datum": "2026-11-20",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
-      "headline": "Russland greift Brücken in Kiew mit Raketen an",
-      "text": "Nach Putins Vergeltungsdrohung griff Russland Brücken in Kiew und Bahnhöfe an. Laut Selenskyj setzte Moskau über 110 Raketen und mehr als 400 Drohnen ein. Die BBC meldet mindestens neun Tote, sieben in Kiew, zwei in Lwiw. Frankreich fordert eine Sitzung des UN-Sicherheitsrats.",
+      "headline": "Russland beschädigt drei Brücken in Kiew bei Großangriff",
+      "text": "Nach Putins Vergeltungsdrohung griff Russland die Ukraine nachts mit 84 Marschflugkörpern und 404 Drohnen an, so die Luftwaffe. In Kiew starben laut Bürgermeister Klitschko sieben Menschen, drei Brücken wurden beschädigt. Selenskyj drängt auf schnellere Lieferung von Flugabwehr.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6x29gn4pdn9o"
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/"
         },
         {
           "name": "Al Jazeera",
@@ -18,22 +18,26 @@
     },
     {
       "headline": "Russischer Marschflugkörper schlägt in Polen ein",
-      "text": "Ein russischer Marschflugkörper vom Typ Kh-101 ist in Nowy Lipowiec im Südosten Polens eingeschlagen, zwei weitere Flugobjekte gingen in der Region nieder. Niemand wurde verletzt. Regierungschef Tusk spricht von gezielter Provokation. Moskau äußerte sich zunächst nicht.",
+      "text": "Ein russischer Kh-101 ging bei Nowy Lipowiec in Südostpolen nieder, dazu ein mutmaßlicher Flugkörper und eine Drohne. Niemand wurde verletzt. Tusk sieht eine offenbar gezielte Provokation während eines Manövers der Koalition der Willigen. Rutte kommt Samstag nach Warschau.",
       "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cqx2x9dklxnro"
         },
         {
-          "name": "AFP",
-          "url": "https://www.yahoo.com/news/world/articles/warsaw-says-russian-missiles-hit-143506907.html"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations"
         }
       ]
     },
     {
       "headline": "EU und Großbritannien besiegeln Neustart ihrer Beziehungen",
-      "text": "Beim Gipfel in Brüssel einigten sich EU und Großbritannien auf Abkommen zu Jugendmobilität, Kontrollen für Agrargüter und Emissionshandel. Je 100.000 junge Menschen sollen bis zu drei Jahre auf der anderen Seite leben und arbeiten dürfen. Farage kritisierte Premier Burnham.",
+      "text": "Beim Gipfel in Brüssel vereinbarten EU und Großbritannien, die meisten Kontrollen britischer Lebensmittelexporte abzuschaffen, ihren Emissionshandel zu verknüpfen und je bis zu 100.000 jungen Menschen Aufenthalte zu ermöglichen. Burnham will über noch engere Bindungen beraten.",
       "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6jreyqgw4e9o"
+        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal"
@@ -41,52 +45,52 @@
       ]
     },
     {
-      "headline": "Anthropic-Aktie fällt nach Rekord-Börsengang deutlich",
-      "text": "Einen Tag nach dem Börsendebüt eröffnete die Anthropic-Aktie an der Nasdaq rund 8 Prozent tiefer bei etwa 88 Dollar, nahe dem Ausgabepreis von 83 Dollar. Zweifel am KI-Boom belasteten Asiens Börsen. Der Taiex fiel 6,2 Prozent, Nikkei und Kospi verloren gut 5 Prozent.",
+      "headline": "Anthropic-Aktie fällt, Techwerte weltweit unter Druck",
+      "text": "Einen Tag nach dem Börsendebüt fiel die Anthropic-Aktie zeitweise um mehr als 12 Prozent auf rund 85 Dollar, nahe dem Ausgabepreis von 83 Dollar. Der Nasdaq-Index verlor am Nachmittag über 4 Prozent, Nvidia mehr als 11 Prozent. Der Dax schloss 2,6 Prozent tiefer.",
       "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/c6808ym10vzgo"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears"
         }
       ]
     },
     {
-      "headline": "Weltklimakonferenz in Antalya droht Verlängerung",
-      "text": "Am letzten regulären Tag der COP31 in Antalya wachsen die Differenzen, eine Verlängerung ins Wochenende ist möglich. Der Entwurf von Mitgastgeber Australien nennt fossile Brennstoffe nicht mehr. Panama droht, jede Abschlusserklärung ohne Obergrenze für Ölförderung zu blockieren.",
+      "headline": "Weltklimakonferenz in Antalya geht in die Verlängerung",
+      "text": "Die COP31 läuft über das geplante Ende am Freitag hinaus. Strittig sind Klimahilfen für ärmere Länder und fossile Brennstoffe, die nach Einwänden Saudi-Arabiens aus dem Entwurf gestrichen wurden. Panama will das nicht hinnehmen. Neuer Entwurf laut Guardian wohl erst Samstag.",
       "quellen": [
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/20/world-is-being-held-hostage-by-oil-mafia-how-one-tiny-country-is-putting-its-foot-down-at-"
+          "name": "Reuters",
+          "url": "https://whtc.com/2026/11/20/cop31-climate-talks-spill-into-overtime-as-nations-quarrel-over-fossil-fuels/"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.aol.co.uk/articles/cop31-talks-overtime-fossil-fuels-185622000.html"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Tausende Jugendliche protestieren erneut bundesweit",
-      "text": "Drei Wochen nach der ersten Protestwelle gingen erneut Tausende Jugendliche bundesweit auf die Straße, etwa für Klimaschutz und Bildung und gegen eine Wehrpflicht. In Berlin zählte die Polizei bis zu 4.500 Teilnehmer. In Köln gab es laut ZDF Handgemenge mit der Polizei.",
+      "headline": "Erneut Tausende Jugendliche bundesweit auf der Straße",
+      "text": "Drei Wochen nach der ersten Protestwelle demonstrierten erneut Tausende Jugendliche für Bildung und Klimaschutz und gegen eine Wehrpflicht. Es kamen deutlich weniger als zuvor, meist blieb es friedlich. In Berlin wurde Grünen-Chef Banaszak laut NZZ von Demonstranten bedrängt.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-114.html"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/gen-z-proteste-schulpolitik-militaerdienst-liveblog-100.html"
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/international/jugendstreik-in-europa-am-freitag-geht-die-gen-z-in-ganz-europa-auf-die-strasse-ld.10066446"
         }
       ]
     },
     {
       "headline": "IG Metall legt Betriebe mit 24-Stunden-Streiks lahm",
-      "text": "Die IG Metall streikt erstmals seit acht Jahren ganztägig. Laut Gewerkschaft waren rund 100 Betriebe betroffen, darunter Werften im Norden sowie die BMW- und Audi-Werke in Bayern. Die Arbeitgeber üben scharfe Kritik. Kommende Woche sollen unter anderem Ford und Opel folgen.",
+      "text": "Erstmals seit acht Jahren streikt die IG Metall ganztägig. Laut Gewerkschaft streikten über 150.000 Beschäftigte aus etwa 100 Betrieben, etwa bei BMW, Audi und norddeutschen Werften. Ein Gesprächsangebot der Arbeitgeber stoppt die Welle nicht, Montag sollen Opel und Ford folgen.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-126.html"
+          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html"
         },
         {
           "name": "Deutschlandfunk",
@@ -96,21 +100,29 @@
     },
     {
       "headline": "Pistorius lehnt Moskau als Ort für Gespräche ab",
-      "text": "Verteidigungsminister Pistorius lehnt Moskau als Gesprächsort ab. Zuvor nannte er es ein falsches Signal, Putins Einladung auszuschlagen. Putins Kriegsführung zeige derzeit keinen echten Verhandlungswillen, schränkte er ein. Kanzler Merz will nur auf neutralem Boden reden.",
+      "text": "In Warschau begrüßte Verteidigungsminister Pistorius Putins Gesprächsangebot an die Europäer, lehnte Moskau als Treffpunkt aber ab. Zuvor hatte eine Aussage von ihm verwirrt. Für echte Verhandlungsbereitschaft Putins spreche wenig. Kanzler Merz will einen neutralen Ort.",
       "quellen": [
         {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/ausland/asien/russland-ukraine-gespraeche-europa-100.html"
+        },
+        {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/pistorius-einladung-von-putin-auszuschlagen-waere-das-falsche-signal-moskau-als-ort-komme-aber-nicht-100.html"
+          "url": "https://www.deutschlandfunk.de/pistorius-einladung-putins-auszuschlagen-waere-das-falsche-signal-100.html"
         }
       ]
     },
     {
-      "headline": "Bundesrat billigt Frühstartrente und bremst Kita-Tests",
-      "text": "Der Bundesrat schickte das Startchancengesetz mit Pflichttests für Vierjährige in den Vermittlungsausschuss. Die Länder beklagen, der Bund wälze Kosten auf Länder und Kommunen ab. Gebilligt wurden unter anderem die Frühstartrente mit 10 Euro monatlich und die Notfallreform.",
+      "headline": "Bundesrat billigt Frühstartrente und stoppt Kita-Tests",
+      "text": "Der Bundesrat billigte die Frühstartrente, mit der Kinder ab Jahrgang 2020 vom Staat monatlich 10 Euro für die Altersvorsorge erhalten, und die Notfallreform. Das Startchancengesetz mit Pflichttests für Kita-Kinder schickten die Länder in den Vermittlungsausschuss.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-startchancengesetz-fruehstartrente-notfallreform-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/fruehstartrente-beschlossen-startchancengesetz-zunaechst-gestoppt-100.html"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/fruehstart-rente-erklaerung-vorteile-eltern-kind-100.html"
         }
       ]
     }
