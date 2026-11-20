@@ -1,88 +1,88 @@
 {
   "datum": "2026-11-20",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Russland trifft Kiewer Brücken bei massivem Angriff",
-      "text": "Nach Putins Vergeltungsdrohung hat Russland die Ukraine nachts mit Raketen und Drohnen angegriffen. Laut Regierungschef Koretskyi starben acht Menschen, sechs davon in Kiew. Drei Brücken über den Dnipro wurden beschädigt. Strom, Heizung und Wasser fielen teils aus.",
+      "headline": "Russland greift Brücken in Kiew mit Raketen an",
+      "text": "Nach Putins Vergeltungsdrohung griff Russland Brücken in Kiew und Bahnhöfe an. Laut Selenskyj setzte Moskau über 110 Raketen und mehr als 400 Drohnen ein. Die BBC meldet mindestens neun Tote, sieben in Kiew, zwei in Lwiw. Frankreich fordert eine Sitzung des UN-Sicherheitsrats.",
       "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6x29gn4pdn9o"
+        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges"
+        }
+      ]
+    },
+    {
+      "headline": "Russischer Marschflugkörper schlägt in Polen ein",
+      "text": "Ein russischer Marschflugkörper vom Typ Kh-101 ist in Nowy Lipowiec im Südosten Polens eingeschlagen, zwei weitere Flugobjekte gingen in der Region nieder. Niemand wurde verletzt. Regierungschef Tusk spricht von gezielter Provokation. Moskau äußerte sich zunächst nicht.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqx2x9dklxnro"
         },
         {
-          "name": "The Kyiv Independent",
-          "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/"
+          "name": "AFP",
+          "url": "https://www.yahoo.com/news/world/articles/warsaw-says-russian-missiles-hit-143506907.html"
         }
       ]
     },
     {
-      "headline": "Kritik in den USA an Trumps Gipfel mit Xi und Putin",
-      "text": "Nach dem ersten Dreiertreffen in Shenzhen kritisieren US-Senatoren beider Parteien Trumps Umgang mit Xi und Putin. In ihrer Friedenserklärung halten die drei fest, ein Atomkrieg sei nicht zu gewinnen. Trump will am Freitag im Weißen Haus vor die Presse treten.",
+      "headline": "EU und Großbritannien besiegeln Neustart ihrer Beziehungen",
+      "text": "Beim Gipfel in Brüssel einigten sich EU und Großbritannien auf Abkommen zu Jugendmobilität, Kontrollen für Agrargüter und Emissionshandel. Je 100.000 junge Menschen sollen bis zu drei Jahre auf der anderen Seite leben und arbeiten dürfen. Farage kritisierte Premier Burnham.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal"
         }
       ]
     },
     {
-      "headline": "EU und Großbritannien wollen in Brüssel Neustart einleiten",
-      "text": "Premier Burnham trifft heute in Brüssel von der Leyen und Costa. Erwartet werden Abkommen zu Lebensmitteln, Emissionshandel und Jugendmobilität. Laut BBC dürften jährlich bis zu 100.000 junge EU-Bürger in Großbritannien arbeiten und studieren, ebenso viele Briten in Europa.",
+      "headline": "Anthropic-Aktie fällt nach Rekord-Börsengang deutlich",
+      "text": "Einen Tag nach dem Börsendebüt eröffnete die Anthropic-Aktie an der Nasdaq rund 8 Prozent tiefer bei etwa 88 Dollar, nahe dem Ausgabepreis von 83 Dollar. Zweifel am KI-Boom belasteten Asiens Börsen. Der Taiex fiel 6,2 Prozent, Nikkei und Kospi verloren gut 5 Prozent.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go"
+          "url": "https://www.bbc.com/news/articles/c6808ym10vzgo"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset"
+          "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears"
         }
       ]
     },
     {
-      "headline": "Anthropic nach Börsendebüt unter den wertvollsten Firmen",
-      "text": "Die Anthropic-Aktie stieg an der Nasdaq zunächst auf 111,53 Dollar, weit über den Ausgabepreis von 83 Dollar, und schloss bei 97,17 Dollar. Laut BBC lag der Börsenwert bei etwa 1,76 Billionen Dollar. Der Nasdaq Composite gab zugleich fast 2,3 Prozent nach.",
+      "headline": "Weltklimakonferenz in Antalya droht Verlängerung",
+      "text": "Am letzten regulären Tag der COP31 in Antalya wachsen die Differenzen, eine Verlängerung ins Wochenende ist möglich. Der Entwurf von Mitgastgeber Australien nennt fossile Brennstoffe nicht mehr. Panama droht, jede Abschlusserklärung ohne Obergrenze für Ölförderung zu blockieren.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o"
-        }
-      ]
-    },
-    {
-      "headline": "Guterres begrüßt Völkermordurteil gegen Myanmar",
-      "text": "Der Internationale Gerichtshof hat Myanmar für den Völkermord an den Rohingya 2017 verantwortlich erklärt, erstmals urteilt er so gegen einen Staat. UN-Chef Guterres begrüßte das Urteil. Myanmar muss Vertriebenen die Rückkehr ermöglichen und Entschädigung zahlen.",
-      "quellen": [
-        {
-          "name": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168836"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling"
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/20/world-is-being-held-hostage-by-oil-mafia-how-one-tiny-country-is-putting-its-foot-down-at-"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Jugendliche protestieren erneut in Dutzenden Städten",
-      "text": "Gen Z regelt und weitere Gruppen haben für heute erneut bundesweit zu Protesten aufgerufen, etwa für mehr Mittel für Schulen, für Klimaschutz und gegen eine Wehrpflicht. Die Initiative meldet rund 20.000 Zusagen in 73 Städten. Auch in der Schweiz und Italien wird demonstriert.",
+      "headline": "Tausende Jugendliche protestieren erneut bundesweit",
+      "text": "Drei Wochen nach der ersten Protestwelle gingen erneut Tausende Jugendliche bundesweit auf die Straße, etwa für Klimaschutz und Bildung und gegen eine Wehrpflicht. In Berlin zählte die Polizei bis zu 4.500 Teilnehmer. In Köln gab es laut ZDF Handgemenge mit der Polizei.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-110.html"
+          "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-114.html"
         },
         {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/international/jugendstreik-in-europa-am-freitag-geht-die-gen-z-in-ganz-europa-auf-die-strasse-ld.10066446"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/gen-z-proteste-schulpolitik-militaerdienst-liveblog-100.html"
         }
       ]
     },
     {
-      "headline": "IG Metall beginnt ganztägige Warnstreiks",
-      "text": "Die IG Metall hat im Tarifstreit der Metall- und Elektroindustrie erstmals seit acht Jahren ganztägige Warnstreiks begonnen. Betroffen sind etwa Werften im Norden und BMW- und Audi-Werke in Bayern. Die Gewerkschaft will 5 Prozent mehr Lohn, die Arbeitgeber üben scharfe Kritik.",
+      "headline": "IG Metall legt Betriebe mit 24-Stunden-Streiks lahm",
+      "text": "Die IG Metall streikt erstmals seit acht Jahren ganztägig. Laut Gewerkschaft waren rund 100 Betriebe betroffen, darunter Werften im Norden sowie die BMW- und Audi-Werke in Bayern. Die Arbeitgeber üben scharfe Kritik. Kommende Woche sollen unter anderem Ford und Opel folgen.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -90,31 +90,27 @@
         },
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/bundesweite-aktionen-der-beschaeftigten-104.html"
+          "url": "https://www.deutschlandfunk.de/warnstreiks-150-000-metall-beschaeftigte-legen-die-arbeit-nieder-102.html"
         }
       ]
     },
     {
-      "headline": "Pistorius offen für Gespräche in Moskau",
-      "text": "Verteidigungsminister Pistorius hält es für falsch, Putins Moskau-Einladung an die Europäer auszuschlagen. In Warschau forderte er zugleich eine Feuerpause als Teil von Verhandlungen. Kanzler Merz hatte erklärt, Gespräche sollten nur auf neutralem Boden stattfinden.",
+      "headline": "Pistorius lehnt Moskau als Ort für Gespräche ab",
+      "text": "Verteidigungsminister Pistorius lehnt Moskau als Gesprächsort ab. Zuvor nannte er es ein falsches Signal, Putins Einladung auszuschlagen. Putins Kriegsführung zeige derzeit keinen echten Verhandlungswillen, schränkte er ein. Kanzler Merz will nur auf neutralem Boden reden.",
       "quellen": [
         {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/deutschland/ukrainekrieg-boris-pistorius-zeigt-sich-offen-fuer-gespraeche-mit-putin-a-d56940e3-68a6-4602-b1bf-edadd333cdc1"
-        },
-        {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/pistorius-einladung-nach-moskau-auszuschlagen-waere-das-falsche-signal-100.html"
+          "url": "https://www.deutschlandfunk.de/pistorius-einladung-von-putin-auszuschlagen-waere-das-falsche-signal-moskau-als-ort-komme-aber-nicht-100.html"
         }
       ]
     },
     {
-      "headline": "Bundesrat billigt Frühstartrente und stoppt Kita-Gesetz",
-      "text": "Der Bundesrat billigte die Frühstartrente. Kinder ab Jahrgang 2020 erhalten ab dem Jahr, in dem sie sechs werden, bis 18 monatlich 10 Euro vom Staat. Das Startchancengesetz ging in den Vermittlungsausschuss, da der Bund laut den Ländern neue Kita-Vorgaben unzureichend finanziert.",
+      "headline": "Bundesrat billigt Frühstartrente und bremst Kita-Tests",
+      "text": "Der Bundesrat schickte das Startchancengesetz mit Pflichttests für Vierjährige in den Vermittlungsausschuss. Die Länder beklagen, der Bund wälze Kosten auf Länder und Kommunen ab. Gebilligt wurden unter anderem die Frühstartrente mit 10 Euro monatlich und die Notfallreform.",
       "quellen": [
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/bundesrat-stoppt-startchancengesetz-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-startchancengesetz-fruehstartrente-notfallreform-100.html"
         }
       ]
     }
