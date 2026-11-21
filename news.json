@@ -1,10 +1,52 @@
 {
   "datum": "2026-11-21",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
+      "headline": "Russischer Marschflugkörper schlägt in Polen ein",
+      "text": "Bei einem der größten russischen Luftangriffe auf die Ukraine traf am Freitag laut Polens Verteidigungsminister ein russischer Marschflugkörper den Südosten Polens, vermutlich eine zweite Rakete und eine Drohne. Niemand wurde verletzt. Tusk vermutet eine gezielte Provokation.",
+      "quellen": [
+        {
+          "name": "Notes from Poland",
+          "url": "https://notesfrompoland.com/2026/11/20/unidentified-object-hits-poland-amid-russian-attacks-on-western-ukraine/"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqx2x9dklxnro"
+        }
+      ]
+    },
+    {
+      "headline": "Weltklimakonferenz geht ohne Einigung in den Samstag",
+      "text": "Die COP31 in Antalya läuft auch am Samstag weiter. Die Unterhändler verhandelten die Nacht durch, Australien arbeitet an einem dritten Entwurf. Der zweite nennt fossile Brennstoffe nicht mehr. Ein Dutzend Staaten, darunter Frankreich, fordert per Brief eine klare Abkehr davon.",
+      "quellen": [
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/cop31-fossil-fuel-climate-talks-6571376"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/cop31-un-climate-summit-enters-final-phase-with-no-deal-in-sight/live-79999516"
+        }
+      ]
+    },
+    {
+      "headline": "Ausverkauf bei Techwerten belastet Börsen weltweit",
+      "text": "Der Nasdaq schloss am Freitag 5,3 Prozent tiefer, der S&P 500 verlor 3,7 Prozent. Nvidia fiel um 13,7 Prozent nach Reuters-Berichten über Ermittlungen der US-Börsenaufsicht. Trump wirbt für eine Rückkehr des nach einem Skandal abgetretenen Ex-Chefs Huang, Nvidia lehnt ab.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6808ym10vzgo"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang"
+        }
+      ]
+    },
+    {
       "headline": "Russischer Doppelschlag auf Krywyj Rih tötet Kind und Sanitäterin",
-      "text": "Bei einem Raketenangriff auf Krywyj Rih am Freitagabend starben laut örtlichen Behörden ein siebenjähriger Junge und eine 20-jährige Sanitäterin, 47 wurden verletzt. Danach griffen Drohnen die Helfer an. Selenskyj nannte Putin einen Mörder, Trump ihn einen Freund.",
+      "text": "Bei einem Raketenangriff auf Krywyj Rih am Freitagabend starben laut örtlichen Behörden ein siebenjähriger Junge und eine 20-jährige Sanitäterin, 52 wurden verletzt. Danach griffen Drohnen die Rettungskräfte an. Selenskyj nannte Putin einen Mörder, Trump dagegen einen Freund.",
       "quellen": [
         {
           "name": "Kyiv Independent",
@@ -13,30 +55,6 @@
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cxnv4zvmdy0jo"
-        }
-      ]
-    },
-    {
-      "headline": "Ausverkauf bei Techwerten drückt die Börsen weltweit",
-      "text": "Der Nasdaq-Index schloss am Freitag 5,3 Prozent tiefer, der S&P 500 verlor 3,7 Prozent. Nvidia fiel um 13,7 Prozent, nachdem Reuters über Ermittlungen der US-Börsenaufsicht berichtet hatte. Die Anthropic-Aktie schloss 8,5 Prozent im Minus. Der Dax gab 2,6 Prozent nach.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6808ym10vzgo"
-        }
-      ]
-    },
-    {
-      "headline": "Weltklimakonferenz ringt in Verlängerung um fossile Energien",
-      "text": "Die COP31 in Antalya läuft über das geplante Ende am Freitag hinaus. Der jüngste Entwurf erwähnt fossile Brennstoffe nicht mehr, nachdem Saudi-Arabien und andere Förderländer widersprochen hatten. Die EU warnt vor einem Fossilgipfel. Ein dritter Entwurf wird für Samstag erwartet.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime"
-        },
-        {
-          "name": "AFP via Business Recorder",
-          "url": "https://www.brecorder.com/news/40450071/nations-row-over-fossil-fuels-as-cop31-goes-into-overtime"
         }
       ]
     },
@@ -53,64 +71,58 @@
           "url": "https://kyivindependent.com/denmark-expels-russian-diplomat-over-alleged-assassination-plot-on-ukrainian-rapper-kyivstoner/"
         }
       ]
-    },
-    {
-      "headline": "EU und Großbritannien vereinbaren engere Zusammenarbeit",
-      "text": "In Brüssel einigten sich EU und Großbritannien, ab 2028 die meisten Kontrollen britischer Lebensmittelexporte abzuschaffen und den Emissionshandel zu verknüpfen. Je bis zu 100.000 junge Menschen sollen bis zu drei Jahre auf der anderen Seite arbeiten und studieren dürfen.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6jreyqgw4e9o"
-        }
-      ]
     }
   ],
   "national": [
     {
       "headline": "Jugendproteste bleiben überwiegend friedlich",
-      "text": "Laut Gen Z regelt gingen am Freitag knapp 90.000 Menschen in vielen Städten auf die Straße, viel weniger als vor drei Wochen. Abends kam es vereinzelt zu Krawallen, in Leipzig setzte die Polizei Wasserwerfer ein. Frankfurt, wo es an Halloween eskaliert war, blieb ruhig.",
+      "text": "Laut Gen Z regelt gingen am Freitag knapp 90.000 Menschen in vielen Städten auf die Straße, viel weniger als vor drei Wochen. Abends bewarfen Vermummte in Hamburg Polizisten mit Böllern, in Leipzig setzte die Polizei Wasserwerfer ein. Frankfurt blieb diesmal ruhig.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html"
-        },
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/gen-z-regelt-demonstrationen-weniger-teilnehmer-als-erwartet-vereinzelte-ausschreitungen-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "IG Metall kündigt weitere Warnstreiks an",
-      "text": "Nach den ersten ganztägigen Warnstreiks seit acht Jahren in der Metallbranche plant die IG Metall nächste Woche weitere Ausstände, etwa bei Ford und Opel. Betroffen waren laut Gewerkschaft rund 100 Betriebe, darunter BMW und Audi. Drei Tarifrunden blieben bisher erfolglos.",
-      "quellen": [
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/warnstreiks-150-000-metall-beschaeftigte-legen-die-arbeit-nieder-110.html"
-        }
-      ]
-    },
-    {
-      "headline": "US-Gericht billigt Bayers Glyphosat-Vergleich endgültig",
-      "text": "Ein Richter in Missouri hat Bayers Vergleich von maximal 7,25 Milliarden Dollar wegen des Unkrautvernichters Roundup endgültig genehmigt. Er soll Klagen wegen Non-Hodgkin-Lymphomen beilegen, Zahlungen laufen über bis zu 21 Jahre. Eine Schuld räumt Bayer damit nicht ein.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/gen-z-proteste-ausschreitungen-jugend-100.html"
         },
         {
           "name": "ORF",
-          "url": "https://orf.at/stories/3448831/"
+          "url": "https://orf.at/stories/3448845/"
         }
       ]
     },
     {
-      "headline": "Bundesrat billigt Frühstartrente und bremst Kita-Tests",
-      "text": "Der Bundesrat billigte die Frühstartrente, mit der Kinder ab Jahrgang 2020 vom Staat monatlich 10 Euro für die Altersvorsorge erhalten, die Notfallreform und eine aktive Cyberabwehr. Das Startchancengesetz mit Pflichttests für Kita-Kinder kommt in den Vermittlungsausschuss.",
+      "headline": "Döpfner-Schenkung entfacht Debatte über Erbschaftsteuer",
+      "text": "Friede Springer übertrug Springer-Chef Döpfner 2020 Aktien im Milliardenwert. Laut Medienrecherchen zu einem Datenleck der Deutschen Bank zahlte er darauf kaum Schenkungsteuer. SPD- und CDU-Politiker fordern Änderungen an den Ausnahmen. Springer sieht das Steuerrecht gewahrt.",
       "quellen": [
         {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/doepfner-erbschaftssteuer-100.html"
+        },
+        {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/fruehstartrente-beschlossen-startchancengesetz-zunaechst-gestoppt-102.html"
+          "url": "https://www.deutschlandfunk.de/milliardengeschenk-fuer-springer-chef-doepfner-politik-erwaegt-aenderungen-bei-erbschaftsteuer-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Staatliches Standarddepot für Altersvorsorge verspätet sich",
+      "text": "Das neue Altersvorsorgedepot startet am 1. Januar, die staatlich organisierte Basisvariante kommt laut Regierungskreisen aber frühestens im Sommer. Das Finanzministerium arbeitet noch an der Verordnung. Bis dahin müssen Sparer auf private Anbieter ausweichen.",
+      "quellen": [
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-staatliches-depot-fuer-zusatzrente-verzoegert-sich-wohl-a-705ab323-1c12-4e1e-b81f-4293c37475d6"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/staatliches-standardprodukt-fuer-altersvorsorgedepot-verzoegert-sich-laut-bericht-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "IG Metall setzt ganztägige Warnstreiks fort",
+      "text": "Laut IG Metall streikten zum Auftakt der Ganztagesstreiks über 150.000 Beschäftigte in etwa 100 Betrieben 24 Stunden lang. Am Montag sollen Opel und Ford folgen. Ein Gesprächsangebot von Südwestmetall stoppte die Streiks nicht. Die Gewerkschaft verlangt fünf Prozent mehr Lohn.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html"
         }
       ]
     }
