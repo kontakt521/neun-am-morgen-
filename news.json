@@ -1,52 +1,24 @@
 {
-  "datum": "2026-11-20",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-21",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Russland beschädigt drei Brücken in Kiew bei Großangriff",
-      "text": "Nach Putins Vergeltungsdrohung griff Russland die Ukraine nachts mit 84 Marschflugkörpern und 404 Drohnen an, so die Luftwaffe. In Kiew starben laut Bürgermeister Klitschko sieben Menschen, drei Brücken wurden beschädigt. Selenskyj drängt auf schnellere Lieferung von Flugabwehr.",
+      "headline": "Russischer Doppelschlag auf Krywyj Rih tötet Kind und Sanitäterin",
+      "text": "Bei einem Raketenangriff auf Krywyj Rih am Freitagabend starben laut örtlichen Behörden ein siebenjähriger Junge und eine 20-jährige Sanitäterin, 47 wurden verletzt. Danach griffen Drohnen die Helfer an. Selenskyj nannte Putin einen Mörder, Trump ihn einen Freund.",
       "quellen": [
         {
           "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/"
+          "url": "https://kyivindependent.com/russian-ballistic-missile-strikes-on-kryvyi-rih-kill-7-year-old-paramedic-injure-42-others-in-double-tap-attack/"
         },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges"
-        }
-      ]
-    },
-    {
-      "headline": "Russischer Marschflugkörper schlägt in Polen ein",
-      "text": "Ein russischer Kh-101 ging bei Nowy Lipowiec in Südostpolen nieder, dazu ein mutmaßlicher Flugkörper und eine Drohne. Niemand wurde verletzt. Tusk sieht eine offenbar gezielte Provokation während eines Manövers der Koalition der Willigen. Rutte kommt Samstag nach Warschau.",
-      "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqx2x9dklxnro"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations"
+          "url": "https://www.bbc.com/news/articles/cxnv4zvmdy0jo"
         }
       ]
     },
     {
-      "headline": "EU und Großbritannien besiegeln Neustart ihrer Beziehungen",
-      "text": "Beim Gipfel in Brüssel vereinbarten EU und Großbritannien, die meisten Kontrollen britischer Lebensmittelexporte abzuschaffen, ihren Emissionshandel zu verknüpfen und je bis zu 100.000 jungen Menschen Aufenthalte zu ermöglichen. Burnham will über noch engere Bindungen beraten.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6jreyqgw4e9o"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal"
-        }
-      ]
-    },
-    {
-      "headline": "Anthropic-Aktie fällt, Techwerte weltweit unter Druck",
-      "text": "Einen Tag nach dem Börsendebüt fiel die Anthropic-Aktie zeitweise um mehr als 12 Prozent auf rund 85 Dollar, nahe dem Ausgabepreis von 83 Dollar. Der Nasdaq-Index verlor am Nachmittag über 4 Prozent, Nvidia mehr als 11 Prozent. Der Dax schloss 2,6 Prozent tiefer.",
+      "headline": "Ausverkauf bei Techwerten drückt die Börsen weltweit",
+      "text": "Der Nasdaq-Index schloss am Freitag 5,3 Prozent tiefer, der S&P 500 verlor 3,7 Prozent. Nvidia fiel um 13,7 Prozent, nachdem Reuters über Ermittlungen der US-Börsenaufsicht berichtet hatte. Die Anthropic-Aktie schloss 8,5 Prozent im Minus. Der Dax gab 2,6 Prozent nach.",
       "quellen": [
         {
           "name": "BBC",
@@ -55,74 +27,90 @@
       ]
     },
     {
-      "headline": "Weltklimakonferenz in Antalya geht in die Verlängerung",
-      "text": "Die COP31 läuft über das geplante Ende am Freitag hinaus. Strittig sind Klimahilfen für ärmere Länder und fossile Brennstoffe, die nach Einwänden Saudi-Arabiens aus dem Entwurf gestrichen wurden. Panama will das nicht hinnehmen. Neuer Entwurf laut Guardian wohl erst Samstag.",
+      "headline": "Weltklimakonferenz ringt in Verlängerung um fossile Energien",
+      "text": "Die COP31 in Antalya läuft über das geplante Ende am Freitag hinaus. Der jüngste Entwurf erwähnt fossile Brennstoffe nicht mehr, nachdem Saudi-Arabien und andere Förderländer widersprochen hatten. Die EU warnt vor einem Fossilgipfel. Ein dritter Entwurf wird für Samstag erwartet.",
       "quellen": [
         {
-          "name": "Reuters",
-          "url": "https://whtc.com/2026/11/20/cop31-climate-talks-spill-into-overtime-as-nations-quarrel-over-fossil-fuels/"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime"
         },
         {
-          "name": "The Guardian",
-          "url": "https://www.aol.co.uk/articles/cop31-talks-overtime-fossil-fuels-185622000.html"
+          "name": "AFP via Business Recorder",
+          "url": "https://www.brecorder.com/news/40450071/nations-row-over-fossil-fuels-as-cop31-goes-into-overtime"
+        }
+      ]
+    },
+    {
+      "headline": "Dänemark weist russischen Verteidigungsattaché aus",
+      "text": "Dänemark wirft Russlands Geheimdiensten vor, einen Mord am Rapper Kyivstoner bei einem Konzert nahe Kopenhagen geplant zu haben. Der Attaché muss binnen sieben Tagen ausreisen. Die russische Botschaft vermisst Beweise, laut Staatsagentur Tass kündigt Moskau eine Antwort an.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/denmark-expels-russian-diplomat-over-alleged-assassination-plot-on-ukrainian-rapper-kyivstoner/"
+        }
+      ]
+    },
+    {
+      "headline": "EU und Großbritannien vereinbaren engere Zusammenarbeit",
+      "text": "In Brüssel einigten sich EU und Großbritannien, ab 2028 die meisten Kontrollen britischer Lebensmittelexporte abzuschaffen und den Emissionshandel zu verknüpfen. Je bis zu 100.000 junge Menschen sollen bis zu drei Jahre auf der anderen Seite arbeiten und studieren dürfen.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6jreyqgw4e9o"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Erneut Tausende Jugendliche bundesweit auf der Straße",
-      "text": "Drei Wochen nach der ersten Protestwelle demonstrierten erneut Tausende Jugendliche für Bildung und Klimaschutz und gegen eine Wehrpflicht. Es kamen deutlich weniger als zuvor, meist blieb es friedlich. In Berlin wurde Grünen-Chef Banaszak laut NZZ von Demonstranten bedrängt.",
+      "headline": "Jugendproteste bleiben überwiegend friedlich",
+      "text": "Laut Gen Z regelt gingen am Freitag knapp 90.000 Menschen in vielen Städten auf die Straße, viel weniger als vor drei Wochen. Abends kam es vereinzelt zu Krawallen, in Leipzig setzte die Polizei Wasserwerfer ein. Frankfurt, wo es an Halloween eskaliert war, blieb ruhig.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-114.html"
+          "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html"
         },
         {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/international/jugendstreik-in-europa-am-freitag-geht-die-gen-z-in-ganz-europa-auf-die-strasse-ld.10066446"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/gen-z-regelt-demonstrationen-weniger-teilnehmer-als-erwartet-vereinzelte-ausschreitungen-100.html"
         }
       ]
     },
     {
-      "headline": "IG Metall legt Betriebe mit 24-Stunden-Streiks lahm",
-      "text": "Erstmals seit acht Jahren streikt die IG Metall ganztägig. Laut Gewerkschaft streikten über 150.000 Beschäftigte aus etwa 100 Betrieben, etwa bei BMW, Audi und norddeutschen Werften. Ein Gesprächsangebot der Arbeitgeber stoppt die Welle nicht, Montag sollen Opel und Ford folgen.",
+      "headline": "IG Metall kündigt weitere Warnstreiks an",
+      "text": "Nach den ersten ganztägigen Warnstreiks seit acht Jahren in der Metallbranche plant die IG Metall nächste Woche weitere Ausstände, etwa bei Ford und Opel. Betroffen waren laut Gewerkschaft rund 100 Betriebe, darunter BMW und Audi. Drei Tarifrunden blieben bisher erfolglos.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html"
-        },
-        {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/warnstreiks-150-000-metall-beschaeftigte-legen-die-arbeit-nieder-102.html"
+          "url": "https://www.deutschlandfunk.de/warnstreiks-150-000-metall-beschaeftigte-legen-die-arbeit-nieder-110.html"
         }
       ]
     },
     {
-      "headline": "Pistorius lehnt Moskau als Ort für Gespräche ab",
-      "text": "In Warschau begrüßte Verteidigungsminister Pistorius Putins Gesprächsangebot an die Europäer, lehnte Moskau als Treffpunkt aber ab. Zuvor hatte eine Aussage von ihm verwirrt. Für echte Verhandlungsbereitschaft Putins spreche wenig. Kanzler Merz will einen neutralen Ort.",
+      "headline": "US-Gericht billigt Bayers Glyphosat-Vergleich endgültig",
+      "text": "Ein Richter in Missouri hat Bayers Vergleich von maximal 7,25 Milliarden Dollar wegen des Unkrautvernichters Roundup endgültig genehmigt. Er soll Klagen wegen Non-Hodgkin-Lymphomen beilegen, Zahlungen laufen über bis zu 21 Jahre. Eine Schuld räumt Bayer damit nicht ein.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/ausland/asien/russland-ukraine-gespraeche-europa-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/pistorius-einladung-putins-auszuschlagen-waere-das-falsche-signal-100.html"
+          "name": "ORF",
+          "url": "https://orf.at/stories/3448831/"
         }
       ]
     },
     {
-      "headline": "Bundesrat billigt Frühstartrente und stoppt Kita-Tests",
-      "text": "Der Bundesrat billigte die Frühstartrente, mit der Kinder ab Jahrgang 2020 vom Staat monatlich 10 Euro für die Altersvorsorge erhalten, und die Notfallreform. Das Startchancengesetz mit Pflichttests für Kita-Kinder schickten die Länder in den Vermittlungsausschuss.",
+      "headline": "Bundesrat billigt Frühstartrente und bremst Kita-Tests",
+      "text": "Der Bundesrat billigte die Frühstartrente, mit der Kinder ab Jahrgang 2020 vom Staat monatlich 10 Euro für die Altersvorsorge erhalten, die Notfallreform und eine aktive Cyberabwehr. Das Startchancengesetz mit Pflichttests für Kita-Kinder kommt in den Vermittlungsausschuss.",
       "quellen": [
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/fruehstartrente-beschlossen-startchancengesetz-zunaechst-gestoppt-100.html"
-        },
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/fruehstart-rente-erklaerung-vorteile-eltern-kind-100.html"
+          "url": "https://www.deutschlandfunk.de/fruehstartrente-beschlossen-startchancengesetz-zunaechst-gestoppt-102.html"
         }
       ]
     }
