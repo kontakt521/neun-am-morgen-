@@ -1,20 +1,24 @@
 {
   "datum": "2026-11-21",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
-      "headline": "Drohnen treffen russischen Frachter vor Finnlands Küste",
-      "text": "Zwei Drohnen trafen am Samstag im Finnischen Meerbusen den russischen Frachter Sparta II, an Bord brennt es. Finnlands Militär vermutet die Ukraine dahinter. Die Besatzung wird evakuiert. Finnland meldet eine mutmaßliche Luftraumverletzung durch einen russischen Hubschrauber.",
+      "headline": "Russischer Frachter brennt nach Drohnenangriff vor Finnland",
+      "text": "Die Besatzung des russischen Frachters Sparta II ist nach einem Drohnenangriff im Finnischen Meerbusen evakuiert, vor Loviisa brennt es weiter. Finnlands Militär hält die Ukraine für den wahrscheinlichen Angreifer. Laut Minister Hakkanen wird das Schiff nachts abgeschleppt.",
       "quellen": [
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/"
         }
       ]
     },
     {
       "headline": "Erneut Tanker in der Straße von Hormus getroffen",
-      "text": "Die britische Behörde UKMTO meldet für Samstag zwei Vorfälle nahe Oman, bei denen Tanker von unbekannten Geschossen getroffen wurden. Verletzte wurden nicht gemeldet. Laut Irans Marine geriet ein Tanker durch eine Seemine in Brand. Teheran schränkt die Schifffahrt weiter ein.",
+      "text": "Die britische Behörde UKMTO meldet für Samstag zwei Vorfälle nahe Oman, bei denen Tanker von unbekannten Geschossen getroffen wurden. Opfer wurden nicht gemeldet. Laut Irans Marine geriet ein Tanker durch eine Seemine in Brand. Teheran schränkt die Schifffahrt weiter ein.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -23,8 +27,8 @@
       ]
     },
     {
-      "headline": "Weltklimakonferenz in Antalya steckt fest",
-      "text": "Die COP31 in Antalya ist laut BBC über 24 Stunden in der Verlängerung ohne Einigung. Hauptstreitpunkt ist, dass der Entwurf fossile Brennstoffe nicht mehr nennt. Frankreich, Panama und andere Staaten wehren sich dagegen. Manche Delegationen verlegen ihre Rückflüge auf Montag.",
+      "headline": "Weltklimakonferenz in der Türkei weiter ohne Einigung",
+      "text": "Die COP31 in der Türkei ist laut BBC mehr als 36 Stunden in der Verlängerung, ein Abkommen ist nicht in Sicht. Die EU, Panama und andere wollen die Abkehr von Öl, Gas und Kohle zurück in den Text bringen. Afrikanische Staaten fordern mehr Geld für Anpassung.",
       "quellen": [
         {
           "name": "BBC",
@@ -38,29 +42,25 @@
     },
     {
       "headline": "Mexiko fasst mutmaßlichen Kartellchef Chapo Isidro",
-      "text": "Spezialkräfte nahmen am Freitag in Guasave im Bundesstaat Sinaloa Fausto Isidro Meza Flores fest, der zu den zehn meistgesuchten Personen des FBI zählte. Laut Verteidigungsministerium wurden sie mit Schüssen und Sprengsätzen angegriffen. Die USA wollen seine Auslieferung.",
+      "text": "Spezialkräfte nahmen am Freitag in Guasave in Sinaloa Fausto Isidro Meza Flores fest, der auf der Liste der zehn meistgesuchten Personen des FBI stand. Laut Verteidigungsministerium wurden sie mit Schüssen und Sprengsätzen angegriffen. Die USA wollen seine Auslieferung.",
       "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/ckz749ey0r75o"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico"
         }
       ]
     },
     {
-      "headline": "Nato sichert Polen nach Raketeneinschlägen Solidarität zu",
-      "text": "Bei einem der größten russischen Angriffe auf die Ukraine schlugen am Freitag laut Polens Verteidigungsminister zwei russische Raketen und wohl eine Drohne in Polen ein. Niemand wurde verletzt. Tusk sprach von einer wohl gezielten Provokation, Rutte sicherte Polen Solidarität zu.",
+      "headline": "Tote und Verletzte nach russischem Angriff auf Krywyj Rih",
+      "text": "Ein russischer Angriff auf Selenskyjs Heimatstadt Krywyj Rih tötete am Freitagabend laut örtlichen Behörden einen siebenjährigen Jungen und eine 20-jährige Frau, Dutzende wurden verletzt. Laut Stadtchef Wilkul feuerte Russland weitere Raketen ab, als Rettungskräfte vor Ort waren.",
       "quellen": [
         {
-          "name": "Notes from Poland",
-          "url": "https://notesfrompoland.com/2026/11/20/unidentified-object-hits-poland-amid-russian-attacks-on-western-ukraine/"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown"
         },
         {
           "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/poland-reports-airspace-violation-during-russian-attack-on-ukraine-investigates-debris-crash/"
+          "url": "https://kyivindependent.com/zelensky-says-putin-must-understand-crimean-bridge-will-not-stay-warns-russia-increasing-double-tap-strikes/"
         }
       ]
     }
@@ -75,8 +75,8 @@
           "url": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/reiche-preisdeckel-ausnahme-autobahntankstellen-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-100.html"
         }
       ]
     },
@@ -96,7 +96,7 @@
     },
     {
       "headline": "Jugendproteste bleiben weitgehend friedlich",
-      "text": "Laut Gen Z regelt demonstrierten knapp 90.000 Menschen bundesweit, deutlich weniger als vor rund drei Wochen. In Hamburg und Leipzig gab es danach Krawalle, in Leipzig setzte die Polizei Wasserwerfer ein. In Stuttgart gab es bei einer Demonstration über 20 vorläufige Festnahmen.",
+      "text": "Laut Gen Z regelt demonstrierten knapp 90.000 Menschen in vielen Städten, deutlich weniger als vor rund drei Wochen. Danach gab es in Hamburg und Leipzig Krawalle, in Leipzig mit Einsatz von Wasserwerfern. In Frankfurt blieb es anders als an Halloween diesmal ruhig.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -115,6 +115,10 @@
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/staatliches-standardprodukt-fuer-altersvorsorgedepot-verzoegert-sich-laut-bericht-100.html"
         }
       ]
     }
