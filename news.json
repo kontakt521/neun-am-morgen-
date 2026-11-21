@@ -1,100 +1,92 @@
 {
   "datum": "2026-11-21",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Russischer Marschflugkörper schlägt in Polen ein",
-      "text": "Bei einem der größten russischen Luftangriffe auf die Ukraine traf am Freitag laut Polens Verteidigungsminister ein russischer Marschflugkörper den Südosten Polens, vermutlich eine zweite Rakete und eine Drohne. Niemand wurde verletzt. Tusk vermutet eine gezielte Provokation.",
+      "headline": "Drohnen treffen russischen Frachter vor Finnlands Küste",
+      "text": "Zwei Drohnen trafen am Samstag im Finnischen Meerbusen den russischen Frachter Sparta II, an Bord brennt es. Finnlands Militär vermutet die Ukraine dahinter. Die Besatzung wird evakuiert. Finnland meldet eine mutmaßliche Luftraumverletzung durch einen russischen Hubschrauber.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland"
+        }
+      ]
+    },
+    {
+      "headline": "Erneut Tanker in der Straße von Hormus getroffen",
+      "text": "Die britische Behörde UKMTO meldet für Samstag zwei Vorfälle nahe Oman, bei denen Tanker von unbekannten Geschossen getroffen wurden. Verletzte wurden nicht gemeldet. Laut Irans Marine geriet ein Tanker durch eine Seemine in Brand. Teheran schränkt die Schifffahrt weiter ein.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping"
+        }
+      ]
+    },
+    {
+      "headline": "Weltklimakonferenz in Antalya steckt fest",
+      "text": "Die COP31 in Antalya ist laut BBC über 24 Stunden in der Verlängerung ohne Einigung. Hauptstreitpunkt ist, dass der Entwurf fossile Brennstoffe nicht mehr nennt. Frankreich, Panama und andere Staaten wehren sich dagegen. Manche Delegationen verlegen ihre Rückflüge auf Montag.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6ly5w40eg07o"
+        },
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/cop31-fossil-fuel-climate-talks-6571376"
+        }
+      ]
+    },
+    {
+      "headline": "Mexiko fasst mutmaßlichen Kartellchef Chapo Isidro",
+      "text": "Spezialkräfte nahmen am Freitag in Guasave im Bundesstaat Sinaloa Fausto Isidro Meza Flores fest, der zu den zehn meistgesuchten Personen des FBI zählte. Laut Verteidigungsministerium wurden sie mit Schüssen und Sprengsätzen angegriffen. Die USA wollen seine Auslieferung.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/ckz749ey0r75o"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico"
+        }
+      ]
+    },
+    {
+      "headline": "Nato sichert Polen nach Raketeneinschlägen Solidarität zu",
+      "text": "Bei einem der größten russischen Angriffe auf die Ukraine schlugen am Freitag laut Polens Verteidigungsminister zwei russische Raketen und wohl eine Drohne in Polen ein. Niemand wurde verletzt. Tusk sprach von einer wohl gezielten Provokation, Rutte sicherte Polen Solidarität zu.",
       "quellen": [
         {
           "name": "Notes from Poland",
           "url": "https://notesfrompoland.com/2026/11/20/unidentified-object-hits-poland-amid-russian-attacks-on-western-ukraine/"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqx2x9dklxnro"
-        }
-      ]
-    },
-    {
-      "headline": "Weltklimakonferenz geht ohne Einigung in den Samstag",
-      "text": "Die COP31 in Antalya läuft auch am Samstag weiter. Die Unterhändler verhandelten die Nacht durch, Australien arbeitet an einem dritten Entwurf. Der zweite nennt fossile Brennstoffe nicht mehr. Ein Dutzend Staaten, darunter Frankreich, fordert per Brief eine klare Abkehr davon.",
-      "quellen": [
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/cop31-fossil-fuel-climate-talks-6571376"
-        },
-        {
-          "name": "DW",
-          "url": "https://www.dw.com/en/cop31-un-climate-summit-enters-final-phase-with-no-deal-in-sight/live-79999516"
-        }
-      ]
-    },
-    {
-      "headline": "Ausverkauf bei Techwerten belastet Börsen weltweit",
-      "text": "Der Nasdaq schloss am Freitag 5,3 Prozent tiefer, der S&P 500 verlor 3,7 Prozent. Nvidia fiel um 13,7 Prozent nach Reuters-Berichten über Ermittlungen der US-Börsenaufsicht. Trump wirbt für eine Rückkehr des nach einem Skandal abgetretenen Ex-Chefs Huang, Nvidia lehnt ab.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6808ym10vzgo"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang"
-        }
-      ]
-    },
-    {
-      "headline": "Russischer Doppelschlag auf Krywyj Rih tötet Kind und Sanitäterin",
-      "text": "Bei einem Raketenangriff auf Krywyj Rih am Freitagabend starben laut örtlichen Behörden ein siebenjähriger Junge und eine 20-jährige Sanitäterin, 52 wurden verletzt. Danach griffen Drohnen die Rettungskräfte an. Selenskyj nannte Putin einen Mörder, Trump dagegen einen Freund.",
-      "quellen": [
-        {
           "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russian-ballistic-missile-strikes-on-kryvyi-rih-kill-7-year-old-paramedic-injure-42-others-in-double-tap-attack/"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cxnv4zvmdy0jo"
-        }
-      ]
-    },
-    {
-      "headline": "Dänemark weist russischen Verteidigungsattaché aus",
-      "text": "Dänemark wirft Russlands Geheimdiensten vor, einen Mord am Rapper Kyivstoner bei einem Konzert nahe Kopenhagen geplant zu haben. Der Attaché muss binnen sieben Tagen ausreisen. Die russische Botschaft vermisst Beweise, laut Staatsagentur Tass kündigt Moskau eine Antwort an.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper"
-        },
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/denmark-expels-russian-diplomat-over-alleged-assassination-plot-on-ukrainian-rapper-kyivstoner/"
+          "url": "https://kyivindependent.com/poland-reports-airspace-violation-during-russian-attack-on-ukraine-investigates-debris-crash/"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Jugendproteste bleiben überwiegend friedlich",
-      "text": "Laut Gen Z regelt gingen am Freitag knapp 90.000 Menschen in vielen Städten auf die Straße, viel weniger als vor drei Wochen. Abends bewarfen Vermummte in Hamburg Polizisten mit Böllern, in Leipzig setzte die Polizei Wasserwerfer ein. Frankfurt blieb diesmal ruhig.",
+      "headline": "Reiche will Autobahntankstellen vom Preisdeckel ausnehmen",
+      "text": "Wirtschaftsministerin Reiche will Autobahntankstellen vom geplanten Spritpreisdeckel ausnehmen, Autohöfe nicht. Laut Ministeriumskreisen haben Autobahntankstellen im Schnitt höhere Kosten, etwa durch Pacht und Öffnung rund um die Uhr. Das Kabinett soll am 2. Dezember entscheiden.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/gen-z-proteste-ausschreitungen-jugend-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html"
         },
         {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3448845/"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/reiche-preisdeckel-ausnahme-autobahntankstellen-100.html"
         }
       ]
     },
     {
-      "headline": "Döpfner-Schenkung entfacht Debatte über Erbschaftsteuer",
-      "text": "Friede Springer übertrug Springer-Chef Döpfner 2020 Aktien im Milliardenwert. Laut Medienrecherchen zu einem Datenleck der Deutschen Bank zahlte er darauf kaum Schenkungsteuer. SPD- und CDU-Politiker fordern Änderungen an den Ausnahmen. Springer sieht das Steuerrecht gewahrt.",
+      "headline": "Fall Döpfner befeuert Streit über Schenkungsteuer",
+      "text": "Laut Recherchen zu einem Datenleck der Deutschen Bank zahlte Springer-Chef Döpfner auf ein Milliarden-Aktienpaket von Friede Springer offenbar kaum Steuern. SPD- und CDU-Politiker fordern strengere Regeln bei Erbschaft- und Schenkungsteuer. Springer sieht das Steuerrecht gewahrt.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/doepfner-erbschaftssteuer-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/inside-deutsche-bank-leak-erbschaftsteuer-doepfner-springer-100.html"
         },
         {
           "name": "Deutschlandfunk",
@@ -103,26 +95,26 @@
       ]
     },
     {
-      "headline": "Staatliches Standarddepot für Altersvorsorge verspätet sich",
-      "text": "Das neue Altersvorsorgedepot startet am 1. Januar, die staatlich organisierte Basisvariante kommt laut Regierungskreisen aber frühestens im Sommer. Das Finanzministerium arbeitet noch an der Verordnung. Bis dahin müssen Sparer auf private Anbieter ausweichen.",
+      "headline": "Jugendproteste bleiben weitgehend friedlich",
+      "text": "Laut Gen Z regelt demonstrierten knapp 90.000 Menschen bundesweit, deutlich weniger als vor rund drei Wochen. In Hamburg und Leipzig gab es danach Krawalle, in Leipzig setzte die Polizei Wasserwerfer ein. In Stuttgart gab es bei einer Demonstration über 20 vorläufige Festnahmen.",
       "quellen": [
         {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-staatliches-depot-fuer-zusatzrente-verzoegert-sich-wohl-a-705ab323-1c12-4e1e-b81f-4293c37475d6"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/staatliches-standardprodukt-fuer-altersvorsorgedepot-verzoegert-sich-laut-bericht-100.html"
+          "name": "ORF",
+          "url": "https://orf.at/stories/3448845/"
         }
       ]
     },
     {
-      "headline": "IG Metall setzt ganztägige Warnstreiks fort",
-      "text": "Laut IG Metall streikten zum Auftakt der Ganztagesstreiks über 150.000 Beschäftigte in etwa 100 Betrieben 24 Stunden lang. Am Montag sollen Opel und Ford folgen. Ein Gesprächsangebot von Südwestmetall stoppte die Streiks nicht. Die Gewerkschaft verlangt fünf Prozent mehr Lohn.",
+      "headline": "Staatliches Standarddepot kommt später als geplant",
+      "text": "Das neue Altersvorsorgedepot startet am 1. Januar, das öffentlich organisierte Basisangebot laut Finanzministerium aber voraussichtlich erst danach. Regierungskreise rechnen laut RND frühestens mit dem Sommer. Die Verbraucherzentralen drängen auf eine rasche Verordnung.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html"
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html"
         }
       ]
     }
