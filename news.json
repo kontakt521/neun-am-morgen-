@@ -1,34 +1,10 @@
 {
-  "datum": "2026-11-21",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-22",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Russischer Frachter brennt nach Drohnenangriff vor Finnland",
-      "text": "Die Besatzung des russischen Frachters Sparta II ist nach einem Drohnenangriff im Finnischen Meerbusen evakuiert, vor Loviisa brennt es weiter. Finnlands Militär hält die Ukraine für den wahrscheinlichen Angreifer. Laut Minister Hakkanen wird das Schiff nachts abgeschleppt.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland"
-        },
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/"
-        }
-      ]
-    },
-    {
-      "headline": "Erneut Tanker in der Straße von Hormus getroffen",
-      "text": "Die britische Behörde UKMTO meldet für Samstag zwei Vorfälle nahe Oman, bei denen Tanker von unbekannten Geschossen getroffen wurden. Opfer wurden nicht gemeldet. Laut Irans Marine geriet ein Tanker durch eine Seemine in Brand. Teheran schränkt die Schifffahrt weiter ein.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping"
-        }
-      ]
-    },
-    {
-      "headline": "Weltklimakonferenz in der Türkei weiter ohne Einigung",
-      "text": "Die COP31 in der Türkei ist laut BBC mehr als 36 Stunden in der Verlängerung, ein Abkommen ist nicht in Sicht. Die EU, Panama und andere wollen die Abkehr von Öl, Gas und Kohle zurück in den Text bringen. Afrikanische Staaten fordern mehr Geld für Anpassung.",
+      "headline": "Neuer Klimaentwurf nennt fossile Energien nicht beim Namen",
+      "text": "Die Präsidentschaft der COP31 in Antalya legte am Sonntag einen neuen Entwurf vor, der Öl, Gas und Kohle erneut nicht ausdrücklich nennt, aber auf den Beschluss von 2023 zur Abkehr verweist. Die EU, Panama und andere fordern eine klare Zusage. Fast 200 Staaten müssen zustimmen.",
       "quellen": [
         {
           "name": "BBC",
@@ -36,14 +12,46 @@
         },
         {
           "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/cop31-fossil-fuel-climate-talks-6571376"
+          "url": "https://www.channelnewsasia.com/sustainability/cop31-draft-deal-fossil-fuels-6572531"
         }
       ]
     },
     {
-      "headline": "Mexiko fasst mutmaßlichen Kartellchef Chapo Isidro",
-      "text": "Spezialkräfte nahmen am Freitag in Guasave in Sinaloa Fausto Isidro Meza Flores fest, der auf der Liste der zehn meistgesuchten Personen des FBI stand. Laut Verteidigungsministerium wurden sie mit Schüssen und Sprengsätzen angegriffen. Die USA wollen seine Auslieferung.",
+      "headline": "Iranischer Angriff setzt Industrieanlage in Bahrain in Brand",
+      "text": "Laut Bahrain traf ein iranischer Angriff am Samstag eine zivile Industrieanlage und löste ein Feuer aus, verletzt wurde niemand. Irans Revolutionsgarden erklärten, sie hätten mit Raketen und Drohnen US-Stellungen auf den Stützpunkten Al-Riffa und Awali angegriffen.",
       "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.channelnewsasia.com/world/bahrain-intercept-iran-attack-6572311"
+        }
+      ]
+    },
+    {
+      "headline": "Brennender russischer Frachter vor Finnland könnte sinken",
+      "text": "Auf dem russischen Frachter Sparta II brannte es nach dem Drohnenangriff weiter. Laut finnischen Behörden könnte das Schiff sinken, falls das Feuer anhält, das Löschen könne Tage bis Wochen dauern. Finnlands Militär hält die Ukraine für den wahrscheinlichen Angreifer.",
+      "quellen": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cj752ddve27ko"
+        }
+      ]
+    },
+    {
+      "headline": "Mindestens elf Tote bei Festnahme eines Kartellchefs in Mexiko",
+      "text": "Beim Einsatz gegen den mutmaßlichen Kartellchef Fausto Isidro Meza Flores in Guasave starben laut Verteidigungsministerium sieben mutmaßliche Bewaffnete des Kartells und vier Soldaten. Meza Flores wurde nach Mexiko-Stadt geflogen. Die USA wollen seine Auslieferung.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture"
+        },
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/ckz749ey0r75o"
@@ -51,38 +59,66 @@
       ]
     },
     {
-      "headline": "Tote und Verletzte nach russischem Angriff auf Krywyj Rih",
-      "text": "Ein russischer Angriff auf Selenskyjs Heimatstadt Krywyj Rih tötete am Freitagabend laut örtlichen Behörden einen siebenjährigen Jungen und eine 20-jährige Frau, Dutzende wurden verletzt. Laut Stadtchef Wilkul feuerte Russland weitere Raketen ab, als Rettungskräfte vor Ort waren.",
+      "headline": "Zwei Tote und Dutzende Verletzte in Krywyj Rih",
+      "text": "Ein russischer Angriff tötete in Krywyj Rih einen siebenjährigen Jungen und eine 20-jährige Frau, Dutzende wurden verletzt. Laut Gouverneur Hanscha wurden Wohnhäuser und ein Krankenhaus beschädigt. Laut Stadtchef Wilkul griff Russland erneut an, als Retter eintrafen.",
       "quellen": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-attacks-kill-at-least-2-injure-83-across-ukraine-as-strikes-devastate-kryvyi-rih/"
+        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown"
-        },
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/zelensky-says-putin-must-understand-crimean-bridge-will-not-stay-warns-russia-increasing-double-tap-strikes/"
         }
       ]
     }
   ],
   "national": [
     {
+      "headline": "Merz hält Costas Plan für den EU-Haushalt für zu groß",
+      "text": "EU-Ratspräsident Costa schlägt für 2028 bis 2034 einen Haushalt von 1,781 Billionen Euro vor, 204 Milliarden unter dem Kommissionsplan, dazu eine Digitalsteuer. Kanzler Merz nennt das einen ersten Schritt, hält den Umfang aber für zu groß. Österreich verlangt stärkere Kürzungen.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/ausland/streit-eu-haushalt-costa-merz-digitalsteuer-100.html"
+        },
+        {
+          "name": "ORF",
+          "url": "https://orf.at/stories/3448878/"
+        }
+      ]
+    },
+    {
       "headline": "Reiche will Autobahntankstellen vom Preisdeckel ausnehmen",
-      "text": "Wirtschaftsministerin Reiche will Autobahntankstellen vom geplanten Spritpreisdeckel ausnehmen, Autohöfe nicht. Laut Ministeriumskreisen haben Autobahntankstellen im Schnitt höhere Kosten, etwa durch Pacht und Öffnung rund um die Uhr. Das Kabinett soll am 2. Dezember entscheiden.",
+      "text": "Wirtschaftsministerin Reiche will Autobahntankstellen vom ab Januar geplanten Spritpreisdeckel ausnehmen, Autohöfe aber nicht. Laut Ministeriumskreisen haben sie im Schnitt höhere Kosten, etwa durch Pacht und Öffnung rund um die Uhr. Das Kabinett soll am 2. Dezember entscheiden.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/reiche-preisdeckel-ausnahme-autobahntankstellen-100.html"
         }
       ]
     },
     {
-      "headline": "Fall Döpfner befeuert Streit über Schenkungsteuer",
-      "text": "Laut Recherchen zu einem Datenleck der Deutschen Bank zahlte Springer-Chef Döpfner auf ein Milliarden-Aktienpaket von Friede Springer offenbar kaum Steuern. SPD- und CDU-Politiker fordern strengere Regeln bei Erbschaft- und Schenkungsteuer. Springer sieht das Steuerrecht gewahrt.",
+      "headline": "IG Metall ruft im Norden zu neuen Warnstreiks auf",
+      "text": "Die IG Metall Küste ruft über 23.000 Beschäftigte aus 19 Betrieben zu 24-stündigen Warnstreiks auf, teils ab Sonntagabend, etwa bei Mercedes und der Meyer Werft. Die Gewerkschaft will fünf Prozent mehr, Gesamtmetall bietet eine Einmalzahlung und 1,3 Prozent ab Juli 2028.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/metaller-warnstreiks-im-norden-werden-heute-fortgesetzt-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Fall Döpfner stellt Ausnahmen bei Schenkungsteuer infrage",
+      "text": "Laut Recherchen zu einem Datenleck der Deutschen Bank zahlte Springer-Chef Döpfner auf ein geschenktes Milliarden-Aktienpaket offenbar kaum Steuern. CDU- und SPD-Politiker stellen die Verschonungsbedarfsprüfung infrage. Springer erklärt, es habe das Steuerrecht streng beachtet.",
       "quellen": [
         {
           "name": "ZDFheute",
@@ -91,34 +127,6 @@
         {
           "name": "Deutschlandfunk",
           "url": "https://www.deutschlandfunk.de/milliardengeschenk-fuer-springer-chef-doepfner-politik-erwaegt-aenderungen-bei-erbschaftsteuer-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Jugendproteste bleiben weitgehend friedlich",
-      "text": "Laut Gen Z regelt demonstrierten knapp 90.000 Menschen in vielen Städten, deutlich weniger als vor rund drei Wochen. Danach gab es in Hamburg und Leipzig Krawalle, in Leipzig mit Einsatz von Wasserwerfern. In Frankfurt blieb es anders als an Halloween diesmal ruhig.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html"
-        },
-        {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3448845/"
-        }
-      ]
-    },
-    {
-      "headline": "Staatliches Standarddepot kommt später als geplant",
-      "text": "Das neue Altersvorsorgedepot startet am 1. Januar, das öffentlich organisierte Basisangebot laut Finanzministerium aber voraussichtlich erst danach. Regierungskreise rechnen laut RND frühestens mit dem Sommer. Die Verbraucherzentralen drängen auf eine rasche Verordnung.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html"
-        },
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/staatliches-standardprodukt-fuer-altersvorsorgedepot-verzoegert-sich-laut-bericht-100.html"
         }
       ]
     }
