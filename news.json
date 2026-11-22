@@ -1,42 +1,42 @@
 {
   "datum": "2026-11-22",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
-      "headline": "Weltklimakonferenz COP31 endet ohne Einigung",
-      "text": "Die Klimakonferenz in Antalya ist am Sonntag gescheitert. Die EU und andere Staaten lehnten den letzten Entwurf der Türkei und Australiens als zu schwach ab. Der EU fehlte laut Irlands Minister O'Brien ein Bezug auf fossile Brennstoffe. Kurum legte keinen neuen Text vor.",
+      "headline": "Weltklimakonferenz COP31 endet ohne Abschlusserklärung",
+      "text": "Die Klimakonferenz in Antalya ist am Sonntag nach zwei Tagen Verlängerung gescheitert. Die EU, pazifische Inselstaaten und andere lehnten den Entwurf der Türkei und Australiens ab, weil er fossile Brennstoffe nicht direkt nennt. Ärmeren Staaten fehlten klare Finanzzusagen.",
       "quellen": [
         {
-          "name": "Reuters",
-          "url": "https://www.straitstimes.com/world/europe/cop31-climate-talks-break-down-as-eu-others-reject-deal"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqwy06zrd26lo"
         },
         {
-          "name": "CNA",
+          "name": "Reuters",
           "url": "https://www.channelnewsasia.com/world/cop31-climate-talk-collapse-eu-final-draft-political-deal-6572946"
         }
       ]
     },
     {
-      "headline": "Mindestens vier Tote nach russischen Drohnenangriffen bei Kiew",
-      "text": "Nach einem russischen Drohnenangriff stürzte am Sonntag in Dymer bei Kiew ein Teil eines fünfstöckigen Wohnhauses ein. Drei Tote wurden geborgen, laut Interfax werden zehn Menschen vermisst. In Wyschnewe starb ein Mensch. Selenskyj drängt die USA, Patriot-Raketen freizugeben.",
+      "headline": "Mindestens acht Tote nach russischen Angriffen im Gebiet Kiew",
+      "text": "In Dymer bei Kiew stieg die Zahl der Toten nach einem russischen Drohnenangriff auf ein Wohnhaus laut Gouverneur Tkatschenko auf fünf. Selenskyj nannte zehn Vermisste, ein Siebenjähriger wurde lebend geborgen. In Wyschnewe und Bila Zerkwa starben drei weitere Menschen.",
       "quellen": [
         {
           "name": "Kyiv Independent",
           "url": "https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles"
+          "name": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-ato/4187354-body-of-person-killed-in-russian-drone-attack-recovered-from-rubble-of-apartment-building-in-dymer.html"
         }
       ]
     },
     {
       "headline": "Iran verschärft Angriffe auf Bahrain und Tanker im Golf",
-      "text": "Bahrain meldete für Samstag einen iranischen Treffer auf eine zivile Industrieanlage und zwei Verletzte. Irans Revolutionsgarde will US-Stellungen in Bahrain angegriffen haben. Laut Al Jazeera wurden in einer Woche mindestens 25 Tanker in und um die Straße von Hormus getroffen.",
+      "text": "Bahrain meldete einen iranischen Treffer auf eine zivile Industrieanlage am Samstag. Irans Revolutionsgarde will US-Stellungen in Bahrain angegriffen haben. Laut Al Jazeera wurden binnen einer Woche mindestens 25 Tanker in und um die Straße von Hormus getroffen.",
       "quellen": [
         {
           "name": "Reuters",
-          "url": "https://www.straitstimes.com/world/middle-east/bahrain-says-iranian-attack-hits-industrial-facility-causes-fire"
+          "url": "https://www.channelnewsasia.com/world/bahrain-intercept-iran-attack-6572311"
         },
         {
           "name": "Al Jazeera",
@@ -46,29 +46,29 @@
     },
     {
       "headline": "Russland schleppt getroffenen Frachter vor Finnland ab",
-      "text": "Laut finnischer Küstenwache begann ein russisches Rettungsschiff am Sonntag, die Sparta II nach zwei Tagen Löscharbeiten aus finnischen Gewässern zu schleppen. Drohnen hatten den Frachter am Samstag getroffen. Finnlands Militär hält die Ukraine für den wahrscheinlichen Urheber.",
+      "text": "Laut finnischer Küstenwache begann ein russisches Rettungsschiff am Sonntag, die von Drohnen getroffene Sparta II aus finnischen Gewässern zu schleppen. Finnlands Militär hält die Ukraine für den wahrscheinlichen Urheber. Kiew äußerte sich bislang nicht.",
       "quellen": [
         {
           "name": "Reuters",
-          "url": "https://www.straitstimes.com/world/europe/russian-cargo-ship-still-on-fire-off-finland-after-attack"
+          "url": "https://www.channelnewsasia.com/world/russia-starts-towing-ship-hit-drones-in-baltic-finland-says-6573286"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+          "url": "https://www.bbc.com/news/articles/cj752ddve27ko"
         }
       ]
     },
     {
       "headline": "Mindestens drei Tote nach Fabrikbrand in Indonesien",
-      "text": "Bei einem Brand in einer Süßwarenfabrik im Bezirk Serang westlich von Jakarta sind mindestens drei Menschen gestorben, die Zahl dürfte steigen. Rund 36 Menschen werden vermisst. Rettungskräfte bargen bis Sonntagabend 24 Leichensäcke. Die Brandursache ist noch unklar.",
+      "text": "Bei einem Brand in einer Süßwarenfabrik in Serang westlich von Jakarta starben mindestens drei Menschen, die Zahl dürfte steigen. Rund 36 Menschen werden vermisst. Rettungskräfte bargen bis Sonntagabend 24 Leichensäcke. Die Suche soll laut lokalen Medien am Montag weitergehen.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo"
+          "url": "https://www.bbc.com/news/articles/cw8dvg5pgm0eo"
         },
         {
-          "name": "Antara",
-          "url": "https://en.antaranews.com/news/444419/rescuers-deploy-as-fire-hits-indonesian-factory"
+          "name": "RTÉ (AFP)",
+          "url": "https://www.rte.ie/news/world/2026/1122/1600169-indonesia-factory-fire/"
         }
       ]
     }
@@ -76,15 +76,15 @@
   "national": [
     {
       "headline": "Hubig will Femizide eindeutig als Mord einstufen",
-      "text": "Justizministerin Hubig will geschlechtsspezifische Motive zum Mordmerkmal machen. So steht es laut Bild am Sonntag in einem Entwurf, der regierungsintern abgestimmt wird. Gemeint ist etwa die Tötung einer Frau, die sich trennen will. Einen Tatbestand Femizid lehnt sie ab.",
+      "text": "Justizministerin Hubig will geschlechtsspezifische Motive ausdrücklich zum Mordmerkmal machen. Der Entwurf ist laut Hubig fertig, sie will rasch eine Einigung in der Regierung. Gemeint sind etwa Tötungen von Frauen wegen einer Trennung. Einen Tatbestand Femizid lehnt sie ab.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html"
         },
         {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/deutschland/femizide-stefanie-hubig-will-mordparagrafen-verschaerfen-a-c6d29e6d-8edb-4651-8128-ef74725623e4"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/justizministerin-hubig-femizide-sollen-eindeutig-als-mord-gelten-100.html"
         }
       ]
     },
@@ -111,8 +111,8 @@
           "url": "https://www.spiegel.de/wirtschaft/service/hohe-spritpreise-katherina-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-a-98639391-2d38-4b1a-873b-927535a346a9"
         },
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/reiche-preisdeckel-ausnahme-autobahntankstellen-100.html"
         }
       ]
     },
