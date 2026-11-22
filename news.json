@@ -1,14 +1,14 @@
 {
   "datum": "2026-11-22",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "Neuer Klimaentwurf nennt fossile Energien nicht beim Namen",
-      "text": "Die Präsidentschaft der COP31 in Antalya legte am Sonntag einen neuen Entwurf vor, der Öl, Gas und Kohle erneut nicht ausdrücklich nennt, aber auf den Beschluss von 2023 zur Abkehr verweist. Die EU, Panama und andere fordern eine klare Zusage. Fast 200 Staaten müssen zustimmen.",
+      "headline": "Neuer COP31-Entwurf nennt fossile Energien erneut nicht",
+      "text": "Die Präsidentschaft der COP31 legte am Sonntag einen neuen Entwurf vor. Öl, Gas und Kohle fehlen darin, er verweist aber auf den Beschluss von 2023 zur Abkehr. Erstmals würde anerkannt, dass die Erwärmung 1,5 Grad wohl überschreitet. Frankreich sieht einen Rückschritt.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6ly5w40eg07o"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime"
         },
         {
           "name": "CNA",
@@ -17,22 +17,32 @@
       ]
     },
     {
-      "headline": "Iranischer Angriff setzt Industrieanlage in Bahrain in Brand",
-      "text": "Laut Bahrain traf ein iranischer Angriff am Samstag eine zivile Industrieanlage und löste ein Feuer aus, verletzt wurde niemand. Irans Revolutionsgarden erklärten, sie hätten mit Raketen und Drohnen US-Stellungen auf den Stützpunkten Al-Riffa und Awali angegriffen.",
+      "headline": "USA bestreiten iranischen Angriff auf Kampfjet über dem Golf",
+      "text": "Das US-Militär wies am Samstag einen Bericht iranischer Staatsmedien zurück, Irans Luftabwehr habe eine F-16 beschädigt und zur Notlandung gezwungen. Laut Bahrain traf am Samstag zudem ein iranischer Angriff eine zivile Industrieanlage und verursachte ein Feuer ohne Verletzte.",
       "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility"
-        },
         {
           "name": "Reuters",
           "url": "https://www.channelnewsasia.com/world/bahrain-intercept-iran-attack-6572311"
+        },
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/us-denies-iranian-account-missile-damaged-f-16-over-gulf-6572126"
         }
       ]
     },
     {
-      "headline": "Brennender russischer Frachter vor Finnland könnte sinken",
-      "text": "Auf dem russischen Frachter Sparta II brannte es nach dem Drohnenangriff weiter. Laut finnischen Behörden könnte das Schiff sinken, falls das Feuer anhält, das Löschen könne Tage bis Wochen dauern. Finnlands Militär hält die Ukraine für den wahrscheinlichen Angreifer.",
+      "headline": "14 Vermisste nach russischem Drohnenangriff im Gebiet Kiew",
+      "text": "Ein russischer Drohnenangriff beschädigte in der Nacht zum Sonntag ein fünfstöckiges Wohnhaus in Dymer im Gebiet Kiew. Laut Präsident Selenskyj werden 14 Menschen vermisst und könnten unter den Trümmern liegen. Eine 22-jährige Frau und ein Kind wurden verletzt.",
+      "quellen": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/"
+        }
+      ]
+    },
+    {
+      "headline": "Russischer Frachter vor Finnland könnte nach Brand sinken",
+      "text": "Auf dem russischen Frachter Sparta II brannte es nach dem Drohnenangriff vom Samstag weiter, die Besatzung ist evakuiert. Laut finnischen Behörden könnte das Schiff sinken, das Löschen könne Tage oder Wochen dauern. Finnlands Militär vermutet die Ukraine hinter dem Angriff.",
       "quellen": [
         {
           "name": "Kyiv Independent",
@@ -45,66 +55,62 @@
       ]
     },
     {
-      "headline": "Mindestens elf Tote bei Festnahme eines Kartellchefs in Mexiko",
-      "text": "Beim Einsatz gegen den mutmaßlichen Kartellchef Fausto Isidro Meza Flores in Guasave starben laut Verteidigungsministerium sieben mutmaßliche Bewaffnete des Kartells und vier Soldaten. Meza Flores wurde nach Mexiko-Stadt geflogen. Die USA wollen seine Auslieferung.",
+      "headline": "Mindestens elf Tote bei Festnahme von Kartellchef in Mexiko",
+      "text": "Beim Zugriff auf den Kartellchef Fausto Isidro Meza Flores in Guasave starben laut Verteidigungsministerium vier Soldaten und sieben mutmaßliche Bewaffnete. Er stand auf der FBI-Liste der zehn meistgesuchten Flüchtigen, die USA hatten fünf Millionen Dollar Belohnung ausgesetzt.",
       "quellen": [
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/ckz749ey0r75o"
-        }
-      ]
-    },
-    {
-      "headline": "Zwei Tote und Dutzende Verletzte in Krywyj Rih",
-      "text": "Ein russischer Angriff tötete in Krywyj Rih einen siebenjährigen Jungen und eine 20-jährige Frau, Dutzende wurden verletzt. Laut Gouverneur Hanscha wurden Wohnhäuser und ein Krankenhaus beschädigt. Laut Stadtchef Wilkul griff Russland erneut an, als Retter eintrafen.",
-      "quellen": [
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russian-attacks-kill-at-least-2-injure-83-across-ukraine-as-strikes-devastate-kryvyi-rih/"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown"
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/mexico-captures-drug-kingpin-fbi-most-wanted-6572391"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Merz hält Costas Plan für den EU-Haushalt für zu groß",
-      "text": "EU-Ratspräsident Costa schlägt für 2028 bis 2034 einen Haushalt von 1,781 Billionen Euro vor, 204 Milliarden unter dem Kommissionsplan, dazu eine Digitalsteuer. Kanzler Merz nennt das einen ersten Schritt, hält den Umfang aber für zu groß. Österreich verlangt stärkere Kürzungen.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/ausland/streit-eu-haushalt-costa-merz-digitalsteuer-100.html"
-        },
-        {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3448878/"
-        }
-      ]
-    },
-    {
-      "headline": "Reiche will Autobahntankstellen vom Preisdeckel ausnehmen",
-      "text": "Wirtschaftsministerin Reiche will Autobahntankstellen vom ab Januar geplanten Spritpreisdeckel ausnehmen, Autohöfe aber nicht. Laut Ministeriumskreisen haben sie im Schnitt höhere Kosten, etwa durch Pacht und Öffnung rund um die Uhr. Das Kabinett soll am 2. Dezember entscheiden.",
+      "headline": "Merz hält Costas Haushaltsvorschlag weiter für zu groß",
+      "text": "Ratspräsident Costa schlägt für 2028 bis 2034 einen EU-Haushalt von 1,781 Billionen Euro vor, 204 Milliarden weniger als die Kommission, dazu eine Digitalsteuer. Kanzler Merz nennt das einen ersten Schritt, das Volumen sei aber zu hoch. Am Donnerstag beginnt ein Sondergipfel.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html"
-        },
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/reiche-preisdeckel-ausnahme-autobahntankstellen-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/digitales/digitalsteuer-streit-eu-deutschland-100.html"
         }
       ]
     },
     {
-      "headline": "IG Metall ruft im Norden zu neuen Warnstreiks auf",
-      "text": "Die IG Metall Küste ruft über 23.000 Beschäftigte aus 19 Betrieben zu 24-stündigen Warnstreiks auf, teils ab Sonntagabend, etwa bei Mercedes und der Meyer Werft. Die Gewerkschaft will fünf Prozent mehr, Gesamtmetall bietet eine Einmalzahlung und 1,3 Prozent ab Juli 2028.",
+      "headline": "Hubig will Femizide eindeutig als Mord einstufen",
+      "text": "Justizministerin Hubig will geschlechtsspezifische Beweggründe ausdrücklich zum Mordmerkmal machen. Das sieht laut Bild am Sonntag ein Gesetzentwurf vor. Gemeint sind etwa Tötungen von Frauen, die sich trennen wollen. Einen eigenen Tatbestand Femizid lehnt die SPD-Politikerin ab.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/justizministerin-hubig-femizide-sollen-eindeutig-als-mord-gelten-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Bundeswehr bringt Panzer per Bahn statt Konvoi nach Litauen",
+      "text": "Für die Übung Grand Eagle 26 brachte die Bundeswehr Panzer kurzfristig per Bahn statt per Konvoi durch Polen nach Litauen. Laut Bild am Sonntag sollte so eine unnötige Provokation Russlands vermieden werden. Das Ministerium nennt einen solchen Wechsel nicht ungewöhnlich.",
+      "quellen": [
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig-a-74ad6a42-70a8-4973-ab13-571ba1696bce"
+        },
+        {
+          "name": "ORF",
+          "url": "https://orf.at/stories/3448907/"
+        }
+      ]
+    },
+    {
+      "headline": "IG Metall ruft im Norden zu 24-stündigen Warnstreiks auf",
+      "text": "Die IG Metall Küste ruft über 23.000 Beschäftigte aus 19 Betrieben zu 24-stündigen Warnstreiks auf, teils ab Sonntagabend, etwa bei Mercedes und der Meyer Werft. Gefordert sind fünf Prozent mehr Geld, Gesamtmetall bietet eine Einmalzahlung und 1,3 Prozent ab Juli 2028.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -113,20 +119,6 @@
         {
           "name": "Deutschlandfunk",
           "url": "https://www.deutschlandfunk.de/metaller-warnstreiks-im-norden-werden-heute-fortgesetzt-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Fall Döpfner stellt Ausnahmen bei Schenkungsteuer infrage",
-      "text": "Laut Recherchen zu einem Datenleck der Deutschen Bank zahlte Springer-Chef Döpfner auf ein geschenktes Milliarden-Aktienpaket offenbar kaum Steuern. CDU- und SPD-Politiker stellen die Verschonungsbedarfsprüfung infrage. Springer erklärt, es habe das Steuerrecht streng beachtet.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/inside-deutsche-bank-leak-erbschaftsteuer-doepfner-springer-100.html"
-        },
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/milliardengeschenk-fuer-springer-chef-doepfner-politik-erwaegt-aenderungen-bei-erbschaftsteuer-100.html"
         }
       ]
     }
