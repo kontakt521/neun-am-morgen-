@@ -1,14 +1,14 @@
 {
   "datum": "2026-11-23",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "Mindestens 14 Tote nach russischen Angriffen im Gebiet Kiew",
-      "text": "In Dymer nördlich von Kiew stieg die Zahl der Toten nach einem russischen Angriff auf ein Wohnhaus laut Regionalchef Tkatschenko auf zehn. Ein Siebenjähriger wurde nach 14 Stunden lebend geborgen. In Wyschnewe starben drei Menschen in einem Supermarkt, in Bila Zerkwa einer.",
+      "headline": "Mindestens 15 Tote nach russischen Angriffen im Gebiet Kiew",
+      "text": "In Dymer nördlich von Kiew stieg die Zahl der Toten nach einem russischen Angriff auf ein Wohnhaus laut Regionalchef Tkatschenko auf elf. In Wyschnewe starben drei Menschen in einem Supermarkt, in Bila Zerkwa einer. Laut Interfax beschädigten Drohnen Öllager in Tatarstan.",
       "quellen": [
         {
-          "name": "CNA (AFP)",
-          "url": "https://www.channelnewsasia.com/world/russian-strikes-kill-14-in-kyiv-region-6573721"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine"
         },
         {
           "name": "BBC",
@@ -17,57 +17,57 @@
       ]
     },
     {
-      "headline": "Russisches Schiff in Libyen offenbar von Drohnen getroffen",
-      "text": "Im Hafen von Bengasi explodierte am Sonntag ein russisches Schiff, laut ostlibyscher Regierung wohl durch Drohnen. Satellitenbilder zeigen laut der Firma Vantor die gesunkene Korvette Merkury. Auch ein Handelsschiff wurde getroffen. Die UN-Mission fordert eine Untersuchung.",
+      "headline": "Kiew bekennt sich zu Angriff auf russische Schiffe in Libyen",
+      "text": "Laut Präsident Selenskyj versenkten sieben ukrainische Seedrohnen am Sonntag in Bengasi die russische Korvette Merkury und zerstörten einen Hubschrauber. Auch der Frachter Angara sei getroffen worden. Moskau äußerte sich zunächst nicht, die UN-Mission fordert eine Untersuchung.",
       "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya"
+        },
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cr894gjz0j0yo"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya"
         }
       ]
     },
     {
-      "headline": "Iran meldet Explosionen von Tankern in der Straße von Hormus",
-      "text": "Laut Irans Revolutionsgarde explodierten am Sonntag zwei Supertanker auf verbotenen Routen in der Straße von Hormus nach Minentreffern. Die reguläre Marine meldete zwei brennende Tanker in einem Sperrgebiet östlich davon. Die Garde will zudem eine US-Drohne abgeschossen haben.",
+      "headline": "Iran will Tankerkonvoi durch die US-Blockade schicken",
+      "text": "Iran bereitet laut Berichten einen Konvoi von über 14 Öltankern vor, der die US-Seeblockade durchbrechen soll. Revolutionsgarden-nahe Medien drohen bei einem Eingreifen der USA mit Angriffen auf Energieanlagen am Golf. Bahrain meldete abgefangene iranische Luftangriffe.",
       "quellen": [
         {
-          "name": "Xinhua",
-          "url": "https://english.news.cn/20261123/9e8ce320ddab45d5a7c3da4314634bcc/c.html"
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-915644"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat"
+          "name": "Gulf News",
+          "url": "https://gulfnews.com/world/mena/middle-east-conflict-bahrain-intercepts-iranian-attacks-as-tehran-prepares-14-oil-tankers-to-breach-us-naval-blockade-1.500756662"
         }
       ]
     },
     {
-      "headline": "Guterres enttäuscht über Scheitern der COP31",
-      "text": "Nach dem Scheitern der COP31 ist UN-Chef Guterres tief enttäuscht. Ölstaaten blockierten jede Erwähnung eines Ausstiegs aus fossilen Brennstoffen, die EU lehnte einen Text ohne deren direkte Nennung ab. Mitgastgeber Australien verwies auf schwierige geopolitische Zeiten.",
+      "headline": "COP31 endet ohne gemeinsame Abschlusserklärung",
+      "text": "Die Klimakonferenz in Antalya ist nach Rekordverlängerung gescheitert. Ölstaaten blockierten jede Erwähnung eines Ausstiegs aus fossilen Brennstoffen, die EU lehnte einen Text ohne sie ab. Auch das von Entwicklungsländern geforderte Ziel von 120 Milliarden Dollar fiel weg.",
       "quellen": [
         {
-          "name": "CNA",
+          "name": "CNA (AFP)",
           "url": "https://www.channelnewsasia.com/world/cop31-climate-change-talks-collapse-deal-6572946"
         },
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqwy06zrd26lo"
+          "url": "https://www.bbc.com/news/articles/cm75237wlp3lo"
         }
       ]
     },
     {
-      "headline": "Börsen in Asien setzen Talfahrt fort",
-      "text": "Aus Sorge vor einer KI-Blase gaben die Börsen in Südkorea, Hongkong und Shanghai am Montag nach. Der Kospi verlor zeitweise 5,8 Prozent. Am Freitag war die Nasdaq um 5,3 Prozent gefallen, Nvidia um 14 Prozent. Die Futures für die US-Börsen deuteten auf eine Erholung hin.",
+      "headline": "Asiens Börsen bleiben unter Druck",
+      "text": "Aus Sorge um den KI-Boom fiel der Kospi in Seoul am Montag zeitweise um 5,8 Prozent und schloss 3,3 Prozent tiefer. Taiwan und China ergriffen Stützungsmaßnahmen, Südkorea erwägt einen Stabilisierungsfonds. Für die US-Börsen deuteten die Futures auf eine kräftige Erholung hin.",
       "quellen": [
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"
         },
         {
-          "name": "CNA",
+          "name": "CNA (AFP)",
           "url": "https://www.channelnewsasia.com/business/asian-tech-markets-traders-wall-street-rout-6573896"
         }
       ]
@@ -75,36 +75,36 @@
   ],
   "national": [
     {
-      "headline": "Streit in der Union über Ausgleich der kalten Progression",
-      "text": "NRW-Regierungschef Wüst verteidigt die Stromsteuersenkung und hält den von CSU-Chef Söder geforderten Ausgleich der kalten Progression derzeit nicht für möglich. Die SPD fordert eine dauerhafte Gegenfinanzierung, CDU-Politiker Schnieder nennt den Vorstoß ohne Finanzplan unseriös.",
+      "headline": "Söder signalisiert Kompromiss bei der Rente mit 63",
+      "text": "CSU-Chef Söder will die abschlagsfreie Frührente nach 45 Beitragsjahren einschränken, nennt aber Übergangsfristen und Ausnahmen. SPD-Politikerin Klose sieht darin einen möglichen Teil einer Lösung. Eine strengere Altersteilzeit brächte laut DIW jährlich bis 2,8 Milliarden Euro.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/hendrik-wuest-cdu-koalition-stromsteuer-ukraine-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-koalition-soeder-100.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/spd-kein-abbau-der-kalten-progression-ohne-dauerhafte-gegenfinanzierung-102.html"
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-27bb3a60-c9b2-446e-8f99-abe739300de7"
         }
       ]
     },
     {
-      "headline": "IG Metall dehnt Warnstreiks in Norddeutschland aus",
-      "text": "Die IG Metall Küste ruft über 23.000 Beschäftigte aus 19 Betrieben zu 24-stündigen Warnstreiks auf, etwa bei Mercedes in Bremen und Hamburg. IG-Metall-Chefin Benner kündigte für Montag und Dienstag weiteren Druck an. Laut ihr verhandeln die Arbeitgeber am Mittwoch wieder.",
+      "headline": "Ganztägige Warnstreiks in der Metallindustrie",
+      "text": "Die IG Metall rief rund 23.000 Beschäftigte im Norden zu ganztägigen Warnstreiks auf, auch in Berlin streiken Beschäftigte von BMW und Mercedes. Nach drei ergebnislosen Runden fordert sie fünf Prozent mehr Geld, Gesamtmetall bietet eine Einmalzahlung und 1,3 Prozent ab Juli 2028.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html"
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/streiks-ig-metall-norden-100.html"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/wirtschaft/ig-metall-chefin-christiane-benner-heute-journal-interview-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/ganztaegige-warnstreiks-laufen-bei-bmw-und-mercedes-benz-100.html"
         }
       ]
     },
     {
       "headline": "Hubig will Femizide klar als Mord ahnden",
-      "text": "Justizministerin Hubig will geschlechtsspezifische Beweggründe ausdrücklich zum Mordmerkmal machen. Gemeint sind etwa Tötungen von Frauen durch Männer, die eine Trennung nicht akzeptieren. Der Entwurf ist laut Hubig fertig. Einen eigenen Tatbestand Femizid lehnt sie ab.",
+      "text": "Justizministerin Hubig will Tötungen aus geschlechtsspezifischen Motiven ausdrücklich zum Mordmerkmal machen, etwa wenn ein Mann seine Partnerin tötet, weil sie sich trennen will. Der Entwurf ist laut Hubig fertig. Mord verjährt nicht und wird meist lebenslang bestraft.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -117,12 +117,16 @@
       ]
     },
     {
-      "headline": "Reiche will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
-      "text": "Wirtschaftsministerin Reiche will laut Handelsblatt und dpa Autobahntankstellen vom ab Januar geplanten Spritpreisdeckel ausnehmen. Ministeriumskreise nennen höhere Pachten und Öffnung rund um die Uhr. Für Autohöfe soll er gelten. Das Kabinett soll am 2. Dezember entscheiden.",
+      "headline": "Streit um Ausgleich der kalten Progression hält an",
+      "text": "Söders Forderung nach sofortigem Ausgleich der kalten Progression stößt auf Widerstand. NRW-Regierungschef Wüst hält ihn derzeit nicht für möglich, die SPD trägt ihn laut Rudolph nur mit dauerhafter Gegenfinanzierung mit. Der Etat 2027 soll diese Woche beschlossen werden.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/hendrik-wuest-cdu-koalition-stromsteuer-ukraine-100.html"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/spd-kein-abbau-der-kalten-progression-ohne-dauerhafte-gegenfinanzierung-102.html"
         }
       ]
     }
