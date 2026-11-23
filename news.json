@@ -1,96 +1,120 @@
 {
   "datum": "2026-11-23",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
+      "headline": "Ukraine versenkt russische Korvette vor Libyen",
+      "text": "Laut Selenskyj versenkten sieben ukrainische Seedrohnen am Sonntag vor Bengasi die russische Korvette Merkury und zerstörten einen Hubschrauber. Die UN-Mission in Libyen fordert eine unabhängige Untersuchung, Tripolis verurteilt Stellvertreterkriege in libyschen Gewässern.",
+      "quellen": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/no-safe-routes-ukraine-sinks-russian-corvette-in-drone-attack-off-libyan-coast/"
+        },
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/un-urges-probe-after-russian-ship-attacked-libya-6573101"
+        }
+      ]
+    },
+    {
       "headline": "Mindestens 15 Tote nach russischen Angriffen im Gebiet Kiew",
-      "text": "In Dymer nördlich von Kiew stieg die Zahl der Toten nach einem russischen Angriff auf ein Wohnhaus laut Regionalchef Tkatschenko auf elf. In Wyschnewe starben drei Menschen in einem Supermarkt, in Bila Zerkwa einer. Laut Interfax beschädigten Drohnen Öllager in Tatarstan.",
+      "text": "In Dymer nördlich von Kiew starben bei einem Angriff auf ein Wohnhaus laut einem regionalen Behördenvertreter mindestens elf Menschen. Der Zivilschutz suchte nach elf nicht erreichbaren Menschen. In Wyschnewe starben drei Menschen in einem Supermarkt, in Bila Zerkwa einer.",
       "quellen": [
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqdr15l32d3go"
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/russian-strikes-kill-14-in-kyiv-region-6573721"
         }
       ]
     },
     {
-      "headline": "Kiew bekennt sich zu Angriff auf russische Schiffe in Libyen",
-      "text": "Laut Präsident Selenskyj versenkten sieben ukrainische Seedrohnen am Sonntag in Bengasi die russische Korvette Merkury und zerstörten einen Hubschrauber. Auch der Frachter Angara sei getroffen worden. Moskau äußerte sich zunächst nicht, die UN-Mission fordert eine Untersuchung.",
+      "headline": "Nvidia holt Jensen Huang als Konzernchef zurück",
+      "text": "Elf Tage nach seinem Rücktritt wegen Affären, darunter eine mit einer Frau, die US-Behörden der Spionage für China verdächtigen, ist Huang wieder Nvidia-Chef. Die Aktie stieg um 33 Prozent. Trump begrüßte den Schritt, Abgeordnete beider US-Parteien kritisierten ihn.",
+      "quellen": [
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/nvidia-jensen-huang-ceo-reinstated-6575201"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cmze750zg0jeo"
+        }
+      ]
+    },
+    {
+      "headline": "Iran will US-Seeblockade mit allen Mitteln begegnen",
+      "text": "Irans Außenamtssprecher Baghaei nannte die US-Seeblockade eine militärische Aggression, der man mit allen Mitteln begegnen werde. Berichte über Öl ladende iranische Schiffe seien Spekulation. Laut Iran könnte Hormus binnen zwei Tagen öffnen, erfüllten die USA seine Bedingungen.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cr894gjz0j0yo"
-        }
-      ]
-    },
-    {
-      "headline": "Iran will Tankerkonvoi durch die US-Blockade schicken",
-      "text": "Iran bereitet laut Berichten einen Konvoi von über 14 Öltankern vor, der die US-Seeblockade durchbrechen soll. Revolutionsgarden-nahe Medien drohen bei einem Eingreifen der USA mit Angriffen auf Energieanlagen am Golf. Bahrain meldete abgefangene iranische Luftangriffe.",
-      "quellen": [
-        {
-          "name": "Jerusalem Post",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-915644"
-        },
-        {
-          "name": "Gulf News",
-          "url": "https://gulfnews.com/world/mena/middle-east-conflict-bahrain-intercepts-iranian-attacks-as-tehran-prepares-14-oil-tankers-to-breach-us-naval-blockade-1.500756662"
+          "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade"
         }
       ]
     },
     {
       "headline": "COP31 endet ohne gemeinsame Abschlusserklärung",
-      "text": "Die Klimakonferenz in Antalya ist nach Rekordverlängerung gescheitert. Ölstaaten blockierten jede Erwähnung eines Ausstiegs aus fossilen Brennstoffen, die EU lehnte einen Text ohne sie ab. Auch das von Entwicklungsländern geforderte Ziel von 120 Milliarden Dollar fiel weg.",
+      "text": "Die COP31 in der Türkei ist als erste UN-Klimakonferenz seit Kopenhagen 2009 ohne Einigung zu Ende gegangen. Wichtige Öl- und Gasförderländer lehnten die Erwähnung fossiler Brennstoffe ab, die EU einen Text ohne sie. UN-Generalsekretär Guterres zeigte sich zutiefst enttäuscht.",
       "quellen": [
         {
-          "name": "CNA (AFP)",
-          "url": "https://www.channelnewsasia.com/world/cop31-climate-change-talks-collapse-deal-6572946"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse"
         },
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cm75237wlp3lo"
         }
       ]
-    },
-    {
-      "headline": "Asiens Börsen bleiben unter Druck",
-      "text": "Aus Sorge um den KI-Boom fiel der Kospi in Seoul am Montag zeitweise um 5,8 Prozent und schloss 3,3 Prozent tiefer. Taiwan und China ergriffen Stützungsmaßnahmen, Südkorea erwägt einen Stabilisierungsfonds. Für die US-Börsen deuteten die Futures auf eine kräftige Erholung hin.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"
-        },
-        {
-          "name": "CNA (AFP)",
-          "url": "https://www.channelnewsasia.com/business/asian-tech-markets-traders-wall-street-rout-6573896"
-        }
-      ]
     }
   ],
   "national": [
     {
-      "headline": "Söder signalisiert Kompromiss bei der Rente mit 63",
-      "text": "CSU-Chef Söder will die abschlagsfreie Frührente nach 45 Beitragsjahren einschränken, nennt aber Übergangsfristen und Ausnahmen. SPD-Politikerin Klose sieht darin einen möglichen Teil einer Lösung. Eine strengere Altersteilzeit brächte laut DIW jährlich bis 2,8 Milliarden Euro.",
+      "headline": "Bundesregierung lehnt Söders Steuerforderung ab",
+      "text": "Laut Regierungssprecher Kornelius ist die Debatte über Söders Forderung beendet, die kalte Progression 2027 für alle auszugleichen. Grünen-Chefin Brantner wirft Söder vor, den eben vereinbarten Etat infrage zu stellen. Der Bundestag soll ihn am Freitag beschließen.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-koalition-soeder-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/bundesregierung-weist-soeder-vorstoss-zu-kalter-progression-zurueck-102.html"
         },
         {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-27bb3a60-c9b2-446e-8f99-abe739300de7"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/gruenen-chefin-brantner-kritik-csu-chef-soeder-kalte-progression-100.html"
         }
       ]
     },
     {
-      "headline": "Ganztägige Warnstreiks in der Metallindustrie",
-      "text": "Die IG Metall rief rund 23.000 Beschäftigte im Norden zu ganztägigen Warnstreiks auf, auch in Berlin streiken Beschäftigte von BMW und Mercedes. Nach drei ergebnislosen Runden fordert sie fünf Prozent mehr Geld, Gesamtmetall bietet eine Einmalzahlung und 1,3 Prozent ab Juli 2028.",
+      "headline": "Merz warnt Russland zum Ende der NATO-Tagung in Berlin",
+      "text": "Kanzler Merz verlangte von Moskau nach dem Absturz von drei russischen Marschflugkörpern in Polen ein Ende der gefährlichen Provokationen. Notfalls verteidige die NATO jeden Fuß ihres Gebiets. Die 2008 versäumte NATO-Aufnahme der Ukraine nannte er rückblickend einen Fehler.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/ausland/europa/merz-rutte-nato-104.html"
+        },
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/deutschland/nato-treffen-in-berlin-friedrich-merz-und-mark-rutte-bekraeftigen-sicherheitsgarantien-fuer-die-ukraine-a-8466115a-c858-4447-907a-07adb51289ee"
+        }
+      ]
+    },
+    {
+      "headline": "Bombendrohungen gegen Hunderte Schulen in Deutschland",
+      "text": "Hunderte Schulen bundesweit haben per E-Mail Bombendrohungen erhalten, allein in Baden-Württemberg mehr als 450. In Freiburg und andernorts wurden einzelne Schulen vorsorglich geräumt. Die Polizei sieht keinen Hinweis auf eine konkrete Bedrohung, die Verfasser sind unbekannt.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html"
+        },
+        {
+          "name": "ORF",
+          "url": "https://orf.at/stories/3449022/"
+        }
+      ]
+    },
+    {
+      "headline": "IG Metall setzt ganztägige Warnstreiks fort",
+      "text": "Die IG Metall rief im Norden rund 23.000 Beschäftigte zu ganztägigen Warnstreiks auf, auch bei Mercedes-Benz, Porsche und Bosch in Baden-Württemberg wird gestreikt. Sie fordert fünf Prozent mehr Lohn, die Arbeitgeber bieten eine Einmalzahlung und 1,3 Prozent ab Juli 2028.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -98,35 +122,7 @@
         },
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/ganztaegige-warnstreiks-laufen-bei-bmw-und-mercedes-benz-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Hubig will Femizide klar als Mord ahnden",
-      "text": "Justizministerin Hubig will Tötungen aus geschlechtsspezifischen Motiven ausdrücklich zum Mordmerkmal machen, etwa wenn ein Mann seine Partnerin tötet, weil sie sich trennen will. Der Entwurf ist laut Hubig fertig. Mord verjährt nicht und wird meist lebenslang bestraft.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html"
-        },
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/hubig-mordparagraph-femizide-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Streit um Ausgleich der kalten Progression hält an",
-      "text": "Söders Forderung nach sofortigem Ausgleich der kalten Progression stößt auf Widerstand. NRW-Regierungschef Wüst hält ihn derzeit nicht für möglich, die SPD trägt ihn laut Rudolph nur mit dauerhafter Gegenfinanzierung mit. Der Etat 2027 soll diese Woche beschlossen werden.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/hendrik-wuest-cdu-koalition-stromsteuer-ukraine-100.html"
-        },
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/spd-kein-abbau-der-kalten-progression-ohne-dauerhafte-gegenfinanzierung-102.html"
+          "url": "https://www.deutschlandfunk.de/weitere-ganztagesstreiks-in-der-metall-und-elektroindustrie-100.html"
         }
       ]
     }
