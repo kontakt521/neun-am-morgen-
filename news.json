@@ -1,24 +1,24 @@
 {
   "datum": "2026-11-23",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
       "headline": "Ukraine versenkt russische Korvette vor Libyen",
-      "text": "Laut Selenskyj versenkten sieben ukrainische Seedrohnen am Sonntag vor Bengasi die russische Korvette Merkury und zerstörten einen Hubschrauber. Die UN-Mission in Libyen fordert eine unabhängige Untersuchung, Tripolis verurteilt Stellvertreterkriege in libyschen Gewässern.",
+      "text": "Laut Selenskyj versenkten sieben ukrainische Seedrohnen am Sonntag bei Bengasi die russische Korvette Merkury und zerstörten einen Hubschrauber. Die UN-Mission verlangt eine unabhängige Untersuchung, Tripolis verurteilt die Nutzung libyscher Gewässer für Stellvertreterkriege.",
       "quellen": [
         {
           "name": "Kyiv Independent",
           "url": "https://kyivindependent.com/no-safe-routes-ukraine-sinks-russian-corvette-in-drone-attack-off-libyan-coast/"
         },
         {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/un-urges-probe-after-russian-ship-attacked-libya-6573101"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya"
         }
       ]
     },
     {
       "headline": "Mindestens 15 Tote nach russischen Angriffen im Gebiet Kiew",
-      "text": "In Dymer nördlich von Kiew starben bei einem Angriff auf ein Wohnhaus laut einem regionalen Behördenvertreter mindestens elf Menschen. Der Zivilschutz suchte nach elf nicht erreichbaren Menschen. In Wyschnewe starben drei Menschen in einem Supermarkt, in Bila Zerkwa einer.",
+      "text": "In Dymer nördlich von Kiew starben bei einem Angriff auf ein Wohnhaus laut Regionalvertreter Tkatschenko mindestens elf Menschen. Der Zivilschutz suchte zeitweise nach elf nicht erreichbaren Menschen. In Wyschnewe starben drei Menschen in einem Supermarkt, in Bila Zerkwa einer.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -32,7 +32,7 @@
     },
     {
       "headline": "Nvidia holt Jensen Huang als Konzernchef zurück",
-      "text": "Elf Tage nach seinem Rücktritt wegen Affären, darunter eine mit einer Frau, die US-Behörden der Spionage für China verdächtigen, ist Huang wieder Nvidia-Chef. Die Aktie stieg um 33 Prozent. Trump begrüßte den Schritt, Abgeordnete beider US-Parteien kritisierten ihn.",
+      "text": "Elf Tage nach seinem Rücktritt wegen einer Affäre mit einer Frau, die US-Geheimdienste der Spionage für China verdächtigen, ist Huang wieder Nvidia-Chef. Die Aktie stieg zeitweise um etwa 35 Prozent. Trump sagte, er habe direkt und indirekt mit dem Verwaltungsrat gesprochen.",
       "quellen": [
         {
           "name": "CNA",
@@ -46,7 +46,7 @@
     },
     {
       "headline": "Iran will US-Seeblockade mit allen Mitteln begegnen",
-      "text": "Irans Außenamtssprecher Baghaei nannte die US-Seeblockade eine militärische Aggression, der man mit allen Mitteln begegnen werde. Berichte über Öl ladende iranische Schiffe seien Spekulation. Laut Iran könnte Hormus binnen zwei Tagen öffnen, erfüllten die USA seine Bedingungen.",
+      "text": "Außenamtssprecher Baghaei nannte die US-Seeblockade eine militärische Aggression, gegen die sich Iran mit allen Mitteln wehren werde. Berichte über iranische Ölverladungen seien Spekulation. Laut Iran könnte Hormus in zwei Tagen öffnen, erfüllten die USA seine Bedingungen.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -56,23 +56,37 @@
     },
     {
       "headline": "COP31 endet ohne gemeinsame Abschlusserklärung",
-      "text": "Die COP31 in der Türkei ist als erste UN-Klimakonferenz seit Kopenhagen 2009 ohne Einigung zu Ende gegangen. Wichtige Öl- und Gasförderländer lehnten die Erwähnung fossiler Brennstoffe ab, die EU einen Text ohne sie. UN-Generalsekretär Guterres zeigte sich zutiefst enttäuscht.",
+      "text": "Die COP31 in der Türkei, die längste Klimaverhandlungsrunde der UN-Geschichte, endete ohne umfassende Einigung. Saudi-Arabien führte den Widerstand gegen eine Erwähnung fossiler Brennstoffe an. EU-Vertreter O'Brien sagte, einige Ölstaaten hätten die Gespräche gekapert.",
       "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse"
-        },
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cm75237wlp3lo"
+        },
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/saudi-arabia-cop31-fossil-fuels-climate-6575771"
         }
       ]
     }
   ],
   "national": [
     {
+      "headline": "Russland plant laut Geheimdiensten Atomwaffe im All",
+      "text": "Laut WDR, NDR und SZ rechnen westliche Geheimdienste, darunter der BND, damit, dass Russland bis Jahresende einen Satelliten mit Atomsprengkopf ins All bringen will. Kanzler Merz nannte die Berichte schockierend. Kreml-Sprecher Peskow sprach von reiner Spekulation.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/merz-berichte-ueber-moskaus-atom-plaene-im-all-schockierend-100.html"
+        }
+      ]
+    },
+    {
       "headline": "Bundesregierung lehnt Söders Steuerforderung ab",
-      "text": "Laut Regierungssprecher Kornelius ist die Debatte über Söders Forderung beendet, die kalte Progression 2027 für alle auszugleichen. Grünen-Chefin Brantner wirft Söder vor, den eben vereinbarten Etat infrage zu stellen. Der Bundestag soll ihn am Freitag beschließen.",
+      "text": "Laut Regierungssprecher Kornelius ist die Debatte über Söders Forderung nach einem Ausgleich der kalten Progression für alle abgeschlossen. Grünen-Chefin Brantner warf ihm vor, den eben vereinbarten Etat in Frage zu stellen. Der Bundestag soll ihn am Freitag verabschieden.",
       "quellen": [
         {
           "name": "Deutschlandfunk",
@@ -85,22 +99,8 @@
       ]
     },
     {
-      "headline": "Merz warnt Russland zum Ende der NATO-Tagung in Berlin",
-      "text": "Kanzler Merz verlangte von Moskau nach dem Absturz von drei russischen Marschflugkörpern in Polen ein Ende der gefährlichen Provokationen. Notfalls verteidige die NATO jeden Fuß ihres Gebiets. Die 2008 versäumte NATO-Aufnahme der Ukraine nannte er rückblickend einen Fehler.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/ausland/europa/merz-rutte-nato-104.html"
-        },
-        {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/deutschland/nato-treffen-in-berlin-friedrich-merz-und-mark-rutte-bekraeftigen-sicherheitsgarantien-fuer-die-ukraine-a-8466115a-c858-4447-907a-07adb51289ee"
-        }
-      ]
-    },
-    {
       "headline": "Bombendrohungen gegen Hunderte Schulen in Deutschland",
-      "text": "Hunderte Schulen bundesweit haben per E-Mail Bombendrohungen erhalten, allein in Baden-Württemberg mehr als 450. In Freiburg und andernorts wurden einzelne Schulen vorsorglich geräumt. Die Polizei sieht keinen Hinweis auf eine konkrete Bedrohung, die Verfasser sind unbekannt.",
+      "text": "Hunderte Schulen erhielten Bombendrohungen, laut Polizei allein mehr als 450 in Baden-Württemberg und 260 in Sachsen-Anhalt. In Freiburg und anderswo räumte man einzelne Schulen vorsorglich. Die Ermittler halten die Drohungen nicht für ernsthaft, die Verfasser sind unbekannt.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -114,7 +114,7 @@
     },
     {
       "headline": "IG Metall setzt ganztägige Warnstreiks fort",
-      "text": "Die IG Metall rief im Norden rund 23.000 Beschäftigte zu ganztägigen Warnstreiks auf, auch bei Mercedes-Benz, Porsche und Bosch in Baden-Württemberg wird gestreikt. Sie fordert fünf Prozent mehr Lohn, die Arbeitgeber bieten eine Einmalzahlung und 1,3 Prozent ab Juli 2028.",
+      "text": "Die IG Metall rief im Norden rund 23.000 Beschäftigte zu ganztägigen Warnstreiks auf, in Baden-Württemberg wird etwa bei Mercedes-Benz, Porsche und Bosch gestreikt. Sie fordert fünf Prozent mehr Lohn, die Arbeitgeber bieten eine Einmalzahlung und 1,3 Prozent ab Juli 2028.",
       "quellen": [
         {
           "name": "tagesschau",
