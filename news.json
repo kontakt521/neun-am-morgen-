@@ -1,132 +1,128 @@
 {
-  "datum": "2026-11-22",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-23",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Weltklimakonferenz COP31 endet ohne Abschlusserklärung",
-      "text": "Die Klimakonferenz in Antalya ist am Sonntag nach zwei Tagen Verlängerung gescheitert. Die EU, pazifische Inselstaaten und andere lehnten den Entwurf der Türkei und Australiens ab, weil er fossile Brennstoffe nicht direkt nennt. Ärmeren Staaten fehlten klare Finanzzusagen.",
+      "headline": "Mindestens 14 Tote nach russischen Angriffen im Gebiet Kiew",
+      "text": "In Dymer nördlich von Kiew stieg die Zahl der Toten nach einem russischen Angriff auf ein Wohnhaus laut Regionalchef Tkatschenko auf zehn. Ein Siebenjähriger wurde nach 14 Stunden lebend geborgen. In Wyschnewe starben drei Menschen in einem Supermarkt, in Bila Zerkwa einer.",
+      "quellen": [
+        {
+          "name": "CNA (AFP)",
+          "url": "https://www.channelnewsasia.com/world/russian-strikes-kill-14-in-kyiv-region-6573721"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqdr15l32d3go"
+        }
+      ]
+    },
+    {
+      "headline": "Russisches Schiff in Libyen offenbar von Drohnen getroffen",
+      "text": "Im Hafen von Bengasi explodierte am Sonntag ein russisches Schiff, laut ostlibyscher Regierung wohl durch Drohnen. Satellitenbilder zeigen laut der Firma Vantor die gesunkene Korvette Merkury. Auch ein Handelsschiff wurde getroffen. Die UN-Mission fordert eine Untersuchung.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqwy06zrd26lo"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/cop31-climate-talk-collapse-eu-final-draft-political-deal-6572946"
-        }
-      ]
-    },
-    {
-      "headline": "Mindestens acht Tote nach russischen Angriffen im Gebiet Kiew",
-      "text": "In Dymer bei Kiew stieg die Zahl der Toten nach einem russischen Drohnenangriff auf ein Wohnhaus laut Gouverneur Tkatschenko auf fünf. Selenskyj nannte zehn Vermisste, ein Siebenjähriger wurde lebend geborgen. In Wyschnewe und Bila Zerkwa starben drei weitere Menschen.",
-      "quellen": [
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/"
-        },
-        {
-          "name": "Ukrinform",
-          "url": "https://www.ukrinform.net/rubric-ato/4187354-body-of-person-killed-in-russian-drone-attack-recovered-from-rubble-of-apartment-building-in-dymer.html"
-        }
-      ]
-    },
-    {
-      "headline": "Iran verschärft Angriffe auf Bahrain und Tanker im Golf",
-      "text": "Bahrain meldete einen iranischen Treffer auf eine zivile Industrieanlage am Samstag. Irans Revolutionsgarde will US-Stellungen in Bahrain angegriffen haben. Laut Al Jazeera wurden binnen einer Woche mindestens 25 Tanker in und um die Straße von Hormus getroffen.",
-      "quellen": [
-        {
-          "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/bahrain-intercept-iran-attack-6572311"
+          "url": "https://www.bbc.com/news/articles/cr894gjz0j0yo"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf"
+          "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya"
         }
       ]
     },
     {
-      "headline": "Russland schleppt getroffenen Frachter vor Finnland ab",
-      "text": "Laut finnischer Küstenwache begann ein russisches Rettungsschiff am Sonntag, die von Drohnen getroffene Sparta II aus finnischen Gewässern zu schleppen. Finnlands Militär hält die Ukraine für den wahrscheinlichen Urheber. Kiew äußerte sich bislang nicht.",
+      "headline": "Iran meldet Explosionen von Tankern in der Straße von Hormus",
+      "text": "Laut Irans Revolutionsgarde explodierten am Sonntag zwei Supertanker auf verbotenen Routen in der Straße von Hormus nach Minentreffern. Die reguläre Marine meldete zwei brennende Tanker in einem Sperrgebiet östlich davon. Die Garde will zudem eine US-Drohne abgeschossen haben.",
       "quellen": [
         {
-          "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/russia-starts-towing-ship-hit-drones-in-baltic-finland-says-6573286"
+          "name": "Xinhua",
+          "url": "https://english.news.cn/20261123/9e8ce320ddab45d5a7c3da4314634bcc/c.html"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cj752ddve27ko"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat"
         }
       ]
     },
     {
-      "headline": "Mindestens drei Tote nach Fabrikbrand in Indonesien",
-      "text": "Bei einem Brand in einer Süßwarenfabrik in Serang westlich von Jakarta starben mindestens drei Menschen, die Zahl dürfte steigen. Rund 36 Menschen werden vermisst. Rettungskräfte bargen bis Sonntagabend 24 Leichensäcke. Die Suche soll laut lokalen Medien am Montag weitergehen.",
+      "headline": "Guterres enttäuscht über Scheitern der COP31",
+      "text": "Nach dem Scheitern der COP31 ist UN-Chef Guterres tief enttäuscht. Ölstaaten blockierten jede Erwähnung eines Ausstiegs aus fossilen Brennstoffen, die EU lehnte einen Text ohne deren direkte Nennung ab. Mitgastgeber Australien verwies auf schwierige geopolitische Zeiten.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cw8dvg5pgm0eo"
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/cop31-climate-change-talks-collapse-deal-6572946"
         },
         {
-          "name": "RTÉ (AFP)",
-          "url": "https://www.rte.ie/news/world/2026/1122/1600169-indonesia-factory-fire/"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqwy06zrd26lo"
+        }
+      ]
+    },
+    {
+      "headline": "Börsen in Asien setzen Talfahrt fort",
+      "text": "Aus Sorge vor einer KI-Blase gaben die Börsen in Südkorea, Hongkong und Shanghai am Montag nach. Der Kospi verlor zeitweise 5,8 Prozent. Am Freitag war die Nasdaq um 5,3 Prozent gefallen, Nvidia um 14 Prozent. Die Futures für die US-Börsen deuteten auf eine Erholung hin.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"
+        },
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/business/asian-tech-markets-traders-wall-street-rout-6573896"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Hubig will Femizide eindeutig als Mord einstufen",
-      "text": "Justizministerin Hubig will geschlechtsspezifische Motive ausdrücklich zum Mordmerkmal machen. Der Entwurf ist laut Hubig fertig, sie will rasch eine Einigung in der Regierung. Gemeint sind etwa Tötungen von Frauen wegen einer Trennung. Einen Tatbestand Femizid lehnt sie ab.",
+      "headline": "Streit in der Union über Ausgleich der kalten Progression",
+      "text": "NRW-Regierungschef Wüst verteidigt die Stromsteuersenkung und hält den von CSU-Chef Söder geforderten Ausgleich der kalten Progression derzeit nicht für möglich. Die SPD fordert eine dauerhafte Gegenfinanzierung, CDU-Politiker Schnieder nennt den Vorstoß ohne Finanzplan unseriös.",
       "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html"
-        },
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/justizministerin-hubig-femizide-sollen-eindeutig-als-mord-gelten-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Söder verlangt Ausgleich der kalten Progression",
-      "text": "CSU-Chef Söder nennt die Stromsteuersenkung nur einen ersten Schritt und will die kalte Progression rasch ausgleichen. Bayern sei bereit mitzuzahlen. Ein voller Ausgleich 2027 würde laut Spiegel etwa 4,2 Milliarden Euro erfordern. Union und SPD sind über die Finanzierung uneins.",
-      "quellen": [
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/soeder-fordert-ausgleich-der-kalten-progression-bayern-will-kosten-mittragen-100.html"
-        },
-        {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression-a-ec276ef0-1015-40f2-abd3-c5ef820e15aa"
-        }
-      ]
-    },
-    {
-      "headline": "Reiche will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
-      "text": "Wirtschaftsministerin Reiche will den ab Januar geplanten Spritpreisdeckel nicht für Autobahntankstellen gelten lassen. Ihr Ministerium verweist auf deren höhere Kosten. Das Kabinett soll am 2. Dezember entscheiden. Grüne und Linke kritisieren die Pläne scharf.",
-      "quellen": [
-        {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/service/hohe-spritpreise-katherina-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-a-98639391-2d38-4b1a-873b-927535a346a9"
-        },
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/reiche-preisdeckel-ausnahme-autobahntankstellen-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/hendrik-wuest-cdu-koalition-stromsteuer-ukraine-100.html"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/spd-kein-abbau-der-kalten-progression-ohne-dauerhafte-gegenfinanzierung-102.html"
         }
       ]
     },
     {
-      "headline": "IG Metall setzt Warnstreiks in Norddeutschland fort",
-      "text": "Die IG Metall Küste hat über 23.000 Beschäftigte aus 19 Betrieben zu ganztägigen Warnstreiks aufgerufen, teils ab Sonntagabend, etwa in den Mercedes-Werken Bremen und Hamburg. Sie fordert fünf Prozent mehr Geld, Gesamtmetall bietet eine Einmalzahlung und 1,3 Prozent ab Juli 2028.",
+      "headline": "IG Metall dehnt Warnstreiks in Norddeutschland aus",
+      "text": "Die IG Metall Küste ruft über 23.000 Beschäftigte aus 19 Betrieben zu 24-stündigen Warnstreiks auf, etwa bei Mercedes in Bremen und Hamburg. IG-Metall-Chefin Benner kündigte für Montag und Dienstag weiteren Druck an. Laut ihr verhandeln die Arbeitgeber am Mittwoch wieder.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/metaller-warnstreiks-im-norden-werden-heute-fortgesetzt-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/wirtschaft/ig-metall-chefin-christiane-benner-heute-journal-interview-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Hubig will Femizide klar als Mord ahnden",
+      "text": "Justizministerin Hubig will geschlechtsspezifische Beweggründe ausdrücklich zum Mordmerkmal machen. Gemeint sind etwa Tötungen von Frauen durch Männer, die eine Trennung nicht akzeptieren. Der Entwurf ist laut Hubig fertig. Einen eigenen Tatbestand Femizid lehnt sie ab.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/hubig-mordparagraph-femizide-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Reiche will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
+      "text": "Wirtschaftsministerin Reiche will laut Handelsblatt und dpa Autobahntankstellen vom ab Januar geplanten Spritpreisdeckel ausnehmen. Ministeriumskreise nennen höhere Pachten und Öffnung rund um die Uhr. Für Autohöfe soll er gelten. Das Kabinett soll am 2. Dezember entscheiden.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html"
         }
       ]
     }
