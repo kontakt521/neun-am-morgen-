@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-24",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "Trump drängte Nvidia zur Rückkehr von Jensen Huang",
-      "text": "Trump sagte, er habe den Nvidia-Verwaltungsrat überzeugt, Konzernchef Huang wieder einzusetzen. Abgeordnete beider Parteien üben Kritik, der voraussichtliche Speaker Jeffries kündigte eine Untersuchung an. Die USA setzten die Firma Megaspeed aus Singapur auf ihre Schwarze Liste.",
+      "headline": "Trump in der Kritik nach Rückkehr von Nvidia-Chef Huang",
+      "text": "Auf Druck von Trump hat Nvidia Jensen Huang wieder als Konzernchef eingesetzt, die Aktie stieg um 31 Prozent. Abgeordnete beider Parteien kritisieren den Schritt. Huang soll am 1. Dezember vor drei Ausschüssen des Repräsentantenhauses und am 3. Dezember im Senat aussagen.",
       "quellen": [
         {
           "name": "BBC",
@@ -12,101 +12,113 @@
         },
         {
           "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/us-blacklists-megaspeed-chip-firm-linked-nvidia-scandal-6576001"
+          "url": "https://www.channelnewsasia.com/world/us-lawmakers-criticise-nvidia-decision-reinstate-huang-ceo-6575546"
         }
       ]
     },
     {
-      "headline": "Russland droht Estland mit offenem Krieg",
-      "text": "Das russische Außenministerium wirft Estland feindselige Schritte vor, die kurz davor stünden, einen offenen Krieg auszulösen. Anlass des Protests ist die geplante Grenzschließung ab 1. Dezember. Estland bestreitet, ukrainischen Drohnen sein Gebiet für Angriffe zu überlassen.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war"
-        }
-      ]
-    },
-    {
-      "headline": "NATO schickt AWACS-Flugzeug nach Polen",
-      "text": "Nachdem laut Staatsanwaltschaft am Freitag drei russische Marschflugkörper vom Typ Kh-101 in Polen niedergingen, stellt die NATO dem Land ein AWACS-Flugzeug bereit. Das sagte Vizeverteidigungsminister Zalewski. Laut NATO prüft Oberbefehlshaber Grynkewich weitere Verlegungen.",
-      "quellen": [
-        {
-          "name": "Reuters",
-          "url": "https://bbc.bm/nato-to-send-early-warning-system-aircraft-to-poland-after-missiles-incident"
-        }
-      ]
-    },
-    {
-      "headline": "Huthis melden 17 Tote nach saudischem Angriff im Jemen",
-      "text": "Laut dem Telekommunikationsministerium der Huthis töteten Luftangriffe der saudisch geführten Koalition am Montag in der Provinz Hodeida 17 Mitarbeiter von Fernmeldeanlagen und verletzten elf. Riad äußerte sich zunächst nicht, unabhängig bestätigt sind die Angaben nicht.",
-      "quellen": [
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/yemen-houthis-saudi-strikes-kill-seventeen-6575956"
-        }
-      ]
-    },
-    {
-      "headline": "Saudi-Arabien nach Scheitern der COP31 in der Kritik",
-      "text": "Nach dem Scheitern der Klimakonferenz im türkischen Antalya am Sonntag steht Saudi-Arabien in der Kritik. Es stemmte sich gegen eine Erwähnung fossiler Brennstoffe im Abschlusstext, die rund 130 Staaten verlangt hatten. Die USA hatten keine offizielle Delegation entsandt.",
+      "headline": "NATO will sich auch im Weltraum verteidigen",
+      "text": "Nach Berichten über einen möglichen Start eines russischen Satelliten mit Atomsprengkopf binnen 60 Tagen versprach NATO-Chef Rutte, das Bündnis werde sich auch im All schützen. Kanzler Merz ließ offen, ob die Berichte stimmen. Kremlsprecher Peskow nannte sie kaum ernst zu nehmen.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cky970n83rvjo"
+          "url": "https://www.bbc.com/news/articles/c9x2er1ry2mzo"
+        }
+      ]
+    },
+    {
+      "headline": "Russische Angriffe töten 15 Menschen in der Region Kiew",
+      "text": "Bei russischen Angriffen auf die Region Kiew sind mindestens 15 Menschen getötet worden, allein elf in einem Wohnhaus in Dymer. Am späten Montagabend drang zudem eine russische Drohne in den polnischen Luftraum ein. Polens Vizeverteidigungsminister Zalewski geht von Absicht aus.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-unmanned-aerial-vehicle-violates-polish-airspace-days-after-missile-incursion/"
+        }
+      ]
+    },
+    {
+      "headline": "Großbritannien sanktioniert Militärs aus Myanmar",
+      "text": "Nach dem Urteil des Internationalen Gerichtshofs, wonach Myanmar 2017 Völkermord an den Rohingya beging, hat Großbritannien fünf hochrangige Militärs mit Sanktionen belegt. Ein Gesetz soll zudem Lieferungen von Flugbenzin unterbinden. Singapur erklärte, es respektiere das Urteil.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6wy4ng1rznxo"
         },
         {
           "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/saudi-arabia-cop31-fossil-fuels-climate-6575771"
+          "url": "https://www.channelnewsasia.com/singapore/mfa-singapore-icj-myanmar-rohingya-genocide-judgment-6577611"
+        }
+      ]
+    },
+    {
+      "headline": "Hasina will am 16. Dezember nach Bangladesch zurück",
+      "text": "Die in Abwesenheit zum Tode verurteilte frühere Regierungschefin Sheikh Hasina will laut ihrem Sprecher am 16. Dezember aus dem Exil in Indien heimkehren. Die Regierung erklärte, sie könne nur per Auslieferung zurückkommen. Laut einem Minister würde sie dann festgenommen.",
+      "quellen": [
+        {
+          "name": "Reuters",
+          "url": "https://www.channelnewsasia.com/asia/bangladesh-sheikh-hasina-december-return-6576891"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Geheimdienste warnen vor russischer Atomwaffe im All",
-      "text": "Westliche Geheimdienste, darunter der BND, halten laut WDR, NDR und SZ den Start eines russischen Satelliten mit Atomsprengkopf binnen 60 Tagen für möglich. Kanzler Merz zeigte sich schockiert, Kontrollgremiumschef Henrichmann sieht Erpressung. Der Kreml weist das zurück.",
+      "headline": "Bundestag berät Rekordhaushalt für 2027",
+      "text": "Vier Tage lang debattiert der Bundestag über den Etat 2027, am Freitag soll er verabschiedet werden. Geplant sind Ausgaben von etwa 560 Milliarden Euro und neue Kredite von rund 210 Milliarden. Die Stromsteuer soll für alle sinken. Die Opposition kritisiert die hohe Verschuldung.",
       "quellen": [
-        {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3448989/"
-        },
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/henrichmann-warnt-vor-russischer-erpressung-durch-atomwaffen-im-weltall-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Bundestag berät Etat, Streit über kalte Progression",
-      "text": "Der Bundestag berät den Haushalt 2027, beschlossen werden soll er am Freitag. Wie CSU-Chef Söder will auch Sachsens Landeschef Kretschmer die kalte Progression ausgleichen. Die Regierung ist dagegen. Grünen-Chefin Brantner warf Söder vor, den eben vereinbarten Etat anzuzweifeln.",
-      "quellen": [
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/abgeordnete-bestimmen-heute-finanzetat-des-bundes-fuer-kommendes-jahr-100.html"
-        },
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/gruenen-chefin-brantner-kritik-csu-chef-soeder-kalte-progression-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/bundestagswoche-haushalt-2027-100.html"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/opposition-kritisiert-haushalt-fuer-100.html"
         }
       ]
     },
     {
-      "headline": "Femizide sollen klar als Mord geahndet werden",
-      "text": "Justizministerin Hubig hat einen Gesetzentwurf fertig, wonach geschlechtsspezifische Motive künftig ausdrücklich als Mordmerkmal gelten sollen. Gemeint sind etwa Männer, die ihre Partnerin töten, weil sie sich trennen will. Einen gesonderten Tatbestand Femizid lehnt Hubig ab.",
+      "headline": "Bombendrohungen gegen Hunderte Schulen",
+      "text": "Hunderte Schulen in zahlreichen Bundesländern haben am Morgen Drohmails mit Bombendrohungen erhalten, allein in Baden-Württemberg mehr als 450. Einige wurden aus Vorsicht geräumt. Die Polizei hält die Drohungen nicht für ernst gemeint. Wer sie verschickt hat, ist offen.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html"
+          "url": "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html"
+        },
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/international/mehrere-bundeslaender-betroffen-bombendrohungen-an-deutschen-schulen"
         }
       ]
     },
     {
-      "headline": "CSU und SPD nähern sich im Rentenstreit an",
-      "text": "CSU-Chef Söder zeigte sich bei der Rente mit 63 kompromissbereit und nannte Übergangsfristen und Ausnahmen bei körperlich sehr schwerer Arbeit. Die SPD-Politikerin Klose sieht noch keine fertige Lösung. Merz plant einen Kabinettsbeschluss vor Weihnachten.",
+      "headline": "Maskierter stürmt Sitzung der Grünen in Schwerte",
+      "text": "In Schwerte bei Dortmund hat ein maskierter Mann am Montagabend eine Sitzung der Grünen gestürmt, offenbar Pfefferspray versprüht und eine Person geschlagen. Es gab Verletzte. Der Staatsschutz ermittelt wegen Verdachts auf eine politische Tat, der Täter ist geflohen.",
+      "quellen": [
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/deutschland/schwerte-bei-dortmund-unbekannter-stuermt-offenbar-gruenen-sitzung-mehrere-menschen-im-krankenhaus-a-0f296213-39b0-4fdf-a77a-f03707044024"
+        },
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/gruene-angriff-nrw-schwerte-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Tarifrunde bei Volkswagen in Emden begonnen",
+      "text": "In Emden beginnen die Tarifgespräche für rund 120.000 VW-Beschäftigte an neun Standorten. Der Konzern will die Bezüge in den Jahren 2027 und 2028 nicht erhöhen und Zulagen streichen, die IG Metall fordert fünf Prozent mehr Lohn. Die Friedenspflicht endet am 31. Dezember.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-koalition-soeder-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifrunde-emden-auftakt-100.html"
         }
       ]
     }
