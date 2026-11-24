@@ -1,24 +1,48 @@
 {
   "datum": "2026-11-24",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Trump in der Kritik nach Rückkehr von Nvidia-Chef Huang",
-      "text": "Auf Druck von Trump hat Nvidia Jensen Huang wieder als Konzernchef eingesetzt, die Aktie stieg um 31 Prozent. Abgeordnete beider Parteien kritisieren den Schritt. Huang soll am 1. Dezember vor drei Ausschüssen des Repräsentantenhauses und am 3. Dezember im Senat aussagen.",
+      "headline": "USA setzen Megaspeed nach Nvidia-Skandal auf Sperrliste",
+      "text": "Das US-Handelsministerium hat die Nvidia-Partnerfirma Megaspeed und eine Alibaba-Tochter in Singapur auf seine Handelssperrliste gesetzt. Gegen Megaspeed wird seit 2024 ermittelt, ob sie KI-Chips nach China umgeleitet hat. Alibaba nennt den Schritt falsch und will sich wehren.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cq5y1k8ez407o"
+          "name": "Reuters",
+          "url": "https://www.channelnewsasia.com/world/us-blacklist-megaspeed-alibaba-nvidia-scandal-6576001"
+        }
+      ]
+    },
+    {
+      "headline": "Menschenrechtsgericht erlaubt Pushbacks unter Bedingungen",
+      "text": "Staaten dürfen Migranten an der Grenze abweisen, wenn ein Drittstaat Migration als Druckmittel nutzt, urteilte das Straßburger Menschenrechtsgericht. Ausnahmen gelten für besonders Verletzliche. Lettland und Polen verstießen in Einzelfällen gegen das Folterverbot, Litauen nicht.",
+      "quellen": [
+        {
+          "name": "LRT",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3124297/echr-rules-lithuania-did-not-violate-human-rights-by-deporting-migrants-to-belarus"
         },
         {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/us-lawmakers-criticise-nvidia-decision-reinstate-huang-ceo-6575546"
+          "name": "Arab News",
+          "url": "https://arabnews.pk/world/europe-rights-court-gives-states-more-latitude-to-turn-back-migrants-3007948"
+        }
+      ]
+    },
+    {
+      "headline": "Russischer Angriff auf Saporischschja tötet zwei Menschen",
+      "text": "Ein russischer Luftangriff auf Saporischschja hat laut ukrainischen Behörden zwei Menschen getötet und mehr als 40 verletzt. Präsident Selenskyj bestätigte, dass die Ukraine am 21. November den russischen Frachter Sparta II im Finnischen Meerbusen mit einer Drohne angriff.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/zelensky-confirms-ukrainian-attack-on-russian-ship-in-gulf-of-finland/"
         }
       ]
     },
     {
       "headline": "NATO will sich auch im Weltraum verteidigen",
-      "text": "Nach Berichten über einen möglichen Start eines russischen Satelliten mit Atomsprengkopf binnen 60 Tagen versprach NATO-Chef Rutte, das Bündnis werde sich auch im All schützen. Kanzler Merz ließ offen, ob die Berichte stimmen. Kremlsprecher Peskow nannte sie kaum ernst zu nehmen.",
+      "text": "Nach Berichten über einen möglichen Start eines russischen Satelliten mit Atomsprengkopf binnen 60 Tagen sagte NATO-Chef Rutte zu, das Bündnis werde sich auch im All schützen. Kanzler Merz ließ offen, ob die Berichte stimmen. Russlands Botschaft in Berlin wies sie zurück.",
       "quellen": [
         {
           "name": "BBC",
@@ -27,98 +51,70 @@
       ]
     },
     {
-      "headline": "Russische Angriffe töten 15 Menschen in der Region Kiew",
-      "text": "Bei russischen Angriffen auf die Region Kiew sind mindestens 15 Menschen getötet worden, allein elf in einem Wohnhaus in Dymer. Am späten Montagabend drang zudem eine russische Drohne in den polnischen Luftraum ein. Polens Vizeverteidigungsminister Zalewski geht von Absicht aus.",
+      "headline": "Israelischer Luftangriff tötet Hamas-Sicherheitschef in Gaza",
+      "text": "Israelische Angriffe im Gazastreifen haben laut palästinensischen Angaben sieben Menschen getötet, darunter Naim Abu Nahl, den Chef des inneren Sicherheitsdienstes der Hamas. Ihn traf laut Behörden eine Drohne. Israels Armee meldete einen Schlag gegen einen ranghohen Hamas-Mann.",
       "quellen": [
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine"
-        },
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russian-unmanned-aerial-vehicle-violates-polish-airspace-days-after-missile-incursion/"
-        }
-      ]
-    },
-    {
-      "headline": "Großbritannien sanktioniert Militärs aus Myanmar",
-      "text": "Nach dem Urteil des Internationalen Gerichtshofs, wonach Myanmar 2017 Völkermord an den Rohingya beging, hat Großbritannien fünf hochrangige Militärs mit Sanktionen belegt. Ein Gesetz soll zudem Lieferungen von Flugbenzin unterbinden. Singapur erklärte, es respektiere das Urteil.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6wy4ng1rznxo"
-        },
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/singapore/mfa-singapore-icj-myanmar-rohingya-genocide-judgment-6577611"
-        }
-      ]
-    },
-    {
-      "headline": "Hasina will am 16. Dezember nach Bangladesch zurück",
-      "text": "Die in Abwesenheit zum Tode verurteilte frühere Regierungschefin Sheikh Hasina will laut ihrem Sprecher am 16. Dezember aus dem Exil in Indien heimkehren. Die Regierung erklärte, sie könne nur per Auslieferung zurückkommen. Laut einem Minister würde sie dann festgenommen.",
-      "quellen": [
-        {
-          "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/asia/bangladesh-sheikh-hasina-december-return-6576891"
+          "name": "CNA/AFP",
+          "url": "https://www.channelnewsasia.com/world/israeli-strikes-in-gaza-kill-seven-including-senior-security-official-6578251"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16"
+          "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Bundestag berät Rekordhaushalt für 2027",
-      "text": "Vier Tage lang debattiert der Bundestag über den Etat 2027, am Freitag soll er verabschiedet werden. Geplant sind Ausgaben von etwa 560 Milliarden Euro und neue Kredite von rund 210 Milliarden. Die Stromsteuer soll für alle sinken. Die Opposition kritisiert die hohe Verschuldung.",
+      "headline": "Klingbeil verteidigt Rekordhaushalt im Bundestag",
+      "text": "Zum Auftakt der viertägigen Schlussberatungen hat Finanzminister Klingbeil den Etat 2027 mit 560,9 Milliarden Euro Ausgaben verteidigt. Neue Kredite von knapp 123 Milliarden Euro sind geplant. Grüne, Linke und AfD kritisieren die Schulden. Beschlossen werden soll am Freitag.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/bundestagswoche-haushalt-2027-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-2027-klingbeil-100.html"
         },
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/opposition-kritisiert-haushalt-fuer-100.html"
+          "url": "https://www.deutschlandfunk.de/koalition-verteidigt-rekordausgaben-gegen-kritik-100.html"
         }
       ]
     },
     {
-      "headline": "Bombendrohungen gegen Hunderte Schulen",
-      "text": "Hunderte Schulen in zahlreichen Bundesländern haben am Morgen Drohmails mit Bombendrohungen erhalten, allein in Baden-Württemberg mehr als 450. Einige wurden aus Vorsicht geräumt. Die Polizei hält die Drohungen nicht für ernst gemeint. Wer sie verschickt hat, ist offen.",
+      "headline": "Mehr Gewalt gegen Frauen in Deutschland registriert",
+      "text": "Laut neuen BKA-Lagebildern wurden 2025 in Deutschland 342 Frauen und Mädchen getötet, nach 308 im Vorjahr. Gemeldet wurden fast 198.000 Fälle häuslicher Gewalt gegen Frauen und Mädchen, 2,8 Prozent mehr. Weibliche Opfer digitaler Gewalt gab es 15,7 Prozent mehr.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/bka-haeusliche-gewalt-opfer-mehrheit-weiblich-100.html"
         },
         {
-          "name": "SRF",
-          "url": "https://www.srf.ch/news/international/mehrere-bundeslaender-betroffen-bombendrohungen-an-deutschen-schulen"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/zahl-der-faelle-von-gewalt-gegen-frauen-gestiegen-100.html"
         }
       ]
     },
     {
-      "headline": "Maskierter stürmt Sitzung der Grünen in Schwerte",
-      "text": "In Schwerte bei Dortmund hat ein maskierter Mann am Montagabend eine Sitzung der Grünen gestürmt, offenbar Pfefferspray versprüht und eine Person geschlagen. Es gab Verletzte. Der Staatsschutz ermittelt wegen Verdachts auf eine politische Tat, der Täter ist geflohen.",
+      "headline": "Taliban stoppen laut NDR Abschiebeflug nach Kabul",
+      "text": "Ein geplanter Abschiebeflug nach Afghanistan ist laut NDR auf Betreiben der Taliban abgesagt worden. Laut afghanischen Diplomatenkreisen wollen sie die Einreise von vier Konsularbeamten erzwingen, die in Katar warten. Das Innenministerium wollte sich zur Absage nicht festlegen.",
       "quellen": [
         {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/deutschland/schwerte-bei-dortmund-unbekannter-stuermt-offenbar-gruenen-sitzung-mehrere-menschen-im-krankenhaus-a-0f296213-39b0-4fdf-a77a-f03707044024"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-taliban-abschiebeflug-gestoppt-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Erste VW-Tarifrunde in Emden ohne Ergebnis",
+      "text": "Die erste Verhandlungsrunde zwischen Volkswagen und der IG Metall in Emden ist ohne konkretes Ergebnis geendet. Der Konzern verlangt Nullrunden für 2027 und 2028 und die Streichung von Zulagen, die Gewerkschaft fordert fünf Prozent mehr Lohn. Mitte Dezember wird weiterverhandelt.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/regional/niedersachsen/tarifstreit-vw-spitze-will-verhandlungen-bis-jahresende-abschliessen,vw-1734.html"
         },
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/gruene-angriff-nrw-schwerte-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Tarifrunde bei Volkswagen in Emden begonnen",
-      "text": "In Emden beginnen die Tarifgespräche für rund 120.000 VW-Beschäftigte an neun Standorten. Der Konzern will die Bezüge in den Jahren 2027 und 2028 nicht erhöhen und Zulagen streichen, die IG Metall fordert fünf Prozent mehr Lohn. Die Friedenspflicht endet am 31. Dezember.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifrunde-emden-auftakt-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/tarifverhandlungen-bei-vw-haben-begonnen-100.html"
         }
       ]
     }
