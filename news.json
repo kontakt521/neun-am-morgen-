@@ -1,66 +1,58 @@
 {
-  "datum": "2026-11-23",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-24",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Ukraine versenkt russische Korvette vor Libyen",
-      "text": "Laut Selenskyj versenkten sieben ukrainische Seedrohnen am Sonntag bei Bengasi die russische Korvette Merkury und zerstörten einen Hubschrauber. Die UN-Mission verlangt eine unabhängige Untersuchung, Tripolis verurteilt die Nutzung libyscher Gewässer für Stellvertreterkriege.",
-      "quellen": [
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/no-safe-routes-ukraine-sinks-russian-corvette-in-drone-attack-off-libyan-coast/"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya"
-        }
-      ]
-    },
-    {
-      "headline": "Mindestens 15 Tote nach russischen Angriffen im Gebiet Kiew",
-      "text": "In Dymer nördlich von Kiew starben bei einem Angriff auf ein Wohnhaus laut Regionalvertreter Tkatschenko mindestens elf Menschen. Der Zivilschutz suchte zeitweise nach elf nicht erreichbaren Menschen. In Wyschnewe starben drei Menschen in einem Supermarkt, in Bila Zerkwa einer.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine"
-        },
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/russian-strikes-kill-14-in-kyiv-region-6573721"
-        }
-      ]
-    },
-    {
-      "headline": "Nvidia holt Jensen Huang als Konzernchef zurück",
-      "text": "Elf Tage nach seinem Rücktritt wegen einer Affäre mit einer Frau, die US-Geheimdienste der Spionage für China verdächtigen, ist Huang wieder Nvidia-Chef. Die Aktie stieg zeitweise um etwa 35 Prozent. Trump sagte, er habe direkt und indirekt mit dem Verwaltungsrat gesprochen.",
-      "quellen": [
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/nvidia-jensen-huang-ceo-reinstated-6575201"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cmze750zg0jeo"
-        }
-      ]
-    },
-    {
-      "headline": "Iran will US-Seeblockade mit allen Mitteln begegnen",
-      "text": "Außenamtssprecher Baghaei nannte die US-Seeblockade eine militärische Aggression, gegen die sich Iran mit allen Mitteln wehren werde. Berichte über iranische Ölverladungen seien Spekulation. Laut Iran könnte Hormus in zwei Tagen öffnen, erfüllten die USA seine Bedingungen.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade"
-        }
-      ]
-    },
-    {
-      "headline": "COP31 endet ohne gemeinsame Abschlusserklärung",
-      "text": "Die COP31 in der Türkei, die längste Klimaverhandlungsrunde der UN-Geschichte, endete ohne umfassende Einigung. Saudi-Arabien führte den Widerstand gegen eine Erwähnung fossiler Brennstoffe an. EU-Vertreter O'Brien sagte, einige Ölstaaten hätten die Gespräche gekapert.",
+      "headline": "Trump drängte Nvidia zur Rückkehr von Jensen Huang",
+      "text": "Trump sagte, er habe den Nvidia-Verwaltungsrat überzeugt, Konzernchef Huang wieder einzusetzen. Abgeordnete beider Parteien üben Kritik, der voraussichtliche Speaker Jeffries kündigte eine Untersuchung an. Die USA setzten die Firma Megaspeed aus Singapur auf ihre Schwarze Liste.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cm75237wlp3lo"
+          "url": "https://www.bbc.com/news/articles/cq5y1k8ez407o"
+        },
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/us-blacklists-megaspeed-chip-firm-linked-nvidia-scandal-6576001"
+        }
+      ]
+    },
+    {
+      "headline": "Russland droht Estland mit offenem Krieg",
+      "text": "Das russische Außenministerium wirft Estland feindselige Schritte vor, die kurz davor stünden, einen offenen Krieg auszulösen. Anlass des Protests ist die geplante Grenzschließung ab 1. Dezember. Estland bestreitet, ukrainischen Drohnen sein Gebiet für Angriffe zu überlassen.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war"
+        }
+      ]
+    },
+    {
+      "headline": "NATO schickt AWACS-Flugzeug nach Polen",
+      "text": "Nachdem laut Staatsanwaltschaft am Freitag drei russische Marschflugkörper vom Typ Kh-101 in Polen niedergingen, stellt die NATO dem Land ein AWACS-Flugzeug bereit. Das sagte Vizeverteidigungsminister Zalewski. Laut NATO prüft Oberbefehlshaber Grynkewich weitere Verlegungen.",
+      "quellen": [
+        {
+          "name": "Reuters",
+          "url": "https://bbc.bm/nato-to-send-early-warning-system-aircraft-to-poland-after-missiles-incident"
+        }
+      ]
+    },
+    {
+      "headline": "Huthis melden 17 Tote nach saudischem Angriff im Jemen",
+      "text": "Laut dem Telekommunikationsministerium der Huthis töteten Luftangriffe der saudisch geführten Koalition am Montag in der Provinz Hodeida 17 Mitarbeiter von Fernmeldeanlagen und verletzten elf. Riad äußerte sich zunächst nicht, unabhängig bestätigt sind die Angaben nicht.",
+      "quellen": [
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/yemen-houthis-saudi-strikes-kill-seventeen-6575956"
+        }
+      ]
+    },
+    {
+      "headline": "Saudi-Arabien nach Scheitern der COP31 in der Kritik",
+      "text": "Nach dem Scheitern der Klimakonferenz im türkischen Antalya am Sonntag steht Saudi-Arabien in der Kritik. Es stemmte sich gegen eine Erwähnung fossiler Brennstoffe im Abschlusstext, die rund 130 Staaten verlangt hatten. Die USA hatten keine offizielle Delegation entsandt.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cky970n83rvjo"
         },
         {
           "name": "CNA",
@@ -71,26 +63,26 @@
   ],
   "national": [
     {
-      "headline": "Russland plant laut Geheimdiensten Atomwaffe im All",
-      "text": "Laut WDR, NDR und SZ rechnen westliche Geheimdienste, darunter der BND, damit, dass Russland bis Jahresende einen Satelliten mit Atomsprengkopf ins All bringen will. Kanzler Merz nannte die Berichte schockierend. Kreml-Sprecher Peskow sprach von reiner Spekulation.",
+      "headline": "Geheimdienste warnen vor russischer Atomwaffe im All",
+      "text": "Westliche Geheimdienste, darunter der BND, halten laut WDR, NDR und SZ den Start eines russischen Satelliten mit Atomsprengkopf binnen 60 Tagen für möglich. Kanzler Merz zeigte sich schockiert, Kontrollgremiumschef Henrichmann sieht Erpressung. Der Kreml weist das zurück.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html"
+          "name": "ORF",
+          "url": "https://orf.at/stories/3448989/"
         },
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/merz-berichte-ueber-moskaus-atom-plaene-im-all-schockierend-100.html"
+          "url": "https://www.deutschlandfunk.de/henrichmann-warnt-vor-russischer-erpressung-durch-atomwaffen-im-weltall-100.html"
         }
       ]
     },
     {
-      "headline": "Bundesregierung lehnt Söders Steuerforderung ab",
-      "text": "Laut Regierungssprecher Kornelius ist die Debatte über Söders Forderung nach einem Ausgleich der kalten Progression für alle abgeschlossen. Grünen-Chefin Brantner warf ihm vor, den eben vereinbarten Etat in Frage zu stellen. Der Bundestag soll ihn am Freitag verabschieden.",
+      "headline": "Bundestag berät Etat, Streit über kalte Progression",
+      "text": "Der Bundestag berät den Haushalt 2027, beschlossen werden soll er am Freitag. Wie CSU-Chef Söder will auch Sachsens Landeschef Kretschmer die kalte Progression ausgleichen. Die Regierung ist dagegen. Grünen-Chefin Brantner warf Söder vor, den eben vereinbarten Etat anzuzweifeln.",
       "quellen": [
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/bundesregierung-weist-soeder-vorstoss-zu-kalter-progression-zurueck-102.html"
+          "url": "https://www.deutschlandfunk.de/abgeordnete-bestimmen-heute-finanzetat-des-bundes-fuer-kommendes-jahr-100.html"
         },
         {
           "name": "ZDFheute",
@@ -99,30 +91,22 @@
       ]
     },
     {
-      "headline": "Bombendrohungen gegen Hunderte Schulen in Deutschland",
-      "text": "Hunderte Schulen erhielten Bombendrohungen, laut Polizei allein mehr als 450 in Baden-Württemberg und 260 in Sachsen-Anhalt. In Freiburg und anderswo räumte man einzelne Schulen vorsorglich. Die Ermittler halten die Drohungen nicht für ernsthaft, die Verfasser sind unbekannt.",
+      "headline": "Femizide sollen klar als Mord geahndet werden",
+      "text": "Justizministerin Hubig hat einen Gesetzentwurf fertig, wonach geschlechtsspezifische Motive künftig ausdrücklich als Mordmerkmal gelten sollen. Gemeint sind etwa Männer, die ihre Partnerin töten, weil sie sich trennen will. Einen gesonderten Tatbestand Femizid lehnt Hubig ab.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html"
-        },
-        {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3449022/"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html"
         }
       ]
     },
     {
-      "headline": "IG Metall setzt ganztägige Warnstreiks fort",
-      "text": "Die IG Metall rief im Norden rund 23.000 Beschäftigte zu ganztägigen Warnstreiks auf, in Baden-Württemberg wird etwa bei Mercedes-Benz, Porsche und Bosch gestreikt. Sie fordert fünf Prozent mehr Lohn, die Arbeitgeber bieten eine Einmalzahlung und 1,3 Prozent ab Juli 2028.",
+      "headline": "CSU und SPD nähern sich im Rentenstreit an",
+      "text": "CSU-Chef Söder zeigte sich bei der Rente mit 63 kompromissbereit und nannte Übergangsfristen und Ausnahmen bei körperlich sehr schwerer Arbeit. Die SPD-Politikerin Klose sieht noch keine fertige Lösung. Merz plant einen Kabinettsbeschluss vor Weihnachten.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/streiks-ig-metall-norden-100.html"
-        },
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/weitere-ganztagesstreiks-in-der-metall-und-elektroindustrie-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-koalition-soeder-100.html"
         }
       ]
     }
