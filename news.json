@@ -1,20 +1,24 @@
 {
   "datum": "2026-11-24",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
-      "headline": "USA setzen Megaspeed nach Nvidia-Skandal auf Sperrliste",
-      "text": "Das US-Handelsministerium hat die Nvidia-Partnerfirma Megaspeed und eine Alibaba-Tochter in Singapur auf seine Handelssperrliste gesetzt. Gegen Megaspeed wird seit 2024 ermittelt, ob sie KI-Chips nach China umgeleitet hat. Alibaba nennt den Schritt falsch und will sich wehren.",
+      "headline": "Kritik im US-Kongress an Huangs Rückkehr zu Nvidia",
+      "text": "Abgeordnete beider Parteien kritisieren, dass Nvidia Jensen Huang wieder zum Konzernchef gemacht hat. Trump sagte, er habe den Verwaltungsrat dazu gedrängt. Huang soll am 3. Dezember vor einem Senatsausschuss aussagen. Justizminister Blanche wich Fragen nach Ermittlungen aus.",
       "quellen": [
         {
           "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/us-blacklist-megaspeed-alibaba-nvidia-scandal-6576001"
+          "url": "https://www.channelnewsasia.com/world/us-lawmakers-criticise-nvidia-decision-reinstate-huang-ceo-6575546"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/crpdw1qx7jgxo"
         }
       ]
     },
     {
       "headline": "Menschenrechtsgericht erlaubt Pushbacks unter Bedingungen",
-      "text": "Staaten dürfen Migranten an der Grenze abweisen, wenn ein Drittstaat Migration als Druckmittel nutzt, urteilte das Straßburger Menschenrechtsgericht. Ausnahmen gelten für besonders Verletzliche. Lettland und Polen verstießen in Einzelfällen gegen das Folterverbot, Litauen nicht.",
+      "text": "Staaten dürfen Migranten an der Grenze zurückweisen, wenn ein anderer Staat Migration als Druckmittel nutzt, urteilte der Europäische Gerichtshof für Menschenrechte. Ausnahmen gelten für besonders Verletzliche. Lettland und Polen wurden in Einzelfällen verurteilt, Litauen nicht.",
       "quellen": [
         {
           "name": "LRT",
@@ -27,16 +31,12 @@
       ]
     },
     {
-      "headline": "Russischer Angriff auf Saporischschja tötet zwei Menschen",
-      "text": "Ein russischer Luftangriff auf Saporischschja hat laut ukrainischen Behörden zwei Menschen getötet und mehr als 40 verletzt. Präsident Selenskyj bestätigte, dass die Ukraine am 21. November den russischen Frachter Sparta II im Finnischen Meerbusen mit einer Drohne angriff.",
+      "headline": "Putin droht der Ukraine nach Angriffen auf Raffinerien",
+      "text": "Russlands Präsident Putin nennt Vergeltung für ukrainische Angriffe auf russische Ölraffinerien unausweichlich. Kiew ignoriere eine Bitte Trumps, darauf zu verzichten. Ein russischer Angriff auf Saporischschja tötete laut dem Gouverneur zwei Menschen, 40 wurden verletzt.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia"
-        },
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/zelensky-confirms-ukrainian-attack-on-russian-ship-in-gulf-of-finland/"
+          "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation"
         }
       ]
     },
@@ -51,12 +51,12 @@
       ]
     },
     {
-      "headline": "Israelischer Luftangriff tötet Hamas-Sicherheitschef in Gaza",
-      "text": "Israelische Angriffe im Gazastreifen haben laut palästinensischen Angaben sieben Menschen getötet, darunter Naim Abu Nahl, den Chef des inneren Sicherheitsdienstes der Hamas. Ihn traf laut Behörden eine Drohne. Israels Armee meldete einen Schlag gegen einen ranghohen Hamas-Mann.",
+      "headline": "Israelischer Angriff tötet Hamas-Sicherheitschef in Gaza",
+      "text": "Israelische Luftangriffe in Gaza haben laut Gesundheitsbehörden mindestens sieben Menschen getötet, darunter Naim Abu Nahl, den Chef des inneren Sicherheitsdienstes der Hamas. Laut Gazas Innenministerium traf ihn eine Drohne. Netanjahu und Minister Katz meldeten seinen Tod.",
       "quellen": [
         {
-          "name": "CNA/AFP",
-          "url": "https://www.channelnewsasia.com/world/israeli-strikes-in-gaza-kill-seven-including-senior-security-official-6578251"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6rrg7ggq190o"
         },
         {
           "name": "Al Jazeera",
@@ -67,21 +67,21 @@
   ],
   "national": [
     {
-      "headline": "Klingbeil verteidigt Rekordhaushalt im Bundestag",
-      "text": "Zum Auftakt der viertägigen Schlussberatungen hat Finanzminister Klingbeil den Etat 2027 mit 560,9 Milliarden Euro Ausgaben verteidigt. Neue Kredite von knapp 123 Milliarden Euro sind geplant. Grüne, Linke und AfD kritisieren die Schulden. Beschlossen werden soll am Freitag.",
+      "headline": "Bundestag berät abschließend über Rekordhaushalt",
+      "text": "Der Bundestag berät abschließend den Etat 2027 mit fast 561 Milliarden Euro an Ausgaben und knapp 123 Milliarden Euro neuen Krediten. Finanzminister Klingbeil verteidigte die Pläne, Linke und AfD kritisierten die Schulden. Wegen der Stromsteuersenkung wird noch nachgebessert.",
       "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-2027-klingbeil-100.html"
-        },
         {
           "name": "Deutschlandfunk",
           "url": "https://www.deutschlandfunk.de/koalition-verteidigt-rekordausgaben-gegen-kritik-100.html"
+        },
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-haushaltswoche-114.html"
         }
       ]
     },
     {
-      "headline": "Mehr Gewalt gegen Frauen in Deutschland registriert",
+      "headline": "BKA registriert mehr Gewalt gegen Frauen",
       "text": "Laut neuen BKA-Lagebildern wurden 2025 in Deutschland 342 Frauen und Mädchen getötet, nach 308 im Vorjahr. Gemeldet wurden fast 198.000 Fälle häuslicher Gewalt gegen Frauen und Mädchen, 2,8 Prozent mehr. Weibliche Opfer digitaler Gewalt gab es 15,7 Prozent mehr.",
       "quellen": [
         {
@@ -89,32 +89,32 @@
           "url": "https://www.zdfheute.de/politik/deutschland/bka-haeusliche-gewalt-opfer-mehrheit-weiblich-100.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/zahl-der-faelle-von-gewalt-gegen-frauen-gestiegen-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/gewalt-gegen-frauen-lagebericht-100.html"
         }
       ]
     },
     {
       "headline": "Taliban stoppen laut NDR Abschiebeflug nach Kabul",
-      "text": "Ein geplanter Abschiebeflug nach Afghanistan ist laut NDR auf Betreiben der Taliban abgesagt worden. Laut afghanischen Diplomatenkreisen wollen sie die Einreise von vier Konsularbeamten erzwingen, die in Katar warten. Das Innenministerium wollte sich zur Absage nicht festlegen.",
+      "text": "Ein für Dienstag vorgesehener Abschiebeflug nach Kabul wurde laut NDR auf Betreiben der Taliban abgesagt. Laut afghanischen Diplomatenkreisen wollen sie die Einreise von vier Konsularbeamten erzwingen, die in Katar warten. Das Innenministerium bestätigte die Absage nicht.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-taliban-abschiebeflug-gestoppt-100.html"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/taliban-blockieren-offenbar-geplanten-abschiebeflug-nach-afghanistan-druck-auf-die-bundesregierung-100.html"
         }
       ]
     },
     {
-      "headline": "Erste VW-Tarifrunde in Emden ohne Ergebnis",
-      "text": "Die erste Verhandlungsrunde zwischen Volkswagen und der IG Metall in Emden ist ohne konkretes Ergebnis geendet. Der Konzern verlangt Nullrunden für 2027 und 2028 und die Streichung von Zulagen, die Gewerkschaft fordert fünf Prozent mehr Lohn. Mitte Dezember wird weiterverhandelt.",
+      "headline": "Erste VW-Tarifrunde in Emden ohne Annäherung",
+      "text": "Die erste Verhandlungsrunde zwischen Volkswagen und der IG Metall in Emden ist nach eineinhalb Stunden ergebnislos geendet. Der Vorstand will unter anderem zahlreiche Zusatzvergütungen streichen, die Gewerkschaft fordert fünf Prozent mehr Lohn und droht mit Streiks.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/regional/niedersachsen/tarifstreit-vw-spitze-will-verhandlungen-bis-jahresende-abschliessen,vw-1734.html"
-        },
-        {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/tarifverhandlungen-bei-vw-haben-begonnen-100.html"
+          "url": "https://www.deutschlandfunk.de/erste-vw-tarifverhandlungsrunde-nach-kurzer-zeit-beendet-100.html"
         }
       ]
     }
