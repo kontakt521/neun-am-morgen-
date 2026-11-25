@@ -1,11 +1,15 @@
 {
   "datum": "2026-11-25",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "USA wollen neue Zölle gegen Handelspartner verkünden",
-      "text": "Die US-Regierung bereitet laut BBC neue Zölle gegen mindestens 14 Handelspartner vor, darunter China, die EU und Japan. Die Ankündigung könnte am Mittwoch kommen. Die Sätze sollen sich nach früheren Abkommen mit Trump richten. Vorausgegangen ist eine Section-301-Untersuchung.",
+      "headline": "USA kündigen neue Zölle gegen 14 Handelspartner an",
+      "text": "Die US-Regierung hat neue Zölle gegen 14 Handelspartner vorgeschlagen, darunter China und die EU. China drohen 20 Prozent, ohne Handelsfrieden 40 Prozent, für die EU ist eine Obergrenze von 15 Prozent vorgesehen. Gelten sollen die Zölle erst nach einer Anhörung am 25. Januar.",
       "quellen": [
+        {
+          "name": "Reuters",
+          "url": "https://www.channelnewsasia.com/world/trump-new-tariffs-us-midterms-6581566"
+        },
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/c893r9ke5p97o"
@@ -13,94 +17,94 @@
       ]
     },
     {
-      "headline": "Saudische Koalition greift Hafen von Hodeida an",
-      "text": "Die saudisch geführte Koalition hat am Mittwoch Angriffe auf Ziele im jemenitischen Hafen Hodeida gemeldet. Die Huthi hatten saudischen Häfen am Roten Meer für diesen Fall mit Vergeltung gedroht. Am Dienstag wurden bei einem Angriff auf ein Hochhaus in Riad 11 Menschen verletzt.",
-      "quellen": [
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/saudi-attack-yemen-houthi-hodeida-6580346"
-        },
-        {
-          "name": "Arab News",
-          "url": "https://www.arabnews.com/middle-east/coalition-targets-operational-capabilities-at-hodeidah-port-as-diplomats-condemn-houthis-3013941"
-        }
-      ]
-    },
-    {
-      "headline": "Zweifel an KI-Boom lassen Asiens Börsen einbrechen",
-      "text": "Asiens Aktienmärkte sind deutlich gefallen. Der südkoreanische Kospi verlor 6,2 Prozent, Taiwans Taiex 4,8 Prozent. Damit kehrte sich die Rally nach der Rückkehr von Jensen Huang an die Spitze von Nvidia um. Die Nvidia-Aktie hatte schon am Dienstag fast 6 Prozent eingebüßt.",
+      "headline": "Saudi-Arabien fängt Drohnen der Huthi ab",
+      "text": "Einen Tag nach dem Angriff der saudisch geführten Koalition auf Hodeida im Jemen hat Saudi-Arabien laut Koalitionssprecher Turki al-Maliki Drohnen der Huthi abgeschossen, vier davon in Ras Tanura. Die Huthi hatten mit Angriffen auf saudische Häfen gedroht.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"
-        },
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/stocks-wall-street-nvidia-anthropic-ai-6579601"
+          "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
         }
       ]
     },
     {
-      "headline": "China kritisiert Schuldspruch gegen Huawei",
-      "text": "Peking wirft den USA nach dem Schuldspruch gegen Huawei vor, chinesische Firmen zu unterdrücken. Die Jury sprach den Konzern in 10 von 12 Punkten schuldig, etwa wegen Bankbetrugs. Vom Vorwurf der kriminellen Vereinigung sprach sie ihn frei. Huawei kündigte rechtliche Schritte an.",
+      "headline": "US-Jury spricht Huawei in zehn Punkten schuldig",
+      "text": "Eine Jury in New York hat Huawei in 10 von 12 Anklagepunkten schuldig gesprochen, etwa wegen Bankbetrugs, Sanktionsverstößen und Komplotts zum Diebstahl von Geschäftsgeheimnissen. Vom Vorwurf der kriminellen Vereinigung sprach sie ihn frei. Sein Anwalt erwartet eine Berufung.",
       "quellen": [
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/east-asia/china-huawei-us-conviction-baseless-6580336"
-        },
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/cmy49ngydqzpo"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.channelnewsasia.com/world/huawei-convicted-us-criminal-trial-iran-business-trade-secrets-6579566"
         }
       ]
     },
     {
-      "headline": "Russland verlor laut BBC fast 500.000 Soldaten",
-      "text": "Seit 2022 sind laut einer BBC-Auswertung geleakter Rosstat-Daten mindestens 490.334 russische Soldaten im Krieg gegen die Ukraine gestorben. Die Daten stammen aus einem Hackerangriff. Rosstat räumte diesen ein, bestreitet aber, dass geschützte Daten abgeflossen seien.",
+      "headline": "Russische Angriffe töten fünf Menschen in der Ukraine",
+      "text": "Russische Angriffe haben in der Ukraine laut örtlichen Behörden mindestens fünf Menschen getötet. In fünf Regionen fiel laut Vizeenergieminister Nekrassow der Strom aus. Das besetzte AKW Saporischschja ist laut Energoatom vom Netz getrennt und nutzt Dieselgeneratoren.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cmx27g533zwyo"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions"
+        },
+        {
+          "name": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-economy/4188398-zaporizhzhia-npp-loses-external-power-supply-after-russian-attack.html"
+        }
+      ]
+    },
+    {
+      "headline": "Israel tötet Hamas-Sicherheitsfunktionär in Gaza",
+      "text": "Ein israelischer Luftangriff in Gaza-Stadt hat laut dem Hamas-geführten Innenministerium einen ranghohen Sicherheitsfunktionär der Hamas, seine Frau und zwei Kinder getötet. Es war der zweite solche Angriff binnen 24 Stunden. Israels Armee sprach von Schlägen gegen Kämpfer.",
+      "quellen": [
+        {
+          "name": "Reuters",
+          "url": "https://www.channelnewsasia.com/world/israeli-strike-kills-hamas-official-his-wife-and-children-6581221"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Bundesanwaltschaft geht gegen Neonazi-Gruppe vor",
-      "text": "Die Bundesanwaltschaft hat drei 14 und 15 Jahre alte Jungen festnehmen lassen. Sie sollen einer rechtsextremistischen Terrorvereinigung angehören, die laut Bundesanwaltschaft einen Brandanschlag auf ein Flüchtlingsheim im niedersächsischen Winsen (Luhe) plante.",
+      "headline": "Mutmaßliche Mitglieder von Terror 18 festgenommen",
+      "text": "Die Bundesanwaltschaft hat drei 14 und 15 Jahre alte Jungen in drei Bundesländern festnehmen lassen. Sie sollen der rechtsextremistischen Terrorgruppe Terror 18 angehören, die laut den Ermittlern einen Brandanschlag auf ein Flüchtlingsheim in Winsen (Luhe) plante.",
       "quellen": [
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/festnahme-von-drei-mutmasslichen-mitgliedern-von-rechtsextremistischer-gruppe-100.html"
+          "url": "https://www.deutschlandfunk.de/terror-18-drei-teenager-festgenommen-mutmassliche-mitglieder-rechtsextremistischer-gruppe-100.html"
         },
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/panorama/kriminalitaet/neonazi-terror-18-durchsuchungen-polizei-bka-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/terror-18-rechtsextremistische-gruppe-100.html"
         }
       ]
     },
     {
-      "headline": "Merz verteidigt Haushalt in der Generaldebatte",
-      "text": "Kanzler Merz hat den Etat 2027 im Bundestag als vertretbar bezeichnet und sozialen Kahlschlag bestritten. AfD-Fraktionschef Chrupalla warf der Koalition Ausgabensucht vor. Geplant sind über 560 Milliarden Euro Ausgaben und knapp 123 Milliarden Euro neue Kredite.",
+      "headline": "Merz räumt Uneinigkeit in der Koalition ein",
+      "text": "Kanzler Merz hat in der Generaldebatte des Bundestags eingeräumt, dass die Koalitionspartner nicht immer einer Meinung seien. Den Haushalt nannte er vertretbar und deutete eine Korrektur bei der Rente mit 63 an. AfD-Chef Chrupalla warf ihm politisches Versagen vor.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-154.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-generaldebatte-merz-100.html"
         },
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/generaldebatte-bundestag-haushalt-kanzler-2026-100.html"
+          "url": "https://www.zdfheute.de/politik/merz-generaldebatte-bundestag-haushalt-opposition-100.html"
         }
       ]
     },
     {
-      "headline": "Bundestag gedenkt der Opfer von Gewalt gegen Frauen",
-      "text": "Der Bundestag hielt zum Orange Day eine Schweigeminute ab. Laut Innenminister Dobrindt steigen die Opferzahlen, die Regierung nannte über 280.000 Opfer häuslicher Gewalt, zu 70 Prozent Frauen und Mädchen. Femizide sollen künftig stets als Mord bestraft werden.",
+      "headline": "Merz kündigt besseren Schutz vor Femiziden an",
+      "text": "Zum Orange Day gedachte der Bundestag mit einer Schweigeminute der Opfer von Femiziden. Kanzler Merz versprach Frauen und Mädchen besseren Schutz. Ministerin Hubig will Femizide aus Besitzdenken als Mord bestrafen. Laut Klöckner erreicht Gewalt gegen Frauen einen Höchststand.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/orange-day-gewalt-gegen-frauen-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-orange-day-100.html"
         },
         {
           "name": "Deutschlandfunk",
@@ -110,11 +114,11 @@
     },
     {
       "headline": "Deutsche Wirtschaft legt im Sommer nur leicht zu",
-      "text": "Das Statistische Bundesamt beziffert das Plus des Bruttoinlandsprodukts im dritten Quartal auf 0,1 Prozent gegenüber dem Vorquartal. In einer ersten Schätzung war es noch doppelt so hoch. Schwächer als gedacht liefen insbesondere Exporte und Einzelhandelsumsätze.",
+      "text": "Das Statistische Bundesamt beziffert das Wachstum der Wirtschaftsleistung im dritten Quartal auf 0,1 Prozent gegenüber dem Vorquartal. Zunächst war es von doppelt so viel ausgegangen. Vor allem Exporte und Einzelhandel entwickelten sich schwächer als angenommen.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-deutschland-wirtschaftsleistung-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/deutsche-wirtschaft-wuchs-im-dritten-quartal-um-0-1-prozent-100.html"
         },
         {
           "name": "ORF",
