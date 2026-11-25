@@ -1,15 +1,21 @@
 {
-  "datum": "2026-11-24",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-25",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Kritik im US-Kongress an Huangs Rückkehr zu Nvidia",
-      "text": "Abgeordnete beider Parteien kritisieren, dass Nvidia Jensen Huang wieder zum Konzernchef gemacht hat. Trump sagte, er habe den Verwaltungsrat dazu gedrängt. Huang soll am 3. Dezember vor einem Senatsausschuss aussagen. Justizminister Blanche wich Fragen nach Ermittlungen aus.",
+      "headline": "USA wollen neue Zölle gegen Handelspartner verkünden",
+      "text": "Die US-Regierung will laut BBC am Mittwoch Pläne für neue Zölle vorstellen. Betroffen wären mindestens 14 Handelspartner, darunter China, die EU und Japan. Grundlage ist eine Section-301-Untersuchung, die nach dem Urteil des Obersten Gerichts gegen frühere Zölle Trumps begann.",
       "quellen": [
         {
-          "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/us-lawmakers-criticise-nvidia-decision-reinstate-huang-ceo-6575546"
-        },
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c893r9ke5p97o"
+        }
+      ]
+    },
+    {
+      "headline": "US-Justizminister weicht Fragen zu Nvidia aus",
+      "text": "Justizminister Blanche ließ offen, ob gegen Nvidia ermittelt wird, und stellte sich hinter den Konzern. Die Aktie schloss am Dienstag knapp 6 Prozent tiefer, nach über 31 Prozent Plus am Montag. Konzernchef Huang soll sich laut Berichten bei den Mitarbeitern entschuldigt haben.",
+      "quellen": [
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/crpdw1qx7jgxo"
@@ -17,72 +23,58 @@
       ]
     },
     {
-      "headline": "Menschenrechtsgericht erlaubt Pushbacks unter Bedingungen",
-      "text": "Staaten dürfen Migranten an der Grenze zurückweisen, wenn ein anderer Staat Migration als Druckmittel nutzt, urteilte der Europäische Gerichtshof für Menschenrechte. Ausnahmen gelten für besonders Verletzliche. Lettland und Polen wurden in Einzelfällen verurteilt, Litauen nicht.",
+      "headline": "Huthi melden saudischen Angriff auf Hodeida",
+      "text": "Saudische Streitkräfte haben laut Huthi-Medien am frühen Mittwoch Hafen und Flughafen der jemenitischen Stadt Hodeida angegriffen. Die von Riad geführte Koalition hatte Zivilisten zuvor zur Evakuierung aufgerufen. Die Huthi drohen saudischen Häfen am Roten Meer mit Vergeltung.",
       "quellen": [
         {
-          "name": "LRT",
-          "url": "https://www.lrt.lt/en/news-in-english/19/3124297/echr-rules-lithuania-did-not-violate-human-rights-by-deporting-migrants-to-belarus"
-        },
-        {
-          "name": "Arab News",
-          "url": "https://arabnews.pk/world/europe-rights-court-gives-states-more-latitude-to-turn-back-migrants-3007948"
+          "name": "Reuters",
+          "url": "https://www.channelnewsasia.com/world/saudi-attack-yemen-houthi-hodeida-6580346"
         }
       ]
     },
     {
-      "headline": "Putin droht der Ukraine nach Angriffen auf Raffinerien",
-      "text": "Russlands Präsident Putin nennt Vergeltung für ukrainische Angriffe auf russische Ölraffinerien unausweichlich. Kiew ignoriere eine Bitte Trumps, darauf zu verzichten. Ein russischer Angriff auf Saporischschja tötete laut dem Gouverneur zwei Menschen, 40 wurden verletzt.",
+      "headline": "US-Geschworene sprechen Huawei schuldig",
+      "text": "Eine Jury in New York hat Huawei in 10 von 12 Anklagepunkten schuldig gesprochen, darunter Bankbetrug, Sanktionsverstöße und Verschwörung zum Diebstahl von Geschäftsgeheimnissen. Das Strafmaß soll im September 2027 folgen. Huawei will laut seinem Anwalt Berufung einlegen.",
       "quellen": [
+        {
+          "name": "Reuters",
+          "url": "https://www.channelnewsasia.com/world/huawei-convicted-us-criminal-trial-iran-business-trade-secrets-6579566"
+        }
+      ]
+    },
+    {
+      "headline": "Ukraine greift erneut russische Raffinerien an",
+      "text": "Trotz Drohungen Putins hat die Ukraine laut Beobachterkanälen in der Nacht zu Mittwoch zwei Raffinerien im russischen Gebiet Samara angegriffen, Berichten zufolge brennt es. Putin hatte Kiew vorgeworfen, eine Bitte Trumps zu missachten, und Vergeltung angekündigt.",
+      "quellen": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-russian-oil-refineries-in-massive-attack/"
+        },
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation"
-        }
-      ]
-    },
-    {
-      "headline": "NATO will sich auch im Weltraum verteidigen",
-      "text": "Nach Berichten über einen möglichen Start eines russischen Satelliten mit Atomsprengkopf binnen 60 Tagen sagte NATO-Chef Rutte zu, das Bündnis werde sich auch im All schützen. Kanzler Merz ließ offen, ob die Berichte stimmen. Russlands Botschaft in Berlin wies sie zurück.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c9x2er1ry2mzo"
-        }
-      ]
-    },
-    {
-      "headline": "Israelischer Angriff tötet Hamas-Sicherheitschef in Gaza",
-      "text": "Israelische Luftangriffe in Gaza haben laut Gesundheitsbehörden mindestens sieben Menschen getötet, darunter Naim Abu Nahl, den Chef des inneren Sicherheitsdienstes der Hamas. Laut Gazas Innenministerium traf ihn eine Drohne. Netanjahu und Minister Katz meldeten seinen Tod.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6rrg7ggq190o"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Bundestag berät abschließend über Rekordhaushalt",
-      "text": "Der Bundestag berät abschließend den Etat 2027 mit fast 561 Milliarden Euro an Ausgaben und knapp 123 Milliarden Euro neuen Krediten. Finanzminister Klingbeil verteidigte die Pläne, Linke und AfD kritisierten die Schulden. Wegen der Stromsteuersenkung wird noch nachgebessert.",
+      "headline": "Merz spricht in Haushaltsdebatte des Bundestags",
+      "text": "Im Bundestag geht die Debatte zum Etat 2027 weiter, nach AfD-Fraktionschef Chrupalla spricht Kanzler Merz. Geplant sind 560,9 Milliarden Euro Ausgaben, so viel wie nie, und fast 123 Milliarden Euro neue Kredite. Abgestimmt werden soll am Freitag.",
       "quellen": [
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/koalition-verteidigt-rekordausgaben-gegen-kritik-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-2027-klingbeil-100.html"
         },
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-haushaltswoche-114.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/haushaltsberatungen-generaldebatte-mit-kanzler-merz-104.html"
         }
       ]
     },
     {
-      "headline": "BKA registriert mehr Gewalt gegen Frauen",
-      "text": "Laut neuen BKA-Lagebildern wurden 2025 in Deutschland 342 Frauen und Mädchen getötet, nach 308 im Vorjahr. Gemeldet wurden fast 198.000 Fälle häuslicher Gewalt gegen Frauen und Mädchen, 2,8 Prozent mehr. Weibliche Opfer digitaler Gewalt gab es 15,7 Prozent mehr.",
+      "headline": "Zahl der Opfer häuslicher Gewalt auf Höchststand",
+      "text": "Laut BKA wurden 2025 in Deutschland 342 Frauen und Mädchen getötet, 2024 waren es 308. Fälle häuslicher Gewalt gegen Frauen und Mädchen stiegen um 2,8 Prozent auf fast 198.000. Nach Plänen der Bundesregierung sollen Femizide künftig stets als Mord bestraft werden.",
       "quellen": [
         {
           "name": "ZDFheute",
@@ -90,13 +82,13 @@
         },
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/gewalt-gegen-frauen-lagebericht-100.html"
+          "url": "https://www.tagesschau.de/inland/gesellschaft/orange-day-gewalt-gegen-frauen-100.html"
         }
       ]
     },
     {
-      "headline": "Taliban stoppen laut NDR Abschiebeflug nach Kabul",
-      "text": "Ein für Dienstag vorgesehener Abschiebeflug nach Kabul wurde laut NDR auf Betreiben der Taliban abgesagt. Laut afghanischen Diplomatenkreisen wollen sie die Einreise von vier Konsularbeamten erzwingen, die in Katar warten. Das Innenministerium bestätigte die Absage nicht.",
+      "headline": "Taliban blockieren laut NDR Abschiebeflug nach Kabul",
+      "text": "Ein für Dienstag geplanter Abschiebeflug nach Kabul ist laut NDR auf ein Veto der Taliban hin abgesagt worden. Laut afghanischen Diplomatenkreisen wollen sie die Einreise von vier Konsularbeamten erzwingen, die in Katar warten. Das Innenministerium äußerte sich nicht dazu.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -104,17 +96,21 @@
         },
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/taliban-blockieren-offenbar-geplanten-abschiebeflug-nach-afghanistan-druck-auf-die-bundesregierung-100.html"
+          "url": "https://www.deutschlandfunk.de/taliban-blockieren-offenbar-geplanten-abschiebeflug-nach-afghanistan-druck-auf-die-bundesregierung-106.html"
         }
       ]
     },
     {
-      "headline": "Erste VW-Tarifrunde in Emden ohne Annäherung",
-      "text": "Die erste Verhandlungsrunde zwischen Volkswagen und der IG Metall in Emden ist nach eineinhalb Stunden ergebnislos geendet. Der Vorstand will unter anderem zahlreiche Zusatzvergütungen streichen, die Gewerkschaft fordert fünf Prozent mehr Lohn und droht mit Streiks.",
+      "headline": "Berliner Linke schließt Vanessa Emde aus Fraktion aus",
+      "text": "Die Berliner Linke hat Vanessa Emde aus ihrer Fraktion im Abgeordnetenhaus ausgeschlossen, laut Tagesspiegel mit 33 zu 6 Stimmen. Ihr wird Antisemitismus vorgeworfen. SPD und Grüne hatten signalisiert, dies sei Voraussetzung für eine Koalition. Emde bleibt Abgeordnete.",
       "quellen": [
         {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/politik/vorlaeufiges-ende-eines-machtkampfs-die-berliner-linke-schliesst-die-israelfeindliche-politikerin-vanessa-emde-aus-der-fraktion-aus-ld.10073150"
+        },
+        {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/erste-vw-tarifverhandlungsrunde-nach-kurzer-zeit-beendet-100.html"
+          "url": "https://www.deutschlandfunk.de/vanessa-emde-aus-berliner-linke-fraktion-ausgeschlossen-106.html"
         }
       ]
     }
