@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-25",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
       "headline": "USA wollen neue Zölle gegen Handelspartner verkünden",
-      "text": "Die US-Regierung will laut BBC am Mittwoch Pläne für neue Zölle vorstellen. Betroffen wären mindestens 14 Handelspartner, darunter China, die EU und Japan. Grundlage ist eine Section-301-Untersuchung, die nach dem Urteil des Obersten Gerichts gegen frühere Zölle Trumps begann.",
+      "text": "Die US-Regierung bereitet laut BBC neue Zölle gegen mindestens 14 Handelspartner vor, darunter China, die EU und Japan. Die Ankündigung könnte am Mittwoch kommen. Die Sätze sollen sich nach früheren Abkommen mit Trump richten. Vorausgegangen ist eine Section-301-Untersuchung.",
       "quellen": [
         {
           "name": "BBC",
@@ -13,104 +13,112 @@
       ]
     },
     {
-      "headline": "US-Justizminister weicht Fragen zu Nvidia aus",
-      "text": "Justizminister Blanche ließ offen, ob gegen Nvidia ermittelt wird, und stellte sich hinter den Konzern. Die Aktie schloss am Dienstag knapp 6 Prozent tiefer, nach über 31 Prozent Plus am Montag. Konzernchef Huang soll sich laut Berichten bei den Mitarbeitern entschuldigt haben.",
+      "headline": "Saudische Koalition greift Hafen von Hodeida an",
+      "text": "Die saudisch geführte Koalition hat am Mittwoch Angriffe auf Ziele im jemenitischen Hafen Hodeida gemeldet. Die Huthi hatten saudischen Häfen am Roten Meer für diesen Fall mit Vergeltung gedroht. Am Dienstag wurden bei einem Angriff auf ein Hochhaus in Riad 11 Menschen verletzt.",
+      "quellen": [
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/saudi-attack-yemen-houthi-hodeida-6580346"
+        },
+        {
+          "name": "Arab News",
+          "url": "https://www.arabnews.com/middle-east/coalition-targets-operational-capabilities-at-hodeidah-port-as-diplomats-condemn-houthis-3013941"
+        }
+      ]
+    },
+    {
+      "headline": "Zweifel an KI-Boom lassen Asiens Börsen einbrechen",
+      "text": "Asiens Aktienmärkte sind deutlich gefallen. Der südkoreanische Kospi verlor 6,2 Prozent, Taiwans Taiex 4,8 Prozent. Damit kehrte sich die Rally nach der Rückkehr von Jensen Huang an die Spitze von Nvidia um. Die Nvidia-Aktie hatte schon am Dienstag fast 6 Prozent eingebüßt.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"
+        },
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/stocks-wall-street-nvidia-anthropic-ai-6579601"
+        }
+      ]
+    },
+    {
+      "headline": "China kritisiert Schuldspruch gegen Huawei",
+      "text": "Peking wirft den USA nach dem Schuldspruch gegen Huawei vor, chinesische Firmen zu unterdrücken. Die Jury sprach den Konzern in 10 von 12 Punkten schuldig, etwa wegen Bankbetrugs. Vom Vorwurf der kriminellen Vereinigung sprach sie ihn frei. Huawei kündigte rechtliche Schritte an.",
+      "quellen": [
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/east-asia/china-huawei-us-conviction-baseless-6580336"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cmy49ngydqzpo"
+        }
+      ]
+    },
+    {
+      "headline": "Russland verlor laut BBC fast 500.000 Soldaten",
+      "text": "Seit 2022 sind laut einer BBC-Auswertung geleakter Rosstat-Daten mindestens 490.334 russische Soldaten im Krieg gegen die Ukraine gestorben. Die Daten stammen aus einem Hackerangriff. Rosstat räumte diesen ein, bestreitet aber, dass geschützte Daten abgeflossen seien.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/crpdw1qx7jgxo"
-        }
-      ]
-    },
-    {
-      "headline": "Huthi melden saudischen Angriff auf Hodeida",
-      "text": "Saudische Streitkräfte haben laut Huthi-Medien am frühen Mittwoch Hafen und Flughafen der jemenitischen Stadt Hodeida angegriffen. Die von Riad geführte Koalition hatte Zivilisten zuvor zur Evakuierung aufgerufen. Die Huthi drohen saudischen Häfen am Roten Meer mit Vergeltung.",
-      "quellen": [
-        {
-          "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/saudi-attack-yemen-houthi-hodeida-6580346"
-        }
-      ]
-    },
-    {
-      "headline": "US-Geschworene sprechen Huawei schuldig",
-      "text": "Eine Jury in New York hat Huawei in 10 von 12 Anklagepunkten schuldig gesprochen, darunter Bankbetrug, Sanktionsverstöße und Verschwörung zum Diebstahl von Geschäftsgeheimnissen. Das Strafmaß soll im September 2027 folgen. Huawei will laut seinem Anwalt Berufung einlegen.",
-      "quellen": [
-        {
-          "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/huawei-convicted-us-criminal-trial-iran-business-trade-secrets-6579566"
-        }
-      ]
-    },
-    {
-      "headline": "Ukraine greift erneut russische Raffinerien an",
-      "text": "Trotz Drohungen Putins hat die Ukraine laut Beobachterkanälen in der Nacht zu Mittwoch zwei Raffinerien im russischen Gebiet Samara angegriffen, Berichten zufolge brennt es. Putin hatte Kiew vorgeworfen, eine Bitte Trumps zu missachten, und Vergeltung angekündigt.",
-      "quellen": [
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-russian-oil-refineries-in-massive-attack/"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation"
+          "url": "https://www.bbc.com/news/articles/cmx27g533zwyo"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Merz spricht in Haushaltsdebatte des Bundestags",
-      "text": "Im Bundestag geht die Debatte zum Etat 2027 weiter, nach AfD-Fraktionschef Chrupalla spricht Kanzler Merz. Geplant sind 560,9 Milliarden Euro Ausgaben, so viel wie nie, und fast 123 Milliarden Euro neue Kredite. Abgestimmt werden soll am Freitag.",
+      "headline": "Bundesanwaltschaft geht gegen Neonazi-Gruppe vor",
+      "text": "Die Bundesanwaltschaft hat drei 14 und 15 Jahre alte Jungen festnehmen lassen. Sie sollen einer rechtsextremistischen Terrorvereinigung angehören, die laut Bundesanwaltschaft einen Brandanschlag auf ein Flüchtlingsheim im niedersächsischen Winsen (Luhe) plante.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-2027-klingbeil-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/festnahme-von-drei-mutmasslichen-mitgliedern-von-rechtsextremistischer-gruppe-100.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/haushaltsberatungen-generaldebatte-mit-kanzler-merz-104.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/panorama/kriminalitaet/neonazi-terror-18-durchsuchungen-polizei-bka-100.html"
         }
       ]
     },
     {
-      "headline": "Zahl der Opfer häuslicher Gewalt auf Höchststand",
-      "text": "Laut BKA wurden 2025 in Deutschland 342 Frauen und Mädchen getötet, 2024 waren es 308. Fälle häuslicher Gewalt gegen Frauen und Mädchen stiegen um 2,8 Prozent auf fast 198.000. Nach Plänen der Bundesregierung sollen Femizide künftig stets als Mord bestraft werden.",
+      "headline": "Merz verteidigt Haushalt in der Generaldebatte",
+      "text": "Kanzler Merz hat den Etat 2027 im Bundestag als vertretbar bezeichnet und sozialen Kahlschlag bestritten. AfD-Fraktionschef Chrupalla warf der Koalition Ausgabensucht vor. Geplant sind über 560 Milliarden Euro Ausgaben und knapp 123 Milliarden Euro neue Kredite.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/bka-haeusliche-gewalt-opfer-mehrheit-weiblich-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-154.html"
         },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/generaldebatte-bundestag-haushalt-kanzler-2026-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "Bundestag gedenkt der Opfer von Gewalt gegen Frauen",
+      "text": "Der Bundestag hielt zum Orange Day eine Schweigeminute ab. Laut Innenminister Dobrindt steigen die Opferzahlen, die Regierung nannte über 280.000 Opfer häuslicher Gewalt, zu 70 Prozent Frauen und Mädchen. Femizide sollen künftig stets als Mord bestraft werden.",
+      "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/gesellschaft/orange-day-gewalt-gegen-frauen-100.html"
+        },
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/aktionstag-gegen-gewalt-gegen-frauen-schweigeminute-im-bundestag-100.html"
         }
       ]
     },
     {
-      "headline": "Taliban blockieren laut NDR Abschiebeflug nach Kabul",
-      "text": "Ein für Dienstag geplanter Abschiebeflug nach Kabul ist laut NDR auf ein Veto der Taliban hin abgesagt worden. Laut afghanischen Diplomatenkreisen wollen sie die Einreise von vier Konsularbeamten erzwingen, die in Katar warten. Das Innenministerium äußerte sich nicht dazu.",
+      "headline": "Deutsche Wirtschaft legt im Sommer nur leicht zu",
+      "text": "Das Statistische Bundesamt beziffert das Plus des Bruttoinlandsprodukts im dritten Quartal auf 0,1 Prozent gegenüber dem Vorquartal. In einer ersten Schätzung war es noch doppelt so hoch. Schwächer als gedacht liefen insbesondere Exporte und Einzelhandelsumsätze.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-taliban-abschiebeflug-gestoppt-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-deutschland-wirtschaftsleistung-100.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/taliban-blockieren-offenbar-geplanten-abschiebeflug-nach-afghanistan-druck-auf-die-bundesregierung-106.html"
-        }
-      ]
-    },
-    {
-      "headline": "Berliner Linke schließt Vanessa Emde aus Fraktion aus",
-      "text": "Die Berliner Linke hat Vanessa Emde aus ihrer Fraktion im Abgeordnetenhaus ausgeschlossen, laut Tagesspiegel mit 33 zu 6 Stimmen. Ihr wird Antisemitismus vorgeworfen. SPD und Grüne hatten signalisiert, dies sei Voraussetzung für eine Koalition. Emde bleibt Abgeordnete.",
-      "quellen": [
-        {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/vorlaeufiges-ende-eines-machtkampfs-die-berliner-linke-schliesst-die-israelfeindliche-politikerin-vanessa-emde-aus-der-fraktion-aus-ld.10073150"
-        },
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/vanessa-emde-aus-berliner-linke-fraktion-ausgeschlossen-106.html"
+          "name": "ORF",
+          "url": "https://orf.at/stories/3449221/"
         }
       ]
     }
