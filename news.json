@@ -1,106 +1,120 @@
 {
   "datum": "2026-11-25",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
-      "headline": "USA kündigen neue Zölle gegen 14 Handelspartner an",
-      "text": "Die US-Regierung hat neue Zölle gegen 14 Handelspartner vorgeschlagen, darunter China und die EU. China drohen 20 Prozent, ohne Handelsfrieden 40 Prozent, für die EU ist eine Obergrenze von 15 Prozent vorgesehen. Gelten sollen die Zölle erst nach einer Anhörung am 25. Januar.",
+      "headline": "Neue US-Zölle stoßen in der EU und in China auf Kritik",
+      "text": "Die USA wollen gegen 14 Handelspartner neue Zölle verhängen, frühestens nach einer Anhörung am 25. Januar. Für China sind 20 Prozent vorgesehen, für die EU höchstens 15 Prozent. Die EU-Kommission und China wiesen den Vorwurf der Überkapazitäten zurück. US-Börsen fielen deutlich.",
       "quellen": [
         {
           "name": "Reuters",
           "url": "https://www.channelnewsasia.com/world/trump-new-tariffs-us-midterms-6581566"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c893r9ke5p97o"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble"
         }
       ]
     },
     {
-      "headline": "Saudi-Arabien fängt Drohnen der Huthi ab",
-      "text": "Einen Tag nach dem Angriff der saudisch geführten Koalition auf Hodeida im Jemen hat Saudi-Arabien laut Koalitionssprecher Turki al-Maliki Drohnen der Huthi abgeschossen, vier davon in Ras Tanura. Die Huthi hatten mit Angriffen auf saudische Häfen gedroht.",
+      "headline": "Richter stellen Bestechungsvorwurf gegen Netanjahu infrage",
+      "text": "Richter in Jerusalem haben Generalstaatsanwältin Baharav-Miara geraten, den Bestechungsvorwurf gegen Israels geschäftsführenden Premier Netanjahu fallen zu lassen, eine Verurteilung sei unwahrscheinlich. Sie will das prüfen. Netanjahu forderte, den Prozess sofort zu beenden.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o"
+        }
+      ]
+    },
+    {
+      "headline": "Ukraine meldet Treffer auf fünf russische Militärjets",
+      "text": "Die Ukraine hat nach Angaben ihres Generalstabs auf dem russischen Flugplatz Sawasleika fünf Militärflugzeuge beschädigt. Russische Angriffe töteten laut örtlichen Behörden mindestens fünf Menschen in der Ukraine und verursachten in fünf Regionen Stromausfälle.",
+      "quellen": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/5-russian-aircraft-hit-at-airfield-in-russias-nizhny-novgorod-oblast-general-staff-says/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions"
+        }
+      ]
+    },
+    {
+      "headline": "Saudi-Arabien fängt nach Angriff auf Hodeida Drohnen ab",
+      "text": "Nach einem Luftangriff der saudisch geführten Koalition auf den Hafen von Hodeida im Jemen hat Saudi-Arabien laut Koalitionssprecher Turki al-Maliki Drohnen der Huthi abgeschossen, vier davon in Ras Tanura. Die Huthi hatten mit Angriffen auf saudische Häfen am Roten Meer gedroht.",
       "quellen": [
         {
           "name": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.channelnewsasia.com/world/saudi-attack-yemen-houthi-hodeida-6580346"
         }
       ]
     },
     {
       "headline": "US-Jury spricht Huawei in zehn Punkten schuldig",
-      "text": "Eine Jury in New York hat Huawei in 10 von 12 Anklagepunkten schuldig gesprochen, etwa wegen Bankbetrugs, Sanktionsverstößen und Komplotts zum Diebstahl von Geschäftsgeheimnissen. Vom Vorwurf der kriminellen Vereinigung sprach sie ihn frei. Sein Anwalt erwartet eine Berufung.",
+      "text": "Eine New Yorker Jury sprach Huawei in 10 von 12 Punkten schuldig, darunter Bankbetrug, Sanktionsbruch und Komplott zum Diebstahl von Geschäftsgeheimnissen. Vom Vorwurf, als kriminelles Unternehmen agiert zu haben, sprach sie den Konzern frei. Dessen Anwalt erwartet Berufung.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cmy49ngydqzpo"
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo"
         },
         {
           "name": "Reuters",
           "url": "https://www.channelnewsasia.com/world/huawei-convicted-us-criminal-trial-iran-business-trade-secrets-6579566"
         }
       ]
-    },
-    {
-      "headline": "Russische Angriffe töten fünf Menschen in der Ukraine",
-      "text": "Russische Angriffe haben in der Ukraine laut örtlichen Behörden mindestens fünf Menschen getötet. In fünf Regionen fiel laut Vizeenergieminister Nekrassow der Strom aus. Das besetzte AKW Saporischschja ist laut Energoatom vom Netz getrennt und nutzt Dieselgeneratoren.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions"
-        },
-        {
-          "name": "Ukrinform",
-          "url": "https://www.ukrinform.net/rubric-economy/4188398-zaporizhzhia-npp-loses-external-power-supply-after-russian-attack.html"
-        }
-      ]
-    },
-    {
-      "headline": "Israel tötet Hamas-Sicherheitsfunktionär in Gaza",
-      "text": "Ein israelischer Luftangriff in Gaza-Stadt hat laut dem Hamas-geführten Innenministerium einen ranghohen Sicherheitsfunktionär der Hamas, seine Frau und zwei Kinder getötet. Es war der zweite solche Angriff binnen 24 Stunden. Israels Armee sprach von Schlägen gegen Kämpfer.",
-      "quellen": [
-        {
-          "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/israeli-strike-kills-hamas-official-his-wife-and-children-6581221"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children"
-        }
-      ]
     }
   ],
   "national": [
     {
-      "headline": "Mutmaßliche Mitglieder von Terror 18 festgenommen",
-      "text": "Die Bundesanwaltschaft hat drei 14 und 15 Jahre alte Jungen in drei Bundesländern festnehmen lassen. Sie sollen der rechtsextremistischen Terrorgruppe Terror 18 angehören, die laut den Ermittlern einen Brandanschlag auf ein Flüchtlingsheim in Winsen (Luhe) plante.",
+      "headline": "Unionsabgeordnete werben für eine „Respekt-Rente“",
+      "text": "Zur Rente mit 63 werben die Unionsabgeordneten Winkel, Biadacz und Reddig für eine „Respekt-Rente“. Wer 45 Beitragsjahre hat und höchstens 70 Prozent des Durchschnittseinkommens bezog, soll weiter abschlagsfrei in Rente gehen. Laut ARD stützt Fraktionschef Frei den Plan.",
       "quellen": [
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/terror-18-drei-teenager-festgenommen-mutmassliche-mitglieder-rechtsextremistischer-gruppe-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html"
         },
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/terror-18-rechtsextremistische-gruppe-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/union-schlaegt-kompromiss-im-streit-um-rente-mit-63-vor-100.html"
         }
       ]
     },
     {
       "headline": "Merz räumt Uneinigkeit in der Koalition ein",
-      "text": "Kanzler Merz hat in der Generaldebatte des Bundestags eingeräumt, dass die Koalitionspartner nicht immer einer Meinung seien. Den Haushalt nannte er vertretbar und deutete eine Korrektur bei der Rente mit 63 an. AfD-Chef Chrupalla warf ihm politisches Versagen vor.",
+      "text": "Kanzler Merz hat in der Generaldebatte des Bundestags eingeräumt, dass die Koalitionspartner nicht immer einer Meinung seien. Den Haushalt nannte er vertretbar, neue Schulden begründete er mit Verteidigung und Infrastruktur. AfD-Chef Chrupalla warf ihm politisches Versagen vor.",
       "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-generaldebatte-merz-100.html"
-        },
         {
           "name": "ZDFheute",
           "url": "https://www.zdfheute.de/politik/merz-generaldebatte-bundestag-haushalt-opposition-100.html"
+        },
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-generaldebatte-merz-100.html"
         }
       ]
     },
     {
-      "headline": "Merz kündigt besseren Schutz vor Femiziden an",
-      "text": "Zum Orange Day gedachte der Bundestag mit einer Schweigeminute der Opfer von Femiziden. Kanzler Merz versprach Frauen und Mädchen besseren Schutz. Ministerin Hubig will Femizide aus Besitzdenken als Mord bestrafen. Laut Klöckner erreicht Gewalt gegen Frauen einen Höchststand.",
+      "headline": "Festnahmen bei rechtsextremer Terrorgruppe",
+      "text": "Die Bundesanwaltschaft nahm drei 14- und 15-Jährige fest, die einer aus der Chatgruppe Terror 18 entstandenen rechtsextremen Terrorgruppe angehören sollen. Sie soll einen Brandanschlag auf ein Flüchtlingsheim in Winsen geplant haben. Haftbefehle wurden unter Auflagen ausgesetzt.",
+      "quellen": [
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/drei-teenager-unter-terrorverdacht-festgenommen-und-mit-auflagen-wieder-freigekommen-100.html"
+        },
+        {
+          "name": "ORF",
+          "url": "https://orf.at/stories/3449237/"
+        }
+      ]
+    },
+    {
+      "headline": "Bundestag gedenkt der Opfer von Femiziden",
+      "text": "Zum Orange Day gedachte der Bundestag mit einer Schweigeminute der Opfer von Femiziden. Kanzler Merz versprach Frauen und Mädchen mehr Schutz. Präsidentin Klöckner sprach von einem Höchststand der Gewalt gegen Frauen. 2025 wurden laut Bund und BKA 342 Frauen und Mädchen getötet.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -109,20 +123,6 @@
         {
           "name": "Deutschlandfunk",
           "url": "https://www.deutschlandfunk.de/aktionstag-gegen-gewalt-gegen-frauen-schweigeminute-im-bundestag-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Deutsche Wirtschaft legt im Sommer nur leicht zu",
-      "text": "Das Statistische Bundesamt beziffert das Wachstum der Wirtschaftsleistung im dritten Quartal auf 0,1 Prozent gegenüber dem Vorquartal. Zunächst war es von doppelt so viel ausgegangen. Vor allem Exporte und Einzelhandel entwickelten sich schwächer als angenommen.",
-      "quellen": [
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/deutsche-wirtschaft-wuchs-im-dritten-quartal-um-0-1-prozent-100.html"
-        },
-        {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3449221/"
         }
       ]
     }
