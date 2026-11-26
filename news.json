@@ -1,128 +1,124 @@
 {
-  "datum": "2026-11-25",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-26",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "Neue US-Zölle stoßen in der EU und in China auf Kritik",
-      "text": "Die USA wollen gegen 14 Handelspartner neue Zölle verhängen, frühestens nach einer Anhörung am 25. Januar. Für China sind 20 Prozent vorgesehen, für die EU höchstens 15 Prozent. Die EU-Kommission und China wiesen den Vorwurf der Überkapazitäten zurück. US-Börsen fielen deutlich.",
+      "headline": "USA kündigen neue Zölle gegen 14 Handelspartner an",
+      "text": "Die USA wollen Waren aus 14 Handelspartnern, darunter China, Japan und die EU, mit neuen Zöllen belegen. Für China sind 20 Prozent geplant, für die EU 15 Prozent. Gelten sollen sie erst nach einer Anhörung am 25. Januar. China und die EU-Kommission wiesen die Pläne zurück.",
       "quellen": [
         {
           "name": "Reuters",
           "url": "https://www.channelnewsasia.com/world/trump-new-tariffs-us-midterms-6581566"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c893r9ke5p97o"
+        }
+      ]
+    },
+    {
+      "headline": "EU-Sondergipfel ringt um den Haushalt bis 2034",
+      "text": "Die EU-Staats- und Regierungschefs beraten am Donnerstag und Freitag in Brüssel über den Haushalt 2028 bis 2034. Ratschef Costa schlägt 1,582 Billionen Euro vor, Kanzler Merz dringt auf begrenzte Ausgaben. Eine Einigung scheint laut Eunews fern. Spaniens Premier Sánchez fehlt.",
+      "quellen": [
+        {
+          "name": "Reuters",
+          "url": "https://www.channelnewsasia.com/world/russia-wants-more-ukraine-says-germanys-merz-he-defends-aid-kyiv-6582701"
+        },
+        {
+          "name": "Eunews",
+          "url": "https://www.eunews.it/en/2026/11/25/spain-heads-to-the-polls-sanchez-skips-the-extraordinary-european-council-summit-where-right-wing-parties-could-sit-after-the-election/"
         }
       ]
     },
     {
       "headline": "Richter stellen Bestechungsvorwurf gegen Netanjahu infrage",
-      "text": "Richter in Jerusalem haben Generalstaatsanwältin Baharav-Miara geraten, den Bestechungsvorwurf gegen Israels geschäftsführenden Premier Netanjahu fallen zu lassen, eine Verurteilung sei unwahrscheinlich. Sie will das prüfen. Netanjahu forderte, den Prozess sofort zu beenden.",
+      "text": "Israelische Richter raten Generalstaatsanwältin Baharav-Miara, einen von drei Korruptionsfällen gegen Premier Netanjahu fallen zu lassen und einen weiteren zu überdenken. Sie will das prüfen. Netanjahu bestreitet die Vorwürfe und fordert ein Ende des Prozesses.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o"
-        }
-      ]
-    },
-    {
-      "headline": "Ukraine meldet Treffer auf fünf russische Militärjets",
-      "text": "Die Ukraine hat nach Angaben ihres Generalstabs auf dem russischen Flugplatz Sawasleika fünf Militärflugzeuge beschädigt. Russische Angriffe töteten laut örtlichen Behörden mindestens fünf Menschen in der Ukraine und verursachten in fünf Regionen Stromausfälle.",
-      "quellen": [
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/5-russian-aircraft-hit-at-airfield-in-russias-nizhny-novgorod-oblast-general-staff-says/"
+          "name": "Reuters",
+          "url": "https://www.channelnewsasia.com/world/israeli-judges-recommend-prosecutors-drop-one-bribery-case-against-netanyahu-6582791"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cxj05mv723r2o"
         }
       ]
     },
     {
-      "headline": "Saudi-Arabien fängt nach Angriff auf Hodeida Drohnen ab",
-      "text": "Nach einem Luftangriff der saudisch geführten Koalition auf den Hafen von Hodeida im Jemen hat Saudi-Arabien laut Koalitionssprecher Turki al-Maliki Drohnen der Huthi abgeschossen, vier davon in Ras Tanura. Die Huthi hatten mit Angriffen auf saudische Häfen am Roten Meer gedroht.",
+      "headline": "31 Tote bei Brand eines Tanklasters in Kairo",
+      "text": "Auf einer Ringstraße in Kairo sind laut Gesundheitsministerium 31 Menschen bei einem Großbrand gestorben und 21 verletzt worden. Ein Fahrzeug mit Kraftstoff hatte sich überschlagen und Feuer gefangen. Laut Justiz brannten 27 Fahrzeuge. Die Staatsanwaltschaft ermittelt.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
+          "url": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says"
         },
         {
-          "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/saudi-attack-yemen-houthi-hodeida-6580346"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqy7rn30v314o"
         }
       ]
     },
     {
-      "headline": "US-Jury spricht Huawei in zehn Punkten schuldig",
-      "text": "Eine New Yorker Jury sprach Huawei in 10 von 12 Punkten schuldig, darunter Bankbetrug, Sanktionsbruch und Komplott zum Diebstahl von Geschäftsgeheimnissen. Vom Vorwurf, als kriminelles Unternehmen agiert zu haben, sprach sie den Konzern frei. Dessen Anwalt erwartet Berufung.",
+      "headline": "Kim Jong Un will taktische Atomwaffen breiter stationieren",
+      "text": "Nordkoreas Machthaber Kim Jong Un will laut Staatsagentur KCNA taktische Atomwaffen für verschiedene Einsätze breiter stationieren. Bei einem Besuch von Atomanlagen nannte er den Atommacht-Status unantastbar. Versuche, ihn zu bestreiten, werte man als Kriegserklärung, sagte er.",
       "quellen": [
         {
-          "name": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/huawei-convicted-us-criminal-trial-iran-business-trade-secrets-6579566"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Unionsabgeordnete werben für eine „Respekt-Rente“",
-      "text": "Zur Rente mit 63 werben die Unionsabgeordneten Winkel, Biadacz und Reddig für eine „Respekt-Rente“. Wer 45 Beitragsjahre hat und höchstens 70 Prozent des Durchschnittseinkommens bezog, soll weiter abschlagsfrei in Rente gehen. Laut ARD stützt Fraktionschef Frei den Plan.",
+      "headline": "Union wirbt mit einer „Respekt-Rente“ um die SPD",
+      "text": "Unionsabgeordnete um Fraktionsvize Winkel schlagen im Rentenstreit eine „Respekt-Rente“ vor. Wer 45 Beitragsjahre hat und höchstens 70 Prozent des Durchschnittseinkommens verdiente, soll weiter abschlagsfrei in den Ruhestand gehen. Die SPD reagierte laut ZDF skeptisch.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/union-schlaegt-kompromiss-im-streit-um-rente-mit-63-vor-100.html"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/rente-63-vorschlag-union-100.html"
         }
       ]
     },
     {
-      "headline": "Merz räumt Uneinigkeit in der Koalition ein",
-      "text": "Kanzler Merz hat in der Generaldebatte des Bundestags eingeräumt, dass die Koalitionspartner nicht immer einer Meinung seien. Den Haushalt nannte er vertretbar, neue Schulden begründete er mit Verteidigung und Infrastruktur. AfD-Chef Chrupalla warf ihm politisches Versagen vor.",
+      "headline": "Expertenkommission legt 51 Vorschläge zur Prostitution vor",
+      "text": "Eine Expertenkommission von Familienministerin Prien empfiehlt 51 Maßnahmen zum Schutz Prostituierter. Freier sollen sich strafbar machen, wenn sie Prostituierte ohne Anmeldung aufsuchen. Ein generelles Sexkaufverbot lehnt sie ab, einzelne CDU- und Grünen-Politiker fordern es.",
       "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/merz-generaldebatte-bundestag-haushalt-opposition-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/prostitution-schutz-gesetz-prien-100.html"
         },
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-generaldebatte-merz-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/forderungen-aus-union-und-von-gruenen-nach-komplettem-verbot-von-prostitution-100.html"
         }
       ]
     },
     {
-      "headline": "Festnahmen bei rechtsextremer Terrorgruppe",
-      "text": "Die Bundesanwaltschaft nahm drei 14- und 15-Jährige fest, die einer aus der Chatgruppe Terror 18 entstandenen rechtsextremen Terrorgruppe angehören sollen. Sie soll einen Brandanschlag auf ein Flüchtlingsheim in Winsen geplant haben. Haftbefehle wurden unter Auflagen ausgesetzt.",
+      "headline": "Merz verteidigt den Haushalt vor der Abstimmung am Freitag",
+      "text": "In der Generaldebatte nannte Kanzler Merz den Etat fürs kommende Jahr vertretbar. Er sieht Ausgaben von mehr als 560 und neue Kredite von fast 123 Milliarden Euro vor. AfD-Chef Chrupalla warb für eine mögliche Verfassungsbeschwerde. Am Freitag stimmt der Bundestag ab.",
       "quellen": [
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/drei-teenager-unter-terrorverdacht-festgenommen-und-mit-auflagen-wieder-freigekommen-100.html"
-        },
-        {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3449237/"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-154.html"
         }
       ]
     },
     {
-      "headline": "Bundestag gedenkt der Opfer von Femiziden",
-      "text": "Zum Orange Day gedachte der Bundestag mit einer Schweigeminute der Opfer von Femiziden. Kanzler Merz versprach Frauen und Mädchen mehr Schutz. Präsidentin Klöckner sprach von einem Höchststand der Gewalt gegen Frauen. 2025 wurden laut Bund und BKA 342 Frauen und Mädchen getötet.",
+      "headline": "Teenager unter rechtsextremem Terrorverdacht festgenommen",
+      "text": "Die Bundesanwaltschaft ließ drei 14- und 15-Jährige festnehmen, die einer aus der Chatgruppe „Terror 18“ hervorgegangenen rechtsextremen Terrorgruppe angehören sollen. Sie soll einen Brandanschlag auf ein Flüchtlingsheim in Winsen und die Tötung von Ausländern geplant haben.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-orange-day-100.html"
+          "url": "https://www.tagesschau.de/inland/terror-18-rechtsextremistische-gruppe-100.html"
         },
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/aktionstag-gegen-gewalt-gegen-frauen-schweigeminute-im-bundestag-100.html"
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/international/rechtsextreme-terrorgruppe-verdacht-auf-anschlagsplaene-teenager-in-deutschland-festgenommen"
         }
       ]
     }
