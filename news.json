@@ -1,14 +1,14 @@
 {
   "datum": "2026-11-26",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "USA kündigen neue Zölle gegen 14 Handelspartner an",
-      "text": "Die USA wollen Waren aus 14 Handelspartnern, darunter China, Japan und die EU, mit neuen Zöllen belegen. Für China sind 20 Prozent geplant, für die EU 15 Prozent. Gelten sollen sie erst nach einer Anhörung am 25. Januar. China und die EU-Kommission wiesen die Pläne zurück.",
+      "headline": "Asiatische Staaten wehren sich gegen neue US-Zölle",
+      "text": "Japan, Indien und Malaysia bestreiten den US-Vorwurf industrieller Überkapazitäten, Singapur zeigt sich sehr enttäuscht. China behält sich Gegenmaßnahmen vor, Vietnam will rasch ein Handelsabkommen. Die USA schlagen Zölle von 20 bis 40 Prozent vor, angehört wird am 25. Januar.",
       "quellen": [
         {
           "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/trump-new-tariffs-us-midterms-6581566"
+          "url": "https://www.channelnewsasia.com/asia/asian-governments-push-back-seek-deals-after-trumps-new-tariff-salvo-6583496"
         },
         {
           "name": "BBC",
@@ -17,12 +17,12 @@
       ]
     },
     {
-      "headline": "EU-Sondergipfel ringt um den Haushalt bis 2034",
-      "text": "Die EU-Staats- und Regierungschefs beraten am Donnerstag und Freitag in Brüssel über den Haushalt 2028 bis 2034. Ratschef Costa schlägt 1,582 Billionen Euro vor, Kanzler Merz dringt auf begrenzte Ausgaben. Eine Einigung scheint laut Eunews fern. Spaniens Premier Sánchez fehlt.",
+      "headline": "EU-Gipfel streitet über Haushalt und Ukraine-Kredit",
+      "text": "Die EU-Staats- und Regierungschefs beraten in Brüssel über den Haushalt ab 2028 und einen Ukraine-Kredit über 45 Milliarden Euro. Vier Staaten wollen sich daran nicht beteiligen, Kanzler Merz droht mit einem Veto gegen den Etat. Spaniens Premier Sánchez fehlt wegen der Wahl.",
       "quellen": [
         {
-          "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/russia-wants-more-ukraine-says-germanys-merz-he-defends-aid-kyiv-6582701"
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/26/eu-budget-and-ukraine-aid-headed-for-collision-at-turbulent-summit"
         },
         {
           "name": "Eunews",
@@ -31,8 +31,32 @@
       ]
     },
     {
-      "headline": "Richter stellen Bestechungsvorwurf gegen Netanjahu infrage",
-      "text": "Israelische Richter raten Generalstaatsanwältin Baharav-Miara, einen von drei Korruptionsfällen gegen Premier Netanjahu fallen zu lassen und einen weiteren zu überdenken. Sie will das prüfen. Netanjahu bestreitet die Vorwürfe und fordert ein Ende des Prozesses.",
+      "headline": "Angriffe am Golf treiben den Ölpreis nach oben",
+      "text": "Die Huthi-Miliz im Jemen gibt an, Saudi-Arabiens größte Raffinerie Ras Tanura und das Finanzviertel von Riad angegriffen zu haben. Laut der iranischen Agentur Fars lief zudem ein Tanker in der Straße von Hormus auf eine Mine. Brent legte am Mittwoch 3,5 Prozent zu.",
+      "quellen": [
+        {
+          "name": "Arab News",
+          "url": "https://www.arabnews.com/energy/oil-rises-on-supply-concerns-as-iran-claims-9-strikes-on-ships-3014091"
+        }
+      ]
+    },
+    {
+      "headline": "Russische Raketen treffen Einkaufszentrum in Kiew",
+      "text": "Russland hat die Ukraine am späten Mittwochabend mit ballistischen Raketen und laut Luftwaffe 113 Drohnen angegriffen. In Kiew traf es ein Einkaufszentrum, sieben Menschen wurden verletzt. US-Präsident Trump und Nato-Chef Rutte riefen Russland auf, den Krieg nicht auszuweiten.",
+      "quellen": [
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russia-slams-kyiv-in-ballistic-missile-attack-hits-shopping-center/"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.channelnewsasia.com/world/trump-and-nato-chief-urge-russia-avoid-actions-widen-ukraine-war-6584126"
+        }
+      ]
+    },
+    {
+      "headline": "Netanjahu verlangt nach Richterhinweis ein Ende des Prozesses",
+      "text": "Richter in Jerusalem halten eine Verurteilung von Israels Premier Netanjahu im Fall 4000 für unwahrscheinlich und raten, ihn fallen zu lassen. Auch am Fall 2000 zweifeln sie. Ein Urteil ist das nicht. Netanjahu bestreitet die Vorwürfe und fordert ein sofortiges Prozessende.",
       "quellen": [
         {
           "name": "Reuters",
@@ -43,74 +67,50 @@
           "url": "https://www.bbc.com/news/articles/cxj05mv723r2o"
         }
       ]
-    },
-    {
-      "headline": "31 Tote bei Brand eines Tanklasters in Kairo",
-      "text": "Auf einer Ringstraße in Kairo sind laut Gesundheitsministerium 31 Menschen bei einem Großbrand gestorben und 21 verletzt worden. Ein Fahrzeug mit Kraftstoff hatte sich überschlagen und Feuer gefangen. Laut Justiz brannten 27 Fahrzeuge. Die Staatsanwaltschaft ermittelt.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says"
-        },
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqy7rn30v314o"
-        }
-      ]
-    },
-    {
-      "headline": "Kim Jong Un will taktische Atomwaffen breiter stationieren",
-      "text": "Nordkoreas Machthaber Kim Jong Un will laut Staatsagentur KCNA taktische Atomwaffen für verschiedene Einsätze breiter stationieren. Bei einem Besuch von Atomanlagen nannte er den Atommacht-Status unantastbar. Versuche, ihn zu bestreiten, werte man als Kriegserklärung, sagte er.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes"
-        }
-      ]
     }
   ],
   "national": [
     {
-      "headline": "Union wirbt mit einer „Respekt-Rente“ um die SPD",
-      "text": "Unionsabgeordnete um Fraktionsvize Winkel schlagen im Rentenstreit eine „Respekt-Rente“ vor. Wer 45 Beitragsjahre hat und höchstens 70 Prozent des Durchschnittseinkommens verdiente, soll weiter abschlagsfrei in den Ruhestand gehen. Die SPD reagierte laut ZDF skeptisch.",
+      "headline": "Zwei Iraker unter Terrorverdacht festgenommen",
+      "text": "Die Bundesanwaltschaft ließ in Köln und Heidelberg zwei Iraker festnehmen. Sie sollen einer Ende 2025 gegründeten Terrorgruppe im Umfeld von HAYI angehören. Für sie sollen Unbekannte im März wohl mit Sprengsätzen Synagogen in Köln und einer weiteren Stadt aufgesucht haben.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html"
+          "url": "https://www.tagesschau.de/inland/terrorverdacht-festnahmen-102.html"
         },
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/rente-63-vorschlag-union-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/festnahme-anschlagsplan-synagoge-koeln-islamismus-100.html"
         }
       ]
     },
     {
-      "headline": "Expertenkommission legt 51 Vorschläge zur Prostitution vor",
-      "text": "Eine Expertenkommission von Familienministerin Prien empfiehlt 51 Maßnahmen zum Schutz Prostituierter. Freier sollen sich strafbar machen, wenn sie Prostituierte ohne Anmeldung aufsuchen. Ein generelles Sexkaufverbot lehnt sie ab, einzelne CDU- und Grünen-Politiker fordern es.",
+      "headline": "SPD bleibt bei der „Respekt-Rente“ der Union skeptisch",
+      "text": "Laut Unionsvorschlag soll nur abschlagsfrei nach 45 Jahren in Rente gehen, wer höchstens 70 Prozent des Durchschnittseinkommens verdiente. SPD-Fraktionsvize Esdar lobt den Kompromisswillen, sieht aber 90 Prozent der heutigen Bezieher benachteiligt. Linke und DGB sind dagegen.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/prostitution-schutz-gesetz-prien-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html"
         },
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/forderungen-aus-union-und-von-gruenen-nach-komplettem-verbot-von-prostitution-100.html"
+          "url": "https://www.deutschlandfunk.de/kompromissvorschlag-aus-der-union-im-streit-ueber-rente-mit-63-gemischte-reaktionen-der-spd-100.html"
         }
       ]
     },
     {
-      "headline": "Merz verteidigt den Haushalt vor der Abstimmung am Freitag",
-      "text": "In der Generaldebatte nannte Kanzler Merz den Etat fürs kommende Jahr vertretbar. Er sieht Ausgaben von mehr als 560 und neue Kredite von fast 123 Milliarden Euro vor. AfD-Chef Chrupalla warb für eine mögliche Verfassungsbeschwerde. Am Freitag stimmt der Bundestag ab.",
+      "headline": "Innenetat wird zur Debatte über die Migrationspolitik",
+      "text": "In der Bundestagsdebatte über den Innenetat kritisierte die Opposition die Migrationspolitik. AfD-Politiker Bühl vermisst eine echte Wende, Linken-Politiker Bartsch warf Minister Dobrindt Doppelmoral vor. CDU-Politiker Willsch verwies auf 37 Prozent weniger Asyl-Neuzugänge.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-154.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/migrationspolitik-steht-im-zentrum-bei-beratungen-ueber-etat-des-innenressorts-102.html"
         }
       ]
     },
     {
       "headline": "Teenager unter rechtsextremem Terrorverdacht festgenommen",
-      "text": "Die Bundesanwaltschaft ließ drei 14- und 15-Jährige festnehmen, die einer aus der Chatgruppe „Terror 18“ hervorgegangenen rechtsextremen Terrorgruppe angehören sollen. Sie soll einen Brandanschlag auf ein Flüchtlingsheim in Winsen und die Tötung von Ausländern geplant haben.",
+      "text": "Die Bundesanwaltschaft ließ drei 14- und 15-Jährige festnehmen. Sie sollen einer aus der Chatgruppe „Terror 18“ entstandenen rechtsextremen Terrorgruppe angehören, die einen Brandanschlag auf ein Flüchtlingsheim in Winsen und Morde an Ausländern geplant haben soll.",
       "quellen": [
         {
           "name": "tagesschau",
