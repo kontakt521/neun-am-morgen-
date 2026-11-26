@@ -1,102 +1,110 @@
 {
   "datum": "2026-11-26",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
-      "headline": "EU-Gipfel ringt um den Haushalt bis 2034",
-      "text": "Ratspräsident Costa wirbt beim Sondergipfel in Brüssel für seinen auf 1,582 Billionen Euro gesenkten EU-Haushalt für 2028 bis 2034. Merz und weitere Nettozahler halten ihn für zu groß, mittel- und osteuropäische Staaten lehnen Kürzungen bei Regional- und Agrarhilfen ab.",
+      "headline": "EU-Gipfel streitet über Haushalt und Ukraine-Kredit",
+      "text": "In Brüssel streiten die EU-Staaten über den Haushalt 2028 bis 2034 von 1,582 Billionen Euro und einen Ukraine-Kredit über 45 Milliarden Euro. Merz knüpft den Haushalt an eine Beteiligung aller 27 Staaten am Kredit. Eine Einigung wird für den 17. und 18. Dezember angestrebt.",
       "quellen": [
         {
-          "name": "The News International",
-          "url": "https://www.thenews.com.pk/latest/1425227-eus-costa-pushes-for-seven-year-budget-deal-as-deep-divisions-persist"
-        }
-      ]
-    },
-    {
-      "headline": "Iranischer Drohnenangriff tötet zwei Italiener in Kuwait",
-      "text": "Bei einem iranischen Drohnenangriff in Kuwait starben zwei Techniker von Rheinmetall Italia. Sie zählen zu den ersten bestätigten Toten aus Europa im Irankrieg. Laut Italiens Außenminister Tajani galt der Angriff auch einer Luftabwehrstation. Zwei weitere Männer wurden verletzt.",
-      "quellen": [
-        {
-          "name": "dpa",
-          "url": "https://www.yahoo.com/news/world/articles/iranian-drone-attack-kills-italian-160338909.html"
+          "name": "Reuters",
+          "url": "https://ca.news.yahoo.com/eu-leaders-wrestle-seven-budget-050220404.html"
         },
         {
-          "name": "AeroTime",
-          "url": "https://www.aerotime.aero/articles/italian-rheinmetall-technicians-killed-in-kuwaiti-drone-explosion"
+          "name": "Helsinki Times",
+          "url": "https://www.helsinkitimes.com/world-int/29540-eu-leaders-divided-over-1-58-trillion-budget-and-new-45-billion-loan-for-ukraine.html"
         }
       ]
     },
     {
-      "headline": "Spanier de Cos soll Lagarde an der EZB-Spitze folgen",
-      "text": "Die Euroländer haben in Brüssel den früheren spanischen Notenbankchef Pablo Hernández de Cos als nächsten EZB-Präsidenten ausgewählt. Er soll Christine Lagarde ablösen, die am 7. Februar vorzeitig abtritt. Die Prüfung durch Europaparlament und EZB-Rat gilt als Formsache.",
+      "headline": "Iran bestreitet Angriff mit zwei toten Italienern in Kuwait",
+      "text": "In Kuwait sind zwei Techniker von Rheinmetall Italia bei einem Drohnenangriff getötet worden, den Kuwait und Italien Iran anlasten. Teheran bestreitet jede Beteiligung. Außenminister Tajani will sich bei der iranischen Botschaft beschweren.",
       "quellen": [
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/two-italians-killed-in-attack-kuwait-site-iran-denies-involvement-6585791"
+        },
+        {
+          "name": "The National",
+          "url": "https://www.thenationalnews.com/news/gulf/2026/11/26/two-italian-workers-killed-in-iranian-drone-attack-on-kuwait/"
+        }
+      ]
+    },
+    {
+      "headline": "Euroländer wollen de Cos an der Spitze der EZB",
+      "text": "Die Euroländer empfehlen den früheren spanischen Notenbankchef Pablo Hernández de Cos als Nachfolger von Christine Lagarde an der EZB-Spitze. Der 55-Jährige leitet derzeit die BIZ und soll am 7. Februar übernehmen. Die formelle Ernennung soll im Dezember folgen.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief"
+        },
         {
           "name": "RTÉ",
           "url": "https://www.rte.ie/news/business/2026/1126/1600777-new-ecb-president/"
-        },
-        {
-          "name": "AP",
-          "url": "https://www.cp24.com/news/world/2026/11/26/leaders-choose-spains-former-central-bank-head-as-next-european-central-bank-president/"
         }
       ]
     },
     {
-      "headline": "Russische Angriffe töten zehn Menschen in der Ukraine",
-      "text": "Bei russischen Angriffen sind binnen eines Tages laut örtlichen Behörden zehn Menschen getötet und 58 verletzt worden. In Kiew trafen ballistische Raketen ein Einkaufszentrum. Selenskyj warnt unter Berufung auf den Geheimdienst vor einem neuen Großangriff auf Energieanlagen.",
+      "headline": "Russische Raketen treffen Einkaufszentrum in Kiew",
+      "text": "Russland griff Kiew nachts mit ballistischen Raketen an und traf laut Bürgermeister Klitschko ein Einkaufszentrum und zwei weitere Gebäude, sieben Menschen wurden verletzt. Im besetzten Teil von Saporischschja töteten ukrainische Drohnen laut Besatzern mindestens fünf Menschen.",
       "quellen": [
         {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russian-attacks-kill-10-injure-58-across-ukraine-over-past-day-strike-kyiv-with-ballistic-missiles/"
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/ukraine/2026/1126/1600710-ukraine-war/"
         },
         {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russia-prepares-new-mass-attack-on-ukraines-energy-infrastructure-zelensky-says/"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia"
         }
       ]
     },
     {
-      "headline": "Neue US-Zölle setzen Asiens Exportländer unter Druck",
-      "text": "Die von der US-Handelsbehörde vorgeschlagenen Zölle gegen 14 Volkswirtschaften sollen laut Analysten den Druck für Handelsabkommen erhöhen. Vietnam drohen bis zu 35 Prozent. Ein indischer Handelsverband fordert Gegenzölle von 25 Prozent und sieht 500.000 Arbeitsplätze in Gefahr.",
+      "headline": "Trump fordert von Putin Ende der Aggression in Europa",
+      "text": "US-Präsident Trump hat Kremlchef Putin nach eigenen Angaben gedrängt, alle militärischen Angriffe auf Gebiete in Europa einzustellen. Ein rasches Abkommen zwischen Russland und der Ukraine hält er für gut möglich. Der Kreml wirft Kiew vor, den Krieg geografisch auszuweiten.",
       "quellen": [
         {
           "name": "CNA",
-          "url": "https://www.channelnewsasia.com/asia/usa-donald-trump-tariffs-asian-trade-partners-analysis-6584851"
+          "url": "https://www.channelnewsasia.com/world/trump-putin-russia-ukraine-military-aggression-europe-6585761"
         },
         {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/asia/indian-trade-body-urges-retaliatory-tariffs-us-goods-warns-500000-jobs-risk-6584816"
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/trump-tells-putin-to-pull-back-all-military-aggression-across-europe/"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Einigung im Metall-Tarifstreit nach 27 Stunden",
-      "text": "Nach mehr als 27 Stunden in Mannheim haben sich IG Metall und Arbeitgeber laut Gewerkschaft geeinigt. Der Pilotabschluss soll auf 3,7 Millionen Beschäftigte übertragen werden. Die Gewerkschaft hatte ein Lohnplus von fünf Prozent verlangt, Einzelheiten standen zunächst aus.",
+      "headline": "Metaller bekommen 4,3 Prozent mehr Lohn in zwei Stufen",
+      "text": "IG Metall und Arbeitgeber vereinbarten in Mannheim 2,0 Prozent mehr Lohn ab Mai 2027, weitere 2,3 Prozent ab April 2028 und eine Einmalzahlung bis 450 Euro. Befristet sind Lohnverzicht und unbezahlte Mehrarbeit erlaubt. Der Abschluss kann für 3,7 Millionen Beschäftigte gelten.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html"
         },
         {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/ig-metall-und-arbeitgeber-einigen-sich-in-tarifstreit-a-152b7f28-1470-44a8-9958-c6fe9db5d584"
+          "name": "ORF",
+          "url": "https://orf.at/stories/3449381/"
         }
       ]
     },
     {
-      "headline": "SPD lehnt den Unionsvorschlag zur „Rente mit 63“ ab",
-      "text": "SPD-Sozialpolitikerin Annika Klose hält den Vorschlag der Unionsfraktion so für inakzeptabel. Danach soll nur abschlagsfrei nach 45 Jahren in Rente gehen, wer höchstens 70 Prozent des Durchschnittseinkommens verdiente. CDU-Politiker Kuban drängt die SPD zur Zustimmung.",
+      "headline": "SPD lehnt den Unionsvorschlag zur Frührente ab",
+      "text": "Unionspolitiker schlagen vor, dass nach 45 Beitragsjahren nur Geringverdiener mit bis zu 70 Prozent des Durchschnittseinkommens ganz abschlagsfrei in Rente gehen. Laut SPD-Politikerin Klose träfen dann 90 Prozent der bisher Berechtigten Abschläge. Auch der DGB lehnt das ab.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/rente-cdu-vorschlag-63-spd-ablehnung-100.html"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/spd-weist-vorschlag-der-union-zur-rente-mit-63-zurueck-unionsministerpraesidenten-dafuer-100.html"
+        },
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/wirtschaft/die-union-will-den-rentenstreit-mit-der-spd-durch-eine-respekt-rente-loesen-ld.10075431"
         }
       ]
     },
     {
       "headline": "Zwei Iraker unter Terrorverdacht festgenommen",
-      "text": "Die Bundesanwaltschaft ließ in Köln und Heidelberg zwei Iraker im Alter von 31 und 34 Jahren festnehmen. Sie sollen für einen deutschen Ableger der Gruppe HAYI Anschläge geplant haben. Einer soll laut Ermittlern im März mit einem Sprengsatz bei einer Kölner Synagoge gewesen sein.",
+      "text": "Die Bundesanwaltschaft ließ in Köln und Heidelberg zwei Iraker im Alter von 31 und 34 Jahren festnehmen. Laut Ermittlern planten sie Anschläge für eine mit der Gruppe HAYI verbundene Organisation, die israelische Einrichtungen treffen wollte.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -109,16 +117,16 @@
       ]
     },
     {
-      "headline": "Klöckner prüft Sanktionen gegen zwei Linken-Abgeordnete",
-      "text": "Aus Protest gegen den Besuch des früheren Mossad-Chefs Barnea setzten sich die Linken-Abgeordneten Becker und Mazzi im Bundestag vor einen Sitzungssaal. Bundestagspräsidentin Klöckner lässt Sanktionen prüfen. Barnea wird eine Rolle beim Pager-Angriff 2024 vorgeworfen.",
+      "headline": "Zwei Linken-Abgeordneten droht ein Ordnungsgeld",
+      "text": "Bundestagspräsidentin Klöckner lässt Verfahren gegen die Linken-Abgeordneten Becker und Mazzi wegen Verstoßes gegen die Hausordnung einleiten, laut ZDFheute droht ein Ordnungsgeld von 2.000 Euro. Sie hatten beim Besuch von Ex-Mossad-Chef Barnea einen Sitzungssaal blockiert.",
       "quellen": [
         {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/aufstand-im-deutschen-bundestag-linken-abgeordnete-torpedieren-besuch-des-ehemaligen-mossad-chefs-ld.10074641"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/bundestag-barnea-kloeckner-notz-gruene-linke-100.html"
         },
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/kloeckner-will-sanktionen-nach-blockade-durch-linke-politikerinnen-im-bundestag-102.html"
+          "url": "https://www.deutschlandfunk.de/linken-abgeordneten-drohen-konsequenzen-nach-blockade-aktion-gegen-ex-mossad-chef-barnea-100.html"
         }
       ]
     }
