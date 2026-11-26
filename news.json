@@ -1,124 +1,124 @@
 {
   "datum": "2026-11-26",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Asiatische Staaten wehren sich gegen neue US-Zölle",
-      "text": "Japan, Indien und Malaysia bestreiten den US-Vorwurf industrieller Überkapazitäten, Singapur zeigt sich sehr enttäuscht. China behält sich Gegenmaßnahmen vor, Vietnam will rasch ein Handelsabkommen. Die USA schlagen Zölle von 20 bis 40 Prozent vor, angehört wird am 25. Januar.",
+      "headline": "EU-Gipfel ringt um den Haushalt bis 2034",
+      "text": "Ratspräsident Costa wirbt beim Sondergipfel in Brüssel für seinen auf 1,582 Billionen Euro gesenkten EU-Haushalt für 2028 bis 2034. Merz und weitere Nettozahler halten ihn für zu groß, mittel- und osteuropäische Staaten lehnen Kürzungen bei Regional- und Agrarhilfen ab.",
       "quellen": [
         {
-          "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/asia/asian-governments-push-back-seek-deals-after-trumps-new-tariff-salvo-6583496"
+          "name": "The News International",
+          "url": "https://www.thenews.com.pk/latest/1425227-eus-costa-pushes-for-seven-year-budget-deal-as-deep-divisions-persist"
+        }
+      ]
+    },
+    {
+      "headline": "Iranischer Drohnenangriff tötet zwei Italiener in Kuwait",
+      "text": "Bei einem iranischen Drohnenangriff in Kuwait starben zwei Techniker von Rheinmetall Italia. Sie zählen zu den ersten bestätigten Toten aus Europa im Irankrieg. Laut Italiens Außenminister Tajani galt der Angriff auch einer Luftabwehrstation. Zwei weitere Männer wurden verletzt.",
+      "quellen": [
+        {
+          "name": "dpa",
+          "url": "https://www.yahoo.com/news/world/articles/iranian-drone-attack-kills-italian-160338909.html"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c893r9ke5p97o"
+          "name": "AeroTime",
+          "url": "https://www.aerotime.aero/articles/italian-rheinmetall-technicians-killed-in-kuwaiti-drone-explosion"
         }
       ]
     },
     {
-      "headline": "EU-Gipfel streitet über Haushalt und Ukraine-Kredit",
-      "text": "Die EU-Staats- und Regierungschefs beraten in Brüssel über den Haushalt ab 2028 und einen Ukraine-Kredit über 45 Milliarden Euro. Vier Staaten wollen sich daran nicht beteiligen, Kanzler Merz droht mit einem Veto gegen den Etat. Spaniens Premier Sánchez fehlt wegen der Wahl.",
+      "headline": "Spanier de Cos soll Lagarde an der EZB-Spitze folgen",
+      "text": "Die Euroländer haben in Brüssel den früheren spanischen Notenbankchef Pablo Hernández de Cos als nächsten EZB-Präsidenten ausgewählt. Er soll Christine Lagarde ablösen, die am 7. Februar vorzeitig abtritt. Die Prüfung durch Europaparlament und EZB-Rat gilt als Formsache.",
       "quellen": [
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/26/eu-budget-and-ukraine-aid-headed-for-collision-at-turbulent-summit"
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/business/2026/1126/1600777-new-ecb-president/"
         },
         {
-          "name": "Eunews",
-          "url": "https://www.eunews.it/en/2026/11/25/spain-heads-to-the-polls-sanchez-skips-the-extraordinary-european-council-summit-where-right-wing-parties-could-sit-after-the-election/"
+          "name": "AP",
+          "url": "https://www.cp24.com/news/world/2026/11/26/leaders-choose-spains-former-central-bank-head-as-next-european-central-bank-president/"
         }
       ]
     },
     {
-      "headline": "Angriffe am Golf treiben den Ölpreis nach oben",
-      "text": "Die Huthi-Miliz im Jemen gibt an, Saudi-Arabiens größte Raffinerie Ras Tanura und das Finanzviertel von Riad angegriffen zu haben. Laut der iranischen Agentur Fars lief zudem ein Tanker in der Straße von Hormus auf eine Mine. Brent legte am Mittwoch 3,5 Prozent zu.",
-      "quellen": [
-        {
-          "name": "Arab News",
-          "url": "https://www.arabnews.com/energy/oil-rises-on-supply-concerns-as-iran-claims-9-strikes-on-ships-3014091"
-        }
-      ]
-    },
-    {
-      "headline": "Russische Raketen treffen Einkaufszentrum in Kiew",
-      "text": "Russland hat die Ukraine am späten Mittwochabend mit ballistischen Raketen und laut Luftwaffe 113 Drohnen angegriffen. In Kiew traf es ein Einkaufszentrum, sieben Menschen wurden verletzt. US-Präsident Trump und Nato-Chef Rutte riefen Russland auf, den Krieg nicht auszuweiten.",
+      "headline": "Russische Angriffe töten zehn Menschen in der Ukraine",
+      "text": "Bei russischen Angriffen sind binnen eines Tages laut örtlichen Behörden zehn Menschen getötet und 58 verletzt worden. In Kiew trafen ballistische Raketen ein Einkaufszentrum. Selenskyj warnt unter Berufung auf den Geheimdienst vor einem neuen Großangriff auf Energieanlagen.",
       "quellen": [
         {
           "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russia-slams-kyiv-in-ballistic-missile-attack-hits-shopping-center/"
+          "url": "https://kyivindependent.com/russian-attacks-kill-10-injure-58-across-ukraine-over-past-day-strike-kyiv-with-ballistic-missiles/"
         },
         {
-          "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/trump-and-nato-chief-urge-russia-avoid-actions-widen-ukraine-war-6584126"
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russia-prepares-new-mass-attack-on-ukraines-energy-infrastructure-zelensky-says/"
         }
       ]
     },
     {
-      "headline": "Netanjahu verlangt nach Richterhinweis ein Ende des Prozesses",
-      "text": "Richter in Jerusalem halten eine Verurteilung von Israels Premier Netanjahu im Fall 4000 für unwahrscheinlich und raten, ihn fallen zu lassen. Auch am Fall 2000 zweifeln sie. Ein Urteil ist das nicht. Netanjahu bestreitet die Vorwürfe und fordert ein sofortiges Prozessende.",
+      "headline": "Neue US-Zölle setzen Asiens Exportländer unter Druck",
+      "text": "Die von der US-Handelsbehörde vorgeschlagenen Zölle gegen 14 Volkswirtschaften sollen laut Analysten den Druck für Handelsabkommen erhöhen. Vietnam drohen bis zu 35 Prozent. Ein indischer Handelsverband fordert Gegenzölle von 25 Prozent und sieht 500.000 Arbeitsplätze in Gefahr.",
       "quellen": [
         {
-          "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/israeli-judges-recommend-prosecutors-drop-one-bribery-case-against-netanyahu-6582791"
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/asia/usa-donald-trump-tariffs-asian-trade-partners-analysis-6584851"
         },
         {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/cxj05mv723r2o"
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/asia/indian-trade-body-urges-retaliatory-tariffs-us-goods-warns-500000-jobs-risk-6584816"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Zwei Iraker unter Terrorverdacht festgenommen",
-      "text": "Die Bundesanwaltschaft ließ in Köln und Heidelberg zwei Iraker festnehmen. Sie sollen einer Ende 2025 gegründeten Terrorgruppe im Umfeld von HAYI angehören. Für sie sollen Unbekannte im März wohl mit Sprengsätzen Synagogen in Köln und einer weiteren Stadt aufgesucht haben.",
+      "headline": "Einigung im Metall-Tarifstreit nach 27 Stunden",
+      "text": "Nach mehr als 27 Stunden in Mannheim haben sich IG Metall und Arbeitgeber laut Gewerkschaft geeinigt. Der Pilotabschluss soll auf 3,7 Millionen Beschäftigte übertragen werden. Die Gewerkschaft hatte ein Lohnplus von fünf Prozent verlangt, Einzelheiten standen zunächst aus.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/terrorverdacht-festnahmen-102.html"
+          "url": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html"
         },
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/ig-metall-und-arbeitgeber-einigen-sich-in-tarifstreit-a-152b7f28-1470-44a8-9958-c6fe9db5d584"
+        }
+      ]
+    },
+    {
+      "headline": "SPD lehnt den Unionsvorschlag zur „Rente mit 63“ ab",
+      "text": "SPD-Sozialpolitikerin Annika Klose hält den Vorschlag der Unionsfraktion so für inakzeptabel. Danach soll nur abschlagsfrei nach 45 Jahren in Rente gehen, wer höchstens 70 Prozent des Durchschnittseinkommens verdiente. CDU-Politiker Kuban drängt die SPD zur Zustimmung.",
+      "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/festnahme-anschlagsplan-synagoge-koeln-islamismus-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/rente-cdu-vorschlag-63-spd-ablehnung-100.html"
         }
       ]
     },
     {
-      "headline": "SPD bleibt bei der „Respekt-Rente“ der Union skeptisch",
-      "text": "Laut Unionsvorschlag soll nur abschlagsfrei nach 45 Jahren in Rente gehen, wer höchstens 70 Prozent des Durchschnittseinkommens verdiente. SPD-Fraktionsvize Esdar lobt den Kompromisswillen, sieht aber 90 Prozent der heutigen Bezieher benachteiligt. Linke und DGB sind dagegen.",
+      "headline": "Zwei Iraker unter Terrorverdacht festgenommen",
+      "text": "Die Bundesanwaltschaft ließ in Köln und Heidelberg zwei Iraker im Alter von 31 und 34 Jahren festnehmen. Sie sollen für einen deutschen Ableger der Gruppe HAYI Anschläge geplant haben. Einer soll laut Ermittlern im März mit einem Sprengsatz bei einer Kölner Synagoge gewesen sein.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html"
+          "url": "https://www.tagesschau.de/inland/gesellschaft/terrorverdacht-festnahmen-102.html"
         },
         {
           "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/kompromissvorschlag-aus-der-union-im-streit-ueber-rente-mit-63-gemischte-reaktionen-der-spd-100.html"
+          "url": "https://www.deutschlandfunk.de/zwei-mutmassliche-mitglieder-einer-pro-iranischen-terrorgruppe-in-koeln-und-heidelberg-festgenommen-100.html"
         }
       ]
     },
     {
-      "headline": "Innenetat wird zur Debatte über die Migrationspolitik",
-      "text": "In der Bundestagsdebatte über den Innenetat kritisierte die Opposition die Migrationspolitik. AfD-Politiker Bühl vermisst eine echte Wende, Linken-Politiker Bartsch warf Minister Dobrindt Doppelmoral vor. CDU-Politiker Willsch verwies auf 37 Prozent weniger Asyl-Neuzugänge.",
+      "headline": "Klöckner prüft Sanktionen gegen zwei Linken-Abgeordnete",
+      "text": "Aus Protest gegen den Besuch des früheren Mossad-Chefs Barnea setzten sich die Linken-Abgeordneten Becker und Mazzi im Bundestag vor einen Sitzungssaal. Bundestagspräsidentin Klöckner lässt Sanktionen prüfen. Barnea wird eine Rolle beim Pager-Angriff 2024 vorgeworfen.",
       "quellen": [
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/migrationspolitik-steht-im-zentrum-bei-beratungen-ueber-etat-des-innenressorts-102.html"
-        }
-      ]
-    },
-    {
-      "headline": "Teenager unter rechtsextremem Terrorverdacht festgenommen",
-      "text": "Die Bundesanwaltschaft ließ drei 14- und 15-Jährige festnehmen. Sie sollen einer aus der Chatgruppe „Terror 18“ entstandenen rechtsextremen Terrorgruppe angehören, die einen Brandanschlag auf ein Flüchtlingsheim in Winsen und Morde an Ausländern geplant haben soll.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/terror-18-rechtsextremistische-gruppe-100.html"
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/politik/aufstand-im-deutschen-bundestag-linken-abgeordnete-torpedieren-besuch-des-ehemaligen-mossad-chefs-ld.10074641"
         },
         {
-          "name": "SRF",
-          "url": "https://www.srf.ch/news/international/rechtsextreme-terrorgruppe-verdacht-auf-anschlagsplaene-teenager-in-deutschland-festgenommen"
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/kloeckner-will-sanktionen-nach-blockade-durch-linke-politikerinnen-im-bundestag-102.html"
         }
       ]
     }
