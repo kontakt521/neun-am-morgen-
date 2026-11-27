@@ -1,116 +1,124 @@
 {
   "datum": "2026-11-27",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "EU-Sondergipfel zum Haushalt endet ohne Durchbruch",
-      "text": "Der EU-Sondergipfel zum nächsten Siebenjahreshaushalt endete nach fast 14 Stunden ohne Durchbruch, der geplante zweite Tag entfiel. Sieben Nettozahler, darunter Deutschland, boykottierten das Gesprächsformat von Ratspräsident Costa. Am 17. Dezember soll weiterverhandelt werden.",
+      "headline": "EU-Gipfel zum Haushalt ohne Einigung abgebrochen",
+      "text": "Der EU-Sondergipfel zum Etat 2028 bis 2034 endete in der Nacht ohne Einigung, Ratspräsident Costa sagte den zweiten Tag ab. Die Nettozahler mieden weitgehend seine Runden im kleinen Kreis. Frankreichs Präsident Macron warnt, nach dem 31. Dezember könne er nicht mehr entscheiden.",
       "quellen": [
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid"
+          "name": "Eunews",
+          "url": "https://www.eunews.it/en/2026/11/27/eu-multiannual-budget-no-deal-costa-cancels-second-day-of-summit/"
+        },
+        {
+          "name": "EUalive",
+          "url": "https://eualive.net/eu-leaders-end-marathon-summit-without-budget-deal-pushing-crunch-talks-to-december/"
         }
       ]
     },
     {
-      "headline": "Iran bestreitet Drohnenangriff mit zwei toten Italienern",
-      "text": "Bei einem Drohnenangriff auf eine Luftabwehrstation in Kuwait sind zwei Techniker von Rheinmetall Italia getötet worden. Kuwait und Italien machen Iran verantwortlich, Teheran bestreitet jede Beteiligung. Außenminister Tajani will bei der iranischen Botschaft Beschwerde einlegen.",
+      "headline": "Selenskyj kritisiert Trumps Nähe zu Putin",
+      "text": "Selenskyj kritisierte im BBC-Interview, dass Trump Putin seinen Freund nennt, und beklagte, späte US-Lieferungen von Abwehrraketen kosteten Leben. Trump schrieb, er habe Putin gedrängt, militärische Aggression in ganz Europa zurückzufahren. Einen Deal hält er für gut möglich.",
       "quellen": [
         {
-          "name": "CNA",
+          "name": "Reuters",
+          "url": "https://www.channelnewsasia.com/world/trump-putin-russia-ukraine-military-aggression-europe-6585761"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c820q9wgrpyyo"
+        }
+      ]
+    },
+    {
+      "headline": "Zwei Italiener bei Drohnenangriff in Kuwait getötet",
+      "text": "Bei einem Drohnenangriff auf eine Luftabwehrstation in Kuwait starben zwei Techniker von Rheinmetall Italia, zwei Menschen wurden verletzt. Italien und Kuwait machen Iran verantwortlich, Teheran bestreitet das. Außenminister Tajani will sich bei Irans Botschaft beschweren.",
+      "quellen": [
+        {
+          "name": "Reuters",
           "url": "https://www.channelnewsasia.com/world/two-italians-killed-in-attack-kuwait-site-iran-denies-involvement-6585791"
         }
       ]
     },
     {
-      "headline": "Trump stellt Putin Teilnahme am G20-Gipfel in Florida frei",
-      "text": "Kremlchef Putin könne zum G20-Gipfel am 14. und 15. Dezember in Florida kommen, sagte US-Präsident Trump, er bezweifle aber, dass Putin das wolle. Der Kreml hat noch nicht entschieden. Selenskyj warnt, Russland bereite laut ukrainischen Informationen einen neuen Großangriff vor.",
+      "headline": "Schwerer Sturm stört Thanksgiving in den USA",
+      "text": "Ein heftiger Sturm hat an Thanksgiving fast eine Million Haushalte in den USA ohne Strom gelassen, die meisten an der Ostküste. Laut FlightAware fielen 460 Flüge aus. New Jersey und Teile New Yorks stehen unter Notstand, die Macy's-Parade wurde auf Samstag verschoben.",
       "quellen": [
         {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/2026/1127/1600845-trump-putin/"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/ckm2mz3prq77o"
         },
         {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/russia-ukraine-zelenskyy-mass-strike-warning-6585961"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us"
         }
       ]
     },
     {
-      "headline": "Neuseelands Regierung verliert ihre Mehrheit",
-      "text": "Laut Endergebnis der Wahl vom 7. November fehlt der rechten Koalition von Premierminister Luxon ein Sitz zur Mehrheit, seine National Party verlor zwei Mandate. Luxon braucht nun die zentristische Partei Opportunity von Qiulae Wong. Ohne Einigung könnte es eine Neuwahl geben.",
+      "headline": "Neuseelands Regierung verfehlt knapp die Mehrheit",
+      "text": "Laut amtlichem Endergebnis der Wahl vom 7. November fehlt der Koalition von Premierminister Luxon ein Sitz zur Mehrheit, sie kommt auf 65 von 130 Mandaten. Luxon sucht die Unterstützung der zentristischen Opportunity Party. Scheitern alle Gespräche, müsste neu gewählt werden.",
       "quellen": [
         {
           "name": "RTÉ",
           "url": "https://www.rte.ie/news/2026/1127/1600847-new-zealand-election/"
-        }
-      ]
-    },
-    {
-      "headline": "Angriff auf saudische Raffinerie in Jazan tötet Arbeiter",
-      "text": "Ein Geschoss traf die Aramco-Raffinerie im saudischen Jazan und tötete laut Energieministerium einen Arbeiter aus Nepal, mehrere Menschen wurden verletzt. Die saudisch geführte Koalition macht die Huthi verantwortlich und meldet die Zerstörung einer Abschussrampe in Hodeidah.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations"
         },
         {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/saudi-led-coalition-says-houthis-attacked-aramcos-jazan-refinery-6585881"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Bundestag stimmt über Rekordhaushalt für 2027 ab",
-      "text": "Der Bundestag will heute den Etat 2027 beschließen, laut Spiegel den teuersten aller Zeiten. Union und SPD dürften zustimmen. Der Kernhaushalt umfasst rund 560,9 Milliarden Euro, die gesamte Neuverschuldung rund 210,4 Milliarden Euro. Linke und Grüne üben scharfe Kritik.",
+      "headline": "Bundestag will Rekordetat für 2027 beschließen",
+      "text": "Der Bundestag stimmt heute über den Etat 2027 ab, erwartet wird, dass Union und SPD zustimmen. Geplant sind rund 560,9 Milliarden Euro an Ausgaben, so viel wie nie. Im Kernhaushalt sind fast 123 Milliarden Euro Kredite vorgesehen, insgesamt wohl über 200 Milliarden.",
       "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/haushalt-haushaltsausschuss-bundestag-union-spd-100.html"
+        },
         {
           "name": "Spiegel",
           "url": "https://www.spiegel.de/politik/deutschland/news-bundestag-stimmt-ueber-umstrittenen-haushalt-2027-ab-black-friday-tech-bros-a-0b1477f8-87c0-41a9-a19e-58a8f241fb36"
-        },
-        {
-          "name": "Vienna.at",
-          "url": "https://www.vienna.at/deutscher-bundeshaushalt-fuer-2027-steht/11104088"
         }
       ]
     },
     {
-      "headline": "Koalition ringt weiter um die Frührente",
-      "text": "Arbeitsminister Schweitzer will bei der Rentenreform rasch vorankommen, einen Gesetzentwurf vor Weihnachten sagte er nicht zu. CDU-Abgeordnete wollen nach 45 Beitragsjahren nur noch Geringverdienern eine abschlagsfreie Rente gewähren. SPD-Politiker, Linke und DGB lehnen das ab.",
+      "headline": "SAP prüft großen Jobabbau und meldet Sicherheitsvorfall",
+      "text": "Der Softwarekonzern SAP erwägt laut Bloomberg, im Zuge seiner Ausrichtung auf KI mindestens 10.000 Stellen abzubauen, konkret entschieden sei laut SAP nichts. Zudem meldete der DAX-Konzern verdächtige Aktivitäten, Hinweise auf einen Zugriff auf Kundendaten gebe es bisher nicht.",
       "quellen": [
         {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/arbeitsminister-schweitzer-sieht-koalition-bei-rente-auf-gutem-weg-100.html"
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/sap-erwaegt-den-abbau-von-mehr-als-10-000-stellen-a-c4a7caff-a097-4ccb-867a-da1e469855fc"
         },
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html"
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-hacker-angriff-100.html"
         }
       ]
     },
     {
-      "headline": "Bundesanwaltschaft sieht Anschlagsplan auf Kölner Synagoge",
-      "text": "Die beiden in Köln und Heidelberg festgenommenen Iraker sollen laut Bundesanwaltschaft Ende 2025 mit weiteren Personen eine Terrorvereinigung mit Bezug zur Gruppe HAYI gegründet haben. Ziel war im März laut Ermittlern auch eine Kölner Synagoge, der Anschlag unterblieb.",
+      "headline": "Arbeitslosigkeit sinkt im November nur wenig",
+      "text": "Im November waren 2,936 Millionen Menschen arbeitslos, 19.000 weniger als im Oktober, die Quote fiel auf 6,2 Prozent. Die Herbstbelebung war schwach. Gegenüber dem Vorjahr waren 51.000 Menschen mehr arbeitslos, die Nachfrage nach Arbeitskräften bleibt laut Bundesagentur schwach.",
       "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/festnahme-anschlagsplan-synagoge-koeln-islamismus-100.html"
-        },
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/terrorverdacht-festnahmen-102.html"
+          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslosenzahlen-november-108.html"
+        },
+        {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/arbeitsmarkt-herbstkonjunktur-kann-abwaertstrend-nicht-bremsen-a-1e340c77-d333-4766-b96e-ab7f1d5a2976"
         }
       ]
     },
     {
-      "headline": "Metaller bekommen 4,3 Prozent mehr Geld in zwei Stufen",
-      "text": "In Mannheim einigte sich die Metallbranche auf 2,0 Prozent mehr ab Mai 2027, 2,3 Prozent ab April 2028 und Einmalzahlungen bis 450 Euro. Einzelne Betriebe dürfen unter strengen Auflagen Löhne senken oder unbezahlte Mehrarbeit verlangen. Betroffen wären 3,7 Millionen Beschäftigte.",
+      "headline": "Metaller erhalten in zwei Stufen 4,3 Prozent mehr Lohn",
+      "text": "IG Metall und Arbeitgeber einigten sich in Mannheim auf 2,0 Prozent mehr ab Mai 2027 und 2,3 Prozent ab April 2028, dazu bis zu 450 Euro einmalig. Befristet sind unbezahlte Mehrarbeit und Lohnverzicht möglich. Der Abschluss kann für 3,7 Millionen Beschäftigte gelten.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/ig-metall-tarifstreit-einigung-100.html"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html"
         },
         {
           "name": "ORF",
