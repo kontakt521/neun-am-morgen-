@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-27",
-  "stand_uhrzeit": "18:00 Uhr",
+  "stand_uhrzeit": "22:00 Uhr",
   "international": [
     {
       "headline": "Iran bestreitet tödlichen Drohnenangriff in Kuwait",
-      "text": "Bei einem Drohnenangriff auf eine Luftabwehrstation in Kuwait starben zwei Techniker von Rheinmetall Italia. Italien und Kuwait machen Iran verantwortlich. Irans Außenminister Araghchi nannte den Vorfall verdächtig und bot laut seinem Ministerium eine gemeinsame Untersuchung an.",
+      "text": "Bei einem Drohnenangriff auf eine Überwachungsstation der Luftabwehr in Kuwait starben zwei Techniker von Rheinmetall Italia. Italien und Kuwait beschuldigen Iran. Irans Außenminister Araghchi nannte den Vorfall verdächtig und bot laut Ministerium gemeinsame Ermittlungen an.",
       "quellen": [
         {
           "name": "Reuters",
@@ -17,22 +17,22 @@
       ]
     },
     {
-      "headline": "Selenskyj warnt vor neuem russischem Großangriff",
-      "text": "Die Ukraine hat laut Präsident Selenskyj Hinweise, dass Russland in den nächsten Tagen einen neuen massiven Angriff vorbereitet. Im BBC-Interview kritisierte er, dass Trump Putin seinen Freund nennt, und warf den USA vor, Lieferungen von Patriot-Systemen zu verzögern.",
+      "headline": "Selenskyj nennt Trumps Freundschaft mit Putin seltsam",
+      "text": "Im BBC-Interview nannte Präsident Selenskyj es seltsam, dass Trump Putin als Freund bezeichnet, und warf den USA vor, Patriot-Lieferungen zu verzögern. Kremlsprecher Peskov sagte, Selenskyj beleidige sein Gegenüber und sei nicht bereit für eine Friedensregelung.",
       "quellen": [
-        {
-          "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/russia-ukraine-zelenskyy-mass-strike-warning-6585961"
-        },
         {
           "name": "BBC",
           "url": "https://www.bbc.com/news/articles/c820q9wgrpyyo"
+        },
+        {
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/zelenskyy-trump-russia-ukraine-putin-us-friend-6588296"
         }
       ]
     },
     {
       "headline": "EU-Gipfel endet ohne Einigung auf Haushalt",
-      "text": "Der EU-Sondergipfel zum Finanzrahmen 2028 bis 2034 endete am frühen Freitag nach fast 15 Stunden ohne Einigung. Umfang, Prioritäten und neue Eigenmittel bleiben strittig. Die Euro-Staaten unterstützten den Spanier Hernández de Cos als Nachfolger von EZB-Chefin Lagarde.",
+      "text": "Der EU-Sondergipfel zum Finanzrahmen 2028 bis 2034 endete am frühen Freitag nach fast 15 Stunden ohne Einigung. Umfang, Prioritäten und neue Eigenmittel bleiben strittig. Ratspräsident Costa will bald einen überarbeiteten Vorschlag vorlegen, der nächste Anlauf folgt im Dezember.",
       "quellen": [
         {
           "name": "EUalive",
@@ -52,7 +52,7 @@
     },
     {
       "headline": "Hunderttausende nach Sturm in den USA ohne Strom",
-      "text": "Nach dem Unwetter an Thanksgiving waren in den USA am Freitag weiter Hunderttausende ohne Strom, am stärksten in Pennsylvania. Am Donnerstag fielen laut Flightaware über 450 Flüge aus. Die Macy's-Parade in New York wurde zum ersten Mal in 100 Jahren verschoben.",
+      "text": "Nach den Unwettern an Thanksgiving waren in den USA am Freitag weiter Hunderttausende ohne Strom, am stärksten betroffen war Pennsylvania. Am Donnerstag fielen laut Flightaware über 450 Flüge aus. Die Macy's-Parade in New York wurde erstmals in 100 Jahren verschoben.",
       "quellen": [
         {
           "name": "BBC",
@@ -64,7 +64,7 @@
   "national": [
     {
       "headline": "Bundestag beschließt Rekordhaushalt für 2027",
-      "text": "Der Bundestag hat den Etat 2027 mit 317 zu 260 Stimmen beschlossen. Geplant sind Ausgaben von rund 556 Milliarden Euro, mehr als je zuvor. Mit den Sondervermögen steigt die Neuverschuldung auf über 210 Milliarden Euro. Die Stromsteuer sinkt 2027, ab 2028 kommt eine Zuckersteuer.",
+      "text": "Der Bundestag hat den Etat 2027 mit 317 zu 260 Stimmen beschlossen. Geplant sind Ausgaben von rund 556 Milliarden Euro, mehr als je zuvor. Samt Sondervermögen liegen die neuen Kredite bei über 210 Milliarden Euro. Die Stromsteuer sinkt 2027, ab 2028 kommt eine Zuckersteuer.",
       "quellen": [
         {
           "name": "ZDFheute",
@@ -77,30 +77,26 @@
       ]
     },
     {
-      "headline": "Rente mit 63 soll laut Entwurf im Kern bleiben",
-      "text": "Laut dem Rentenentwurf von Arbeitsminister Schweitzer bleibt die Frührente ohne Abschläge nach 45 Beitragsjahren, Zeiten mit Arbeitslosen- oder Krankengeld zählen aber nicht mehr. Ab 2028 sollen auch Minijobs rentenversicherungspflichtig sein. Die Koalition ist noch uneins.",
+      "headline": "Schweitzers Rentenentwurf erntet Lob und scharfe Kritik",
+      "text": "DGB-Chefin Fahimi begrüßt, dass Minister Schweitzer die Rente mit 63 im Kern erhalten will, lehnt aber höhere Abschläge für Frührentner ab. CSU-Politiker Hoffmann fordert eine Gegenfinanzierung. Laut ZDF-Politbarometer bezweifeln 61 Prozent eine baldige Einigung im Kabinett.",
       "quellen": [
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html"
+          "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html"
         },
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/rente-mit-63-koalition-schweitzer-vorschlag-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/politbarometer-rentenreform-einigung-zweifel-100.html"
         }
       ]
     },
     {
-      "headline": "SAP erwägt Stellenabbau und meldet verdächtige Aktivitäten",
-      "text": "SAP erwägt laut Insidern einen größeren Stellenabbau, laut Bloomberg geht es um bis zu 10.000 Stellen. Zu den Zahlen äußerte sich SAP nicht. Zudem stellte der Konzern verdächtige Aktivitäten fest, Hinweise auf unbefugten Zugriff auf Kundendaten gibt es laut SAP bisher nicht.",
+      "headline": "SAP erwägt laut Insidern größeren Stellenabbau",
+      "text": "SAP plant laut Insidern einen größeren Stellenabbau, auch wegen KI-Automatisierung. Bloomberg nennt bis zu 10.000 gefährdete Stellen, ein Insider sprach im Handelsblatt von bis zu 15.000. Laut den Berichten ist der Plan nicht final, SAP äußerte sich zu den Zahlen nicht.",
       "quellen": [
         {
           "name": "tagesschau",
           "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-stellenabbau-geplant-100.html"
-        },
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-hacker-angriff-100.html"
         }
       ]
     },
