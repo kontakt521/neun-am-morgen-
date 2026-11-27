@@ -1,28 +1,28 @@
 {
   "datum": "2026-11-27",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "EU-Gipfel zum Haushalt ohne Einigung abgebrochen",
-      "text": "Der EU-Sondergipfel zum Etat 2028 bis 2034 endete in der Nacht ohne Einigung, Ratspräsident Costa sagte den zweiten Tag ab. Die Nettozahler mieden weitgehend seine Runden im kleinen Kreis. Frankreichs Präsident Macron warnt, nach dem 31. Dezember könne er nicht mehr entscheiden.",
+      "headline": "Iran bestreitet tödlichen Drohnenangriff in Kuwait",
+      "text": "Bei einem Drohnenangriff auf eine Luftabwehrstation in Kuwait starben zwei Techniker von Rheinmetall Italia. Italien und Kuwait machen Iran verantwortlich. Irans Außenminister Araghchi nannte den Vorfall verdächtig und bot laut seinem Ministerium eine gemeinsame Untersuchung an.",
       "quellen": [
         {
-          "name": "Eunews",
-          "url": "https://www.eunews.it/en/2026/11/27/eu-multiannual-budget-no-deal-costa-cancels-second-day-of-summit/"
+          "name": "Reuters",
+          "url": "https://www.channelnewsasia.com/world/two-italians-killed-in-attack-kuwait-site-iran-denies-involvement-6585791"
         },
         {
-          "name": "EUalive",
-          "url": "https://eualive.net/eu-leaders-end-marathon-summit-without-budget-deal-pushing-crunch-talks-to-december/"
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility"
         }
       ]
     },
     {
-      "headline": "Selenskyj kritisiert Trumps Nähe zu Putin",
-      "text": "Selenskyj kritisierte im BBC-Interview, dass Trump Putin seinen Freund nennt, und beklagte, späte US-Lieferungen von Abwehrraketen kosteten Leben. Trump schrieb, er habe Putin gedrängt, militärische Aggression in ganz Europa zurückzufahren. Einen Deal hält er für gut möglich.",
+      "headline": "Selenskyj warnt vor neuem russischem Großangriff",
+      "text": "Die Ukraine hat laut Präsident Selenskyj Hinweise, dass Russland in den nächsten Tagen einen neuen massiven Angriff vorbereitet. Im BBC-Interview kritisierte er, dass Trump Putin seinen Freund nennt, und warf den USA vor, Lieferungen von Patriot-Systemen zu verzögern.",
       "quellen": [
         {
           "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/trump-putin-russia-ukraine-military-aggression-europe-6585761"
+          "url": "https://www.channelnewsasia.com/world/russia-ukraine-zelenskyy-mass-strike-warning-6585961"
         },
         {
           "name": "BBC",
@@ -31,66 +31,72 @@
       ]
     },
     {
-      "headline": "Zwei Italiener bei Drohnenangriff in Kuwait getötet",
-      "text": "Bei einem Drohnenangriff auf eine Luftabwehrstation in Kuwait starben zwei Techniker von Rheinmetall Italia, zwei Menschen wurden verletzt. Italien und Kuwait machen Iran verantwortlich, Teheran bestreitet das. Außenminister Tajani will sich bei Irans Botschaft beschweren.",
+      "headline": "EU-Gipfel endet ohne Einigung auf Haushalt",
+      "text": "Der EU-Sondergipfel zum Finanzrahmen 2028 bis 2034 endete am frühen Freitag nach fast 15 Stunden ohne Einigung. Umfang, Prioritäten und neue Eigenmittel bleiben strittig. Die Euro-Staaten unterstützten den Spanier Hernández de Cos als Nachfolger von EZB-Chefin Lagarde.",
+      "quellen": [
+        {
+          "name": "EUalive",
+          "url": "https://eualive.net/eu-leaders-end-marathon-summit-without-budget-deal-pushing-crunch-talks-to-december/"
+        }
+      ]
+    },
+    {
+      "headline": "Huthis greifen saudische Raffinerie in Dschasan an",
+      "text": "Laut der saudisch geführten Militärkoalition griffen die Huthis aus dem Jemen die Aramco-Raffinerie in Dschasan an. Tags zuvor hatten sie Angriffe auf Ras Tanura gemeldet, die größte Raffinerie des Landes. Die Koalition zerstörte nach eigenen Angaben eine Raketenrampe in Hodeida.",
       "quellen": [
         {
           "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/two-italians-killed-in-attack-kuwait-site-iran-denies-involvement-6585791"
+          "url": "https://www.channelnewsasia.com/world/saudi-led-coalition-says-houthis-attacked-aramcos-jazan-refinery-6585881"
         }
       ]
     },
     {
-      "headline": "Schwerer Sturm stört Thanksgiving in den USA",
-      "text": "Ein heftiger Sturm hat an Thanksgiving fast eine Million Haushalte in den USA ohne Strom gelassen, die meisten an der Ostküste. Laut FlightAware fielen 460 Flüge aus. New Jersey und Teile New Yorks stehen unter Notstand, die Macy's-Parade wurde auf Samstag verschoben.",
+      "headline": "Hunderttausende nach Sturm in den USA ohne Strom",
+      "text": "Nach dem Unwetter an Thanksgiving waren in den USA am Freitag weiter Hunderttausende ohne Strom, am stärksten in Pennsylvania. Am Donnerstag fielen laut Flightaware über 450 Flüge aus. Die Macy's-Parade in New York wurde zum ersten Mal in 100 Jahren verschoben.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/ckm2mz3prq77o"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us"
-        }
-      ]
-    },
-    {
-      "headline": "Neuseelands Regierung verfehlt knapp die Mehrheit",
-      "text": "Laut amtlichem Endergebnis der Wahl vom 7. November fehlt der Koalition von Premierminister Luxon ein Sitz zur Mehrheit, sie kommt auf 65 von 130 Mandaten. Luxon sucht die Unterstützung der zentristischen Opportunity Party. Scheitern alle Gespräche, müsste neu gewählt werden.",
-      "quellen": [
-        {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/2026/1127/1600847-new-zealand-election/"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent"
+          "url": "https://www.bbc.com/news/articles/cre3dj5n7dpwo"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Bundestag will Rekordetat für 2027 beschließen",
-      "text": "Der Bundestag stimmt heute über den Etat 2027 ab, erwartet wird, dass Union und SPD zustimmen. Geplant sind rund 560,9 Milliarden Euro an Ausgaben, so viel wie nie. Im Kernhaushalt sind fast 123 Milliarden Euro Kredite vorgesehen, insgesamt wohl über 200 Milliarden.",
+      "headline": "Bundestag beschließt Rekordhaushalt für 2027",
+      "text": "Der Bundestag hat den Etat 2027 mit 317 zu 260 Stimmen beschlossen. Geplant sind Ausgaben von rund 556 Milliarden Euro, mehr als je zuvor. Mit den Sondervermögen steigt die Neuverschuldung auf über 210 Milliarden Euro. Die Stromsteuer sinkt 2027, ab 2028 kommt eine Zuckersteuer.",
       "quellen": [
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/haushalt-haushaltsausschuss-bundestag-union-spd-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html"
         },
         {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/deutschland/news-bundestag-stimmt-ueber-umstrittenen-haushalt-2027-ab-black-friday-tech-bros-a-0b1477f8-87c0-41a9-a19e-58a8f241fb36"
+          "name": "ORF",
+          "url": "https://orf.at/stories/3449471/"
         }
       ]
     },
     {
-      "headline": "SAP prüft großen Jobabbau und meldet Sicherheitsvorfall",
-      "text": "Der Softwarekonzern SAP erwägt laut Bloomberg, im Zuge seiner Ausrichtung auf KI mindestens 10.000 Stellen abzubauen, konkret entschieden sei laut SAP nichts. Zudem meldete der DAX-Konzern verdächtige Aktivitäten, Hinweise auf einen Zugriff auf Kundendaten gebe es bisher nicht.",
+      "headline": "Rente mit 63 soll laut Entwurf im Kern bleiben",
+      "text": "Laut dem Rentenentwurf von Arbeitsminister Schweitzer bleibt die Frührente ohne Abschläge nach 45 Beitragsjahren, Zeiten mit Arbeitslosen- oder Krankengeld zählen aber nicht mehr. Ab 2028 sollen auch Minijobs rentenversicherungspflichtig sein. Die Koalition ist noch uneins.",
       "quellen": [
         {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/sap-erwaegt-den-abbau-von-mehr-als-10-000-stellen-a-c4a7caff-a097-4ccb-867a-da1e469855fc"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html"
+        },
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/rente-mit-63-koalition-schweitzer-vorschlag-100.html"
+        }
+      ]
+    },
+    {
+      "headline": "SAP erwägt Stellenabbau und meldet verdächtige Aktivitäten",
+      "text": "SAP erwägt laut Insidern einen größeren Stellenabbau, laut Bloomberg geht es um bis zu 10.000 Stellen. Zu den Zahlen äußerte sich SAP nicht. Zudem stellte der Konzern verdächtige Aktivitäten fest, Hinweise auf unbefugten Zugriff auf Kundendaten gibt es laut SAP bisher nicht.",
+      "quellen": [
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-stellenabbau-geplant-100.html"
         },
         {
           "name": "tagesschau",
@@ -99,30 +105,12 @@
       ]
     },
     {
-      "headline": "Arbeitslosigkeit sinkt im November nur wenig",
-      "text": "Im November waren 2,936 Millionen Menschen arbeitslos, 19.000 weniger als im Oktober, die Quote fiel auf 6,2 Prozent. Die Herbstbelebung war schwach. Gegenüber dem Vorjahr waren 51.000 Menschen mehr arbeitslos, die Nachfrage nach Arbeitskräften bleibt laut Bundesagentur schwach.",
+      "headline": "Arbeitslosigkeit sinkt im November nur saisonbedingt",
+      "text": "Im November waren 2,936 Millionen Menschen ohne Arbeit, ein Minus von 19.000 zum Oktober. Die Quote sank auf 6,2 Prozent. Grund ist die Herbstbelebung. Gegenüber dem Vorjahr waren es 51.000 Arbeitslose mehr, die Nachfrage nach Arbeitskräften bleibt laut Bundesagentur schwach.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslosenzahlen-november-108.html"
-        },
-        {
-          "name": "Spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/arbeitsmarkt-herbstkonjunktur-kann-abwaertstrend-nicht-bremsen-a-1e340c77-d333-4766-b96e-ab7f1d5a2976"
-        }
-      ]
-    },
-    {
-      "headline": "Metaller erhalten in zwei Stufen 4,3 Prozent mehr Lohn",
-      "text": "IG Metall und Arbeitgeber einigten sich in Mannheim auf 2,0 Prozent mehr ab Mai 2027 und 2,3 Prozent ab April 2028, dazu bis zu 450 Euro einmalig. Befristet sind unbezahlte Mehrarbeit und Lohnverzicht möglich. Der Abschluss kann für 3,7 Millionen Beschäftigte gelten.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html"
-        },
-        {
-          "name": "ORF",
-          "url": "https://orf.at/stories/3449381/"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/wirtschaft/arbeitslosigkeit-deutschland-arbeitsmarkt-november-100.html"
         }
       ]
     }
