@@ -1,132 +1,120 @@
 {
-  "datum": "2026-11-26",
-  "stand_uhrzeit": "22:00 Uhr",
+  "datum": "2026-11-27",
+  "stand_uhrzeit": "07:00 Uhr",
   "international": [
     {
-      "headline": "EU-Gipfel streitet über Haushalt und Ukraine-Kredit",
-      "text": "In Brüssel streiten die EU-Staaten über den Haushalt 2028 bis 2034 von 1,582 Billionen Euro und einen Ukraine-Kredit über 45 Milliarden Euro. Merz knüpft den Haushalt an eine Beteiligung aller 27 Staaten am Kredit. Eine Einigung wird für den 17. und 18. Dezember angestrebt.",
+      "headline": "EU-Sondergipfel zum Haushalt endet ohne Durchbruch",
+      "text": "Der EU-Sondergipfel zum nächsten Siebenjahreshaushalt endete nach fast 14 Stunden ohne Durchbruch, der geplante zweite Tag entfiel. Sieben Nettozahler, darunter Deutschland, boykottierten das Gesprächsformat von Ratspräsident Costa. Am 17. Dezember soll weiterverhandelt werden.",
       "quellen": [
         {
-          "name": "Reuters",
-          "url": "https://ca.news.yahoo.com/eu-leaders-wrestle-seven-budget-050220404.html"
-        },
-        {
-          "name": "Helsinki Times",
-          "url": "https://www.helsinkitimes.com/world-int/29540-eu-leaders-divided-over-1-58-trillion-budget-and-new-45-billion-loan-for-ukraine.html"
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid"
         }
       ]
     },
     {
-      "headline": "Iran bestreitet Angriff mit zwei toten Italienern in Kuwait",
-      "text": "In Kuwait sind zwei Techniker von Rheinmetall Italia bei einem Drohnenangriff getötet worden, den Kuwait und Italien Iran anlasten. Teheran bestreitet jede Beteiligung. Außenminister Tajani will sich bei der iranischen Botschaft beschweren.",
+      "headline": "Iran bestreitet Drohnenangriff mit zwei toten Italienern",
+      "text": "Bei einem Drohnenangriff auf eine Luftabwehrstation in Kuwait sind zwei Techniker von Rheinmetall Italia getötet worden. Kuwait und Italien machen Iran verantwortlich, Teheran bestreitet jede Beteiligung. Außenminister Tajani will bei der iranischen Botschaft Beschwerde einlegen.",
       "quellen": [
         {
           "name": "CNA",
           "url": "https://www.channelnewsasia.com/world/two-italians-killed-in-attack-kuwait-site-iran-denies-involvement-6585791"
-        },
-        {
-          "name": "The National",
-          "url": "https://www.thenationalnews.com/news/gulf/2026/11/26/two-italian-workers-killed-in-iranian-drone-attack-on-kuwait/"
         }
       ]
     },
     {
-      "headline": "Euroländer wollen de Cos an der Spitze der EZB",
-      "text": "Die Euroländer empfehlen den früheren spanischen Notenbankchef Pablo Hernández de Cos als Nachfolger von Christine Lagarde an der EZB-Spitze. Der 55-Jährige leitet derzeit die BIZ und soll am 7. Februar übernehmen. Die formelle Ernennung soll im Dezember folgen.",
-      "quellen": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief"
-        },
-        {
-          "name": "RTÉ",
-          "url": "https://www.rte.ie/news/business/2026/1126/1600777-new-ecb-president/"
-        }
-      ]
-    },
-    {
-      "headline": "Russische Raketen treffen Einkaufszentrum in Kiew",
-      "text": "Russland griff Kiew nachts mit ballistischen Raketen an und traf laut Bürgermeister Klitschko ein Einkaufszentrum und zwei weitere Gebäude, sieben Menschen wurden verletzt. Im besetzten Teil von Saporischschja töteten ukrainische Drohnen laut Besatzern mindestens fünf Menschen.",
+      "headline": "Trump stellt Putin Teilnahme am G20-Gipfel in Florida frei",
+      "text": "Kremlchef Putin könne zum G20-Gipfel am 14. und 15. Dezember in Florida kommen, sagte US-Präsident Trump, er bezweifle aber, dass Putin das wolle. Der Kreml hat noch nicht entschieden. Selenskyj warnt, Russland bereite laut ukrainischen Informationen einen neuen Großangriff vor.",
       "quellen": [
         {
           "name": "RTÉ",
-          "url": "https://www.rte.ie/news/ukraine/2026/1126/1600710-ukraine-war/"
+          "url": "https://www.rte.ie/news/2026/1127/1600845-trump-putin/"
         },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia"
-        }
-      ]
-    },
-    {
-      "headline": "Trump fordert von Putin Ende der Aggression in Europa",
-      "text": "US-Präsident Trump hat Kremlchef Putin nach eigenen Angaben gedrängt, alle militärischen Angriffe auf Gebiete in Europa einzustellen. Ein rasches Abkommen zwischen Russland und der Ukraine hält er für gut möglich. Der Kreml wirft Kiew vor, den Krieg geografisch auszuweiten.",
-      "quellen": [
         {
           "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/trump-putin-russia-ukraine-military-aggression-europe-6585761"
+          "url": "https://www.channelnewsasia.com/world/russia-ukraine-zelenskyy-mass-strike-warning-6585961"
+        }
+      ]
+    },
+    {
+      "headline": "Neuseelands Regierung verliert ihre Mehrheit",
+      "text": "Laut Endergebnis der Wahl vom 7. November fehlt der rechten Koalition von Premierminister Luxon ein Sitz zur Mehrheit, seine National Party verlor zwei Mandate. Luxon braucht nun die zentristische Partei Opportunity von Qiulae Wong. Ohne Einigung könnte es eine Neuwahl geben.",
+      "quellen": [
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/2026/1127/1600847-new-zealand-election/"
+        }
+      ]
+    },
+    {
+      "headline": "Angriff auf saudische Raffinerie in Jazan tötet Arbeiter",
+      "text": "Ein Geschoss traf die Aramco-Raffinerie im saudischen Jazan und tötete laut Energieministerium einen Arbeiter aus Nepal, mehrere Menschen wurden verletzt. Die saudisch geführte Koalition macht die Huthi verantwortlich und meldet die Zerstörung einer Abschussrampe in Hodeidah.",
+      "quellen": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations"
         },
         {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/trump-tells-putin-to-pull-back-all-military-aggression-across-europe/"
+          "name": "CNA",
+          "url": "https://www.channelnewsasia.com/world/saudi-led-coalition-says-houthis-attacked-aramcos-jazan-refinery-6585881"
         }
       ]
     }
   ],
   "national": [
     {
-      "headline": "Metaller bekommen 4,3 Prozent mehr Lohn in zwei Stufen",
-      "text": "IG Metall und Arbeitgeber vereinbarten in Mannheim 2,0 Prozent mehr Lohn ab Mai 2027, weitere 2,3 Prozent ab April 2028 und eine Einmalzahlung bis 450 Euro. Befristet sind Lohnverzicht und unbezahlte Mehrarbeit erlaubt. Der Abschluss kann für 3,7 Millionen Beschäftigte gelten.",
+      "headline": "Bundestag stimmt über Rekordhaushalt für 2027 ab",
+      "text": "Der Bundestag will heute den Etat 2027 beschließen, laut Spiegel den teuersten aller Zeiten. Union und SPD dürften zustimmen. Der Kernhaushalt umfasst rund 560,9 Milliarden Euro, die gesamte Neuverschuldung rund 210,4 Milliarden Euro. Linke und Grüne üben scharfe Kritik.",
       "quellen": [
         {
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/deutschland/news-bundestag-stimmt-ueber-umstrittenen-haushalt-2027-ab-black-friday-tech-bros-a-0b1477f8-87c0-41a9-a19e-58a8f241fb36"
+        },
+        {
+          "name": "Vienna.at",
+          "url": "https://www.vienna.at/deutscher-bundeshaushalt-fuer-2027-steht/11104088"
+        }
+      ]
+    },
+    {
+      "headline": "Koalition ringt weiter um die Frührente",
+      "text": "Arbeitsminister Schweitzer will bei der Rentenreform rasch vorankommen, einen Gesetzentwurf vor Weihnachten sagte er nicht zu. CDU-Abgeordnete wollen nach 45 Beitragsjahren nur noch Geringverdienern eine abschlagsfreie Rente gewähren. SPD-Politiker, Linke und DGB lehnen das ab.",
+      "quellen": [
+        {
+          "name": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/arbeitsminister-schweitzer-sieht-koalition-bei-rente-auf-gutem-weg-100.html"
+        },
+        {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html"
+        }
+      ]
+    },
+    {
+      "headline": "Bundesanwaltschaft sieht Anschlagsplan auf Kölner Synagoge",
+      "text": "Die beiden in Köln und Heidelberg festgenommenen Iraker sollen laut Bundesanwaltschaft Ende 2025 mit weiteren Personen eine Terrorvereinigung mit Bezug zur Gruppe HAYI gegründet haben. Ziel war im März laut Ermittlern auch eine Kölner Synagoge, der Anschlag unterblieb.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/festnahme-anschlagsplan-synagoge-koeln-islamismus-100.html"
+        },
+        {
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/terrorverdacht-festnahmen-102.html"
+        }
+      ]
+    },
+    {
+      "headline": "Metaller bekommen 4,3 Prozent mehr Geld in zwei Stufen",
+      "text": "In Mannheim einigte sich die Metallbranche auf 2,0 Prozent mehr ab Mai 2027, 2,3 Prozent ab April 2028 und Einmalzahlungen bis 450 Euro. Einzelne Betriebe dürfen unter strengen Auflagen Löhne senken oder unbezahlte Mehrarbeit verlangen. Betroffen wären 3,7 Millionen Beschäftigte.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/wirtschaft/unternehmen/ig-metall-tarifstreit-einigung-100.html"
         },
         {
           "name": "ORF",
           "url": "https://orf.at/stories/3449381/"
-        }
-      ]
-    },
-    {
-      "headline": "SPD lehnt den Unionsvorschlag zur Frührente ab",
-      "text": "Unionspolitiker schlagen vor, dass nach 45 Beitragsjahren nur Geringverdiener mit bis zu 70 Prozent des Durchschnittseinkommens ganz abschlagsfrei in Rente gehen. Laut SPD-Politikerin Klose träfen dann 90 Prozent der bisher Berechtigten Abschläge. Auch der DGB lehnt das ab.",
-      "quellen": [
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/spd-weist-vorschlag-der-union-zur-rente-mit-63-zurueck-unionsministerpraesidenten-dafuer-100.html"
-        },
-        {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/wirtschaft/die-union-will-den-rentenstreit-mit-der-spd-durch-eine-respekt-rente-loesen-ld.10075431"
-        }
-      ]
-    },
-    {
-      "headline": "Zwei Iraker unter Terrorverdacht festgenommen",
-      "text": "Die Bundesanwaltschaft ließ in Köln und Heidelberg zwei Iraker im Alter von 31 und 34 Jahren festnehmen. Laut Ermittlern planten sie Anschläge für eine mit der Gruppe HAYI verbundene Organisation, die israelische Einrichtungen treffen wollte.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/terrorverdacht-festnahmen-102.html"
-        },
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/zwei-mutmassliche-mitglieder-einer-pro-iranischen-terrorgruppe-in-koeln-und-heidelberg-festgenommen-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Zwei Linken-Abgeordneten droht ein Ordnungsgeld",
-      "text": "Bundestagspräsidentin Klöckner lässt Verfahren gegen die Linken-Abgeordneten Becker und Mazzi wegen Verstoßes gegen die Hausordnung einleiten, laut ZDFheute droht ein Ordnungsgeld von 2.000 Euro. Sie hatten beim Besuch von Ex-Mossad-Chef Barnea einen Sitzungssaal blockiert.",
-      "quellen": [
-        {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/bundestag-barnea-kloeckner-notz-gruene-linke-100.html"
-        },
-        {
-          "name": "Deutschlandfunk",
-          "url": "https://www.deutschlandfunk.de/linken-abgeordneten-drohen-konsequenzen-nach-blockade-aktion-gegen-ex-mossad-chef-barnea-100.html"
         }
       ]
     }
