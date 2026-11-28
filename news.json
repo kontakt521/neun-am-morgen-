@@ -1,10 +1,10 @@
 {
   "datum": "2026-11-28",
-  "stand_uhrzeit": "07:00 Uhr",
+  "stand_uhrzeit": "12:00 Uhr",
   "international": [
     {
-      "headline": "Italien sieht iranische Drohne hinter Angriff in Kuwait",
-      "text": "Die Drohne, die in Kuwait zwei Italiener tötete, stammt laut Außenminister Tajani nach kuwaitischen Ermittlungen aus Iran. Beide waren Techniker von Rheinmetall Italia. Teheran bestreitet, sie von seinem Gebiet gestartet zu haben, und bietet Mitarbeit an einer Untersuchung an.",
+      "headline": "Drohne aus Angriff in Kuwait stammt laut Italien aus Iran",
+      "text": "Laut Italiens Außenminister Tajani bestätigen Ermittlungen in Kuwait, dass die Drohne, die dort zwei italienische Techniker tötete, in Iran gebaut wurde. Teheran bestreitet, sie von seinem Gebiet gestartet zu haben, und bietet Mitarbeit in einer Untersuchungskommission an.",
       "quellen": [
         {
           "name": "Al Jazeera",
@@ -17,22 +17,36 @@
       ]
     },
     {
-      "headline": "Selenskyj kritisiert Trumps Nähe zu Putin",
-      "text": "Im BBC-Interview nannte Selenskyj es seltsam, dass Trump Putin als Freund bezeichnet, und warf den USA vor, Patriot-Lieferungen zu verzögern. Kremlsprecher Peskow sagte, Selenskyj beleidige sein Gegenüber. Friedensgespräche sollen laut Selenskyj im Dezember fortgesetzt werden.",
+      "headline": "Israelischer Angriff tötet zwei MSF-Mitarbeiter in Gaza",
+      "text": "Bei einem israelischen Angriff auf eine Klinik von Ärzte ohne Grenzen in Gaza-Stadt sind zwei Wachmänner der Organisation getötet worden. MSF spricht von einem direkten Treffer, Israels Armee nennt die Männer Hamas-Mitglieder. WHO-Chef Tedros verurteilte den Angriff.",
       "quellen": [
         {
           "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c820q9wgrpyyo"
+          "url": "https://www.bbc.com/news/articles/cm5y10yydln3o"
         },
         {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff"
+        }
+      ]
+    },
+    {
+      "headline": "Russland meldet Abwehr von über 1200 ukrainischen Drohnen",
+      "text": "Russlands Verteidigungsministerium meldet, nachts 1246 ukrainische Drohnen abgefangen zu haben. Laut Moskaus Bürgermeister Sobjanin zielten 460 Drohnen auf das Moskauer Gebiet, Flughäfen beschränkten Flüge. Russische Drohnen töteten laut Behörden in Saporischschja einen Menschen.",
+      "quellen": [
+        {
           "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/zelenskyy-trump-russia-ukraine-putin-us-friend-6588296"
+          "url": "https://www.channelnewsasia.com/world/russia-ukraine-shot-down-drones-overnight-6589261"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-reportedly-launches-massive-attack-on-moscow-oblast-with-460-drones/"
         }
       ]
     },
     {
       "headline": "Spanien wählt am Sonntag ein neues Parlament",
-      "text": "Vor der Wahl am Sonntag hielten Spaniens Parteichefs ihre letzten Kundgebungen ab. Die konservative PP von Feijóo liegt in Umfragen knapp vor den Sozialisten von Regierungschef Sánchez. Feijóo bräuchte zum Regieren die Unterstützung der einwanderungsfeindlichen Vox.",
+      "text": "Zum Wahlkampfende gab sich Spaniens Regierungschef Sánchez sicher, die Umfragen zu widerlegen. Dort liegt die konservative PP von Feijóo knapp vorn. Zum Regieren bräuchte sie die Unterstützung der einwanderungsfeindlichen Vox. Fast 39 Millionen Menschen dürfen wählen.",
       "quellen": [
         {
           "name": "BBC",
@@ -41,26 +55,16 @@
       ]
     },
     {
-      "headline": "US-Militär legt Frachter nach Auslaufen aus Iran lahm",
-      "text": "Das US-Militär hat im Golf von Oman nach eigenen Angaben den Frachter Pacific Archer beschossen, der aus Bandar Abbas in Iran kam. Der Antrieb fiel aus, die Besatzung blieb unverletzt. Irans Marinechef Irani kündigte im Staatsfernsehen an, die Seeblockade der USA zu durchbrechen.",
+      "headline": "Explosion neben Schule in Afghanistan tötet Schüler",
+      "text": "Bei einer Explosion nahe einer Schule in der ostafghanischen Provinz Kunar sind laut dem Innenministerium der Taliban mindestens sieben Schüler getötet und 99 verletzt worden. Ursache war demnach nach ersten Ermittlungen Fahrlässigkeit in einem Sprengstofflager von Bergbaufirmen.",
       "quellen": [
         {
-          "name": "Reuters",
-          "url": "https://www.channelnewsasia.com/world/us-disable-ship-iran-blockade-hormuz-6588546"
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/ckp80jyz6dl8o"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade"
-        }
-      ]
-    },
-    {
-      "headline": "Neuseelands Regierungslager verliert knapp die Mehrheit",
-      "text": "Laut amtlichem Endergebnis der Wahl kommen Neuseelands Regierungsparteien auf 65 von 130 Sitzen, einen weniger als für die Mehrheit nötig. Premier Luxon ist nun auf die Partei Opportunity mit sieben Abgeordneten angewiesen. Ohne jede Einigung wäre eine Neuwahl möglich.",
-      "quellen": [
-        {
-          "name": "RNZ",
-          "url": "https://www.rnz.co.nz/news/political/2820329/election-2026-final-results-coalition-loses-majority-another-election-possible"
+          "url": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region"
         }
       ]
     }
@@ -68,7 +72,7 @@
   "national": [
     {
       "headline": "Union bremst bei Schweitzers Rentenplänen",
-      "text": "Minister Schweitzers Rentenentwurf stößt in der Union auf Widerstand, vor allem wegen des weitgehenden Erhalts der Rente mit 63. Fraktionschef Frei wirft dem SPD-Minister vor, an Maximalforderungen festzuhalten. CSU-Landesgruppenchef Hoffmann bezweifelt eine rasche Einigung.",
+      "text": "Arbeitsminister Schweitzer will die Rente mit 63 bewahren, aber den Zugang erschweren. Laut ihm verlören etwa 27 Prozent der bisher Berechtigten den Anspruch. Unionsfraktionschef Frei wirft ihm Festhalten an Maximalforderungen vor, CSU-Mann Hoffmann zweifelt an rascher Einigung.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -81,36 +85,36 @@
       ]
     },
     {
-      "headline": "Bundestag verabschiedet Rekordetat für 2027",
-      "text": "Mit 317 zu 260 Stimmen hat der Bundestag den Etat 2027 gebilligt. Geplant sind Rekordausgaben von etwa 556 Milliarden Euro. Samt Sondervermögen nimmt der Bund Kredite von über 210 Milliarden Euro auf. Finanzminister Klingbeil erwartet für 2028 einen noch schwierigeren Haushalt.",
+      "headline": "BSW ringt auf Parteitag um Kurs gegenüber der AfD",
+      "text": "Beim Parteitag in Dresden berät das BSW über sein Verhältnis zur AfD, mit der es in Sachsen-Anhalt mehrfach kooperierte. Mitgründer Klaus Ernst droht mit Austritt, falls die Partei sich nicht klar abgrenzt. Gründerin Wagenknecht will Spielraum für Absprachen mit der AfD lassen.",
       "quellen": [
         {
-          "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html"
+          "name": "Spiegel",
+          "url": "https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt-a-934e247e-3023-4da5-b420-f7c0d460efdc"
         },
         {
-          "name": "Bundesregierung",
-          "url": "https://www.bundesregierung.de/breg-de/aktuelles/bundeshaushalt-2027-2446026"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bsw-parteitag-afd-sachsen-anhalt-100.html"
         }
       ]
     },
     {
-      "headline": "Ex-BND-Präsident Hanning muss in Haft bleiben",
-      "text": "Der Bundesgerichtshof hat die Haftbeschwerde des 80-jährigen August Hanning verworfen. Der frühere BND-Präsident soll von seinem Ex-Büroleiter geheime BND-Erkenntnisse gekauft haben. Vorgeworfen wird ihm unter anderem versuchter Landesverrat. Hanning bestreitet die Vorwürfe.",
+      "headline": "Bundestag beschließt Rekordhaushalt für 2027",
+      "text": "Der Bundestag hat den Etat 2027 gebilligt, der Ausgaben von etwa 556 Milliarden Euro vorsieht. Samt Sondervermögen leiht sich der Bund über 210 Milliarden Euro. Zwei CDU-Abgeordnete stimmten dagegen. Für Verteidigung sind knapp 140 Milliarden Euro eingeplant.",
       "quellen": [
         {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/bnd-hanning-untersuchungshaft-spionageverdacht-100.html"
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/politik/haushalt-fuer-2027-beschlossen-mit-11-stimmen-weniger-als-die-regierungskoalition-abgeordnete-hat-ld.10076280"
         },
         {
-          "name": "blue News",
-          "url": "https://www.bluewin.ch/en/news/former-german-intelligence-chief-remains-in-custody-on-suspicion-of-espionage-li.3627496"
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html"
         }
       ]
     },
     {
       "headline": "Regierung bereitet Spritpreisdeckel ab Januar vor",
-      "text": "Das Wirtschaftsministerium hat den Entwurf für den Spritpreisdeckel in die Ressortabstimmung gegeben. Er soll ab Januar den Tankrabatt ablösen und vorerst bis Ende März gelten. Werktags soll das Kartellamt einen Höchstpreis berechnen. Das Kabinett könnte am Mittwoch entscheiden.",
+      "text": "Das Wirtschaftsministerium hat den Entwurf für den Spritpreisdeckel in die Abstimmung gegeben. Er soll ab Januar dem Tankrabatt folgen und vorerst bis Ende März gelten. Den Höchstpreis soll werktags eine Stelle beim Kartellamt ermitteln. Am Mittwoch soll das Kabinett entscheiden.",
       "quellen": [
         {
           "name": "tagesschau",
