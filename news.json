@@ -1,14 +1,14 @@
 {
   "datum": "2026-11-28",
-  "stand_uhrzeit": "12:00 Uhr",
+  "stand_uhrzeit": "18:00 Uhr",
   "international": [
     {
-      "headline": "Drohne aus Angriff in Kuwait stammt laut Italien aus Iran",
-      "text": "Laut Italiens Außenminister Tajani bestätigen Ermittlungen in Kuwait, dass die Drohne, die dort zwei italienische Techniker tötete, in Iran gebaut wurde. Teheran bestreitet, sie von seinem Gebiet gestartet zu haben, und bietet Mitarbeit in einer Untersuchungskommission an.",
+      "headline": "Iran weist Schuld am Tod zweier Italiener in Kuwait zurück",
+      "text": "Nach dem Tod zweier italienischer Techniker bei einem Drohnenangriff in Kuwait bestreitet Iran jede Beteiligung und spricht von einer Aktion unter falscher Flagge. Italien und Kuwait machen Iran verantwortlich. EU-Kommissionschefin von der Leyen fordert mehr Druck auf Teheran.",
       "quellen": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran"
+          "url": "https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike"
         },
         {
           "name": "Reuters",
@@ -17,8 +17,46 @@
       ]
     },
     {
+      "headline": "Spanien wählt am Sonntag, PP in Umfragen knapp vorn",
+      "text": "Vor der Wahl am Sonntag haben Regierungschef Sánchez und Herausforderer Feijóo ihre letzten Kundgebungen abgehalten. Die konservative PP liegt in Umfragen knapp vorn und wäre zum Regieren auf die einwanderungsfeindliche Vox angewiesen. Fast 39 Millionen Menschen dürfen wählen.",
+      "quellen": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c8wy5p4gdnwvo"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record"
+        }
+      ]
+    },
+    {
+      "headline": "Russland meldet über 1200 abgewehrte Drohnen, Angriff auf Kiew",
+      "text": "Russland hat nach eigenen Angaben nachts 1246 ukrainische Drohnen abgefangen, laut Bürgermeister Sobjanin flogen über 460 Richtung Moskau. Tagsüber griffen russische Drohnen Kiew an. Laut Bürgermeister Klitschko starb eine Frau, kritische Infrastruktur wurde getroffen.",
+      "quellen": [
+        {
+          "name": "Reuters",
+          "url": "https://www.channelnewsasia.com/world/russia-ukraine-shot-down-drones-overnight-6589261"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-drones-target-critical-infrastructure-in-kyiv-residential-building-in-kharkiv/"
+        }
+      ]
+    },
+    {
+      "headline": "Saudi-Arabien und Huthi greifen gegenseitig Hauptstädte an",
+      "text": "Saudi-Arabien hat nach eigenen Angaben einen Huthi-Marschflugkörper auf Riad abgefangen. Zuvor meldete die Huthi-Agentur Saba einen saudischen Angriff auf ein Wohnviertel in Sanaa, laut Huthi-Gesundheitsministerium mit mindestens 15 Verletzten.",
+      "quellen": [
+        {
+          "name": "Reuters",
+          "url": "https://www.channelnewsasia.com/world/saudi-arabia-houthis-strikes-riyadh-6589336"
+        }
+      ]
+    },
+    {
       "headline": "Israelischer Angriff tötet zwei MSF-Mitarbeiter in Gaza",
-      "text": "Bei einem israelischen Angriff auf eine Klinik von Ärzte ohne Grenzen in Gaza-Stadt sind zwei Wachmänner der Organisation getötet worden. MSF spricht von einem direkten Treffer, Israels Armee nennt die Männer Hamas-Mitglieder. WHO-Chef Tedros verurteilte den Angriff.",
+      "text": "Ein israelischer Angriff auf eine Klinik von Ärzte ohne Grenzen in Gaza-Stadt hat zwei Wachmänner getötet. Laut MSF sind damit 17 ihrer Mitarbeiter in Gaza getötet worden. Israels Armee nennt die Männer Hamas-Mitglieder, WHO-Chef Tedros verurteilte den Angriff.",
       "quellen": [
         {
           "name": "BBC",
@@ -29,50 +67,26 @@
           "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff"
         }
       ]
-    },
-    {
-      "headline": "Russland meldet Abwehr von über 1200 ukrainischen Drohnen",
-      "text": "Russlands Verteidigungsministerium meldet, nachts 1246 ukrainische Drohnen abgefangen zu haben. Laut Moskaus Bürgermeister Sobjanin zielten 460 Drohnen auf das Moskauer Gebiet, Flughäfen beschränkten Flüge. Russische Drohnen töteten laut Behörden in Saporischschja einen Menschen.",
-      "quellen": [
-        {
-          "name": "CNA",
-          "url": "https://www.channelnewsasia.com/world/russia-ukraine-shot-down-drones-overnight-6589261"
-        },
-        {
-          "name": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukraine-reportedly-launches-massive-attack-on-moscow-oblast-with-460-drones/"
-        }
-      ]
-    },
-    {
-      "headline": "Spanien wählt am Sonntag ein neues Parlament",
-      "text": "Zum Wahlkampfende gab sich Spaniens Regierungschef Sánchez sicher, die Umfragen zu widerlegen. Dort liegt die konservative PP von Feijóo knapp vorn. Zum Regieren bräuchte sie die Unterstützung der einwanderungsfeindlichen Vox. Fast 39 Millionen Menschen dürfen wählen.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/c8wy5p4gdnwvo"
-        }
-      ]
-    },
-    {
-      "headline": "Explosion neben Schule in Afghanistan tötet Schüler",
-      "text": "Bei einer Explosion nahe einer Schule in der ostafghanischen Provinz Kunar sind laut dem Innenministerium der Taliban mindestens sieben Schüler getötet und 99 verletzt worden. Ursache war demnach nach ersten Ermittlungen Fahrlässigkeit in einem Sprengstofflager von Bergbaufirmen.",
-      "quellen": [
-        {
-          "name": "BBC",
-          "url": "https://www.bbc.com/news/articles/ckp80jyz6dl8o"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region"
-        }
-      ]
     }
   ],
   "national": [
     {
-      "headline": "Union bremst bei Schweitzers Rentenplänen",
-      "text": "Arbeitsminister Schweitzer will die Rente mit 63 bewahren, aber den Zugang erschweren. Laut ihm verlören etwa 27 Prozent der bisher Berechtigten den Anspruch. Unionsfraktionschef Frei wirft ihm Festhalten an Maximalforderungen vor, CSU-Mann Hoffmann zweifelt an rascher Einigung.",
+      "headline": "BSW-Parteitag gegen klarere Distanz zur AfD",
+      "text": "Der BSW-Parteitag in Dresden lehnte mehrheitlich einen Antrag von Gründungsmitgliedern auf mehr Distanz zur AfD ab. Danach traten 30 Mitglieder aus, darunter Mitgründer Klaus Ernst. Wagenknecht und Parteichef De Masi hatten für eine Kooperation in Sachfragen geworben.",
+      "quellen": [
+        {
+          "name": "ZDFheute",
+          "url": "https://www.zdfheute.de/politik/bsw-afd-sachsen-anhalt-100.html"
+        },
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/deutschland/bsw-parteitag-spricht-sich-gegen-staerkere-abgrenzung-von-der-afd-aus-ld.10077209"
+        }
+      ]
+    },
+    {
+      "headline": "Union kritisiert Rentenpläne, Mehrheit zweifelt an Einigung",
+      "text": "Arbeitsminister Schweitzer will die Rente mit 63 bewahren, den Zugang aber erschweren. Unionsfraktionschef Frei wirft ihm Festhalten an Maximalforderungen vor. Laut ZDF-Politbarometer erwarten nur 35 Prozent bald eine Einigung, 69 Prozent lehnen ein Ende der Rente mit 63 ab.",
       "quellen": [
         {
           "name": "tagesschau",
@@ -80,45 +94,35 @@
         },
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/alexander-schweitzer-rente-reform-vorschlag-spd-cdu-kritik-koalition-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/politbarometer-rentenreform-einigung-zweifel-100.html"
         }
       ]
     },
     {
-      "headline": "BSW ringt auf Parteitag um Kurs gegenüber der AfD",
-      "text": "Beim Parteitag in Dresden berät das BSW über sein Verhältnis zur AfD, mit der es in Sachsen-Anhalt mehrfach kooperierte. Mitgründer Klaus Ernst droht mit Austritt, falls die Partei sich nicht klar abgrenzt. Gründerin Wagenknecht will Spielraum für Absprachen mit der AfD lassen.",
+      "headline": "Jusos fordern Frau ohne Regierungsamt an der SPD-Spitze",
+      "text": "Die Jusos haben bei ihrem Kongress in Bochum beschlossen, dass künftig eine Frau ohne Regierungsamt im Bund die SPD führen soll. Das zielt auch auf Parteichef Klingbeil, der zugleich Finanzminister ist. Die SPD wählt Mitte Januar neu, bislang kandidiert nur Hubertus Heil.",
       "quellen": [
         {
           "name": "Spiegel",
-          "url": "https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt-a-934e247e-3023-4da5-b420-f7c0d460efdc"
+          "url": "https://www.spiegel.de/politik/neuwahl-der-spd-fuehrung-jusos-wollen-eine-frau-an-der-spd-parteispitze-a-9d29f033-6cef-4c60-95fb-d0581908b561"
         },
         {
           "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bsw-parteitag-afd-sachsen-anhalt-100.html"
+          "url": "https://www.tagesschau.de/inland/innenpolitik/spd-jusos-tuermer-klingbeil-bundeskongress-100.html"
         }
       ]
     },
     {
-      "headline": "Bundestag beschließt Rekordhaushalt für 2027",
-      "text": "Der Bundestag hat den Etat 2027 gebilligt, der Ausgaben von etwa 556 Milliarden Euro vorsieht. Samt Sondervermögen leiht sich der Bund über 210 Milliarden Euro. Zwei CDU-Abgeordnete stimmten dagegen. Für Verteidigung sind knapp 140 Milliarden Euro eingeplant.",
+      "headline": "Zentralrat der Juden weist Weidels Vorwürfe zurück",
+      "text": "AfD-Chefin Weidel hat dem Zentralrat der Juden vorgeworfen, von der CDU gesteuert zu sein. Präsident Schuster wies das scharf zurück. Eine AfD-Regierungsbeteiligung im Bund sei kaum mit jüdischem Leben vereinbar und ein möglicher Grund zur Auswanderung, sagte er.",
       "quellen": [
         {
-          "name": "NZZ",
-          "url": "https://www.nzz.ch/deutschland/politik/haushalt-fuer-2027-beschlossen-mit-11-stimmen-weniger-als-die-regierungskoalition-abgeordnete-hat-ld.10076280"
+          "name": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/zentralrat-der-juden-kritik-afd-100.html"
         },
         {
           "name": "ZDFheute",
-          "url": "https://www.zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html"
-        }
-      ]
-    },
-    {
-      "headline": "Regierung bereitet Spritpreisdeckel ab Januar vor",
-      "text": "Das Wirtschaftsministerium hat den Entwurf für den Spritpreisdeckel in die Abstimmung gegeben. Er soll ab Januar dem Tankrabatt folgen und vorerst bis Ende März gelten. Den Höchstpreis soll werktags eine Stelle beim Kartellamt ermitteln. Am Mittwoch soll das Kabinett entscheiden.",
-      "quellen": [
-        {
-          "name": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html"
+          "url": "https://www.zdfheute.de/politik/deutschland/afd-bundesregierung-auswanderung-schuster-100.html"
         }
       ]
     }
